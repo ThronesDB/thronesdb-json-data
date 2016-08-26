@@ -324,6 +324,21 @@
         "type_code": "character"
     },
     {
+        "code": "05026",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "baratheon",
+        "is_loyal": false,
+        "is_unique": false,
+        "name": "Disputed Claim",
+        "pack_code": "LoCR",
+        "position": 26,
+        "quantity": 3,
+        "text": "<i>Bastard</i>, <i>Lord</i>, or <i>Lady</i> character only.\nWhile you have more power on your faction card than each opponent, attached character gets +2 STR and gains renown.",
+        "traits": "Condition.",
+        "type_code": "attachment"
+    },
+    {
         "code": "05027",
         "cost": 6,
         "deck_limit": 3,
@@ -518,6 +533,25 @@
     },
     {
         "claim": 1,
+        "code": "05046",
+        "deck_limit": 2,
+        "faction_code": "lannister",
+        "illustrator": "Tomasz Jedruszek",
+        "income": 4,
+        "initiative": 4,
+        "is_loyal": true,
+        "is_unique": false,
+        "name": "Lions of the Rock",
+        "pack_code": "LoCR",
+        "position": 46,
+        "quantity": 3,
+        "reserve": 6,
+        "text": "<b>Reaction:</b> After the challenges phase begins, gain 3 gold.",
+        "traits": "Kingdom.",
+        "type_code": "plot"
+    },
+    {
+        "claim": 1,
         "code": "05049",
         "deck_limit": 2,
         "faction_code": "neutral",
@@ -533,6 +567,24 @@
         "reserve": 6,
         "text": "Reduce the cost of each event you play by 2.",
         "traits": "Kingdom. Scheme.",
+        "type_code": "plot"
+    },
+    {
+        "claim": 1,
+        "code": "05052",
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "income": 3,
+        "initiative": 1,
+        "is_loyal": false,
+        "is_unique": false,
+        "name": "Unexpected Delay",
+        "pack_code": "LoCR",
+        "position": 52,
+        "quantity": 3,
+        "reserve": 6,
+        "text": "<b>Forced Reaction:</b> After the challenges phase begins, each player chooses a character without attachments or power. Return each of those characters to its owner's hand.",
+        "traits": "House Frey.",
         "type_code": "plot"
     }
 ]
