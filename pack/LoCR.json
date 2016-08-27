@@ -572,6 +572,25 @@
     },
     {
         "claim": 1,
+        "code": "05047",
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "illustrator": "Joshua Cairós",
+        "income": 3,
+        "initiative": 1,
+        "is_loyal": false,
+        "is_unique": false,
+        "name": "Unexpected Delay",
+        "pack_code": "LoCR",
+        "position": 47,
+        "quantity": 3,
+        "reserve": 6,
+        "text": "<b>Forced Reaction:</b> After the challenges phase begins, each player chooses a character without attachments or power. Return each of those characters to its owner's hand.",
+        "traits": "House Frey.",
+        "type_code": "plot"
+    },
+    {
+        "claim": 1,
         "code": "05049",
         "deck_limit": 2,
         "faction_code": "neutral",
@@ -587,24 +606,6 @@
         "reserve": 6,
         "text": "Reduce the cost of each event you play by 2.",
         "traits": "Kingdom. Scheme.",
-        "type_code": "plot"
-    },
-    {
-        "claim": 1,
-        "code": "05052",
-        "deck_limit": 2,
-        "faction_code": "neutral",
-        "income": 3,
-        "initiative": 1,
-        "is_loyal": false,
-        "is_unique": false,
-        "name": "Unexpected Delay",
-        "pack_code": "LoCR",
-        "position": 52,
-        "quantity": 3,
-        "reserve": 6,
-        "text": "<b>Forced Reaction:</b> After the challenges phase begins, each player chooses a character without attachments or power. Return each of those characters to its owner's hand.",
-        "traits": "House Frey.",
         "type_code": "plot"
     }
 ]
