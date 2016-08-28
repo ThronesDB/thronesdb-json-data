@@ -348,6 +348,7 @@
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "baratheon",
+        "illustrator": "Lucas Durham",
         "is_loyal": false,
         "is_unique": false,
         "name": "Disputed Claim",
@@ -480,6 +481,26 @@
         "type_code": "character"
     },
     {
+        "code": "05039",
+        "cost": 6,
+        "deck_limit": 3,
+        "faction_code": "neutral",
+        "illustrator": "Joshua Cairós",
+        "is_intrigue": true,
+        "is_loyal": false,
+        "is_military": false,
+        "is_power": true,
+        "is_unique": true,
+        "name": "High Septon",
+        "pack_code": "LoCR",
+        "position": 39,
+        "quantity": 3,
+        "strength": 5,
+        "text": "<b>Interrupt:</b> When an opponent chooses a character you control as the only target of a triggered ability, choose an eligible <i>The Seven</i> character you control to become the target of that triggered ability instead. (Limit once per phase.)",
+        "traits": "The Seven.",
+        "type_code": "character"
+    },
+    {
         "code": "05040",
         "cost": 3,
         "deck_limit": 3,
@@ -535,6 +556,23 @@
         "text": "Limited.\n<b>Marshaling Action:</b> Kneel Ocean Road to reduce the cost of the next neutral or out-of-faction card you marshal this phase by 1.",
         "traits": "Westeros.",
         "type_code": "location"
+    },
+    {
+        "code": "05044",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "neutral",
+        "flavor": "\"So the king has decreed. The small council consents.\" <cite>Grand Maester Pycelle</cite>",
+        "illustrator": "Joshua Cairós",
+        "is_loyal": false,
+        "is_unique": false,
+        "name": "The Council Consents",
+        "pack_code": "LoCR",
+        "position": 44,
+        "quantity": 3,
+        "text": "<b>Reaction:</b> After a player wins an intrigue challenge by 5 or more STR, stand each <i>Small Council</i> character.",
+        "traits": "Small Council.",
+        "type_code": "event"
     },
     {
         "code": "05045",
