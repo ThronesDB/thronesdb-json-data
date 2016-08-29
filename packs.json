@@ -73,6 +73,15 @@
     },
     {
         "cgdb_id": null,
+        "code": "TC",
+        "cycle_code": "war",
+        "date_release": null,
+        "name": "Tyrion's Chain",
+        "position": 6,
+        "size": 20
+    },
+    {
+        "cgdb_id": null,
         "code": "TIMC",
         "cycle_code": "war",
         "date_release": null,
