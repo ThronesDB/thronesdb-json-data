@@ -629,6 +629,25 @@
     },
     {
         "claim": 1,
+        "code": "05048",
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "illustrator": "Victor Garcia",
+        "income": 5,
+        "initiative": 2,
+        "is_loyal": false,
+        "is_unique": false,
+        "name": "Summoned to Court",
+        "pack_code": "LoCR",
+        "position": 48,
+        "quantity": 3,
+        "reserve": 6,
+        "text": "<b>Forced Interrupt:</b> When the draw phase ends, each player chooses a card in his or her hand, if able. Then, reveal the chosen cards. Each player who revealed a character with the lowest printed cost may put that character into play.",
+        "traits": "Edict. Kingdom.",
+        "type_code": "plot"
+    },
+    {
+        "claim": 1,
         "code": "05049",
         "deck_limit": 2,
         "faction_code": "neutral",
@@ -644,6 +663,25 @@
         "reserve": 6,
         "text": "Reduce the cost of each event you play by 2.",
         "traits": "Kingdom. Scheme.",
+        "type_code": "plot"
+    },
+    {
+        "claim": 1,
+        "code": "05050",
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "illustrator": "David Auden Nash",
+        "income": 3,
+        "initiative": 8,
+        "is_loyal": false,
+        "is_unique": false,
+        "name": "Gossip and Lies",
+        "pack_code": "LoCR",
+        "position": 50,
+        "quantity": 3,
+        "reserve": 5,
+        "text": "Each character you control does not kneel when declared as an attacker in the first [intrigue] challenge you initiate during the challenges phase.",
+        "traits": "Scheme.",
         "type_code": "plot"
     }
 ]
