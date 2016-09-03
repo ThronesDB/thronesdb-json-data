@@ -422,6 +422,8 @@
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "thenightswatch",
+        "flavor": "The slender blond steward they called Sweet Donnel had laid a shaft just off the bull's eye at fifly yards.",
+        "illustrator": "Ryan Valle",
         "is_intrigue": true,
         "is_loyal": false,
         "is_military": false,
@@ -441,6 +443,8 @@
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "thenightswatch",
+        "flavor": "At the Bridge of Skulls he had met the Weeper and three hundred wildlings and won a bloody battle.",
+        "illustrator": "Juan Carlos Barquet",
         "is_loyal": false,
         "is_unique": true,
         "name": "Bridge of Skulls",
@@ -449,7 +453,7 @@
         "quantity": 3,
         "text": "<b>Interrupt:</b> When the challenges phase ends, choose an opponent who did not initiate a military challenge against you this phase. That player discards one card at random from his or her hand.",
         "traits": "The North.",
-        "type_code": "attachment"
+        "type_code": "location"
     },
     {
         "code": "05033",
