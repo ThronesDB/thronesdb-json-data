@@ -65,8 +65,8 @@
         "pack_code": "FFH",
         "position": 44,
         "quantity": 3,
-        "text": "<i>Lord</i> character only.\nAttached character gains the <i>King</i> trait.\n<b>Action:</b> Discard a card from your hand to give attached character +X STR. X is the number of attached character's different icons. (Limit twice per round).",
-        "traits": "Noble. Title.",
+        "text": "<i>Lord</i> or <i>Lady</i> character only.\nAttached character gains the <i>King</i> trait.\n<b>Action:</b> Discard a card from your hand to give attached character +X STR until the end of the phase. X is the number of challenge icons on attached character. (Limit twice per round).",
+        "traits": "Crown. Item.",
         "type_code": "attachment"
     },
     {
@@ -121,8 +121,8 @@
         "position": 47,
         "quantity": 3,
         "strength": 3,
-        "text": "<b>Reaction:</b> After you marshal Asshai Priestess，choose and kneel a character with STR 2 or lower.",
-        "traits": "R'hllor.",
+        "text": "<b>Reaction:</b> After you marshal Asshai Priestess, choose and kneel a character with STR 2 or lower.",
+        "traits": "Ally. R'hllor.",
         "type_code": "character"
     },
     {
@@ -326,7 +326,7 @@
         "faction_code": "neutral",
         "is_loyal": false,
         "is_unique": false,
-        "name": "Disagreement",
+        "name": "Dissension",
         "pack_code": "FFH",
         "position": 59,
         "quantity": 3,
