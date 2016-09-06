@@ -31,7 +31,7 @@
         "pack_code": "FFH",
         "position": 42,
         "quantity": 3,
-        "text": "<b>Reaction:</b> After you marshal a loyal character, gain 1 gold. (Limit twice per phase.)",
+        "text": "<b>Reaction:</b> After you marshal a loyal card, gain 1 gold. (Limit twice per phase.)",
         "traits": "The North.",
         "type_code": "location"
     },
