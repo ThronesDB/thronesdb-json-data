@@ -279,7 +279,7 @@
         "pack_code": "FFH",
         "position": 58,
         "quantity": 3,
-        "text": "<b>Reaction:</b>: After you lose a challenge, choose up to X [martell] characters. Each chosen character gain renown until the end of the phase. X is the number of plot cards in your used pile.",
+        "text": "<b>Reaction:</b>: After you lose a challenge, choose up to X [martell] characters. Until the end of the phase, each of the chosen characters gain renown. X is the number of plot cards in your used pile.",
         "type_code": "event"
     },
     {
