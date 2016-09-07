@@ -47,10 +47,10 @@ Required properties are in **bold**.
 * income - Plots only
 * initiative - Plots only
 * is_intrigue - Characters only
-* is_loyal
+* **is_loyal**
 * is_military - Characters only
 * is_power - Characters only
-* is_unique
+* **is_unique**
 * **name**
 * octgn_id
 * **pack_code**
@@ -60,7 +60,7 @@ Required properties are in **bold**.
 * strength - Characters only
 * text
 * traits
-* **type_code**
+* **type_code** - Type of the card. Possible values: `"agenda"`, `"attachment"`, `"character"`, `"event"`, `"location"`, `"plot"`, `"title"`
 
 ## JSON text editing tips
 
@@ -83,15 +83,25 @@ To have text spanning multiple lines, use `\n` to separate them. To have quotes 
 
 These can be used in a card's `text` section.
 
-* `[baratheon]`
-* `[intrigue]`
-* `[greyjoy]`
-* `[lannister]`
-* `[martell]`
-* `[military]`
-* `[thenightswatch]`
-* `[power]`
-* `[stark]`
-* `[targaryen]`
-* `[tyrell]`
-* `[unique]`
+ * `[baratheon]`
+ * `[intrigue]`
+ * `[greyjoy]`
+ * `[lannister]`
+ * `[martell]`
+ * `[military]`
+ * `[thenightswatch]`
+ * `[power]`
+ * `[stark]`
+ * `[targaryen]`
+ * `[tyrell]`
+ * `[unique]`
+
+#### Translations
+
+To merge new changes in default language in all locales, run the CoffeeScript script `update_locales`.
+
+Pre-requisites:
+ * `node` and `npm` installed
+ * `npm -g install coffee-script`
+
+Usage: `coffee update_locales.coffee`

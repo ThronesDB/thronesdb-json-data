@@ -2,8 +2,15 @@
     "additionalProperties": false,
     "properties": {
         "claim": {
-            "minimum": 0,
-            "type": "integer"
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "code": {
             "pattern": "^[0-9]{5}$",
@@ -42,7 +49,7 @@
             "type": "string"
         },
         "illustrator": {
-            "pattern": ".+",
+            "minLength": 0,
             "type": "string"
         },
         "income": {
@@ -73,9 +80,16 @@
             "type": "string"
         },
         "octgn_id": {
-            "maxLength": 36,
-            "minLength": 36,
-            "type": "string"
+            "oneOf": [
+                {
+                    "maxLength": 36,
+                    "minLength": 36,
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "pack_code": {
             "maxLength": 5,
@@ -121,12 +135,13 @@
     "required": [
         "code",
         "deck_limit",
-        "faction_code",
+        "is_loyal",
         "is_unique",
         "name",
-        "pack_code",
         "position",
         "quantity",
+        "faction_code",
+        "pack_code",
         "type_code"
     ],
     "type": "object"

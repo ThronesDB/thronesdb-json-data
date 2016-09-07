@@ -1,9 +1,27 @@
 [
     {
+        "code": "draft",
+        "name": "Draft Sets",
+        "position": 0,
+        "size": 1
+    },
+    {
         "code": "core",
         "name": "Core Set",
         "position": 1,
         "size": 1
+    },
+    {
+        "code": "lions",
+        "name": "Lions of Casterly Rock",
+        "position": 5,
+        "size": 1
+    },
+    {
+        "code": "war",
+        "name": "War of Five Kings Cycle",
+        "position": 4,
+        "size": 6
     },
     {
         "code": "westeros",
@@ -16,11 +34,5 @@
         "name": "Wolves of the North",
         "position": 3,
         "size": 1
-    },
-    {
-        "code": "war",
-        "name": "War of Five Kings Cycle",
-        "position": 4,
-        "size": 6
     }
 ]
