@@ -7,6 +7,13 @@
         "traits": "House Reed."
     },
     {
+        "code": "04062",
+        "flavor": "What should he fear? He was the Young Wolf, King of the Trident and the North.",
+        "name": "The Wolf King",
+        "text": "[stark] character only.\nAttached character gains the <i>King</i> trait and does not kneel when declared as an attacker in a [military] challenge.",
+        "traits": "Title."
+    },
+    {
         "code": "04066",
         "name": "The Haunted Forest",
         "text": "While The Haunted Forest is standing, it contributes 1 STR to your side during any challenge in which you are the defending player.\n<b>Forced Reaction:</b> After you lose a challenge, kneel The Haunted Forest.",
@@ -24,6 +31,13 @@
         "flavor": "Shaving him was the cruelest thing Tyrion could have done...",
         "name": "Without His Beard",
         "text": "<b>Reaction:</b> After you win an [intrigue] challenge, discard up to 3 cards at random from the losing opponent's hand. Then, that player draws 2 cards."
+    },
+    {
+        "code": "04071",
+        "flavor": "\"Listen! Listen to the waves! Listen to the god!\"",
+        "name": "Aeron Damphair",
+        "text": "<b>Reaction:</b> After a character is saved, either: stand it, or kneel it.",
+        "traits": "Drowned God. Ironborn. Lord."
     },
     {
         "code": "04072",
