@@ -661,7 +661,7 @@
         "pack_code": "LoCR",
         "position": 44,
         "quantity": 3,
-        "text": "<b>Reaction:</b> After a player wins an intrigue challenge by 5 or more STR, stand each <i>Small Council</i> character.",
+        "text": "<b>Reaction:</b> After a player wins an [intrigue] challenge by 5 or more STR, stand each <i>Small Council</i> character.",
         "traits": "Small Council.",
         "type_code": "event"
     },
