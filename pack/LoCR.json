@@ -158,7 +158,7 @@
         "position": 9,
         "quantity": 3,
         "strength": 4,
-        "text": "While Shagga Son of Dolf is in your hand, he gains ambush (o) if you control a <i>Clansman</i> character or Tyrion Lannister.\n<b>Forced Reaction:</b> After Shagga Son of Dolf enters play using ambush, choose and kill a [lannister] character you control.",
+        "text": "While Shagga Son of Dolf is in your hand, he gains ambush (0) if you control a <i>Clansman</i> character or Tyrion Lannister.\n<b>Forced Reaction:</b> After Shagga Son of Dolf enters play using ambush, choose and kill a [lannister] character you control.",
         "traits": "Clansman.",
         "type_code": "character"
     },
