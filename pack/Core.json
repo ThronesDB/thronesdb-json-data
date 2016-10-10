@@ -3082,7 +3082,7 @@
         "pack_code": "Core",
         "position": 157,
         "quantity": 1,
-        "text": "Play during a [military] challenge.\n<b>Action:</b> Choose a participating [stark] character. Until the end of the challenge, that character gets +2 STR. If you win the challenge, draw 1 card.",
+        "text": "Play only during a [military] challenge.\n<b>Action:</b> Choose a participating [stark] character. Until the end of the challenge, that character gets +2 STR. If you win the challenge, draw 1 card.",
         "type_code": "event"
     },
     {
