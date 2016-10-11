@@ -158,7 +158,7 @@
         "position": 9,
         "quantity": 3,
         "strength": 4,
-        "text": "While Shagga Son of Dolf is in your hand, he gains ambush (o) if you control a <i>Clansman</i> character or Tyrion Lannister.\n<b>Forced Reaction:</b> After Shagga Son of Dolf enters play using ambush, choose and kill a [lannister] character you control.",
+        "text": "While Shagga Son of Dolf is in your hand, he gains ambush (0) if you control a <i>Clansman</i> character or Tyrion Lannister.\n<b>Forced Reaction:</b> After Shagga Son of Dolf enters play using ambush, choose and kill a [lannister] character you control.",
         "traits": "Clansman.",
         "type_code": "character"
     },
@@ -418,6 +418,22 @@
         "type_code": "character"
     },
     {
+        "code": "05028",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "greyjoy",
+        "illustrator": "Juan Carlos Barquet",
+        "is_loyal": false,
+        "is_unique": true,
+        "name": "Old Wyk",
+        "pack_code": "LoCR",
+        "position": 28,
+        "quantity": 3,
+        "text": "<b>Reaction:</b> After you initiate a [power] challenge, kneel Old Wyk to put the top <i>Drowned God</i> character in your dead pile into play knelt, participating as an attacker. If you win the challenge by 5 or more STR, return that character to your hand. Otherwise, place it on the bottom of your deck.",
+        "traits": "Iron Islands.",
+        "type_code": "location"
+    },
+    {
         "code": "05031",
         "cost": 2,
         "deck_limit": 3,
@@ -645,7 +661,7 @@
         "pack_code": "LoCR",
         "position": 44,
         "quantity": 3,
-        "text": "<b>Reaction:</b> After a player wins an intrigue challenge by 5 or more STR, stand each <i>Small Council</i> character.",
+        "text": "<b>Reaction:</b> After a player wins an [intrigue] challenge by 5 or more STR, stand each <i>Small Council</i> character.",
         "traits": "Small Council.",
         "type_code": "event"
     },
