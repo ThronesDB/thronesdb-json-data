@@ -59,12 +59,6 @@
         "traits": "Ally."
     },
     {
-        "code": "04078",
-        "name": "The God's Eye",
-        "text": "The God's Eye cannot be discarded from play.\n+1 Income.\n+1 Reserve.",
-        "traits": "Westeros."
-    },
-    {
         "code": "04079",
         "name": "King Beyond the Wall",
         "text": "<i>Wildling</i> character only.\nAttached character gains the <i>King</i> trait.\nWhile attached character is attacking a player with a higher power total than you, raise the claim value on your revealed plot card by 1.",
