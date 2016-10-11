@@ -139,6 +139,12 @@
         "traits": "Captain. Ironborn. Lord."
     },
     {
+        "code": "05028",
+        "name": "Old Wyk",
+        "text": "<b>Reaction:</b> After you initiate a [power] challenge, kneel Old Wyk to put the top <i>Drowned God</i> character in your dead pile into play knelt, participating as an attacker. If you win the challenge by 5 or more STR, return that character to your hand. Otherwise, place it on the bottom of your deck.",
+        "traits": "Iron Islands."
+    },
+    {
         "code": "05031",
         "flavor": "The slender blond steward they called Sweet Donnel had laid a shaft just off the bull's eye at fifly yards.",
         "name": "Sweet Donnel Hill",
