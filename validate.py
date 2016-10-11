@@ -275,10 +275,9 @@ def main():
 
     if packs:
         validate_cards(args, packs)
+        validate_locales(args, cycles, packs)
     else:
         verbose_print(args, "Couldn't open packs file correctly, skipping card validation...\n", 0)
-
-    validate_locales(args, cycles, packs)
 
     sys.stdout.write("Found %s formatting and %s validation errors\n" % (formatting_errors, validation_errors))
     if formatting_errors == 0 and validation_errors == 0:

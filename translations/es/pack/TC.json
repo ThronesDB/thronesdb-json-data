@@ -1,0 +1,44 @@
+[
+    {
+        "code": "04105",
+        "name": "Qhorin Halfhand",
+        "text": "Renown. No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you win a [military] challenge in which Qhorin Halfhand is participating, choose and kill a non-unique character with lower STR than his controlled by the losing opponent.\n<b>Card designed by 2009 Melee World Champion, Jonathan Benton.</b>",
+        "traits": "Ranger."
+    },
+    {
+        "code": "04107",
+        "name": "Salladhor Saan",
+        "text": "<b>Reaction:</b> After you win a challenge in which Salladhor Saan is participating, put a <i>Warship</i> location or <i>Weapon</i> attachment into play from your hand.",
+        "traits": "Mercenary. Raider. Smuggler."
+    },
+    {
+        "code": "04108",
+        "name": "The Valyrian",
+        "text": "Ambush (2).\n<b>Action:</b> Kneel The Valyrian to give an attacking character +X STR until the end of the challenge. X is the number of gold in the defending player's gold pool.",
+        "traits": "Warship."
+    },
+    {
+        "code": "04114",
+        "name": "House of the Undying",
+        "text": "<b>Challenges Action:</b> Remove House of the Undying from the game to choose an opponent. Put each character in that player's dead pile into play under your control. At the end of the phase, return each of those cards to its owner's dead pile (cannot be saved).",
+        "traits": "Qarth."
+    },
+    {
+        "code": "04115",
+        "flavor": "\"There have always been men who found it easier to speak vows than to keep them\"",
+        "name": "Ser Arys Oakheart",
+        "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After Ser Arys Oakheart enters play, pay 2 gold to choose an <i>Ally</i> character, and discard it from play.",
+        "traits": "Kingsguard. Knight."
+    },
+    {
+        "code": "04117",
+        "name": "Northern Refugee",
+        "text": "While there is a <i>Winter</i> plot card revealed, reduce the cost to marshal Northern Refugee by 1.",
+        "traits": "Ally. Wildling."
+    },
+    {
+        "code": "04118",
+        "name": "Relentless Assault",
+        "text": "<b>Reaction:</b> After your win a challenge by 5 or more STR as the attacking player, kneel your faction card. Then, you may initiate an additional challenge of that type this phase."
+    }
+]
