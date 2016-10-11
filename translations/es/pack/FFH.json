@@ -1,132 +1,131 @@
 [
     {
         "code": "04041",
-        "flavor": "\"Tell Father I have gone to make him proud.\"",
+        "flavor": "\"Dile a nuestro padre que he partido para que esté orgulloso de mí.\"",
         "name": "Ser Edmure Tully",
-        "text": "<b>Reaction:</b> After a character gains power, move 1 power from that character to a <i>House Tully</i> character. (Limit once per round.)",
-        "traits": "House Tully. Knight."
+        "text": "<b>Reacción:</b> después de que un Personaje gane Poder, traslada 1 de Poder desde ese Personaje hasta un Personaje de la <i>Casa Tully</i>. (Límite de 1 vez por ronda.)",
+        "traits": "Casa Tully. Caballero."
     },
     {
         "code": "04042",
-        "flavor": "\"Bear Island is beautiful, but remote.\" <cite>Ser Jorah Mormont</cite>",
-        "name": "Bear Island",
-        "text": "<b>Reaction:</b> After you marshal a loyal card, gain 1 gold. (Limit twice per phase.)",
-        "traits": "The North."
+        "flavor": "\"La Isla del Oso es muy bella, pero aislada.\" <cite>Ser Jorah Mormont</cite>",
+        "name": "Isla del Oso",
+        "text": "<b>Reacción:</b> después de que reclutes una carta leal, ganas 1 de Oro. (Límite de 2 veces por fase.)",
+        "traits": "El Norte."
     },
     {
         "code": "04043",
-        "flavor": "\"He was the king that should have been. He was the best of them.\" <cite>The Knight of Flowers</cite>",
+        "flavor": "\"Era el rey que debería haberse sentado en el trono. Era el mejor de todos.\" <cite>El Caballero de las Flores</cite>",
         "name": "Renly Baratheon",
-        "text": "Insight. Renown.\nWhile an opponent controls a <i>King</i> character, Renly Baratheon cannot be saved.\n<b>Reaction:</b> After you draw a loyal card using insight, reveal it to draw 1 card.",
-        "traits": "King. Lord."
+        "text": "Perspicacia. Renombre.\nMientras un adversario controle un Personaje <i>Rey</i>, Renly Baratheon no puede salvarse.\n<b>Reacción:</b> después de que robes una carta leal utilizando la Perspicacia, muéstrala para robar 1 carta.",
+        "traits": "Rey. Lord."
     },
     {
         "code": "04044",
-        "name": "Crown of Golden Roses",
-        "text": "<i>Lord</i> character only.\nAttached character gains the <i>King</i> trait.\n<b>Action:</b> Discard 1 card from your hand to give attached character +X STR until the end of the phase. X is the number of challenge icons attached character has. (Limit twice per round.)",
-        "traits": "Crown. Item."
+        "name": "Corona de rosas doradas",
+        "text": "Sólo Personajes <i>Lord</i>.\nEl Personaje vinculado gana el rasgo de <i>Rey</i>.\n<b>Acción:</b> descarta 1 carta de tu mano para proporcionar al Personaje vinculado un +X a su FUE hasta el final de la fase. X es el número de iconos de reto que tenga el Personaje vinculado. (Límite de 2 veces por ronda.)",
+        "traits": "Corona. Objeto."
     },
     {
         "code": "04045",
-        "flavor": "\"Tell Father I have gone to make him proud.\"",
+        "flavor": "\"El lugar del Lord Comandante está en el Castillo Negro, ejerciendo de lord y de comandante.\"",
         "name": "Thoren Smallwood",
-        "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you win a challange as the defending player, gain 1 power for your faction.",
-        "traits": "Ranger."
+        "text": "Sin Accesorios excepto <i>Arma</i>.\n<b>Reacción:</b> después de que ganes un reto como jugador defensor, ganas 1 de Poder para tu facción.",
+        "traits": "Explorador."
     },
     {
         "code": "04046",
-        "flavor": "\"The Lord Commander's place is at Castle Black, lording and commanding.\"",
-        "name": "Night Gathers...",
-        "text": "<b>Marshalling Action:</b> Choose an opponent whose reserve value is lower than yours. Until the end of the phase, you may marshal characters from that player's discard pile as if they were in your hand.",
-        "traits": "Ranger."
+        "flavor": "…ahora empieza mi guardia…",
+        "name": "La noche se avecina...",
+        "text": "<b>Acción de Reclutamiento:</b> elige un adversario cuyo valor de Reserva sea inferior al tuyo. Hasta el final de la fase, puedes reclutar Personajes de la pila de descartes de ese jugador como si estuvieran en tu mano."
     },
     {
         "code": "04047",
-        "flavor": "\"The Lady Melisandre tells us that sometimes R'hllor permits his faithful servants to glimpse the future in flames.\" <cite>Ser Axell Florent</cite>",
-        "name": "Asshai Priestess",
-        "text": "<b>Reaction:</b> After you marshal Asshai Priestess, choose and kneel a character with STR 2 or lower.",
-        "traits": "Ally. R'hllor."
+        "flavor": "\"Lady Melisandre nos dice que, a veces, R'hllor permite que sus servidores más fieles vean el futuro en las llamas.\" <cite>Ser Axell Florent</cite>",
+        "name": "Sacerdotisa de Asshai",
+        "text": "<b>Reacción:</b> después de que reclutes a la Sacerdotisa de Asshai, arrodilla un Personaje de tu elección que tenga una FUE de 2 o menos.",
+        "traits": "Aliado. R'hllor."
     },
     {
         "code": "04048",
-        "flavor": "...and now my watch begins...",
-        "name": "Visited by Shadows",
-        "text": "Opponent's character only.\nAttached character gets -1 STR.",
-        "traits": "Condition."
+        "flavor": "\"Las sombres vienen a bailar, mi señor; bailar, mi señor; bailar, mi señor…\" <cite>Caramanchada</cite>",
+        "name": "Visitado por sombras",
+        "text": "Sólo Personajes de adversarios.\nEl Personaje vinculado recibe un -1 a su FUE.",
+        "traits": "Estado."
     },
     {
         "code": "04049",
-        "flavor": "Through the open visor of his helm, a face pale and piggy peered up.",
+        "flavor": "Lo miró a través del visor abierto del yelmo. Tenía el rostro blanco y porcino.",
         "name": "Ser Amory Lorch",
-        "text": "While an opponent controls 3 or fewer characters, Ser Amory Lorch gains renown.",
-        "traits": "Knight."
+        "text": "Mientras un adversario controle 3 Personajes o menos, Ser Amory Lorch gana Renombre.",
+        "traits": "Caballero."
     },
     {
         "code": "04050",
         "name": "Harrenhal",
-        "text": "<b>Challenges Action:</b> Kneel Harrenhal to put a [lannister] or <i>House Bolton</i> character into play from your hand. At the end of the phase, if that character is still in play, kill it (cannot be saved).",
-        "traits": "Contested. Stronghold."
+        "text": "<b>Acción de Reto:</b> arrodilla Harrenhal para poner en juego desde tu mano un Personaje [lannister] o de la <i>Casa Bolton</i>. Al final de la fase, si ese Personaje sigue en juego, mátalo (no puede salvarse).",
+        "traits": "Disputa. Fortaleza."
     },
     {
         "code": "04051",
-        "flavor": "\"The shadows come to dance, my lord, dance my lord, dance my lord...\" <cite>Patchface</cite>",
-        "name": "Lordsport Fisherman",
-        "text": "<b>Reaction:</b> After you marshal Lordsport Fisherman, add the bottom card of your deck to your hand.",
-        "traits": "Ally. Merchant."
+        "flavor": "Bajo la escasa protección que ofrecía el pequeño castillo de los peces, se extendía el pueblo de Puerto Noble, con un puerto rebosante de barcos.",
+        "name": "Pescadero de Puerto Noble",
+        "text": "<b>Reacción:</b> después de que reclutes al Pescadero de Puerto Nombre, añade a tu mano la última carta de tu mazo.",
+        "traits": "Aliado. Mercader."
     },
     {
         "code": "04052",
-        "name": "King of Salt and Rock",
-        "text": "<i>Ironborn</i> character only.\nAttached character gains the <i>King</i> trait and pillage.\n<b>Reaction:</b> After an attachment or location is discarded using pillage, attached character gains 1 power.",
-        "traits": "Title."
+        "name": "Rey de la Sal y de la Roca",
+        "text": "Sólo Personajes <i>Hijo del Hierro</i>.\nEl Personaje vinculado gana el rasgo <i>Rey</i> y Pillaje.\n<b>Reacción:</b> después de que se descarte un Accesorio o Lugar mediante el Pillaje, el Personaje vinculado gana 1 de Poder.",
+        "traits": "Título."
     },
     {
         "code": "04053",
-        "flavor": "...a bloodrider was more than a guard. They were the khal's brothers, his shadows, his fiercest friends.",
-        "name": "Devoted Bloodrider",
-        "text": "Each <i>Bloodrider</i> character you control gets +1 STR.",
-        "traits": "Bloodrider. Dothraki."
+        "flavor": "…los jinetes de sangre no eran simples guardianes. Eran los hermanos del khal, su sombra, sus amigos más allegados.",
+        "name": "Jinete de sangre fiel",
+        "text": "Cada Personaje <i>Jinete de sangre</i> que controles recibe un +1 a su FUE.",
+        "traits": "Jinete de sangre. Dothraki."
     },
     {
         "code": "04054",
-        "flavor": "\"Jhogo was the first to lay his arakh at her feet.\"",
-        "name": "Blood of My Blood",
-        "text": "<b>Challenges Action:</b> Search your deck for a <i>Bloodrider</i> character and put it into play. Shuffle your deck. At the end of the phase, if that card is still in play, return it to your hand."
+        "flavor": "Jhogo fue el primero en poner el arakh a los pies de Dany.",
+        "name": "Sangre de mi sangre",
+        "text": "<b>Acción de Reto:</b> busca en tu mazo un Personaje <i>Jinete de sangre</i> y ponlo en juego. Baraja tu mazo. Al final de la fase, si esa carta aún esta en juego, devuélvela a tu mano."
     },
     {
         "code": "04055",
-        "name": "Spearmaiden",
-        "text": "<b>Reaction:</b> After Spearmaiden is declared as an attacker in a [military] challenge, choose a character controlled by the defending player. If you win the challenge by 5 or more STR, that character must be chosen for claim during this challenge, if able.",
-        "traits": "Ally."
+        "name": "Lancera",
+        "text": "<b>Reacción:</b> después de que la Lancera sea declarada como atacante en un reto [military], elige un Personaje controlado por el jugador defensor. Si ganas el reto por 5 o más de FUE, ese Personaje debe ser elegido para satisfacer la Conquista de este reto (si puede).",
+        "traits": "Aliado."
     },
     {
         "code": "04056",
-        "name": "The Scorpion's Sting",
-        "text": "<b>Reaction:</b> After you lose a challenge, choose up to X [martell] characters. Each of those characters gains renown until the end of the phase. X is the number of plot cards in your used pile."
+        "name": "La picadura del escorpión",
+        "text": "<b>Reacción:</b> después de que pierdas un reto, elige hasta X Personajes [martell]. Cada uno de esos Personajes gana Renombre hasta el final de la fase. X es el número de cartas de Trama que hay en tu pila de cartas usadas."
     },
     {
         "code": "04057",
-        "flavor": "By midday Hot Pie had begun to complain.",
-        "name": "Hot Pie",
-        "text": "<b>Marshaling Action:</b> Kneel a <i>Companion</i> character to reduce the cost of the next unique character you marshal this phase by 1.",
-        "traits": "Companion."
+        "flavor": "A mediodía, Pastel Caliente comenzó a quejarse.",
+        "name": "Pastel Caliente",
+        "text": "<b>Acción de Reclutamiento:</b> arrodilla un Personaje <i>Acompañante</i> para reducir en 1 el coste del siguiente Personaje único que reclustes en esta fase.",
+        "traits": "Acompañante."
     },
     {
         "code": "04058",
-        "name": "The God's Eye",
-        "text": "The God's Eye cannot be discarded from play.\n+1 Income.\n+1 Reserve.</b>",
-        "traits": "Westeros."
+        "name": "El Ojo de Dioses",
+        "text": "El Ojo de Dioses no puede descartarse del juego.\n+1 Oro.\n+1 Reserva.",
+        "traits": "Poniente."
     },
     {
         "code": "04059",
-        "flavor": "\"I’ve lost half my men. Horse as well. I’m not taking more into that fire.\" <cite>The Hound</cite>",
-        "name": "Dissension",
-        "text": "<b>Marshaling Action:</b> Choose an <i>Ally</i> character, and discard it from play."
+        "flavor": "\"He perdido a la mitad de mis hombres. Lo mismo pasa con los caballos. No pienso volver a salir a ese fuego.\" <cite>El Perro</cite>",
+        "name": "Disensión",
+        "text": "<b>Acción de Reclutamiento:</b> elige un Personaje <i>Aliado</i> y descártalo del juego."
     },
     {
         "code": "04060",
-        "name": "Battle of Oxcross",
-        "text": "Each character with printed cost 4 or higher cannot be declared as a defender during the first challenge you initiate this round.",
-        "traits": "War."
+        "name": "Batall de Cruce de Bueyes",
+        "text": "Ningún Personaje con un coste impreso de 4 o más puede ser declarado como defensor durante el primer reto que inicies en esta ronda.",
+        "traits": "Guerra."
     }
 ]
