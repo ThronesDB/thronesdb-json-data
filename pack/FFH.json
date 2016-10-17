@@ -346,7 +346,7 @@
         "pack_code": "FFH",
         "position": 58,
         "quantity": 3,
-        "text": "The God's Eye cannot be discarded from play.\n+1 Income.\n+1 Reserve.</b>",
+        "text": "The God's Eye cannot be discarded from play.\n+1 Income.\n+1 Reserve.",
         "traits": "Westeros.",
         "type_code": "location"
     },
@@ -355,7 +355,7 @@
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "neutral",
-        "flavor": "\"I’ve lost half my men. Horse as well. I’m not taking more into that fire.\" <cite>The Hound</cite>",
+        "flavor": "\"I've lost half my men. Horse as well. I'm not taking more into that fire.\" <cite>The Hound</cite>",
         "illustrator": "Joshua Cairós",
         "is_loyal": false,
         "is_unique": false,
