@@ -356,7 +356,7 @@
         "pack_code": "LoCR",
         "position": 24,
         "quantity": 3,
-        "text": "Play only if you control a <i>Knight</i> character.\n<b>Challenges Action:</b> Return a character you control to its owner's hand. Then, have a <i>Knight</i> character you control gain ? power.",
+        "text": "Play only if you control a <i>Knight</i> character.\n<b>Challenges Action:</b> Return a character you control to its owner's hand. Then, have a <i>Knight</i> character you control gain 1 power.",
         "type_code": "event"
     },
     {
