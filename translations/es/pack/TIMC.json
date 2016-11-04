@@ -14,6 +14,25 @@
         "traits": "Title."
     },
     {
+        "code": "04063",
+        "name": "King Renly's Host",
+        "text": "Intimidate. No attachments.\nWhile there is a <i>Summer</i> plot card revealed, King Renly's Host gets +4 STR.\nWhile there is a <i>Winter</i> plot card revealed, King Renly's Host cannot be declared as an attacker.",
+        "traits": "Army."
+    },
+    {
+        "code": "04064",
+        "flavor": "Lord Caswell's keep was scarcely tall enough to call a tower, but the country was low and flat and Catelyn could see for leagues in all directions.",
+        "name": "Caswell's Keep",
+        "text": "<b>Reaction:</b> After you reveal a plot card, choose a player. Look at the top 2 cards of that player's deck. Place 1 of those cards on the bottom of that deck, and the other on top.",
+        "traits": "The Reach."
+    },
+    {
+        "code": "04065",
+        "name": "Shadow Tower Mason",
+        "text": "No attachments except <i>Weapon</i>.\nWhile you control 3 or more [thenightswatch] locations and/or attachments, Shadow Tower Mason gains a [military] and an [intrigue] icon.",
+        "traits": "Builder."
+    },
+    {
         "code": "04066",
         "name": "The Haunted Forest",
         "text": "While The Haunted Forest is standing, it contributes 1 STR to your side during any challenge in which you are the defending player.\n<b>Forced Reaction:</b> After you lose a challenge, kneel The Haunted Forest.",
@@ -25,6 +44,20 @@
         "name": "Stannis Baratheon",
         "text": "During [power] challenges, each participating non-<i>King</i> character gets -1 STR.\n<b>Reaction:</b> After you win dominance, choose a non-loyal character. That character cannot stand during the standing phase this round.",
         "traits": "King. Lord."
+    },
+    {
+        "code": "04068",
+        "flavor": "\"Azor Ahai has come again! All hail the Warrior of Light! All hail the Son of Fire!\" <cite>Melisandre</cite>",
+        "name": "Red God's Blessing",
+        "text": "Attached character gains the <i>R'hllor</i> trait and gets +1 STR for each <i>R'hllor</i> character you control.",
+        "traits": "Blessing. R'hllor."
+    },
+    {
+        "code": "04069",
+        "flavor": "Since the hour he had arrived in the Red Keep, Lady Tanda had been stalking him, armed with a never-ending arsenal of lamprey pies, wild boars, and savory cream stews.",
+        "name": "Tanda Stokeworth",
+        "text": "<b>Reaction:</b> After you marshal Tanda Stokeworth, each player gains 3 gold.",
+        "traits": "Lady."
     },
     {
         "code": "04070",
@@ -47,16 +80,41 @@
         "traits": "Iron Islands."
     },
     {
+        "code": "04073",
+        "flavor": "\"Come with me to the House of the Undying, and you shall drink of truth and wisdom.\"",
+        "name": "Pyat Pree",
+        "text": "<b>Reaction:</b> After you win a challenge in which Pyat Pree is participating, search the top X cards of your deck for a [targaryen] attachment or event, reveal it, and add it to your hand. Shuffle your deck. X is the STR by which you won the challenge.",
+        "traits": "Warlock."
+    },
+    {
+        "code": "04074",
+        "flavor": "...in the place they named Vaes Tolorro, the city of bones.",
+        "name": "Vaes Tolorro",
+        "text": "<b>Interrupt:</b> When a character with 1 or more power is killed, kneel Vaes Tolorro to move 1 power from that character to Vaes Tolorro. (Up to 2 power instead if that character's STR is 0.)",
+        "traits": "Essos."
+    },
+    {
         "code": "04075",
         "name": "Elia Sand",
         "text": "<b>Reaction:</b> After you lose a challenge, choose a character. Until the end of the phase, that character gains stealth. (Limit twice per phase.)",
         "traits": "Bastard. Sand Snake."
     },
     {
+        "code": "04076",
+        "name": "Burning on the Sand",
+        "text": "<b>Reaction:</b> After you lose an unopposed challenge, set the claim value on the winning opponent's revealed plot card to 0 until the end of the challenge."
+    },
+    {
         "code": "04077",
         "name": "Jaqen H'ghar",
         "text": "<b>Reaction:</b> After Jaqen H'ghar enters play, place a Valar Morghulis token on up to 3 different unique characters. If Jaqen H'ghar leaves play, discard those tokens from play.\n<b>Reaction:</b> After you win a challenge in which Jaqen H'ghar is attacking alone, choose and kill a character with a Valar Morghulis token.",
         "traits": "Ally."
+    },
+    {
+        "code": "04078",
+        "name": "Isle of Ravens",
+        "text": "<b>Action:</b> Kneel Isle of Ravens to choose a card in any player's discard pile, and shuffle it into its owner's deck.",
+        "traits": "Oldtown."
     },
     {
         "code": "04079",
