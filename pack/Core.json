@@ -3722,7 +3722,7 @@
         "position": 189,
         "quantity": 1,
         "strength": 2,
-        "text": "Ambush (4).\n<b>Reaction:</b> After Olenna's Informant enters play during a challenges phase, name a challenge type. You may initiate an additional challenge of that type this phase.",
+        "text": "Ambush (4).\n<b>Reaction:</b> After Olenna's Informant enters play during the challenges phase, name a challenge type. You may initiate an additional challenge of that type this phase.",
         "traits": "Ally. Spy.",
         "type_code": "character"
     },
