@@ -359,7 +359,7 @@
         "position": 120,
         "quantity": 3,
         "reserve": 5,
-        "text": "<b>When Revealed:</b> Choose an opponent. Remove each duplicate controlled by you or by the chosen opponent from the game.",
+        "text": "<b>When Revealed:</b> Choose an opponent. Remove each duplicate controlled by you and by the chosen opponent from the game.",
         "traits": "Siege. War.",
         "type_code": "plot"
     }
