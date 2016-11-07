@@ -106,7 +106,7 @@
         "pack_code": "TC",
         "position": 106,
         "quantity": 3,
-        "text": "While your reserve is higher than that of any opponent, each <i>Ranger</i> character you control gets +1 STR and cannot be bypassed by stealth.",
+        "text": "While your reserve is higher than that of an opponent, each <i>Ranger</i> character you control gets +1 STR and cannot be bypassed by stealth.",
         "traits": "The North.",
         "type_code": "location"
     },
