@@ -125,7 +125,7 @@
         "illustrator": "Nicholas Gregory",
         "is_intrigue": false,
         "is_loyal": true,
-        "is_military": false,
+        "is_military": true,
         "is_power": true,
         "is_unique": true,
         "name": "Stannis Baratheon",
