@@ -159,7 +159,7 @@
         "position": 109,
         "quantity": 3,
         "strength": 1,
-        "text": "<b>Interrupt:</b> When a character would be killed to satisfy [military] claim, pay 2 gold and put Podrick Payne into play from your hand to save that character. Then, if that Character was Tyrion Lannister, you may pay 2 gold to choose and kill an attacking character.",
+        "text": "<b>Interrupt:</b> When a character would be killed to satisfy [military] claim, pay 2 gold and put Podrick Payne into play from your hand to save that character. Then, if that character was Tyrion Lannister, you may pay 2 gold to choose and kill an attacking character.",
         "traits": "Companion.",
         "type_code": "character"
     },
