@@ -54,10 +54,10 @@
         "size": 20
     },
     {
-        "cgdb_id": null,
+        "cgdb_id": 15,
         "code": "LoCR",
         "cycle_code": "lions",
-        "date_release": null,
+        "date_release": "2016-10-03",
         "name": "Lions of Casterly Rock",
         "position": 1,
         "size": 52
