@@ -1,5 +1,11 @@
 [
     {
+        "code": "bng",
+        "name": "Blood and Gold",
+        "position": 6,
+        "size": 6
+    },
+    {
         "code": "draft",
         "name": "Draft Sets",
         "position": 0,

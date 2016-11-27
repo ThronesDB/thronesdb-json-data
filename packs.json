@@ -1,5 +1,14 @@
 [
     {
+        "cgdb_id": 16,
+        "code": "AMAF",
+        "cycle_code": "bng",
+        "date_release": null,
+        "name": "All Men Are Fools",
+        "position": 1,
+        "size": 20
+    },
+    {
         "cgdb_id": 9,
         "code": "AtSK",
         "cycle_code": "war",
@@ -45,7 +54,7 @@
         "size": 20
     },
     {
-        "cgdb_id": null,
+        "cgdb_id": 13,
         "code": "GoH",
         "cycle_code": "war",
         "date_release": null,
@@ -72,7 +81,7 @@
         "size": 20
     },
     {
-        "cgdb_id": null,
+        "cgdb_id": 14,
         "code": "TC",
         "cycle_code": "war",
         "date_release": null,
@@ -81,7 +90,7 @@
         "size": 20
     },
     {
-        "cgdb_id": null,
+        "cgdb_id": 12,
         "code": "TIMC",
         "cycle_code": "war",
         "date_release": null,
