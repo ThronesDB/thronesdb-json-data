@@ -1,131 +1,131 @@
 [
     {
         "code": "04061",
-        "flavor": "\"With two eyes you see my face. With three you could see my heart.\"",
+        "flavor": "\"Con dos ojos puedes verme la cara. Con tres podrías verme el corazón.\"",
         "name": "Jojen Reed",
-        "text": "Stealth.\n<b>Reaction:</b> After Jojen Reed stands, reveal the top card of each player's deck. You may either: discard each of those cards, or have each player draw 1 card.",
-        "traits": "House Reed."
+        "text": "Sigilo.\n<b>Reacción:</b> después de que Jojen Reed se ponga en pie, muestra la primera carta del mazo de cada jugador. Puedes elegir entre descartar cada una de esas cartas, o bien que cada jugador robe 1 carta.",
+        "traits": "Casa Reed."
     },
     {
         "code": "04062",
-        "flavor": "What should he fear? He was the Young Wolf, King of the Trident and the North.",
-        "name": "The Wolf King",
-        "text": "[stark] character only.\nAttached character gains the <i>King</i> trait and does not kneel when declared as an attacker in a [military] challenge.",
-        "traits": "Title."
+        "flavor": "¿Por qué iba a tener miedo él? Era el Joven Lobo, el Rey del Tridente y del Norte.",
+        "name": "El Rey Lobo",
+        "text": "Sólo Personajes [stark].\nEl Personaje vinculado gana el rasgo <i>Rey</i> y no se arrodilla cuando es declarado como atacante en un reto [military].",
+        "traits": "Título."
     },
     {
         "code": "04063",
-        "name": "King Renly's Host",
-        "text": "Intimidate. No attachments.\nWhile there is a <i>Summer</i> plot card revealed, King Renly's Host gets +4 STR.\nWhile there is a <i>Winter</i> plot card revealed, King Renly's Host cannot be declared as an attacker.",
-        "traits": "Army."
+        "name": "La hueste del rey Renly",
+        "text": "Intimidación. Sin Accesorios.\nMientras haya mostrada una carta de Trama de <i>Verano</i>, La hueste del rey Renly recibe un +4 a su FUE.\nMientras haya mostrada una carta de Trama de <i>Invierno</i>, La hueste del rey Renly no puede ser declarada como atacante.",
+        "traits": "Ejército."
     },
     {
         "code": "04064",
-        "flavor": "Lord Caswell's keep was scarcely tall enough to call a tower, but the country was low and flat and Catelyn could see for leagues in all directions.",
-        "name": "Caswell's Keep",
-        "text": "<b>Reaction:</b> After you reveal a plot card, choose a player. Look at the top 2 cards of that player's deck. Place 1 of those cards on the bottom of that deck, and the other on top.",
-        "traits": "The Reach."
+        "flavor": "El torreón central del castillo de lord Caswell era tan bajo que casi ni merecía semejante nombre, pero los alrededores eran llanos, y Catelyn vio el paisaje en leguas a la redonda.",
+        "name": "Castillo de Casweel",
+        "text": "<b>Reacción:</b> después de que muestres una carta de Trama, elige un jugador. Mira las 2 primeras cartas del mazo de ese jugador. Coloca 1 de esas cartas en la parte inferior de ese mazo y la otra en la parte superior.",
+        "traits": "El Dominio."
     },
     {
         "code": "04065",
-        "name": "Shadow Tower Mason",
-        "text": "No attachments except <i>Weapon</i>.\nWhile you control 3 or more [thenightswatch] locations and/or attachments, Shadow Tower Mason gains a [military] and an [intrigue] icon.",
-        "traits": "Builder."
+        "name": "Albañil de la Torre Sombría",
+        "text": "Sin Accesorios excepto <i>Arma</i>.\nMientras controles 3 o más Lugares y/o Accesorios [thenightswatch], el Albañil de la Torre Sombría gana un icono [military] y un icono [intrigue].",
+        "traits": "Constructor."
     },
     {
         "code": "04066",
-        "name": "The Haunted Forest",
-        "text": "While The Haunted Forest is standing, it contributes 1 STR to your side during any challenge in which you are the defending player.\n<b>Forced Reaction:</b> After you lose a challenge, kneel The Haunted Forest.",
-        "traits": "The North."
+        "name": "El Bosque Encantado",
+        "text": "Mientras El Bosque Encantado esté en pie, aporta 1 de FUE a tu bando durante cualquier reto en el que seas el jugador defensor.\n<b>Reacción obligada:</b> después de que pierdas un reto, arrodilla El Bosque Encantado.",
+        "traits": "El Norte."
     },
     {
         "code": "04067",
-        "flavor": "\"Kings have no friends.\"",
+        "flavor": "\"Los reyes no tienen amigos.\"",
         "name": "Stannis Baratheon",
-        "text": "During [power] challenges, each participating non-<i>King</i> character gets -1 STR.\n<b>Reaction:</b> After you win dominance, choose a non-loyal character. That character cannot stand during the standing phase this round.",
-        "traits": "King. Lord."
+        "text": "Durante retos [power], cada Personaje participante que no sea <i>Rey</i> recibe un -1 a su FUE.\n<b>Reacción:</b> después de que ganes la Dominación, elige un Personaje que no sea leal. Ese Personaje no puede ponerse en pie durante la fase de Puesta en pie de esta ronda.",
+        "traits": "Rey. Lord."
     },
     {
         "code": "04068",
-        "flavor": "\"Azor Ahai has come again! All hail the Warrior of Light! All hail the Son of Fire!\" <cite>Melisandre</cite>",
-        "name": "Red God's Blessing",
-        "text": "Attached character gains the <i>R'hllor</i> trait and gets +1 STR for each <i>R'hllor</i> character you control.",
-        "traits": "Blessing. R'hllor."
+        "flavor": "\"¡Azor Ahai ha retornado a nosotros! ¡Salve, Guerrero de la Luz! ¡Salve, Hijo del Fuego!\" <cite>Melisandre</cite>",
+        "name": "Bendición del Dios Rojo",
+        "text": "El Personaje vinculado gana el rasgo <i>R'hllor</i> y recibe un +1 a su FUE por cada personaje <i>R'hllor</i> que controles.",
+        "traits": "Bendición. R'hllor."
     },
     {
         "code": "04069",
-        "flavor": "Since the hour he had arrived in the Red Keep, Lady Tanda had been stalking him, armed with a never-ending arsenal of lamprey pies, wild boars, and savory cream stews.",
+        "flavor": "Desde el momento en que había puesto los pies en la Fortaleza Roja, lady Tanda se había dedicado a perseguirlo, armada con un inagotable arsenal de empanadas de lamprea, jabalíes y sabrosos guisos.",
         "name": "Tanda Stokeworth",
-        "text": "<b>Reaction:</b> After you marshal Tanda Stokeworth, each player gains 3 gold.",
+        "text": "<b>Reacción:</b> después de que reclutes a Tanda Stokeworth, cada jugador gana 3 de Oro.",
         "traits": "Lady."
     },
     {
         "code": "04070",
-        "flavor": "Shaving him was the cruelest thing Tyrion could have done...",
-        "name": "Without His Beard",
-        "text": "<b>Reaction:</b> After you win an [intrigue] challenge, discard up to 3 cards at random from the losing opponent's hand. Then, that player draws 2 cards."
+        "flavor": "Afeitarlo fue lo más cruel que lo pudo hacer Tyrion…",
+        "name": "Sin su barba",
+        "text": "<b>Reacción:</b> después de que ganes un reto [intrigue], descarta hasta 3 cartas al azar de la mano del adversario derrotado. Luego ese jugador roba 2 cartas."
     },
     {
         "code": "04071",
-        "flavor": "\"Listen! Listen to the waves! Listen to the god!\"",
-        "name": "Aeron Damphair",
-        "text": "<b>Reaction:</b> After a character is saved, either: stand it, or kneel it.",
-        "traits": "Drowned God. Ironborn. Lord."
+        "flavor": "\"¡Escuchad! ¡Escuchad las olas! ¡Escuchad al dios!\"",
+        "name": "Aeron Pelomojado",
+        "text": "<b>Reacción:</b> después de que un Personaje sea salvado, elige entre ponerlo en pie o arrodillarlo.",
+        "traits": "Dios Ahogado. Hijo del Hierro. Lord."
     },
     {
         "code": "04072",
-        "flavor": "The solar was as damp and drafty as ever.",
-        "name": "King Balon's Solar",
-        "text": "<b>Reaction:</b> After you win initiative, gain 1 gold.",
-        "traits": "Iron Islands."
+        "flavor": "La estancia era tan húmeda y llena de corrientes como siempre.",
+        "name": "El salón del rey Balon",
+        "text": "<b>Reacción:</b> después de que ganes la iniciativa, ganas 1 de oro.",
+        "traits": "Islas del Hierro."
     },
     {
         "code": "04073",
-        "flavor": "\"Come with me to the House of the Undying, and you shall drink of truth and wisdom.\"",
+        "flavor": "\"Venid conmigo a la Casa de los Eternos, y beberéis de la verdad y la sabiduría.\"",
         "name": "Pyat Pree",
-        "text": "<b>Reaction:</b> After you win a challenge in which Pyat Pree is participating, search the top X cards of your deck for a [targaryen] attachment or event, reveal it, and add it to your hand. Shuffle your deck. X is the STR by which you won the challenge.",
-        "traits": "Warlock."
+        "text": "<b>Reacción:</b> después de que ganes un reto en el que Pyat Pree esté participando, busca un Accesorio o Evento [targaryen] entre las X primeras cartas de tu mazo, muéstralo y añádelo a tu mano. Baraja tu mazo. X es la diferencia de FUE por la que has ganado el reto.",
+        "traits": "Brujo."
     },
     {
         "code": "04074",
-        "flavor": "...in the place they named Vaes Tolorro, the city of bones.",
+        "flavor": "…en el lugar que dieron en llamar Vaes Tolorro, la Ciudad de los Huesos.",
         "name": "Vaes Tolorro",
-        "text": "<b>Interrupt:</b> When a character with 1 or more power is killed, kneel Vaes Tolorro to move 1 power from that character to Vaes Tolorro. (Up to 2 power instead if that character's STR is 0.)",
+        "text": "<b>Interrupción:</b> cuando muera un Personaje que tenga 1 o más de Poder, arrodilla Vaes Tolorro para trasladar 1 de Poder desde ese Personaje hasta Vaes Tolorro. (Hasta 2 de Poder si la FUE de ese Personaje es 0.)",
         "traits": "Essos."
     },
     {
         "code": "04075",
-        "name": "Elia Sand",
-        "text": "<b>Reaction:</b> After you lose a challenge, choose a character. Until the end of the phase, that character gains stealth. (Limit twice per phase.)",
-        "traits": "Bastard. Sand Snake."
+        "name": "Elia Arena",
+        "text": "<b>Reacción:</b> después de que pierdas un reto, elige un Personaje. Hasta el final de la fase, ese Personaje gana Sigilo. (Límite de 2 veces por fase.)",
+        "traits": "Bastardo. Serpiente de arena."
     },
     {
         "code": "04076",
-        "name": "Burning on the Sand",
-        "text": "<b>Reaction:</b> After you lose an unopposed challenge, set the claim value on the winning opponent's revealed plot card to 0 until the end of the challenge."
+        "name": "Ardiendo en la arena",
+        "text": "<b>Reacción:</b> después de que pierdas un reto sin oposición, el valor de Conquista de la carta de Trama mostrada por el adversario ganador se reduce a 0 hasta el final del reto."
     },
     {
         "code": "04077",
         "name": "Jaqen H'ghar",
-        "text": "<b>Reaction:</b> After Jaqen H'ghar enters play, place a Valar Morghulis token on up to 3 different unique characters. If Jaqen H'ghar leaves play, discard those tokens from play.\n<b>Reaction:</b> After you win a challenge in which Jaqen H'ghar is attacking alone, choose and kill a character with a Valar Morghulis token.",
-        "traits": "Ally."
+        "text": "<b>Reacción:</b> después de que Jaqen H'ghar entre en juego, pon 1 ficha de Valar Morghulis sobre un máximo de 3 Personajes únicos diferentes. Si Jaqen H'ghar abandona el juego, esas fichas se descartan del juego.\n<b>Reacción:</b> después de que ganes un reto en el que Jaqen H'ghar esté atacando solo, mata a un Personaje de tu elección que tenga encima una ficha de Valar Morghulis.",
+        "traits": "Aliado."
     },
     {
         "code": "04078",
-        "name": "Isle of Ravens",
-        "text": "<b>Action:</b> Kneel Isle of Ravens to choose a card in any player's discard pile, and shuffle it into its owner's deck.",
-        "traits": "Oldtown."
+        "name": "La Isla de los Cuervos",
+        "text": "<b>Acción:</b> arrodilla La Isla de los Cuervos para elegir una carta que esté en la pila de descartes de cualquier jugador, devolverla al mazo de su propietario y luego barajar éste.",
+        "traits": "Antigua."
     },
     {
         "code": "04079",
-        "name": "King Beyond the Wall",
-        "text": "<i>Wildling</i> character only.\nAttached character gains the <i>King</i> trait.\nWhile attached character is attacking a player with a higher power total than you, raise the claim value on your revealed plot card by 1.",
-        "traits": "Title."
+        "name": "Rey más allá del Muro",
+        "text": "Sólo Personajes <i>Salvaje</i>.\nEl Personaje vinculado gana el rasgo <i>Rey</i>.\nMientras el Personaje vinculado esté atacando a un jugador que tenga un total de Poder más alto que el tuyo, el valor de Conquista de tu carta de Trama mostrada aumenta en 1.",
+        "traits": "Título."
     },
     {
         "code": "04080",
         "name": "Valar Morghulis",
-        "text": "<b>When Revealed:</b> Kill each character.",
-        "traits": "Omen."
+        "text": "<b>Cuando se muestre esta carta:</b> mata a cada Personaje.",
+        "traits": "Augurio."
     }
 ]
