@@ -35,6 +35,7 @@
         "position": 2,
         "quantity": 3,
         "text": "<b>Action:</b> Name a trait: <i>Builder</i>, <i>Ranger</i>, or <i>Steward</i>. Search the top X cards of your deck for any number of characters with that trait, reveal them, and add them to your hand. Shuffle the other cards back into your deck. X is your reserve value.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -322,6 +323,7 @@
         "position": 17,
         "quantity": 3,
         "text": "<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, search your deck for a location with printed cost 3 or lower, and put it into play. Shuffle your deck. (Max 1 per challenge.)",
+        "traits": "",
         "type_code": "event"
     },
     {

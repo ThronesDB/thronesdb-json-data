@@ -532,6 +532,7 @@
         "position": 27,
         "quantity": 1,
         "text": "You cannot include more than 15 neutral cards in your deck.\n<b>Action:</b> Kneel your faction card to reduce the cost of the next loyal card you marshal or play this phase by 1.",
+        "traits": "",
         "type_code": "agenda"
     },
     {
@@ -793,6 +794,7 @@
         "position": 41,
         "quantity": 1,
         "text": "<b>Reaction:</b> After you win a [military] challenge by 5 or more STR as the attacking player, choose and kill a character controlled by the losing opponent. (Max 1 per challenge.)",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -809,6 +811,7 @@
         "position": 42,
         "quantity": 2,
         "text": "<b>Reaction:</b> After you win a [military] challenge by 5 or more STR as the attacking player, choose a location controlled by the losing opponent, and discard it from play. (Max 1 per challenge.)",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -825,6 +828,7 @@
         "position": 43,
         "quantity": 2,
         "text": "<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, gain 2 power for your faction. (Max 1 per challenge.)",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -858,6 +862,7 @@
         "position": 45,
         "quantity": 1,
         "text": "<b>Interrupt:</b> When the effects of an opponent's event would initiate, cancel those effects. X is that event's printed cost.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -1201,6 +1206,7 @@
         "position": 62,
         "quantity": 1,
         "text": "<b>Marshaling Action:</b> Choose and kneel up to 4 total STR worth of characters controlled by the same player. Then, choose one of those characters, and have it gain 1 power.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -1217,6 +1223,7 @@
         "position": 63,
         "quantity": 1,
         "text": "Play only during a challenge in which you are the defending player.\n<b>Action:</b> Choose a kneeling [baratheon] character you control. That character is now participating as a defender. If you win this challenge, stand that character.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -1578,6 +1585,7 @@
         "position": 81,
         "quantity": 1,
         "text": "<b>Interrupt:</b> When a [greyjoy] character would be killed, save it. Then, attach Risen from the Sea to that character as a <i>Condition</i> attachment with the text: \"Terminal. Attached character gets +1 STR.\"",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -1594,6 +1602,7 @@
         "position": 82,
         "quantity": 1,
         "text": "Play only if you are the first player.\n<b>Challenges Action:</b> Choose a defending character with STR 5 or lower. That character does not contribute is STR to this challenge.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -1610,6 +1619,7 @@
         "position": 83,
         "quantity": 1,
         "text": "<b>Reaction:</b> After you win an unopposed challenge, choose an attachment or location controlled by the losing opponent, and discard it from play. (Max 1 per challenge.)",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -1954,6 +1964,7 @@
         "position": 100,
         "quantity": 1,
         "text": "<b>Action:</b> Put a [lannister] character into play from your hand. At the end of the phase, if that card is still in play, discard it from play (cannot be saved).",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -1970,6 +1981,7 @@
         "position": 101,
         "quantity": 1,
         "text": "Play only if you control a [lannister] <i>Lord</i> or <i>Lady</i> character.\n<b>Challenges Action:</b> Kneel your faction card to choose a character with printed cost X or lower controlled by an opponent, and return it to its owner's hand.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -1986,6 +1998,7 @@
         "position": 102,
         "quantity": 1,
         "text": "Play only if you control a unique [lannister] character.\n<b>Interrupt:</b> When the effects of a triggered character, location, or attachment ability would initiate, cancel those effects.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -2326,6 +2339,7 @@
         "position": 119,
         "quantity": 1,
         "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, gain X power for your faction. X is the number of plot cards in your used pile. (Max 1 per challenge.)",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -2342,6 +2356,7 @@
         "position": 120,
         "quantity": 1,
         "text": "Play only if you are not the first player.\n<b>Reaction:</b> After you lose a challenge as the defending player, name a challenge type. Until the end of the phase, the winner of the challenge cannot initiate challenges of that type. (Max 1 per challenge.)",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -2358,6 +2373,7 @@
         "position": 121,
         "quantity": 1,
         "text": "<b>Action:</b> Choose a character with STR 4 or lower. Until the end of the phase, that character loses a [military], an [intrigue], and a [power] icon.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -2709,6 +2725,7 @@
         "position": 138,
         "quantity": 2,
         "text": "<b>Reaction:</b> After an opponent collects income, move 1 gold from that player's gold pool to your own. (Max 1 per round.)",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -2726,6 +2743,7 @@
         "position": 139,
         "quantity": 1,
         "text": "<b>Dominance Action:</b> Choose a non-unique character with printed cost 6 or lower. Take control of that character. (Max 1 per round.)",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -2742,6 +2760,7 @@
         "position": 140,
         "quantity": 1,
         "text": "Play only during a challenge in which you control a participating [thenightswatch] character.\n<b>Reaction:</b> After you win a challenge by 5 or more STR as the defending player, the losing opponent cannot initiate challenges against you this round.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -3083,6 +3102,7 @@
         "position": 157,
         "quantity": 1,
         "text": "Play only during a [military] challenge.\n<b>Action:</b> Choose a participating [stark] character. Until the end of the challenge, that character gets +2 STR. If you win the challenge, draw 1 card.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -3100,6 +3120,7 @@
         "position": 158,
         "quantity": 1,
         "text": "<b>Reaction:</b> After you lose an [intrigue] challenge as the defending player, kneel a <i>Direwolf</i> character to choose and kill an attacking character. (Max 1 per challenge.)",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -3116,6 +3137,7 @@
         "position": 159,
         "quantity": 1,
         "text": "Play only during a challenge.\n<b>Action:</b> Until the end of the challenge, raise the claim value on your revealed plot card by 1. (Max 1 per challenge.)",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -3459,6 +3481,7 @@
         "position": 176,
         "quantity": 1,
         "text": "<b>Action:</b> Kneel a <i>Dragon</i> character or Daenerys Targaryen to choose a participating character. Until the end of the phase, that character gets -4 STR and is killed if its STR is 0.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -3475,6 +3498,7 @@
         "position": 177,
         "quantity": 1,
         "text": "<b>Challenges Action:</b> Choose a unique [targaryen] character in your dead pile, and shuffle it back into your deck. If that character is a <i>Hatchling</i>, you may put it into play instead.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -3491,6 +3515,7 @@
         "position": 178,
         "quantity": 1,
         "text": "<b>Action:</b> Choose and stand a unique [targaryen] character you control. At the end of the phase, if that character is still in play, return it to your hand.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -3829,6 +3854,7 @@
         "position": 195,
         "quantity": 1,
         "text": "<b>Challenges Action:</b> Choose up to three [tyrell] characters. Until the end of the phase, each of the chosen characters gets +2 STR.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -3845,6 +3871,7 @@
         "position": 196,
         "quantity": 1,
         "text": "<b>Reaction:</b> After you win an [intrigue] or [power] challenge, the losing opponent names a cardtype (character, location, attachment, or event). Search your deck for a card with a different cardtype, reveal it, and add it to your hand. Shuffle your deck.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -4009,6 +4036,7 @@
         "position": 206,
         "quantity": 1,
         "text": "Supported by Master of Ships\nSupports: Hand of the King\nRivals: Master of Laws, Master of Coin\nYou may resolve your [intrigue] claim against any number of opponents of your choice.\n+1 STR [intrigue]",
+        "traits": "",
         "type_code": "title"
     },
     {
@@ -4025,6 +4053,7 @@
         "position": 207,
         "quantity": 1,
         "text": "Supported by Master of Coin\nSupports: Master of Whispers\nRivals: Master of Laws, Hand of the King\nRaise the claim value on your revealed plot card by 1 during [military] challenges in which you are attacking a rival.\n+1 STR [military]",
+        "traits": "",
         "type_code": "title"
     },
     {
@@ -4041,6 +4070,7 @@
         "position": 208,
         "quantity": 1,
         "text": "Supported by Master of Whispers.\nSupports: Master of Laws.\nRivals: Master of Coin, Master of Ships.\nYou may initiate an additional [power] challenge during the challenges phase, against a different opponent.\n+1 STR [power]",
+        "traits": "",
         "type_code": "title"
     },
     {
@@ -4057,6 +4087,7 @@
         "position": 209,
         "quantity": 1,
         "text": "Supported by Master of Laws.\nSupports: Master of Ships\nRivals: Hand of the King, Master of Whispers\n+2 Income",
+        "traits": "",
         "type_code": "title"
     },
     {
@@ -4073,6 +4104,7 @@
         "position": 210,
         "quantity": 1,
         "text": "Supported by Hand of the King\nSupports: Master of Coin\nRivals: Master of Whispers, Master of Ships\nIncrease the number of cards you draw in the draw phase by 1.\n+1 Reserve",
+        "traits": "",
         "type_code": "title"
     },
     {
@@ -4089,6 +4121,7 @@
         "position": 211,
         "quantity": 1,
         "text": "Supported by None\nSupports: None\nRivals: None\nYou may redirect 1 challenge this round.\n+2 STR for Dominance",
+        "traits": "",
         "type_code": "title"
     }
 ]

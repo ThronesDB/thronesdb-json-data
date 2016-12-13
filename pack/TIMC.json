@@ -193,6 +193,7 @@
         "position": 70,
         "quantity": 3,
         "text": "<b>Reaction:</b> After you win an [intrigue] challenge, discard up to 3 cards at random from the losing opponent's hand. Then, that player draws 2 cards.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -310,6 +311,7 @@
         "position": 76,
         "quantity": 3,
         "text": "<b>Reaction:</b> After you lose an unopposed challenge, set the claim value on the winning opponent's revealed plot card to 0 until the end of the challenge.",
+        "traits": "",
         "type_code": "event"
     },
     {

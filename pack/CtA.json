@@ -36,6 +36,7 @@
         "position": 22,
         "quantity": 3,
         "text": "<b>Interrupt:</b> When the effects of an ability that chooses a [stark] character you control as its only target would initiate, cancel those effects and stand that character.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -74,6 +75,7 @@
         "position": 24,
         "quantity": 3,
         "text": "Play only during a challenge.\n<b>Challenges Action:</b> Reveal 4 [tyrell] characters from your hand to raise the claim value on your revealed plot by 1 until the end of the challenge. (Max 1 per challenge.)",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -230,6 +232,7 @@
         "position": 32,
         "quantity": 3,
         "text": "<b>Challenges Action:</b> Until the end of the phase, either: each [greyjoy] character you control gains stealth, or each non-[greyjoy] character loses stealth.",
+        "traits": "",
         "type_code": "event"
     },
     {

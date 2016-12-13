@@ -272,6 +272,7 @@
         "position": 114,
         "quantity": 3,
         "text": "<b>Reaction:</b> After a <i>Lord</i> or <i>Lady</i> character is killed, kneel your faction card to draw 3 cards.",
+        "traits": "",
         "type_code": "event"
     },
     {

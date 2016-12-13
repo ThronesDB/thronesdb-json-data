@@ -443,6 +443,7 @@
         "position": 22,
         "quantity": 3,
         "text": "<b>Challenges Action:</b> Choose an opponent who has won a challenge against you this phase. You may initiate an additional [military] and [intrigue] challenge against that player this phase. (Max 1 per phase.)",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -459,6 +460,7 @@
         "position": 23,
         "quantity": 3,
         "text": "<b>Reaction:</b> After claim is applied for an [intrigue] challenge you won by 5 or more STR, draw 2 cards. (4 cards instead if the losing opponent has no cards in his or her hand.)",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -474,6 +476,7 @@
         "position": 24,
         "quantity": 3,
         "text": "Play only if you control a <i>Knight</i> character.\n<b>Challenges Action:</b> Return a character you control to its owner's hand. Then, have a <i>Knight</i> character you control gain 1 power.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -590,6 +593,7 @@
         "position": 30,
         "quantity": 3,
         "text": "<b>Challenges Action:</b> Choose a [martell] character you control. Until the end of the phase, double that character's STR. At the end of the phase, if that character is still in play, kill it.",
+        "traits": "",
         "type_code": "event"
     },
     {

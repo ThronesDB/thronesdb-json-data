@@ -176,6 +176,7 @@
         "position": 110,
         "quantity": 3,
         "text": "<b>Reaction:</b> After you win a challenge in which you control a unique [lannister] character, choose a revealed <i>War</i> plot card. Initiate the when revealed ability on that card as if you had just revealed it. (Max 1 per phase.)",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -320,6 +321,7 @@
         "position": 118,
         "quantity": 3,
         "text": "<b>Reaction:</b> After your win a challenge by 5 or more STR as the attacking player, kneel your faction card. Then, you may initiate an additional challenge of that type this phase.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -335,6 +337,7 @@
         "position": 119,
         "quantity": 3,
         "text": "<b>Reaction:</b> After your win a [power] challenge, discard 1 card at random from the losing opponent's hand. If that card is a character, place it in its owner's dead pile.",
+        "traits": "",
         "type_code": "event"
     },
     {

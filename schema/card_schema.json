@@ -142,6 +142,7 @@
         "quantity",
         "faction_code",
         "pack_code",
+        "traits",
         "type_code"
     ],
     "type": "object"

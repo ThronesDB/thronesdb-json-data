@@ -186,6 +186,7 @@
         "position": 90,
         "quantity": 3,
         "text": "<b>Interrupt:</b> When claim is applied for an [intrigue] challenge, apply [military] claim instead.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -263,6 +264,7 @@
         "position": 94,
         "quantity": 3,
         "text": "<b>Interrupt:</b> When a non-<i>Army</i> character would be killed, save it. Then, attach Blood Magic Ritual to that character as a <i>Condition</i> attachment with the text: \"Terminal. Treat attached character's printed text box as if it were blank (except for <i>Traits</i>).\"",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -300,6 +302,7 @@
         "position": 96,
         "quantity": 3,
         "text": "<b>Interrupt:</b> When claim is applied for a challenge in which you are the defending player, choose an opponent. That player must satisfy the normal claim effect instead of you as if he or she were the defending player.",
+        "traits": "",
         "type_code": "event"
     },
     {

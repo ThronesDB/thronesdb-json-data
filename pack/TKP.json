@@ -193,6 +193,7 @@
         "position": 50,
         "quantity": 3,
         "text": "<b>Challenges Action:</b> Kneel your faction card to reveal the bottom 5 cards of your deck. You may put 1 unique [lannister] character revealed by this effect into play; return the other cards to the bottom of your deck in any order. At the end of the phase, if that card is still in play, discard it from play (cannot be saved).",
+        "traits": "",
         "type_code": "event"
     },
     {
