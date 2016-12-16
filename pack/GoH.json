@@ -161,7 +161,7 @@
         "is_intrigue": false,
         "is_loyal": true,
         "is_military": false,
-        "is_power": false,
+        "is_power": true,
         "is_unique": true,
         "name": "Joffrey Baratheon",
         "pack_code": "GoH",
@@ -225,7 +225,7 @@
         "quantity": 3,
         "text": "Play only during a [power] challenge.\n<b>Action:</b> Choose a participating <i>Drowned God</i> or <i>Ironborn</i> character. Until the end of the challenge, that character gets +3 STR. If you win the challenge, draw 1 card.",
         "traits": "Blessing.",
-        "type_code": "location"
+        "type_code": "event"
     },
     {
         "code": "04093",
@@ -354,7 +354,7 @@
         "pack_code": "GoH",
         "position": 99,
         "quantity": 3,
-        "text": "<b>Action:</b> Choose a character with printed cost 3 or lower. Until the end of the phase, that character gains stealth.",
+        "text": "<b>Action:</b> Choose a unique character with printed cost 3 or lower. Until the end of the phase, that character gains stealth.",
         "traits": "",
         "type_code": "event"
     },
