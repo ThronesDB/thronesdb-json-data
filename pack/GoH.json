@@ -354,7 +354,7 @@
         "pack_code": "GoH",
         "position": 99,
         "quantity": 3,
-        "text": "<b>Action:</b> Choose a character with printed cost 3 or lower. Until the end of the phase, that character gains stealth.",
+        "text": "<b>Action:</b> Choose a unique character with printed cost 3 or lower. Until the end of the phase, that character gains stealth.",
         "traits": "",
         "type_code": "event"
     },
