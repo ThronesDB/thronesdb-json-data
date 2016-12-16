@@ -225,7 +225,7 @@
         "quantity": 3,
         "text": "Play only during a [power] challenge.\n<b>Action:</b> Choose a participating <i>Drowned God</i> or <i>Ironborn</i> character. Until the end of the challenge, that character gets +3 STR. If you win the challenge, draw 1 card.",
         "traits": "Blessing.",
-        "type_code": "location"
+        "type_code": "event"
     },
     {
         "code": "04093",
