@@ -161,7 +161,7 @@
         "is_intrigue": false,
         "is_loyal": true,
         "is_military": false,
-        "is_power": false,
+        "is_power": true,
         "is_unique": true,
         "name": "Joffrey Baratheon",
         "pack_code": "GoH",
