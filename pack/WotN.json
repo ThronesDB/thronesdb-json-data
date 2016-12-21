@@ -446,6 +446,7 @@
         "position": 22,
         "quantity": 3,
         "text": "Play only if there is a <i>Winter</i> plot card in your used pile.\n<b>Reaction:</b> After a [stark] character you control is sacrificed or killed, put a [stark] character with equal or lower printed cost into play from your hand.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -463,6 +464,7 @@
         "position": 23,
         "quantity": 3,
         "text": "<b>Interrupt:</b> When the effects of an opponent's event would initiate, sacrifice a <i>Direwolf</i> card or kneel 2 [stark] characters to cancel those effects.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -480,6 +482,7 @@
         "position": 24,
         "quantity": 3,
         "text": "<b>Action:</b> Move an attachment from a [stark] character you control to another eligible character you control.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -514,6 +517,7 @@
         "position": 26,
         "quantity": 3,
         "text": "<b>Action:</b> Choose a standing character controlled by each player. Kneel each of those characters.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -552,6 +556,7 @@
         "position": 28,
         "quantity": 3,
         "text": "<b>Interrupt:</b> When you compare initiative, your revealed plot card gets +3 initiative until the end of the phase. If you win initiative this phase, draw 1 card.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -630,6 +635,7 @@
         "position": 32,
         "quantity": 3,
         "text": "<b>Reaction:</b> After you lose a [military] or [power] challenge as the defending player, look at the winning opponent's hand. Then, choose and discard 1 card from that hand.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -706,6 +712,7 @@
         "position": 36,
         "quantity": 3,
         "text": "<b>Action:</b> Each participating non-<i>Dragon</i> character gets -1 STR until the end of the challenge.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -743,6 +750,7 @@
         "position": 38,
         "quantity": 3,
         "text": "<b>Marshaling Action:</b> Choose a [tyrell] character you control. Gain X gold, where X is that character's STR. Then, sacrifice that character.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -877,6 +885,7 @@
         "position": 45,
         "quantity": 3,
         "text": "<b>Action:</b> Kneel a neutral character to gain 2 gold.",
+        "traits": "",
         "type_code": "event"
     },
     {

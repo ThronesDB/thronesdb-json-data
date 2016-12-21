@@ -115,6 +115,7 @@
         "position": 46,
         "quantity": 3,
         "text": "<b>Marshaling Action:</b> Choose an opponent whose reserve value is lower than yours. Until the end of the phase, you may marshal characters from that player's discard pile as if they were in your hand.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -272,6 +273,7 @@
         "position": 54,
         "quantity": 3,
         "text": "<b>Challenges Action:</b> Search your deck for a <i>Bloodrider</i> character and put it into play. Shuffle your deck. At the end of the phase, if that card is still in play, return it to your hand.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -309,6 +311,7 @@
         "position": 56,
         "quantity": 3,
         "text": "<b>Reaction:</b> After you lose a challenge, choose up to X [martell] characters. Each of those characters gains renown until the end of the phase. X is the number of plot cards in your used pile.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -365,6 +368,7 @@
         "position": 59,
         "quantity": 3,
         "text": "<b>Marshaling Action:</b> Choose an <i>Ally</i> character, and discard it from play.",
+        "traits": "",
         "type_code": "event"
     },
     {

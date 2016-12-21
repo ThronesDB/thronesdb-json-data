@@ -124,7 +124,7 @@
     },
     {
         "code": "04060",
-        "name": "Batall de Cruce de Bueyes",
+        "name": "Batalla de Cruce de Bueyes",
         "text": "Ningún Personaje con un coste impreso de 4 o más puede ser declarado como defensor durante el primer reto que inicies en esta ronda.",
         "traits": "Guerra."
     }

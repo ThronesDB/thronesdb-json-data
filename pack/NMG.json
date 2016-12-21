@@ -252,6 +252,7 @@
         "position": 73,
         "quantity": 3,
         "text": "You may only use gold from the losing opponent's gold pool to pay for Loot.\n<b>Reaction:</b> After you win an unopposed challenge, discard the top X cards from the losing opponent's deck.",
+        "traits": "",
         "type_code": "event"
     },
     {

@@ -72,6 +72,7 @@
         "position": 24,
         "quantity": 3,
         "text": "<b>Reaction:</b> After you win a challenge in which you control a <i>Knight</i> character that is attacking or defending alone, that character gains 1 power. (3 power instead if you control a <i>Lady</i> character.) (Max 1 per challenge.)",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -148,6 +149,7 @@
         "position": 28,
         "quantity": 3,
         "text": "Play only during a [military] challenge in which you are the defending player.\r\n<b>Action:</b> Kneel your faction card to end this challenge with no winner or loser. Until the end of the phase, you cannot initiate [military] challenges.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -303,6 +305,7 @@
         "position": 36,
         "quantity": 3,
         "text": "<b>Action:</b> Kneel your faction card to gain X gold. X is the number of plot cards in your used pile.",
+        "traits": "",
         "type_code": "event"
     },
     {
