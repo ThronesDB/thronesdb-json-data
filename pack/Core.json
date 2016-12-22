@@ -3145,7 +3145,7 @@
         "cost": 7,
         "deck_limit": 3,
         "faction_code": "targaryen",
-        "flavor": "\"I am Daenerys, Stormborn of House Targaryen, the Unburnt, Mother of Dragons, khaleesi to Drogo's riders, and queen of the Seven Kingdoms of Westeros.\"",
+        "flavor": "\"I am Daenerys Stormborn of House Targaryen, the Unburnt, Mother of Dragons, khaleesi to Drogo's riders, and queen of the Seven Kingdoms of Westeros.\"",
         "illustrator": "Jacob Murray",
         "is_intrigue": true,
         "is_loyal": true,
