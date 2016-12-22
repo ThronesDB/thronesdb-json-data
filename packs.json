@@ -1,21 +1,12 @@
 [
     {
-        "cgdb_id": 16,
-        "code": "AMAF",
-        "cycle_code": "bng",
+        "cgdb_id": null,
+        "code": "VDS",
+        "cycle_code": "draft",
         "date_release": null,
-        "name": "All Men Are Fools",
+        "name": "Valyrian Draft Set",
         "position": 1,
-        "size": 20
-    },
-    {
-        "cgdb_id": 9,
-        "code": "AtSK",
-        "cycle_code": "war",
-        "date_release": "2016-07-21",
-        "name": "Across the Seven Kingdoms",
-        "position": 1,
-        "size": 20
+        "size": 21
     },
     {
         "cgdb_id": 1,
@@ -27,12 +18,75 @@
         "size": 211
     },
     {
+        "cgdb_id": 2,
+        "code": "TtB",
+        "cycle_code": "westeros",
+        "date_release": "2015-12-09",
+        "name": "Taking the Black",
+        "position": 1,
+        "size": 20
+    },
+    {
+        "cgdb_id": 3,
+        "code": "TRtW",
+        "cycle_code": "westeros",
+        "date_release": "2016-01-29",
+        "name": "The Road to Winterfell",
+        "position": 2,
+        "size": 20
+    },
+    {
+        "cgdb_id": 4,
+        "code": "TKP",
+        "cycle_code": "westeros",
+        "date_release": "2016-02-25",
+        "name": "The King's Peace",
+        "position": 3,
+        "size": 20
+    },
+    {
+        "cgdb_id": 5,
+        "code": "NMG",
+        "cycle_code": "westeros",
+        "date_release": "2016-03-25",
+        "name": "No Middle Ground",
+        "position": 4,
+        "size": 20
+    },
+    {
         "cgdb_id": 6,
         "code": "CoW",
         "cycle_code": "westeros",
         "date_release": "2016-04-21",
         "name": "Calm over Westeros",
         "position": 5,
+        "size": 20
+    },
+    {
+        "cgdb_id": 7,
+        "code": "TS",
+        "cycle_code": "westeros",
+        "date_release": "2016-05-19",
+        "name": "True Steel",
+        "position": 6,
+        "size": 20
+    },
+    {
+        "cgdb_id": 8,
+        "code": "WotN",
+        "cycle_code": "wolves",
+        "date_release": "2016-04-07",
+        "name": "Wolves of the North",
+        "position": 1,
+        "size": 52
+    },
+    {
+        "cgdb_id": 9,
+        "code": "AtSK",
+        "cycle_code": "war",
+        "date_release": "2016-07-21",
+        "name": "Across the Seven Kingdoms",
+        "position": 1,
         "size": 20
     },
     {
@@ -54,30 +108,21 @@
         "size": 20
     },
     {
+        "cgdb_id": 12,
+        "code": "TIMC",
+        "cycle_code": "war",
+        "date_release": "2016-12-01",
+        "name": "There Is My Claim",
+        "position": 4,
+        "size": 20
+    },
+    {
         "cgdb_id": 13,
         "code": "GoH",
         "cycle_code": "war",
         "date_release": null,
         "name": "Ghosts of Harrenhal",
         "position": 5,
-        "size": 20
-    },
-    {
-        "cgdb_id": 15,
-        "code": "LoCR",
-        "cycle_code": "lions",
-        "date_release": "2016-10-03",
-        "name": "Lions of Casterly Rock",
-        "position": 1,
-        "size": 52
-    },
-    {
-        "cgdb_id": 5,
-        "code": "NMG",
-        "cycle_code": "westeros",
-        "date_release": "2016-03-25",
-        "name": "No Middle Ground",
-        "position": 4,
         "size": 20
     },
     {
@@ -90,65 +135,29 @@
         "size": 20
     },
     {
-        "cgdb_id": 12,
-        "code": "TIMC",
-        "cycle_code": "war",
-        "date_release": "2016-12-01",
-        "name": "There Is My Claim",
-        "position": 4,
-        "size": 20
-    },
-    {
-        "cgdb_id": 4,
-        "code": "TKP",
-        "cycle_code": "westeros",
-        "date_release": "2016-02-25",
-        "name": "The King's Peace",
-        "position": 3,
-        "size": 20
-    },
-    {
-        "cgdb_id": 3,
-        "code": "TRtW",
-        "cycle_code": "westeros",
-        "date_release": "2016-01-29",
-        "name": "The Road to Winterfell",
-        "position": 2,
-        "size": 20
-    },
-    {
-        "cgdb_id": 7,
-        "code": "TS",
-        "cycle_code": "westeros",
-        "date_release": "2016-05-19",
-        "name": "True Steel",
-        "position": 6,
-        "size": 20
-    },
-    {
-        "cgdb_id": 2,
-        "code": "TtB",
-        "cycle_code": "westeros",
-        "date_release": "2015-12-09",
-        "name": "Taking the Black",
+        "cgdb_id": 15,
+        "code": "LoCR",
+        "cycle_code": "lions",
+        "date_release": "2016-10-03",
+        "name": "Lions of Casterly Rock",
         "position": 1,
-        "size": 20
+        "size": 52
     },
     {
-        "cgdb_id": null,
-        "code": "VDS",
-        "cycle_code": "draft",
+        "cgdb_id": 16,
+        "code": "AMAF",
+        "cycle_code": "bng",
         "date_release": null,
-        "name": "Valyrian Draft Set",
+        "name": "All Men Are Fools",
         "position": 1,
-        "size": 21
+        "size": 20
     },
     {
-        "cgdb_id": 8,
-        "code": "WotN",
-        "cycle_code": "wolves",
-        "date_release": "2016-04-07",
-        "name": "Wolves of the North",
+        "cgdb_id": 22,
+        "code": "WotW",
+        "cycle_code": "watchers",
+        "date_release": null,
+        "name": "Watchers on the Wall",
         "position": 1,
         "size": 52
     }
