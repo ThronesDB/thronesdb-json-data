@@ -1,0 +1,26 @@
+[
+    {
+        "code": "06014",
+        "name": "Slaver's Bay Port",
+        "text": "Limited.\n<b>Marshaling Action:</b> Kneel Slaver's Bay Port to gain 1 gold. (2 gold instead if an opponent has 4 or more characters in his or her dead pile.)",
+        "traits": "Essos."
+    },
+    {
+        "code": "06015",
+        "name": "Ricasso",
+        "text": "Bestow (2). (When this card enters play, move up to 2 gold from your gold pool to this card.)\nYou are considered to have X additional plot cards in your used pile. X is the number of gold Ricasso has.",
+        "traits": "Ally. Steward."
+    },
+    {
+        "code": "06016",
+        "name": "The Prince's Plan",
+        "text": "<b>Action:</b> Choose a character. Until the end of the phase, that character gets +1 STR for each plot card in your used pile and gains a challenge icon of your choice.\n<b>Reaction:</b> After you lose a challenge, pay 1 gold to return The Prince's Plan from your discard pile to your hand.",
+        "traits": ""
+    },
+    {
+        "code": "06018",
+        "name": "Alliance",
+        "text": "Your minimum deck size is 75 cards.\nYou may run 2 <i>Banner</i> agendas in addition to this agenda.",
+        "traits": ""
+    }
+]

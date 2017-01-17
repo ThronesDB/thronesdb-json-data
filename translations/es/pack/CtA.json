@@ -10,7 +10,8 @@
         "code": "04022",
         "flavor": "Fuerte como un oso. Fiera como un carcayú. El miedo hiere más que las espadas.",
         "name": "El miedo hiere más que las espadas",
-        "text": "<b>Interrupción:</b> cuando vayan a iniciarse los efectos de una capacidad que tome como único objetivo a un Personaje [stark], anula esos efectos y pon en pie a ese Personaje."
+        "text": "<b>Interrupción:</b> cuando vayan a iniciarse los efectos de una capacidad que tome como único objetivo a un Personaje [stark], anula esos efectos y pon en pie a ese Personaje.",
+        "traits": ""
     },
     {
         "code": "04023",
@@ -22,7 +23,8 @@
     {
         "code": "04024",
         "name": "Ahí está mi derecho",
-        "text": "Juega esta carta sólo durante un reto.\n<b>Acción de Reto:</b> muestra 4 Personajes [tyrell] desde tu mano para aumentar el valor de Conquista de tu carta de Trama mostrada en 1 hasta el final del reto. (Máximo 1 por reto.)"
+        "text": "Juega esta carta sólo durante un reto.\n<b>Acción de Reto:</b> muestra 4 Personajes [tyrell] desde tu mano para aumentar el valor de Conquista de tu carta de Trama mostrada en 1 hasta el final del reto. (Máximo 1 por reto.)",
+        "traits": ""
     },
     {
         "code": "04025",

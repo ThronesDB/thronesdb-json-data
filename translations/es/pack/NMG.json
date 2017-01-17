@@ -79,7 +79,8 @@
     {
         "code": "02073",
         "name": "Botín",
-        "text": "Para pagar el coste de Botín sólo puedes utilizar Oro del suministro de Oro del adversario derrotado.\n<b>Reacción:</b> después de que ganes un reto sin oposición, descarta las primeras X cartas del mazo del adversario derrotado."
+        "text": "Para pagar el coste de Botín sólo puedes utilizar Oro del suministro de Oro del adversario derrotado.\n<b>Reacción:</b> después de que ganes un reto sin oposición, descarta las primeras X cartas del mazo del adversario derrotado.",
+        "traits": ""
     },
     {
         "code": "02074",

@@ -1,5 +1,9 @@
 [
     {
+        "code": "AMAF",
+        "name": "All Men Are Fools"
+    },
+    {
         "code": "AtSK",
         "name": "A través de los Siete Reinos"
     },
@@ -62,5 +66,9 @@
     {
         "code": "WotN",
         "name": "Lobos del Norte"
+    },
+    {
+        "code": "WotW",
+        "name": "Watchers on the Wall"
     }
 ]
