@@ -57,7 +57,8 @@
         "code": "02090",
         "flavor": "\"Los dioses saben que sou inocente. Prefiero su veredicto al juicio de los hombres.\" <cite>Tyrion Lannister</cite>",
         "name": "Juicio por combate",
-        "text": "<b>Interrupción:</b> cuando se aplique el efecto de Conquista de un reto [intrigue], en vez de eso aplica el efecto de una Conquista de [military]."
+        "text": "<b>Interrupción:</b> cuando se aplique el efecto de Conquista de un reto [intrigue], en vez de eso aplica el efecto de una Conquista de [military].",
+        "traits": ""
     },
     {
         "code": "02091",
@@ -82,7 +83,8 @@
     {
         "code": "02094",
         "name": "Ritual de magia de sangre",
-        "text": "<b>Interrupción</b>: cuando un Personaje que no sea <i>Ejército</i> vaya a morir, sálvalo. Luego vincula el Ritual de magia de sangre a ese Personaje como Accesorio de <i>Estado</i> con este texto: \"Terminal. Trata el texto de reglas impreso del Personaje vinculado como estuviera en blanco (excepto los <i>Rasgos</i>).\"."
+        "text": "<b>Interrupción</b>: cuando un Personaje que no sea <i>Ejército</i> vaya a morir, sálvalo. Luego vincula el Ritual de magia de sangre a ese Personaje como Accesorio de <i>Estado</i> con este texto: \"Terminal. Trata el texto de reglas impreso del Personaje vinculado como estuviera en blanco (excepto los <i>Rasgos</i>).\".",
+        "traits": ""
     },
     {
         "code": "02095",
@@ -93,7 +95,8 @@
     {
         "code": "02096",
         "name": "Vengar a Elia",
-        "text": "<b>Interrupción:</b> cuando se aplique el efecto de Conquista de un reto en el que seas el jugador defensor, elige un adversario. Ese jugador debe satisfacer en tu lugar el efecto habitual de la Conquista como si él fuera el jugador defensor."
+        "text": "<b>Interrupción:</b> cuando se aplique el efecto de Conquista de un reto en el que seas el jugador defensor, elige un adversario. Ese jugador debe satisfacer en tu lugar el efecto habitual de la Conquista como si él fuera el jugador defensor.",
+        "traits": ""
     },
     {
         "code": "02097",

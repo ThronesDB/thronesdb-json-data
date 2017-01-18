@@ -140,19 +140,22 @@
     {
         "code": "03022",
         "name": "Duros como el invierno",
-        "text": "Juega esta carta sólo si hay una carta de Trama de <i>Invierno</i> en tu pila de cartas usadas.\n<b>Reacción:</b> después de que un Personaje [stark] que controles muera o sea sacrificado, pon en juego desde tu mano un Personaje [stark] con coste impreso igual o inferior."
+        "text": "Juega esta carta sólo si hay una carta de Trama de <i>Invierno</i> en tu pila de cartas usadas.\n<b>Reacción:</b> después de que un Personaje [stark] que controles muera o sea sacrificado, pon en juego desde tu mano un Personaje [stark] con coste impreso igual o inferior.",
+        "traits": ""
     },
     {
         "code": "03023",
         "flavor": "\"Cuando cae la nieve y sopla el viento blanco, el lobo solitario muere, pero la manada sobrevive.\" <cite>Eddard Stark</cite>",
         "name": "La manada sobrevive",
-        "text": "<b>Interrupción:</b> cuando vayan a iniciarse los efectos del Evento de un adversario, sacrifica una carta <i>Lobo huargo</i> o arrodilla 2 Personajes [stark] para anular esos efectos."
+        "text": "<b>Interrupción:</b> cuando vayan a iniciarse los efectos del Evento de un adversario, sacrifica una carta <i>Lobo huargo</i> o arrodilla 2 Personajes [stark] para anular esos efectos.",
+        "traits": ""
     },
     {
         "code": "03024",
         "flavor": "\"Tienes que clavarla por el extremo puntiagudo.\" <cite>Jon Nieve</cite>",
         "name": "El regalo de Arya",
-        "text": "<b>Acción:</b> traslada un Accesorio desde un Personaje [stark] que controles hasta otro Personaje válido que controles."
+        "text": "<b>Acción:</b> traslada un Accesorio desde un Personaje [stark] que controles hasta otro Personaje válido que controles.",
+        "traits": ""
     },
     {
         "code": "03025",
@@ -164,7 +167,8 @@
         "code": "03026",
         "flavor": "El Septón Supremo empezó con una plegaria en la que pedía al Padre en las alturas que los guiara hacia la justicia.",
         "name": "Justicia imparcial",
-        "text": "<b>Acción:</b> elige un Personaje que esté en pue controlado por cada jugador. Arrodilla a cada uno de esos Personajes."
+        "text": "<b>Acción:</b> elige un Personaje que esté en pue controlado por cada jugador. Arrodilla a cada uno de esos Personajes.",
+        "traits": ""
     },
     {
         "code": "03027",
@@ -176,7 +180,8 @@
     {
         "code": "03028",
         "name": "Antes de la marea",
-        "text": "<b>Interrupción:</b> cuando compares Iniciativas, tu carta de Trama mostrada recibe un +3 a la Iniciativa hasta el final de la fase. Si ganas la Iniciativa en esta fase, roba 1 carta."
+        "text": "<b>Interrupción:</b> cuando compares Iniciativas, tu carta de Trama mostrada recibe un +3 a la Iniciativa hasta el final de la fase. Si ganas la Iniciativa en esta fase, roba 1 carta.",
+        "traits": ""
     },
     {
         "code": "03029",
@@ -202,7 +207,8 @@
         "code": "03032",
         "flavor": "Todas las hijas del príncipe Oberyn tienen sus ojos de víbora.",
         "name": "Sus ojos de víbora",
-        "text": "<b>Reacción:</b> después de que pierdas un reto de [military] o [power] como jugador defensor, mira la mano del adversario ganador. Luego elige y descarta 1 carta de esa mano."
+        "text": "<b>Reacción:</b> después de que pierdas un reto de [military] o [power] como jugador defensor, mira la mano del adversario ganador. Luego elige y descarta 1 carta de esa mano.",
+        "traits": ""
     },
     {
         "code": "03033",
@@ -226,7 +232,8 @@
     {
         "code": "03036",
         "name": "Vista de dragón",
-        "text": "<b>Acción:</b> cada Personaje participante que no sea <i>Dragón</i> recibe un -1 a su FUE hasta el final del reto."
+        "text": "<b>Acción:</b> cada Personaje participante que no sea <i>Dragón</i> recibe un -1 a su FUE hasta el final del reto.",
+        "traits": ""
     },
     {
         "code": "03037",
@@ -237,7 +244,8 @@
     {
         "code": "03038",
         "name": "¡Por el estandarte de la rosa!",
-        "text": "<b>Acción de Reclutamiento:</b> elige un Personaje [tyrell] que controles. Ganas X de Oro (siendo X igual a la FUE de ese Personaje). Luego sacrifica a ese Personaje."
+        "text": "<b>Acción de Reclutamiento:</b> elige un Personaje [tyrell] que controles. Ganas X de Oro (siendo X igual a la FUE de ese Personaje). Luego sacrifica a ese Personaje.",
+        "traits": ""
     },
     {
         "code": "03039",
@@ -282,7 +290,8 @@
         "code": "03045",
         "flavor": "\"Un regalo adecuado a la Fe persuadirá al Septón Supremo…\" <cite>Tywin Lannister</cite>",
         "name": "Diezmo",
-        "text": "<b>Acción:</b> arrodilla un Personaje neutral para ganar 2 de Oro."
+        "text": "<b>Acción:</b> arrodilla un Personaje neutral para ganar 2 de Oro.",
+        "traits": ""
     },
     {
         "code": "03046",

@@ -20,7 +20,8 @@
     {
         "code": "02024",
         "name": "La rosa de Lady Sansa",
-        "text": "<b>Reacción:</b> después de que ganes un reto en el que controles un Personaje <i>Caballero</i> que esté atacando o defendiendo solo, ese Personaje gana 1 de Poder (3 de Poder si controlas un Personaje <i>Lady</i>). (Máximo 1 por reto.)"
+        "text": "<b>Reacción:</b> después de que ganes un reto en el que controles un Personaje <i>Caballero</i> que esté atacando o defendiendo solo, ese Personaje gana 1 de Poder (3 de Poder si controlas un Personaje <i>Lady</i>). (Máximo 1 por reto.)",
+        "traits": ""
     },
     {
         "code": "02025",
@@ -44,7 +45,8 @@
     {
         "code": "02028",
         "name": "¡Lo ordena vuestro rey!",
-        "text": "Juega esta carta sólo durante un reto [military] en el que seas el jugador defensor.\n<b>Acción:</b> arrodilla tu carta de Facción para finalizar este reto sin que haya ganador ni perdedor. Hasta el final de la fase, no puedes iniciar retos [military]."
+        "text": "Juega esta carta sólo durante un reto [military] en el que seas el jugador defensor.\n<b>Acción:</b> arrodilla tu carta de Facción para finalizar este reto sin que haya ganador ni perdedor. Hasta el final de la fase, no puedes iniciar retos [military].",
+        "traits": ""
     },
     {
         "code": "02029",
@@ -92,7 +94,8 @@
     {
         "code": "02036",
         "name": "En nombre de Doran",
-        "text": "<b>Acción:</b> arrodilla tu carta de Facción para ganar X de Oro. X es el número de cartas de Trama que hay en tu pila de cartas usadas."
+        "text": "<b>Acción:</b> arrodilla tu carta de Facción para ganar X de Oro. X es el número de cartas de Trama que hay en tu pila de cartas usadas.",
+        "traits": ""
     },
     {
         "code": "02037",

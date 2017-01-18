@@ -1,5 +1,9 @@
 [
     {
+        "code": "AMAF",
+        "name": "Todos los hombres son bufones"
+    },
+    {
         "code": "AtSK",
         "name": "A través de los Siete Reinos"
     },
@@ -21,7 +25,7 @@
     },
     {
         "code": "GoH",
-        "name": "Ghosts of Harrenhal"
+        "name": "Fantasmas de Harrenhal"
     },
     {
         "code": "LoCR",
@@ -33,7 +37,7 @@
     },
     {
         "code": "TC",
-        "name": "Tyrion's Chain"
+        "name": "La cadena de Tyrion"
     },
     {
         "code": "TIMC",
@@ -62,5 +66,9 @@
     {
         "code": "WotN",
         "name": "Lobos del Norte"
+    },
+    {
+        "code": "WotW",
+        "name": "Vigilantes del Muro"
     }
 ]

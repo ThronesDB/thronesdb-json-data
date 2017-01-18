@@ -2,22 +2,26 @@
     {
         "code": "00001",
         "name": "The Power of Wealth",
-        "text": "When you announce The Power of Wealth as your agenda, name 1 faction. You may include cards from that faction in your draw deck and plot deck.\nReduce the cost of the first in-faction card you marshal or play each round by 1.\n<b>Draft format only.</b>"
+        "text": "When you announce The Power of Wealth as your agenda, name 1 faction. You may include cards from that faction in your draw deck and plot deck.\nReduce the cost of the first in-faction card you marshal or play each round by 1.\n<b>Draft format only.</b>",
+        "traits": ""
     },
     {
         "code": "00002",
         "name": "Protectors of the Realm",
-        "text": "You may include <i>Knight</i> and <i>Army</i> characters from any faction in your deck.\n<b>Action:</b> Kneel your faction card to choose a <i>Knight</i> or <i>Army</i> character. Until the end of the phase, that character gains renown.\n<b>Draft format only.</b>"
+        "text": "You may include <i>Knight</i> and <i>Army</i> characters from any faction in your deck.\n<b>Action:</b> Kneel your faction card to choose a <i>Knight</i> or <i>Army</i> character. Until the end of the phase, that character gains renown.\n<b>Draft format only.</b>",
+        "traits": ""
     },
     {
         "code": "00003",
         "name": "Treaty",
-        "text": "When you announce Treaty as your agenda, name 2 factions. You may include cards from those factions in your draw deck and plot deck.\n<b>Action:</b> Kneel your faction card to draw 1 card. Then, choose and discard 1 card from your hand.\n<b>Draft format only.</b>"
+        "text": "When you announce Treaty as your agenda, name 2 factions. You may include cards from those factions in your draw deck and plot deck.\n<b>Action:</b> Kneel your faction card to draw 1 card. Then, choose and discard 1 card from your hand.\n<b>Draft format only.</b>",
+        "traits": ""
     },
     {
         "code": "00004",
         "name": "Uniting the Seven Kingdoms",
-        "text": "You may include cards from any faction in your draw deck.\nIncrease the cost of each out-of-faction card you marshal or play by 1.\n<b>Draft format only.</b>"
+        "text": "You may include cards from any faction in your draw deck.\nIncrease the cost of each out-of-faction card you marshal or play by 1.\n<b>Draft format only.</b>",
+        "traits": ""
     },
     {
         "code": "00005",
@@ -46,7 +50,8 @@
     {
         "code": "00009",
         "name": "Compelled by the King",
-        "text": "<b>Reaction:</b> After the dominance phase begins, choose and stand a character you control. If you win dominance this phase, that character gains 1 power.\n<b>Draft format only.</b>"
+        "text": "<b>Reaction:</b> After the dominance phase begins, choose and stand a character you control. If you win dominance this phase, that character gains 1 power.\n<b>Draft format only.</b>",
+        "traits": ""
     },
     {
         "code": "00010",
@@ -63,7 +68,8 @@
     {
         "code": "00012",
         "name": "The Viper's Rage",
-        "text": "<b>Reaction:</b> After you lose a challenge by 5 or more STR as the defending player, each character controlled by the attacking player loses a [military], an [intrigue], and a [power] icon until the end of the phase.\n<b>Draft format only.</b>"
+        "text": "<b>Reaction:</b> After you lose a challenge by 5 or more STR as the defending player, each character controlled by the attacking player loses a [military], an [intrigue], and a [power] icon until the end of the phase.\n<b>Draft format only.</b>",
+        "traits": ""
     },
     {
         "code": "00013",
@@ -80,7 +86,8 @@
     {
         "code": "00015",
         "name": "Deadly Khalasar",
-        "text": "<b>Challenges Action:</b> Choose an attacking [targaryen] character you control. Until the end of the challenge, that character gets +1 STR for each <i>Dothraki</i> character you control and gains intimidate.\n<b>Draft format only.</b>"
+        "text": "<b>Challenges Action:</b> Choose an attacking [targaryen] character you control. Until the end of the challenge, that character gets +1 STR for each <i>Dothraki</i> character you control and gains intimidate.\n<b>Draft format only.</b>",
+        "traits": ""
     },
     {
         "code": "00016",
@@ -103,7 +110,8 @@
     {
         "code": "00019",
         "name": "Muster",
-        "text": "<b>Marshaling Action:</b> Kneel a <i>Knight</i> character to search your deck for a <i>Knight</i> character, reveal it, and add it to your hand. Shuffle your deck.\n<b>Draft format only.</b>"
+        "text": "<b>Marshaling Action:</b> Kneel a <i>Knight</i> character to search your deck for a <i>Knight</i> character, reveal it, and add it to your hand. Shuffle your deck.\n<b>Draft format only.</b>",
+        "traits": ""
     },
     {
         "code": "00020",

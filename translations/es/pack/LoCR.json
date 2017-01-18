@@ -137,17 +137,20 @@
     {
         "code": "05022",
         "name": "Un Lannister siempre paga sus deudas",
-        "text": "<b>Acción de Reto:</b> elige un adversario que haya ganado un reto contra ti en esta fase. Puedes iniciar un reto [military] y otro [intrigue] adicionales contra ese jugador en esta fase. (Máximo 1 por fase.)"
+        "text": "<b>Acción de Reto:</b> elige un adversario que haya ganado un reto contra ti en esta fase. Puedes iniciar un reto [military] y otro [intrigue] adicionales contra ese jugador en esta fase. (Máximo 1 por fase.)",
+        "traits": ""
     },
     {
         "code": "05023",
         "name": "Conspiración insidiosa",
-        "text": "<b>Reacción:</b> después de que se aplique el efecto de Conquista de un reto [intrigue] que hayas ganado por 5 o más de FUE, roba 2 cartas. (4 cartas si el adversario derrotado no tiene cartas en su mano.)"
+        "text": "<b>Reacción:</b> después de que se aplique el efecto de Conquista de un reto [intrigue] que hayas ganado por 5 o más de FUE, roba 2 cartas. (4 cartas si el adversario derrotado no tiene cartas en su mano.)",
+        "traits": ""
     },
     {
         "code": "05024",
         "name": "Rescate audaz",
-        "text": "Juega esta carta sólo si controlas un Personaje <i>Caballero</i>.\n<b>Acción de Reto:</b> devuelve un Personaje que controles a la mano de su propietario. Luego haz que un Personaje <i>Caballero</i> que controles gane 1 de Poder."
+        "text": "Juega esta carta sólo si controlas un Personaje <i>Caballero</i>.\n<b>Acción de Reto:</b> devuelve un Personaje que controles a la mano de su propietario. Luego haz que un Personaje <i>Caballero</i> que controles gane 1 de Poder.",
+        "traits": ""
     },
     {
         "code": "05025",
@@ -185,7 +188,8 @@
         "code": "05030",
         "flavor": "\"¡Elia, dilo, Elia de Dorne!\" <cite>La Víbora Roja</cite>",
         "name": "Mataste a sus hijos",
-        "text": "<b>Acción de Reto:</b> elige un Personaje [martell] que controles. Hasta el final de la fase, la FUE de ese Personaje se duplica. Al final de la fase, si ese Personaje aún sigue en juego, mátalo."
+        "text": "<b>Acción de Reto:</b> elige un Personaje [martell] que controles. Hasta el final de la fase, la FUE de ese Personaje se duplica. Al final de la fase, si ese Personaje aún sigue en juego, mátalo.",
+        "traits": ""
     },
     {
         "code": "05031",

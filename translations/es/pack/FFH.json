@@ -37,7 +37,8 @@
         "code": "04046",
         "flavor": "…ahora empieza mi guardia…",
         "name": "La noche se avecina...",
-        "text": "<b>Acción de Reclutamiento:</b> elige un adversario cuyo valor de Reserva sea inferior al tuyo. Hasta el final de la fase, puedes reclutar Personajes de la pila de descartes de ese jugador como si estuvieran en tu mano."
+        "text": "<b>Acción de Reclutamiento:</b> elige un adversario cuyo valor de Reserva sea inferior al tuyo. Hasta el final de la fase, puedes reclutar Personajes de la pila de descartes de ese jugador como si estuvieran en tu mano.",
+        "traits": ""
     },
     {
         "code": "04047",
@@ -90,7 +91,8 @@
         "code": "04054",
         "flavor": "Jhogo fue el primero en poner el arakh a los pies de Dany.",
         "name": "Sangre de mi sangre",
-        "text": "<b>Acción de Reto:</b> busca en tu mazo un Personaje <i>Jinete de sangre</i> y ponlo en juego. Baraja tu mazo. Al final de la fase, si esa carta aún esta en juego, devuélvela a tu mano."
+        "text": "<b>Acción de Reto:</b> busca en tu mazo un Personaje <i>Jinete de sangre</i> y ponlo en juego. Baraja tu mazo. Al final de la fase, si esa carta aún esta en juego, devuélvela a tu mano.",
+        "traits": ""
     },
     {
         "code": "04055",
@@ -101,7 +103,8 @@
     {
         "code": "04056",
         "name": "La picadura del escorpión",
-        "text": "<b>Reacción:</b> después de que pierdas un reto, elige hasta X Personajes [martell]. Cada uno de esos Personajes gana Renombre hasta el final de la fase. X es el número de cartas de Trama que hay en tu pila de cartas usadas."
+        "text": "<b>Reacción:</b> después de que pierdas un reto, elige hasta X Personajes [martell]. Cada uno de esos Personajes gana Renombre hasta el final de la fase. X es el número de cartas de Trama que hay en tu pila de cartas usadas.",
+        "traits": ""
     },
     {
         "code": "04057",
@@ -120,7 +123,8 @@
         "code": "04059",
         "flavor": "\"He perdido a la mitad de mis hombres. Lo mismo pasa con los caballos. No pienso volver a salir a ese fuego.\" <cite>El Perro</cite>",
         "name": "Disensión",
-        "text": "<b>Acción de Reclutamiento:</b> elige un Personaje <i>Aliado</i> y descártalo del juego."
+        "text": "<b>Acción de Reclutamiento:</b> elige un Personaje <i>Aliado</i> y descártalo del juego.",
+        "traits": ""
     },
     {
         "code": "04060",

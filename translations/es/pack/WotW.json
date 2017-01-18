@@ -1,0 +1,67 @@
+[
+    {
+        "code": "07001",
+        "flavor": "\"There's no shame in fear, my father told me, what matters is how we face it.\"",
+        "name": "Jon Snow",
+        "text": "<b>Reaction:</b> After you win a challenge in which Jon Snow is participating, either: stand each attacking <i>Wildling</i> character, or stand each defending [thenightswatch] character. (Limit once per phase.)",
+        "traits": "Bastard. Steward. Wildling."
+    },
+    {
+        "code": "07003",
+        "flavor": "\"When dead men come hunting in the night, do you think it matters who sits on the Iron Throne?\"",
+        "name": "Old Bear Mormont",
+        "text": "<b>Reaction:</b> After you win a challenge in which Old Bear Mormont is participating, choose a non-unique character in the losing opponent's discard pile, and put it into play under your control.",
+        "traits": "Commander. Lord."
+    },
+    {
+        "code": "07005",
+        "name": "Cotter Pyke",
+        "text": "Stealth.\n<b>Reaction:</b> After Cotter Pyke bypasses a character using stealth, if there is a <i>Winter</i> plot card revealed, choose a [thenightswatch] character and have it gain stealth until the end of the phase.",
+        "traits": "Bastard. Commander. Ironborn."
+    },
+    {
+        "code": "07013",
+        "flavor": "\"The other recruits started out despising him, but he won them over and made friends of them all\" <cite>Jon Snow</cite>",
+        "name": "Satin",
+        "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After Satin is knelt, choose and stand another <i>Steward</i> character. (Limit twice per phase.)",
+        "traits": "Steward."
+    },
+    {
+        "code": "07023",
+        "name": "Now My Watch Begins",
+        "text": "<b>Reaction:</b> After a character with printed cost 5 or lower is placed into an opponent's discard pile, put this character into play under your control.",
+        "traits": ""
+    },
+    {
+        "code": "07037",
+        "flavor": "\"I would gladly take this challenge myself, though I'm not half the swordsman Lord Caron is, or Ser Guyard.\"",
+        "name": "Ser Jon Fossoway",
+        "text": "While Ser Jon Fossoway's STR is 5 or higher, he gains renown.",
+        "traits": "Knight."
+    },
+    {
+        "code": "07039",
+        "flavor": "\"I'll boil the flesh off you and make a byrnie from your ribs. I'll carve your teeth to cast me runes, and eat me oaten porridge from your skull.\"",
+        "name": "Rattleshirt",
+        "text": "While Rattleshirt is attacking alone, each character without attachments cannot be declared as a defender.",
+        "traits": "Wildling."
+    },
+    {
+        "code": "07041",
+        "name": "Crow Killers",
+        "text": "Crow Killers does not kneel when declared as an attacker against an opponent whose reserve value is higher than yours.",
+        "traits": "Wildling."
+    },
+    {
+        "code": "07044",
+        "name": "Scaling the Wall",
+        "text": "<b>Reaction:</b> After you win a challenge in which you control an attacking <i>Wildling</i> character, choose a non-limited location controlled by the losing opponent. Return that location to its owner's hand.",
+        "traits": ""
+    },
+    {
+        "code": "07046",
+        "name": "The Fire That Burns",
+        "text": "Each [thenightswatch] character you control does not kneel when declared as a defender.",
+        "traits": "Winter."
+    }
+]
