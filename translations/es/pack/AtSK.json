@@ -67,7 +67,8 @@
     {
         "code": "04011",
         "name": "Levas en la Roca",
-        "text": "<b>Reacción:</b> después de que un jugador inicie un reto contra ti, traslada hasta X de Oro desde el suministro de Oro de ese jugador hasta el tuyo. X es el número de Personajes atacantes."
+        "text": "<b>Reacción:</b> después de que un jugador inicie un reto contra ti, traslada hasta X de Oro desde el suministro de Oro de ese jugador hasta el tuyo. X es el número de Personajes atacantes.",
+        "traits": ""
     },
     {
         "code": "04012",

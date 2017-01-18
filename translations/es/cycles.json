@@ -1,5 +1,9 @@
 [
     {
+        "code": "bng",
+        "name": "Sangre y Oro"
+    },
+    {
         "code": "core",
         "name": "Caja Básica"
     },
@@ -14,6 +18,10 @@
     {
         "code": "war",
         "name": "Ciclo de la Guerra de los Cinco Reyes"
+    },
+    {
+        "code": "watchers",
+        "name": "Vigilantes del Muro"
     },
     {
         "code": "westeros",

@@ -86,7 +86,8 @@
         "code": "02114",
         "flavor": "Con una erupción de humo y llamas que se elevaron treinta codos hacia el cielo, la pira se derrumbó y cayó sobre ella. Dany, sin el menor temor, avanzó por la tormenta de fuego, llamando a sus hijos.",
         "name": "Pira funeraria",
-        "text": "<b>Reacción:</b> después de que muera un Personaje <i>Lord</i> o <i>Lady</i>, arrodilla tu carta de Facción para robar 3 cartas."
+        "text": "<b>Reacción:</b> después de que muera un Personaje <i>Lord</i> o <i>Lady</i>, arrodilla tu carta de Facción para robar 3 cartas.",
+        "traits": ""
     },
     {
         "code": "02115",

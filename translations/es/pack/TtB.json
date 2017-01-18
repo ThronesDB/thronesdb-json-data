@@ -9,7 +9,8 @@
     {
         "code": "02002",
         "name": "La Guardia necesita hombres",
-        "text": "<b>Acción:</b> nombra un rasgo que sea <i>Constructor</i>, <i>Explorador</i> o <i>Mayordomo</i>. Busca entre las X primeras cartas de tu mazo cualquier número de Personajes que tengan ese rasgo, muéstralos y añádelos a tu mano. Devuelve las demás cartas a tu mazo y barájalo. X es tu valor de Reserva."
+        "text": "<b>Acción:</b> nombra un rasgo que sea <i>Constructor</i>, <i>Explorador</i> o <i>Mayordomo</i>. Busca entre las X primeras cartas de tu mazo cualquier número de Personajes que tengan ese rasgo, muéstralos y añádelos a tu mano. Devuelve las demás cartas a tu mazo y barájalo. X es tu valor de Reserva.",
+        "traits": ""
     },
     {
         "code": "02003",
@@ -101,7 +102,8 @@
     {
         "code": "02017",
         "name": "El apoyo del pueblo",
-        "text": "<b>Reacción:</b> después de que ganes un reto [power] por 5 o más de FUE, busca en tu mazo un Lugar con un coste impreso de 3 o menos y ponlo en juego. Baraja tu mazo. (Máximo 1 por reto.)"
+        "text": "<b>Reacción:</b> después de que ganes un reto [power] por 5 o más de FUE, busca en tu mazo un Lugar con un coste impreso de 3 o menos y ponlo en juego. Baraja tu mazo. (Máximo 1 por reto.)",
+        "traits": ""
     },
     {
         "code": "02018",

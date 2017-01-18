@@ -63,7 +63,8 @@
         "code": "04070",
         "flavor": "Afeitarlo fue lo más cruel que lo pudo hacer Tyrion…",
         "name": "Sin su barba",
-        "text": "<b>Reacción:</b> después de que ganes un reto [intrigue], descarta hasta 3 cartas al azar de la mano del adversario derrotado. Luego ese jugador roba 2 cartas."
+        "text": "<b>Reacción:</b> después de que ganes un reto [intrigue], descarta hasta 3 cartas al azar de la mano del adversario derrotado. Luego ese jugador roba 2 cartas.",
+        "traits": ""
     },
     {
         "code": "04071",
@@ -102,7 +103,8 @@
     {
         "code": "04076",
         "name": "Ardiendo en la arena",
-        "text": "<b>Reacción:</b> después de que pierdas un reto sin oposición, el valor de Conquista de la carta de Trama mostrada por el adversario ganador se reduce a 0 hasta el final del reto."
+        "text": "<b>Reacción:</b> después de que pierdas un reto sin oposición, el valor de Conquista de la carta de Trama mostrada por el adversario ganador se reduce a 0 hasta el final del reto.",
+        "traits": ""
     },
     {
         "code": "04077",

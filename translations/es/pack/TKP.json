@@ -60,7 +60,8 @@
     {
         "code": "02050",
         "name": "Jamás apuesto contra mi familia",
-        "text": "<b>Acción de Reto:</b> arrodilla tu carta de Facción para mostrar las 5 últimas cartas de tu mazo. Puedes poner en juego 1 Personaje [lannister] único que haya sido mostrado por este efecto; devuelve las demás cartas a la parte inferior de tu mazo en el orden que prefieras. Al final de la fase, si esa carta aún sigue en juego, descártala del juego (no puede salvarse)."
+        "text": "<b>Acción de Reto:</b> arrodilla tu carta de Facción para mostrar las 5 últimas cartas de tu mazo. Puedes poner en juego 1 Personaje [lannister] único que haya sido mostrado por este efecto; devuelve las demás cartas a la parte inferior de tu mazo en el orden que prefieras. Al final de la fase, si esa carta aún sigue en juego, descártala del juego (no puede salvarse).",
+        "traits": ""
     },
     {
         "code": "02051",
