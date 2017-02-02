@@ -1,0 +1,28 @@
+[
+    {
+        "code": "06021",
+        "name": "Bear Island Host",
+        "text": "Bestow (3). No attachments.\n<b>Action:</b> Discard 1 gold from Bear Island Host to choose a <i>House Mormont</i> character. Until the end of the phase, that character does not kneel when declared as an attacker in a [military] challenge.",
+        "traits": "Army. House Mormont."
+    },
+    {
+        "code": "06027",
+        "flavor": "\"We choose light or we choose darkness. We choose good or we choose evil. We choose the true god or the false.\"",
+        "name": "Melisandre",
+        "text": "Insight.\n<b>Reaction:</b> After you win dominance, choose an opponent and look at his or her hand. Then, choose and discard 1 card from that hand. If that card is a character, place it in its owner's dead pile.",
+        "traits": "Lady. R'hllor."
+    },
+    {
+        "code": "06028",
+        "flavor": "\"Lead us from the darkness, O my Lord. Fill our hearts with fire, so we may walk your shining path.\"",
+        "name": "Light of the Lord",
+        "text": "[baratheon] or <i>R'hllor</i> character only.\n<b>Reaction:</b> After the dominance phase begins, stand attached character and gain 1 gold.",
+        "traits": "Blessing. R'hllor."
+    },
+    {
+        "code": "06031",
+        "name": "Wex Pyke",
+        "text": "Bestow (8).\nWhile Wex Pyke is attacking, each character with printed cost X cannot be declared as a defender. X is the number of gold Wex Pyke has.\n<b>Dominance Action:</b> Move 1 gold from your gold pool to Wex Pyke. (Limit twice per phase.)",
+        "traits": "Bastard. House Botley."
+    }
+]
