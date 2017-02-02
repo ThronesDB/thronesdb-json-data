@@ -1,5 +1,25 @@
 [
     {
+        "code": "06007",
+        "cost": 3,
+        "deck_limit": 3,
+        "faction_code": "baratheon",
+        "illustrator": null,
+        "is_intrigue": false,
+        "is_loyal": false,
+        "is_military": true,
+        "is_power": true,
+        "is_unique": false,
+        "name": "Fickle Bannerman",
+        "pack_code": "AMAF",
+        "position": 7,
+        "quantity": 3,
+        "strength": 5,
+        "text": "Bestow (2). Renown.\n<b>Forced Reaction:</b> After you lose a [power] challenge, the winning opponent takes control of Fickle Bannerman unless you discard 1 gold from it.",
+        "traits": "Ally.",
+        "type_code": "character"
+    },
+    {
         "code": "06014",
         "cost": 2,
         "deck_limit": 3,
