@@ -1,0 +1,1339 @@
+[
+    {
+        "code": "01001",
+        "name": "A Clash of Kings",
+        "text": "<b>Reaction:</b> After you win a [power] challenge, move 1 power from the losing opponent's faction card to your own.",
+        "traits": "Noble."
+    },
+    {
+        "code": "01002",
+        "name": "A Feast for Crows",
+        "text": "<b>Reaction:</b> After you win dominance, gain 2 power for your faction.",
+        "traits": "Edict."
+    },
+    {
+        "code": "01003",
+        "name": "A Game of Thrones",
+        "text": "A player cannot initiate a [military] or [power] challenge unless he or she has won an [intrigue] challenge that phase.",
+        "traits": "Scheme."
+    },
+    {
+        "code": "01004",
+        "name": "A Noble Cause",
+        "text": "Reduce the cost of the first <i>Lord</i> or <i>Lady</i> character you marshal this round by 2.",
+        "traits": "Kingdom. Noble."
+    },
+    {
+        "code": "01005",
+        "name": "A Storm of Swords",
+        "text": "You may initiate an additional [military] challenge during the challenges phase.",
+        "traits": "War."
+    },
+    {
+        "code": "01006",
+        "name": "Building Orders",
+        "text": "<b>When Revealed:</b> Search the top 10 cards of your deck for an attachment or a location, reveal it, and add it to your hand. Shuffle your deck.",
+        "traits": "Kingdom."
+    },
+    {
+        "code": "01007",
+        "name": "Calling the Banners",
+        "text": "<b>When Revealed:</b> Choose an opponent. Gain 1 gold for each character that player controls.",
+        "traits": "Kingdom."
+    },
+    {
+        "code": "01008",
+        "name": "Calm Over Westeros",
+        "text": "<b>When Revealed:</b> Name a challenge type. Until you reveal a new plot card, reduce the claim value on the attacking player's revealed plot card by 1 during challenges of that type in which you are the defending player.",
+        "traits": "Summer."
+    },
+    {
+        "code": "01009",
+        "name": "Confiscation",
+        "text": "<b>When Revealed:</b> Choose an attachment, and discard it from play.",
+        "traits": "Edict."
+    },
+    {
+        "code": "01010",
+        "name": "Counting Coppers",
+        "text": "<b>When Revealed:</b> Draw 3 cards.",
+        "traits": "Kingdom."
+    },
+    {
+        "code": "01011",
+        "name": "Filthy Accusations",
+        "text": "<b>When Revealed:</b> Choose and kneel a character.",
+        "traits": "Scheme."
+    },
+    {
+        "code": "01012",
+        "name": "Fortified Position",
+        "text": "Treat each character as if its printed text box were blank (except for <i>Traits</i>).",
+        "traits": "Siege. War."
+    },
+    {
+        "code": "01013",
+        "name": "Heads on Spikes",
+        "text": "<b>When Revealed:</b> Choose an opponent. Discard 1 card at random from that player's hand. If that card is a character, gain 2 power for your faction and place the discarded character in its owner's dead pile.",
+        "traits": "Edict. War."
+    },
+    {
+        "code": "01014",
+        "name": "Jousting Contest",
+        "text": "Each player cannot declare more than 1 character as an attacker or defender in each challenge.",
+        "traits": "War."
+    },
+    {
+        "code": "01015",
+        "name": "Marched to the Wall",
+        "text": "<b>When Revealed:</b> Each player chooses a character he or she controls (if able), and discards it from play (cannot be saved).",
+        "traits": "Edict."
+    },
+    {
+        "code": "01016",
+        "name": "Marching Orders",
+        "text": "You cannot marshal locations or attachments, or play events.",
+        "traits": "Edict. War."
+    },
+    {
+        "code": "01017",
+        "name": "Naval Superiority",
+        "text": "Treat the base gold value on each revealed <i>Kingdom</i> and each revealed <i>Edict</i> plot card as if it were 0.",
+        "traits": "Siege. War."
+    },
+    {
+        "code": "01018",
+        "name": "Power Behind the Throne",
+        "text": "<b>When Revealed:</b> Place 1 stand token on Power Behind the Throne.\n<b>Action:</b> Discard 1 stand token from Power Behind the Throne to choose and stand a character.",
+        "traits": "Noble. Scheme."
+    },
+    {
+        "code": "01019",
+        "name": "Rebuilding",
+        "text": "<b>When Revealed:</b> Choose up to 3 cards in your discard pile, and shuffle them into your deck.",
+        "traits": "Kingdom."
+    },
+    {
+        "code": "01020",
+        "name": "Reinforcements",
+        "text": "<b>When Revealed:</b> Choose a character with printed cost 5 or lower in your hand or discard pile, and put it into play.",
+        "traits": "Kingdom. War."
+    },
+    {
+        "code": "01021",
+        "name": "Sneak Attack",
+        "text": "You cannot initiate more than 1 challenge during the challenges phase.",
+        "traits": "Scheme."
+    },
+    {
+        "code": "01022",
+        "name": "Summons",
+        "text": "<b>When Revealed:</b> Search the top 10 cards of your deck for a character, reveal it, and add it to your hand. Shuffle your deck.",
+        "traits": "Kingdom."
+    },
+    {
+        "code": "01023",
+        "name": "Supporting the Faith",
+        "text": "<b>Forced Reaction:</b> After the challenges phase begins, each player returns all gold in his or her gold pool to the treasury.",
+        "traits": "Edict. The Seven."
+    },
+    {
+        "code": "01024",
+        "name": "Taxation",
+        "text": "You may marshal or play 1 additional limited card this round.",
+        "traits": "Edict. Kingdom."
+    },
+    {
+        "code": "01025",
+        "flavor": "A cold wind was blowing out of the north, and it made the trees rustle like living things. All day, Will had felt as though something were watching him, something cold and implacable that loved him not.",
+        "name": "The Winds of Winter",
+        "traits": "Winter."
+    },
+    {
+        "code": "01026",
+        "name": "Wildfire Assault",
+        "text": "<b>When Revealed:</b> Each player chooses up to 3 characters he or she controls. Kill each character not chosen (cannot be saved).",
+        "traits": "Scheme. War."
+    },
+    {
+        "code": "01027",
+        "name": "Fealty",
+        "text": "You cannot include more than 15 neutral cards in your deck.\n<b>Action:</b> Kneel your faction card to reduce the cost of the next loyal card you marshal or play this phase by 1.",
+        "traits": ""
+    },
+    {
+        "code": "01028",
+        "flavor": "\"I did warn you not to trust me.\"",
+        "name": "Littlefinger",
+        "text": "<b>Reaction:</b> After you marshal Littlefinger, draw 2 cards.\n+1 Income.",
+        "traits": "Ally. Lord. Small Council."
+    },
+    {
+        "code": "01029",
+        "flavor": "\"Why is it always the innocents who suffer most, when you high lords play your game of thrones?\"",
+        "name": "Varys",
+        "text": "Stealth.\n<b>Interrupt:</b> When the dominance phase ends, remove Varys from the game to discard each character from play.",
+        "traits": "Lord. Small Council. Spy."
+    },
+    {
+        "code": "01030",
+        "name": "Rattleshirt's Raiders",
+        "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which Rattleshirt's Raiders is participating as an attacker, choose an attachment controlled by the losing opponent, and discard it from play.",
+        "traits": "Raider. Wildling."
+    },
+    {
+        "code": "01031",
+        "name": "Wildling Horde",
+        "text": "No attachments. Pillage.\n<b>Challenges Action:</b> Kneel your faction card to choose a participating Wildling character you control. Until the end of the challenge, that character gets +2 STR.",
+        "traits": "Army. Wildling."
+    },
+    {
+        "code": "01032",
+        "flavor": "The king eats, they say, and the Hand takes the shit.\" <cite>Robert Baratheon</cite>",
+        "name": "Seal of the Hand",
+        "text": "<i>Lord</i> or <i>Lady</i> character only.\n<b>Action:</b> Kneel Seal of the Hand to stand attached character.",
+        "traits": "Item."
+    },
+    {
+        "code": "01033",
+        "name": "Bodyguard",
+        "text": "<i>Lord</i> or <i>Lady</i> character only.\n<b>Interrupt:</b> When attached character would be killed or discarded from play, sacrifice Bodyguard to save that character.",
+        "traits": "Condition."
+    },
+    {
+        "code": "01034",
+        "flavor": "\"He has informants everywhere. His little birds, he calls them.\" <cite>Littlefinger</cite>",
+        "name": "Little Bird",
+        "text": "Attached character gains an [intrigue] icon.",
+        "traits": "Condition."
+    },
+    {
+        "code": "01035",
+        "flavor": "By the time the maester removed the funnel from his mouth, he was already spiralling back to sleep.",
+        "name": "Milk of the Poppy",
+        "text": "Terminal.\nTreat attached character's printed text box as if it were blank (except for <i>Traits</i>).",
+        "traits": "Condition."
+    },
+    {
+        "code": "01036",
+        "flavor": "What had Jon Arryn wanted with a king's bastard, and why was it worth his life?",
+        "name": "Noble Lineage",
+        "text": "Attached character gains a [power] icon.",
+        "traits": "Condition."
+    },
+    {
+        "code": "01037",
+        "flavor": "\"Now we will begin the dance.\" <cite>Syrio Forel</cite>",
+        "name": "Syrio's Training",
+        "text": "Attached character gains a [military] icon.",
+        "traits": "Condition. Skill."
+    },
+    {
+        "code": "01038",
+        "flavor": "\"…it is a monstruous uncomfortable chair. In more ways than one.\" <cite>Robert Baratheon</cite>",
+        "name": "The Iron Throne",
+        "text": "The Iron Throne contributes 8 STR to your total for dominance.\n+1 Reserve.",
+        "traits": "King's Landing."
+    },
+    {
+        "code": "01039",
+        "name": "The Kingsroad",
+        "text": "Limited.\n<b>Marshaling Action:</b> Kneel and sacrifice The Kingsroad to reduce the cost of the next character you marshal this phase by 3.\n+1 Initiative.",
+        "traits": "Westeros."
+    },
+    {
+        "code": "01040",
+        "name": "The Roseroad",
+        "text": "Limited.\n+1 Income.",
+        "traits": "Westeros."
+    },
+    {
+        "code": "01041",
+        "name": "Put to the Sword",
+        "text": "<b>Reaction:</b> After you win a [military] challenge by 5 or more STR as the attacking player, choose and kill a character controlled by the losing opponent. (Max 1 per challenge.)",
+        "traits": ""
+    },
+    {
+        "code": "01042",
+        "name": "Put to the Torch",
+        "text": "<b>Reaction:</b> After you win a [military] challenge by 5 or more STR as the attacking player, choose a location controlled by the losing opponent, and discard it from play. (Max 1 per challenge.)",
+        "traits": ""
+    },
+    {
+        "code": "01043",
+        "name": "Superior Claim",
+        "text": "<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, gain 2 power for your faction. (Max 1 per challenge.)",
+        "traits": ""
+    },
+    {
+        "code": "01044",
+        "name": "Tears of Lys",
+        "text": "<b>Reaction:</b> After you win an [intrigue] challenge as the attacking player, place a poison token on a character without an [intrigue] icon controlled by the losing opponent. At the end of the phase, if that character still has the poison token, remove it and kill that character. (Max 1 per challenge.)",
+        "traits": "Poison."
+    },
+    {
+        "code": "01045",
+        "name": "The Hand's Judgment",
+        "text": "<b>Interrupt:</b> When the effects of an opponent's event would initiate, cancel those effects. X is that event's printed cost.",
+        "traits": ""
+    },
+    {
+        "code": "01046",
+        "name": "Maester Cressen",
+        "text": "<b>Marshaling Action:</b> Kneel Maester Cressen to choose a <i>Condition</i> attachment, and discard it from play.",
+        "traits": "Maester."
+    },
+    {
+        "code": "01047",
+        "flavor": "\"It is not the foes who curse you to your face that you must fear, but those who smile when you are looking and sharpen their knives when you turn your back.\"",
+        "name": "Melisandre",
+        "text": "<b>Reaction:</b> After you marshal or play a <i>R'hllor</i> card, choose and kneel a character. (Limit once per round.)",
+        "traits": "Lady. R'hllor."
+    },
+    {
+        "code": "01048",
+        "flavor": "\"Fat? Fat, is it? Is that how your speak to your king? Ah, damn you, Ned, why are you always right?\"",
+        "name": "Robert Baratheon",
+        "text": "Intimidate. Renown.\nRobert Baratheon gets +1 STR for each other kneeling character in play.",
+        "traits": "King. Lord."
+    },
+    {
+        "code": "01049",
+        "name": "Selyse Baratheon",
+        "text": "<b>Challenges Action:</b> Pay 1 gold to choose a [baratheon] character. Until the end of the phase, that character gains an [intrigue] icon.",
+        "traits": "House Florent. Lady. R'hllor."
+    },
+    {
+        "code": "01050",
+        "flavor": "\"King Stannis is my god. He made me and blessed me with his trust.\"",
+        "name": "Ser Davos Seaworth",
+        "text": "Stealth.\n<b>Interrupt:</b> When Ser Davos Seaworth is killed, return him to your hand instead of placing him in your dead pile.",
+        "traits": "Knight. Smuggler."
+    },
+    {
+        "code": "01051",
+        "flavor": "\"The grey death sleeps, only to wake again. The child is not clean!” <cite>Val</cite>",
+        "name": "Shireen Baratheon",
+        "text": "<b>Interrupt:</b> When Shireen Baratheon is killed, choose and kneel a character.",
+        "traits": "Lady."
+    },
+    {
+        "code": "01052",
+        "flavor": "\"I shall bring justice to Westeros.\"",
+        "name": "Stannis Baratheon",
+        "text": "Each player cannot stand more than 2 characters during the standing phase.",
+        "traits": "Lord. Small Council."
+    },
+    {
+        "code": "01053",
+        "flavor": "\"The seed is strong, he told me. His last words. He kept saying Robert's name, and he grabbed my arm so hard he left marks. Tell them, the seed is strong.\" <cite>Lysa Arryn</cite>",
+        "name": "Bastard in Hiding",
+        "traits": "Bastard."
+    },
+    {
+        "code": "01054",
+        "flavor": "\"The red priests have a great temple on Lys. Always they are burning this and burning that, crying out to their R'hllor. They bore me with their fires. Soon they will bore King Stannis too, it is to be hoped.\" <cite>Salladhor Saan</cite>",
+        "name": "Fiery Followers",
+        "text": "<b>Reaction:</b> After the dominance phase begins, stand Fiery Followers.",
+        "traits": "R'hllor."
+    },
+    {
+        "code": "01055",
+        "flavor": "“Three of my men were cut down like dogs not a league from where we sit, and what does Robert do? He goes hunting.\" <cite>Eddard Stark</cite>",
+        "name": "King's Hunting Party",
+        "text": "No attachments.\nWhile an opponent controls a King character, King's Hunting Party gains an [intrigue] icon .",
+        "traits": "Army."
+    },
+    {
+        "code": "01056",
+        "name": "Dragonstone Faithful",
+        "text": "<b>Marshaling Action:</b> Kneel Dragonstone Faithful to reduce the cost of the next [baratheon] character you marshal this phase by 1.",
+        "traits": "Ally."
+    },
+    {
+        "code": "01057",
+        "name": "Vanguard Lancer",
+        "text": "<b>Reaction:</b> After Vanguard Lancer enters play, choose an opponent's character or faction card, and discard 1 power from that card.",
+        "traits": "House Florent. Knight."
+    },
+    {
+        "code": "01058",
+        "name": "Lightbringer",
+        "text": "[baratheon] character only.\nIf attached character is Stannis Baratheon, he gains renown.\n<b>Reaction:</b> After attached character gains 1 or more power, stand it. (Limit once per phase.)",
+        "traits": "R'hllor. Weapon."
+    },
+    {
+        "code": "01059",
+        "name": "Dragonstone Port",
+        "text": "Limited.\n<b>Marshaling Action:</b> Kneel Dragonstone Port to reduce the cost of the next [baratheon] card you marshal this phase by 1.",
+        "traits": "Dragonstone."
+    },
+    {
+        "code": "01060",
+        "name": "Chamber of the Painted Table",
+        "text": "<b>Reaction:</b> After you win dominance, kneel Chamber of the Painted Table to move 1 power from an opponent's faction card to your own.",
+        "traits": "Dragonstone."
+    },
+    {
+        "code": "01061",
+        "name": "The Red Keep",
+        "text": "The Red Keep contributes 2 STR to your side during any [power] challenge in which you control a participating character.\n<b>Interrupt:</b> When the challenges phase ends, if you have not lost a [power] challenge this round, kneel The Red Keep to draw 2 cards.",
+        "traits": "King's Landing."
+    },
+    {
+        "code": "01062",
+        "name": "Consolidation of Power",
+        "text": "<b>Marshaling Action:</b> Choose and kneel up to 4 total STR worth of characters controlled by the same player. Then, choose one of those characters, and have it gain 1 power.",
+        "traits": ""
+    },
+    {
+        "code": "01063",
+        "name": "Ours is the Fury",
+        "text": "Play only during a challenge in which you are the defending player.\n<b>Action:</b> Choose a kneeling [baratheon] character you control. That character is now participating as a defender. If you win this challenge, stand that character.",
+        "traits": ""
+    },
+    {
+        "code": "01064",
+        "name": "Seen In Flames",
+        "text": "Play only if you control a <i>R'hllor</i> character.\n<b>Challenges Action:</b> Choose an opponent, and look at his or her hand. Then, choose and discard 1 card from that hand.",
+        "traits": "R'hllor."
+    },
+    {
+        "code": "01065",
+        "flavor": "\"What is dead may never die, but rises again, harder and stronger.\"",
+        "name": "Aeron Damphair",
+        "text": "<b>Reaction:</b> After you win dominance, put an <i>Ironborn</i> character into play from your dead pile.",
+        "traits": "Drowned God. Ironborn. Lord."
+    },
+    {
+        "code": "01066",
+        "flavor": "Alannys never had the sort of beauty the singers cherished, but her daughter had loved her fierce strong face and the laughter in her eyes.",
+        "name": "Alannys Greyjoy",
+        "text": "While you are the first player, reduce the reserve value on each opponent's revealed plot card by 1.",
+        "traits": "House Harlaw. Lady."
+    },
+    {
+        "code": "01067",
+        "flavor": "\"I am Asha of House Greyjoy, aye. Opinions differ on whether I'm a lady.\"",
+        "name": "Asha Greyjoy",
+        "text": "Stealth.\n<b>Reaction:</b> After you win an unopposed challenge in which Asha Greyjoy is participating, stand her.",
+        "traits": "Ironborn. Lady."
+    },
+    {
+        "code": "01068",
+        "flavor": "\"I am the Greyjoy, Lord Reaper of Pyke, King of Salt and Rock, Son of the Sea Wind, and no man gives me a crown. I pay the iron price.\"",
+        "name": "Balon Greyjoy",
+        "text": "Renown.\nWhile Balon Greyjoy is attacking, each defending character with a lower STR than his does not contribute its STR to that challenge.",
+        "traits": "Ironborn. Lord."
+    },
+    {
+        "code": "01069",
+        "flavor": "\"The Crow's Eye worships naught but his own pride.\" <cite>Aeron Damphair</cite>",
+        "name": "Euron Crow's Eye",
+        "text": "Pillage. Renown.\n<b>Reaction:</b> After Euron Crow's Eye discards a card using pillage, put a location from the losing opponent's discard pile into play under your control.",
+        "traits": "Ironborn. Lord. Raider."
+    },
+    {
+        "code": "01070",
+        "flavor": "He wore about his neck a chain of many metals that marked him for a master of the Citadel.",
+        "name": "Maester Wendamyr",
+        "text": "Stealth.",
+        "traits": "Maester."
+    },
+    {
+        "code": "01071",
+        "flavor": "\"Only a fool humbles himself when the world is so full of men eager to do that job for him.\"",
+        "name": "Theon Greyjoy",
+        "text": "Stealth.\n<b>Reaction:</b> After you win an unopposed challenge in which Theon Greyjoy is participating, he gains 1 power.",
+        "traits": "Ally. Ironborn. Lord."
+    },
+    {
+        "code": "01072",
+        "name": "Black Wind's Crew",
+        "text": "Pillage.",
+        "traits": "Ironborn. Raider."
+    },
+    {
+        "code": "01073",
+        "name": "Drowned Men",
+        "text": "No attachments.\nDrowned Men gets +1 STR for each <i>Warship</i> location you control.",
+        "traits": "Army. Drowned God."
+    },
+    {
+        "code": "01074",
+        "name": "Iron Islands Fishmonger",
+        "text": "<b>Marshaling Action:</b> Kneel Iron Islands Fishmonger to reduce the cost of the next [greyjoy] character you marshal this phase by 1.",
+        "traits": "Ally. Merchant."
+    },
+    {
+        "code": "01075",
+        "name": "Lordsport Shipwright",
+        "text": "<b>Marshaling Action:</b> Kneel Lordsport Shipwright to choose and kneel a location with printed cost 2 or lower. (Printed cost 3 or lower instead if you are the first player.)",
+        "traits": "Ally. Ironborn."
+    },
+    {
+        "code": "01076",
+        "flavor": "No man ever truly knows what he can do unless he dares to leap.\" <cite>Euron Crow's Eye</cite>",
+        "name": "Salty Navigator",
+        "text": "+1 Initiative.",
+        "traits": "Ironborn."
+    },
+    {
+        "code": "01077",
+        "name": "Throwing Axe",
+        "text": "<i>Ironborn</i> character only.\n<b>Reaction:</b> After you win a challenge in which attached character is participating as an attacker, sacrifice Throwing Axe to choose and kill a defending character.",
+        "traits": "Weapon."
+    },
+    {
+        "code": "01078",
+        "name": "Great Kraken",
+        "text": "While you control Balon Greyjoy, he gains stealth.\n<b>Reaction:</b> After you win an unopposed challenge, either: draw 1 card, or gain 1 power for your faction. (Limit twice per round.)",
+        "traits": "Warship."
+    },
+    {
+        "code": "01079",
+        "name": "Iron Fleet Scout",
+        "text": "<b>Challenges Action:</b> Kneel Iron Fleet Scout to choose a participating [greyjoy] character. Until the end of the challenge, that character gets +1 STR. (+2 STR instead if you are the first player.)",
+        "traits": "Warship."
+    },
+    {
+        "code": "01080",
+        "name": "Sea Tower",
+        "text": "Limited.\n<b>Marshaling Action:</b> Kneel Sea Tower to reduce the cost of the next [greyjoy] card you marshal this phase by 1.",
+        "traits": "Iron Islands."
+    },
+    {
+        "code": "01081",
+        "name": "Risen from the Sea",
+        "text": "<b>Interrupt:</b> When a [greyjoy] character would be killed, save it. Then, attach Risen from the Sea to that character as a <i>Condition</i> attachment with the text: \"Terminal. Attached character gets +1 STR.\"",
+        "traits": ""
+    },
+    {
+        "code": "01082",
+        "name": "The Kraken's Grasp",
+        "text": "Play only if you are the first player.\n<b>Challenges Action:</b> Choose a defending character with STR 5 or lower. That character does not contribute is STR to this challenge.",
+        "traits": ""
+    },
+    {
+        "code": "01083",
+        "name": "We Do Not Sow",
+        "text": "<b>Reaction:</b> After you win an unopposed challenge, choose an attachment or location controlled by the losing opponent, and discard it from play. (Max 1 per challenge.)",
+        "traits": ""
+    },
+    {
+        "code": "01084",
+        "flavor": "\"Love is poison. A sweet poison, but it will kill you all the same.\"",
+        "name": "Cersei Lannister",
+        "text": "While Cersei Lannister is attacking during an [intrigue] challenge, raise the claim value on your revealed plot card by 1.",
+        "traits": "Lady. Queen."
+    },
+    {
+        "code": "01085",
+        "flavor": "\"All I did, I did for House Lannister.\"",
+        "name": "Grand Maester Pycelle",
+        "text": "Insight.",
+        "traits": "Maester. Small Council."
+    },
+    {
+        "code": "01086",
+        "flavor": "\"My son. How could I have made a son like that, Ned?\" <cite>Robert Baratheon</cite>",
+        "name": "Joffrey Baratheon",
+        "text": "<b>Reaction:</b> After a <i>Lord</i> or <i>Lady</i> character is killed, Joffrey Baratheon gains 1 power. (Limit 3 times per round.)",
+        "traits": "Lord."
+    },
+    {
+        "code": "01087",
+        "flavor": "\"There are no men like me. There's only me.\"",
+        "name": "Ser Jaime Lannister",
+        "text": "Ser Jaime Lannister does not kneel when declared as an attacker in a [military] challenge, and gains renown while participating in a [military] challenge.",
+        "traits": "Knight. Lord."
+    },
+    {
+        "code": "01088",
+        "flavor": "\"Tickler makes them howl so hard they piss themselves.\" <cite>Chiswyck</cite>",
+        "name": "The Tickler",
+        "text": "<b>Dominance Action:</b> Kneel The Tickler to discard the top card of an opponent's deck. Then, you may choose 1 copy of that card, and discard it from play.",
+        "traits": "Ally."
+    },
+    {
+        "code": "01089",
+        "flavor": "\"When you tear out a man's tongue, you are not proving him a liar, you're only telling the world that you fear what he might say.\"",
+        "name": "Tyrion Lannister",
+        "text": "Stealth.\n<b>Reaction:</b> After an [intrigue] challenge is initiated, gain 2 gold. (Limit twice per round.)",
+        "traits": "Lord."
+    },
+    {
+        "code": "01090",
+        "name": "Tywin Lannister",
+        "text": "Renown.\nTywin Lannister gets +1 STR for each gold in your gold pool.\n+2 Income.",
+        "traits": "Lord."
+    },
+    {
+        "code": "01091",
+        "flavor": "Every clan in the Mountains of the Moon feared the Burned Men, who mortified their flesh with fire to prove their courage.",
+        "name": "Burned Men",
+        "text": "Ambush (2).",
+        "traits": "Clansman."
+    },
+    {
+        "code": "01092",
+        "name": "Gold Cloaks",
+        "text": "Ambush (2).\n<b>Forced Interrupt:</b> When a phase ends in which Gold Cloaks entered play using ambush, discard it from play (cannot be saved).",
+        "traits": "Ally. Army."
+    },
+    {
+        "code": "01093",
+        "name": "Lannisport Moneylender",
+        "text": "Limited.\n+1 Income.",
+        "traits": "Merchant."
+    },
+    {
+        "code": "01094",
+        "name": "Lannisport Merchant",
+        "text": "<b>Marshaling Action:</b> Kneel Lannisport Merchant to reduce the cost of the next [lannister] character you marshal this phase by 1.",
+        "traits": "Ally. Steward."
+    },
+    {
+        "code": "01095",
+        "name": "The Queen's Assassin",
+        "text": "Ambush (4).\n<b>Reaction:</b> After The Queen's Assassin enters play using ambush, choose an opponent. If you have more cards in hand than that player, he or she must choose and kill a character he or she controls.",
+        "traits": "Spy."
+    },
+    {
+        "code": "01096",
+        "name": "Widow's Wail",
+        "text": "Ambush (1).\nAttached character gets +2 STR.\nIf attached character is Joffrey Baratheon, he gains a [military] icon.",
+        "traits": "Valyrian Steel. Weapon."
+    },
+    {
+        "code": "01097",
+        "flavor": "\"They say there is naught but stone at the heart of Casterly Rock.\" <cite>Catelyn Stark</cite>",
+        "name": "Casterly Rock",
+        "text": "You may initiate an additional [intrigue] challenge during the challenges phase.",
+        "traits": "Stronghold. The Westerlands."
+    },
+    {
+        "code": "01098",
+        "name": "Lannisport",
+        "text": "<b>Reaction:</b> After you win an [intrigue] challenge, draw 1 card.",
+        "traits": "The Westerlands."
+    },
+    {
+        "code": "01099",
+        "name": "Western Fiefdom",
+        "text": "Limited.\n<b>Marshaling Action:</b> Kneel Western Fiefdom to reduce the cost of the next [lannister] card you marshal this phase by 1.",
+        "traits": "The Westerlands."
+    },
+    {
+        "code": "01100",
+        "name": "Hear Me Roar!",
+        "text": "<b>Action:</b> Put a [lannister] character into play from your hand. At the end of the phase, if that card is still in play, discard it from play (cannot be saved).",
+        "traits": ""
+    },
+    {
+        "code": "01101",
+        "name": "The Things I Do For Love",
+        "text": "Play only if you control a [lannister] <i>Lord</i> or <i>Lady</i> character.\n<b>Challenges Action:</b> Kneel your faction card to choose a character with printed cost X or lower controlled by an opponent, and return it to its owner's hand.",
+        "traits": ""
+    },
+    {
+        "code": "01102",
+        "name": "Treachery",
+        "text": "Play only if you control a unique [lannister] character.\n<b>Interrupt:</b> When the effects of a triggered character, location, or attachment ability would initiate, cancel those effects.",
+        "traits": ""
+    },
+    {
+        "code": "01103",
+        "flavor": "\"Someone told. Someone always tells.\"",
+        "name": "Areo Hotah",
+        "text": "Ambush (5).\n<b>Reaction:</b> After Areo Hotah enters play during a challenge, choose a participating character, and remove it from the challenge.",
+        "traits": "Guard."
+    },
+    {
+        "code": "01104",
+        "name": "Arianne Martell",
+        "text": "<b>Action:</b> Put a character with printed cost 5 or lower into play from your hand. Then, return Arianne Martell to your hand (cannot be saved). (Limit once per phase.)",
+        "traits": "Lady."
+    },
+    {
+        "code": "01105",
+        "flavor": "\"Who fears to walk upon the grass? But it is the grass that hides the viper from his enemies and shelters him until he strikes.\"",
+        "name": "Doran Martell",
+        "text": "Insight.\nEach other [martell] <i>Lord</i> and <i>Lady</i> character you control gets +1 STR for each plot card in your used pile.",
+        "traits": "Lord."
+    },
+    {
+        "code": "01106",
+        "name": "Edric Dayne",
+        "text": "Stealth.\n<b>Action:</b> Pay 1 gold to give Edric Dayne a challenge icon of your choice until the end of the phase.",
+        "traits": "Brotherhood. House Dayne. Lord."
+    },
+    {
+        "code": "01107",
+        "name": "Maester Caleotte",
+        "text": "<b>Reaction:</b> After you lose a challenge in which Maester Caleotte is participating, choose a character. That character loses a challenge icon of your choice until the end of the phase.",
+        "traits": "Maester."
+    },
+    {
+        "code": "01108",
+        "flavor": "\"Cersei sent us a head. We should send her back a bag of them.\"",
+        "name": "Obara Sand",
+        "text": "Obara Sand may be declared as a defender during [power] challenges in which you are the defending player, even while kneeling.",
+        "traits": "Bastard. Sand Snake."
+    },
+    {
+        "code": "01109",
+        "flavor": "\"Oberyn was ever the viper. Deadly, dangerous, unpredictable. No man dared tread on him.\" <cite>Doran Martell</cite>",
+        "name": "The Red Viper",
+        "text": "<b>Reaction:</b> After you win a challenge in which The Red Viper is participating as an attacker, he gains 1 power for every 5 STR by which you won the challenge.",
+        "traits": "Lord."
+    },
+    {
+        "code": "01110",
+        "name": "Desert Scavenger",
+        "text": "<b>Marshaling Action:</b> Kneel Desert Scavenger to reduce the cost of the next [martell] character you marshal this phase by 1.",
+        "traits": "Ally."
+    },
+    {
+        "code": "01111",
+        "name": "Dornish Paramour",
+        "text": "<b>Reaction:</b> After Dornish Paramour is declared as an attacker, choose a character controlled by the defending player. That character must be declared as a defender for this challenge, if able.",
+        "traits": "Companion."
+    },
+    {
+        "code": "01112",
+        "name": "Greenblood Trader",
+        "text": "<b>Reaction:</b> After Greenblood Trader enters play, look at the top 2 cards of your deck. Add up to 1 of those cards to your hand, and place the others on the bottom of your deck in any order.",
+        "traits": "Ally."
+    },
+    {
+        "code": "01113",
+        "flavor": "They came astride red horses and golden ones and a few as pale as snow...",
+        "name": "House Dayne Knight",
+        "traits": "House Dayne. Knight."
+    },
+    {
+        "code": "01114",
+        "name": "Palace Spearman",
+        "text": "No attachments.\nWhile you are not the first player, Palace Spearman gains an [intrigue] icon.",
+        "traits": "Guard."
+    },
+    {
+        "code": "01115",
+        "name": "Dawn",
+        "text": "Attached character gets +1 STR for each plot card in your used pile.\nWhile attached character has the <i>House Dayne</i> trait, it gains intimidate.",
+        "traits": "Weapon."
+    },
+    {
+        "code": "01116",
+        "name": "Ghaston Grey",
+        "text": "<b>Reaction:</b> After you lose a challenge as the defending player, kneel and sacrifice Ghaston Grey to return an attacking character to its owner's hand (cannot be saved).",
+        "traits": "Dorne."
+    },
+    {
+        "code": "01117",
+        "name": "Sunspear",
+        "text": "<b>Reaction:</b> After you lose a challenge as the defending player, kneel Sunspear to raise the claim value on your revealed plot card by 1 during challenges of this same type until the end of the phase.",
+        "traits": "Dorne."
+    },
+    {
+        "code": "01118",
+        "name": "Blood Orange Grove",
+        "text": "Limited.\n<b>Marshaling Action:</b> Kneel Blood Orange Grove to reduce the cost of the next [martell] card you marshal this phase by 1.",
+        "traits": "Dorne."
+    },
+    {
+        "code": "01119",
+        "name": "Doran's Game",
+        "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, gain X power for your faction. X is the number of plot cards in your used pile. (Max 1 per challenge.)",
+        "traits": ""
+    },
+    {
+        "code": "01120",
+        "name": "Unbowed, Unbent, Unbroken",
+        "text": "Play only if you are not the first player.\n<b>Reaction:</b> After you lose a challenge as the defending player, name a challenge type. Until the end of the phase, the winner of the challenge cannot initiate challenges of that type. (Max 1 per challenge.)",
+        "traits": ""
+    },
+    {
+        "code": "01121",
+        "name": "Confinement",
+        "text": "<b>Action:</b> Choose a character with STR 4 or lower. Until the end of the phase, that character loses a [military], an [intrigue], and a [power] icon.",
+        "traits": ""
+    },
+    {
+        "code": "01122",
+        "name": "Benjen Stark",
+        "text": "Each <i>Ranger</i> character you control cannot be bypassed by stealth.\n<b>Interrupt:</b> When Benjen Stark is killed, gain 2 power for your faction. Then, shuffle him back into your deck instead of placing him in your dead pile.",
+        "traits": "Ranger."
+    },
+    {
+        "code": "01123",
+        "flavor": "\"He's not like the others. He never makes a sound. That's why I named him Ghost.”\n <cite>Jon Snow</cite>",
+        "name": "Ghost",
+        "text": "No attachments. Stealth.\n<b>Reaction:</b> After Ghost bypasses a character using stealth, that character cannot be declared as a defender for any challenges until the end of the phase.",
+        "traits": "Direwolf."
+    },
+    {
+        "code": "01124",
+        "flavor": "\"Different roads sometimes lead to the same castle.\"",
+        "name": "Jon Snow",
+        "text": "No attachments except <i>Weapon</i>.\nWhile Jon Snow is standing, he is considered to be participating in each challenge in which you control another attacking [thenightswatch] character.",
+        "traits": "Bastard. Steward."
+    },
+    {
+        "code": "01125",
+        "flavor": "\"Kill the boy, Jon Snow. Winter is almost upon us. Kill the boy and let the man be born.\"",
+        "name": "Maester Aemon",
+        "text": "No attachments.\n<b>Interrupt:</b> When a [thenightswatch] character would be killed, kneel Master Aemon to save it.",
+        "traits": "Maester. Steward."
+    },
+    {
+        "code": "01126",
+        "flavor": "\"The things we love destroy us every time, lad. Remember that.\"",
+        "name": "Old Bear Mormont",
+        "text": "While you control The Wall, Old Bear Mormont does not kneel when declared as a defender.\n<b>Interrupt:</b> When the challenges phase ends, if you have not lost a challenge as the defending player this phase, put a [thenightswatch] card into play from your hand.",
+        "traits": "Commander. Lord."
+    },
+    {
+        "code": "01127",
+        "flavor": "The world was full of cravens who pretended to be heroes; it took a queer sort of courage to admit to cowardice as Samwell Tarly had.",
+        "name": "Samwell Tarly",
+        "text": "Insight.\n+1 Reserve.",
+        "traits": "Steward."
+    },
+    {
+        "code": "01128",
+        "flavor": "\"Do the dead frighten you?\"",
+        "name": "Ser Waymar Royce",
+        "text": "No attachments except <i>Weapon</i>.\n<b>Interrupt:</b> When Ser Waymar Royce is killed, discard 1 card at random from each opponent's hand.",
+        "traits": "Knight. Ranger."
+    },
+    {
+        "code": "01129",
+        "flavor": "\"I got thirty this time, men and boys all bound for the Wall…\"",
+        "name": "Yoren",
+        "text": "<b>Reaction:</b> After you marshal Yoren, choose a character with printed cost 3 or lower in an opponent's discard pile, and put it into play under your control.",
+        "traits": "Wandering Crow."
+    },
+    {
+        "code": "01130",
+        "name": "Messenger Raven",
+        "text": "No attachments.\n<b>Dominance Action:</b> Return Messenger Raven to your hand to draw 1 card.",
+        "traits": "Raven."
+    },
+    {
+        "code": "01131",
+        "name": "Old Forest Hunter",
+        "text": "No attachments except <i>Weapon</i>.\n<b>Action:</b> Discard 1 card from your hand to gain 1 gold. (Limit once per phase.)",
+        "traits": "Ranger."
+    },
+    {
+        "code": "01132",
+        "flavor": "We have a long ride before us. Eight days, maybe nine. And night is falling.\" <cite>Gared of the Night's Watch</cite>",
+        "name": "Ranging Party",
+        "text": "No attachments except <i>Weapon</i>.",
+        "traits": "Army. Ranger."
+    },
+    {
+        "code": "01133",
+        "flavor": "\"We hunt and farm, tend the horses, milk the cows, gather firewood, cook the meals. Who do you think makes your clothing? Who brings up supplies from the south? The stewards.\" <cite>Chett</cite>",
+        "name": "Steward at the Wall",
+        "text": "<b>Marshaling Action:</b> Kneel Steward at the Wall to reduce the cost of the next [thenightswatch] character you marshal this phase by 1.",
+        "traits": "Ally. Steward."
+    },
+    {
+        "code": "01134",
+        "name": "Veteran Builder",
+        "text": "No attachments except <i>Weapon</i>.\n<b>Action:</b> Sacrifice Veteran Builder to choose and stand a location.",
+        "traits": "Builder."
+    },
+    {
+        "code": "01135",
+        "flavor": "\"I use Longclaw when I must, ser.\" <cite>Jon Snow</cite>",
+        "name": "Longclaw",
+        "text": "[thenightswatch] character only.\nAttached character gets +1 STR and gains renown.",
+        "traits": "Valyrian Steel. Weapon."
+    },
+    {
+        "code": "01136",
+        "name": "Castle Black",
+        "text": "<b>Action:</b> Kneel Castle Black to choose and stand a defending [thenightswatch] character. Until the end of the challenge, that character gets +2 STR.",
+        "traits": "The North."
+    },
+    {
+        "code": "01137",
+        "name": "The Wall",
+        "text": "Each [thenightswatch] character you control gets +1 STR.\n<b>Forced Reaction:</b> After you lose an unopposed challenge, kneel The Wall.\n<b>Interrupt:</b> When the challenges phase ends, kneel The Wall to gain 2 power for your faction.",
+        "traits": "Stronghold. The North."
+    },
+    {
+        "code": "01138",
+        "flavor": "\"The Night's Watch is not proud. We take what is offered.\" <cite>Old Bear Mormont</cite>",
+        "name": "A Meager Contribution",
+        "text": "<b>Reaction:</b> After an opponent collects income, move 1 gold from that player's gold pool to your own. (Max 1 per round.)",
+        "traits": ""
+    },
+    {
+        "code": "01139",
+        "flavor": "\"I pledge my life and honor to the Night's Watch, for this night and all the nights to come.\" <cite>from the Night's Watch vow</cite>",
+        "name": "Take the Black",
+        "text": "<b>Dominance Action:</b> Choose a non-unique character with printed cost 6 or lower. Take control of that character. (Max 1 per round.)",
+        "traits": ""
+    },
+    {
+        "code": "01140",
+        "name": "The Sword in the Darkness",
+        "text": "Play only during a challenge in which you control a participating [thenightswatch] character.\n<b>Reaction:</b> After you win a challenge by 5 or more STR as the defending player, the losing opponent cannot initiate challenges against you this round.",
+        "traits": ""
+    },
+    {
+        "code": "01141",
+        "name": "Arya Stark",
+        "text": "Stealth.\nWhile Arya Stark has a duplicate, she gains a [military] icon.\n<b>Reaction:</b> After Arya Stark enters play, place the top card of your deck on her facedown as a duplicate.",
+        "traits": "Lady."
+    },
+    {
+        "code": "01142",
+        "flavor": "\"Can a man still be brave if he's afraid?\"",
+        "name": "Bran Stark",
+        "text": "<b>Interrupt:</b> When the effects of an opponent's event would initiate, sacrifice Bran Stark to cancel those effects.",
+        "traits": "Lord."
+    },
+    {
+        "code": "01143",
+        "flavor": "I take no joy in mead nor meat, and song and laughter have become suspicious strangers to me. I am a creature of grief and dust and bitter longings. There is an empty place within me where my heart was once.",
+        "name": "Catelyn Stark",
+        "text": "While Catelyn Stark is participating in a challenge, your opponents cannot trigger card abilities.",
+        "traits": "House Tully. Lady. The Seven."
+    },
+    {
+        "code": "01144",
+        "flavor": "\"The winters are hard, but the Starks will endure. We always have.\"",
+        "name": "Eddard Stark",
+        "text": "Renown.\n<b>Reaction:</b> After a challenge is initiated against you, stand Eddard Stark.",
+        "traits": "Lord. Small Council."
+    },
+    {
+        "code": "01145",
+        "name": "Grey Wind",
+        "text": "Intimidate. No attachments.\n<b>Challenges Action:</b> Kneel Grey Wind to choose and kill a character with STR 1 or lower. (STR 2 or lower instead if you control Robb Stark).",
+        "traits": "Direwolf."
+    },
+    {
+        "code": "01146",
+        "flavor": "\"I have won every battle, yet somehow I'm losing the war.\"",
+        "name": "Robb Stark",
+        "text": "Renown.\n<b>Reaction:</b> After a [stark] character you control is sacrificed or killed, stand each character you control. (Limit once per round.)",
+        "traits": "Lord."
+    },
+    {
+        "code": "01147",
+        "flavor": "\"Why would you want to ride a smelly old horse and get all sore and sweaty when you could recline on feather pillows and eat cakes with the queen?\"",
+        "name": "Sansa Stark",
+        "text": "Sansa Stark enters play knelt.\n<b>Reaction:</b> After Sansa Stark stands, gain 1 power for your faction. (Limit once per round.)",
+        "traits": "Lady."
+    },
+    {
+        "code": "01148",
+        "name": "Summer",
+        "text": "No attachments.\nWhile you control Bran Stark, he gains insight.\n<b>Reaction:</b> After Summer enters play, return a [stark] character with printed STR 2 or lower from your discard or dead pile to your hand.",
+        "traits": "Direwolf."
+    },
+    {
+        "code": "01149",
+        "name": "Direwolf Pup",
+        "text": "No attachments.\nDirewolf Pup gets +1 STR for each other <i>Direwolf</i> card you control.",
+        "traits": "Direwolf."
+    },
+    {
+        "code": "01150",
+        "flavor": "Riverrun is situated at the end of the point of land where the Tumblestone flows into the Red Fork of the Trident.",
+        "name": "Tumblestone Knight",
+        "traits": "House Tully. Knight."
+    },
+    {
+        "code": "01151",
+        "name": "Vanguard of the North",
+        "text": "No attachments.\nWhile a player has a <i>War</i> plot revealed, Vanguard of the North does not kneel when declared as an attacker in a [military] challenge.",
+        "traits": "Army."
+    },
+    {
+        "code": "01152",
+        "name": "Winterfell Steward",
+        "text": "<b>Marshaling Action:</b> Kneel Winterfell Steward to reduce the cost of the next [stark] character you marshal this phase by 1.",
+        "traits": "Ally. Steward."
+    },
+    {
+        "code": "01153",
+        "name": "Ice",
+        "text": "[stark] character only. \nAttached character gets +2 STR.\n<b>Reaction:</b> After you win a [military] challenge in which attached character is participating, sacrifice Ice to choose and kill a character controlled by the losing opponent.",
+        "traits": "Valyrian Steel. Weapon."
+    },
+    {
+        "code": "01154",
+        "name": "Gates of Winterfell",
+        "text": "<b>Challenges Action:</b> Kneel Gates of Winterfell to reveal the top card of your deck. If it is a [stark] card, draw it.",
+        "traits": "The North. Winterfell."
+    },
+    {
+        "code": "01155",
+        "name": "The Wolfswood",
+        "text": "Each <i>Direwolf</i> card in your hand gains ambush (X). X is that card's printed cost.",
+        "traits": "The North."
+    },
+    {
+        "code": "01156",
+        "name": "Heart Tree Grove",
+        "text": "Limited.\n<b>Marshaling Action:</b> Kneel Heart Tree Grove to reduce the cost of the next [stark] card you marshal this phase by 1.",
+        "traits": "Old Gods. Winterfell."
+    },
+    {
+        "code": "01157",
+        "name": "For the North!",
+        "text": "Play only during a [military] challenge.\n<b>Action:</b> Choose a participating [stark] character. Until the end of the challenge, that character gets +2 STR. If you win the challenge, draw 1 card.",
+        "traits": ""
+    },
+    {
+        "code": "01158",
+        "flavor": "His blood felt like warm rain as it sprayed across her face.",
+        "name": "Like Warm Rain",
+        "text": "<b>Reaction:</b> After you lose an [intrigue] challenge as the defending player, kneel a <i>Direwolf</i> character to choose and kill an attacking character. (Max 1 per challenge.)",
+        "traits": ""
+    },
+    {
+        "code": "01159",
+        "name": "Winter Is Coming",
+        "text": "Play only during a challenge.\n<b>Action:</b> Until the end of the challenge, raise the claim value on your revealed plot card by 1. (Max 1 per challenge.)",
+        "traits": ""
+    },
+    {
+        "code": "01160",
+        "flavor": "\"I am Daenerys Stormborn of House Targaryen, the Unburnt, Mother of Dragons, khaleesi to Drogo's riders, and queen of the Seven Kingdoms of Westeros.\"",
+        "name": "Daenerys Targaryen",
+        "text": "Insight.\nWhile Daenerys Targaryen is standing, each character participating on an opponent's side in a challenge against you gets -1 STR.",
+        "traits": "Lady. Stormborn."
+    },
+    {
+        "code": "01161",
+        "name": "Drogon",
+        "text": "No attachments.\nEach <i>Stormborn</i> character you control gains renown.",
+        "traits": "Dragon. Hatchling."
+    },
+    {
+        "code": "01162",
+        "flavor": "\"When Dothraki are defeated in combat, they cut off their braids in disgrace, so the world will know their shame. Khal Drogo has never lost a fight.\" <cite>Viserys Targaryen</cite>",
+        "name": "Khal Drogo",
+        "text": "Renown.\nYou may initiate an additional [military] challenge during the challenges phase.",
+        "traits": "Dothraki. Lord."
+    },
+    {
+        "code": "01163",
+        "flavor": "\"Illyrio believes in no cause but Illyrio. Gluttons are greedy men as a rule, and magisters are devious. Illyrio Mopatis is both.\"",
+        "name": "Magister Illyrio",
+        "text": "<b>Action:</b> Pay 2 gold to choose and stand a character. (Limit once per phase.)",
+        "traits": "Lord. Merchant."
+    },
+    {
+        "code": "01164",
+        "name": "Rhaegal",
+        "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which a <i>Stormborn</i> character you control is participating, choose and stand a <i>Stormborn</i> character. (Limit once per phase.)",
+        "traits": "Dragon. Hatchling."
+    },
+    {
+        "code": "01165",
+        "name": "Ser Jorah Mormont",
+        "text": "Renown.\nIf Ser Jorah Mormont has 3 or more betrayal tokens on him, sacrifice him.\n<b>Forced Reaction:</b> After you win a challenge in which Ser Jorah Mormont is participating, place 1 betrayal token on him.",
+        "traits": "Companion. Knight."
+    },
+    {
+        "code": "01166",
+        "name": "Viserion",
+        "text": "No attachments.\nEach <i>Stormborn</i> character you control gains stealth.",
+        "traits": "Dragon. Hatchling."
+    },
+    {
+        "code": "01167",
+        "flavor": "\"When they write the history of my reign, sweet sister, they will say it began tonight.\"",
+        "name": "Viserys Targaryen",
+        "text": "<b>Interrupt:</b> When Viserys Targaryen leaves play, choose an attachment, and discard it from play.",
+        "traits": "Lord."
+    },
+    {
+        "code": "01168",
+        "flavor": "Among the Dothraki, the man who does not ride was no man at all, the lowest of the low, without honor or pride.",
+        "name": "Braided Warrior",
+        "text": "No attachments except <i>Weapon</i>.",
+        "traits": "Dothraki."
+    },
+    {
+        "code": "01169",
+        "flavor": "Her handmaids had helped her ready herself for the ceremony. Despite the tender mother's stomach that had afflicted her these past two moons, Dany had dined on bowls of half-clotted blood to accustom herself to the taste, and Irri made her chew strips of dried horseflesh until her jaws were aching.",
+        "name": "Handmaiden",
+        "text": "<b>Action:</b> Sacrifice Handmaiden to choose and stand a <i>Lady</i> character.",
+        "traits": "Ally. Companion."
+    },
+    {
+        "code": "01170",
+        "flavor": "\"In holdfasts all across the realm, men lift secret toasts to your health while women sew dragon banners and hide them against the day of your return from across the water.\" <cite>Illyrio Mopatis</cite>",
+        "name": "Targaryen Loyalist",
+        "text": "<b>Marshaling Action:</b> Kneel Targaryen Loyalist to reduce the cost of the next [targaryen] character you marshal this phase by 1.",
+        "traits": "Ally."
+    },
+    {
+        "code": "01171",
+        "name": "Unsullied",
+        "text": "No attachments except <i>Weapon</i>.\nWhile Unsullied is attacking, each defending character gets -1 STR.",
+        "traits": "Army."
+    },
+    {
+        "code": "01172",
+        "name": "Drogo's Arakh",
+        "text": "<i>Dothraki</i> character only.\nAttached character gets +2 STR.\nIf attached character is Khal Drogo, he does not kneel when declared as an attacker in the first [military] challenge you initiate each round.",
+        "traits": "Weapon."
+    },
+    {
+        "code": "01173",
+        "name": "Plaza of Punishment",
+        "text": "<b>Reaction:</b> After you win a [power] challenge, kneel Plaza of Punishment to choose a character without attachments. Until the end of the phase, that character gets -2 STR and is killed if its STR is 0.",
+        "traits": "Astapor."
+    },
+    {
+        "code": "01174",
+        "name": "Dothraki Sea",
+        "text": "<b>Reaction:</b> After you win a [power] challenge, sacrifice Dothraki Sea to put a <i>Dothraki</i> character into play from your hand. At the end of the phase, if that card is still in play, return it to your hand (cannot be saved).",
+        "traits": "Essos."
+    },
+    {
+        "code": "01175",
+        "name": "Illyrio's Estate",
+        "text": "Limited.\n<b>Marshaling Action:</b> Kneel Illyrio's Estate to reduce the cost of the next [targaryen] card you marshal this phase by 1.",
+        "traits": "Pentos."
+    },
+    {
+        "code": "01176",
+        "name": "Dracarys!",
+        "text": "<b>Action:</b> Kneel a <i>Dragon</i> character or Daenerys Targaryen to choose a participating character. Until the end of the phase, that character gets -4 STR and is killed if its STR is 0.",
+        "traits": ""
+    },
+    {
+        "code": "01177",
+        "name": "Fire and Blood",
+        "text": "<b>Challenges Action:</b> Choose a unique [targaryen] character in your dead pile, and shuffle it back into your deck. If that character is a <i>Hatchling</i>, you may put it into play instead.",
+        "traits": ""
+    },
+    {
+        "code": "01178",
+        "name": "Waking the Dragon",
+        "text": "<b>Action:</b> Choose and stand a unique [targaryen] character you control. At the end of the phase, if that character is still in play, return it to your hand.",
+        "traits": ""
+    },
+    {
+        "code": "01179",
+        "name": "Left",
+        "text": "No attachments except <i>Weapon</i>.\nWhile you control Right, Left gets +1 STR, gains a [power] icon, and does not kneel when declared as a defender.",
+        "traits": "Guard."
+    },
+    {
+        "code": "01180",
+        "name": "Maester Lomys",
+        "text": "<b>Reaction:</b> After you win an [intrigue] challenge as the defending player, discard 1 card at random from the attacking player's hand.",
+        "traits": "Maester."
+    },
+    {
+        "code": "01181",
+        "flavor": "\"I know what a burden you bear. You should let me share the load. There must be some things I could do to help you.\"",
+        "name": "Margaery Tyrell",
+        "text": "<b>Challenges Action:</b> Kneel Margaery Tyrell to choose a character. Until the end of the phase, that character gets +3 STR.",
+        "traits": "Lady."
+    },
+    {
+        "code": "01182",
+        "name": "Paxter Redwyne",
+        "text": "Reduce the cost of the first event you play each round by 1.\n+1 Income.",
+        "traits": "House Redwyne. Lord."
+    },
+    {
+        "code": "01183",
+        "name": "Randyll Tarly",
+        "text": "Renown.\n<b>Reaction:</b> After Randyll Tarly's STR is increased by a card effect, stand him. (Limit twice per phase.)",
+        "traits": "House Tarly. Lord."
+    },
+    {
+        "code": "01184",
+        "name": "Right",
+        "text": "No attachments except <i>Weapon</i>.\nWhile you control Left, Right gets +1 STR, gains an [intrigue] icon, and does not kneel when declared as a defender.",
+        "traits": "Guard."
+    },
+    {
+        "code": "01185",
+        "name": "The Knight of Flowers",
+        "text": "Renown.\nWhile The Knight of Flowers is attacking alone, the defending player cannot declare more than 1 character as a defender.",
+        "traits": "Knight. Lord."
+    },
+    {
+        "code": "01186",
+        "flavor": "\"All men are fools, if truth be told, but the ones in motley are more amusing than ones with crowns.\"",
+        "name": "The Queen of Thorns",
+        "text": "<b>Reaction:</b> After you win an [intrigue] challenge in which The Queen of Thorns is participating, put a [tyrell] character with printed cost 6 or lower into play from your hand.",
+        "traits": "Lady."
+    },
+    {
+        "code": "01187",
+        "flavor": "The war had not touched the fabled bounty of Highgarden.",
+        "name": "Courtesan of the Rose",
+        "traits": "Companion. Spy."
+    },
+    {
+        "code": "01188",
+        "name": "Garden Caretaker",
+        "text": "<b>Marshaling Action:</b> Kneel Garden Caretaker to reduce the cost of the next [tyrell] character you marshal this phase by 1.",
+        "traits": "Ally."
+    },
+    {
+        "code": "01189",
+        "name": "Olenna's Informant",
+        "text": "Ambush (4).\n<b>Reaction:</b> After Olenna's Informant enters play during the challenges phase, name a challenge type. You may initiate an additional challenge of that type this phase.",
+        "traits": "Ally. Spy."
+    },
+    {
+        "code": "01190",
+        "name": "Wardens of the Reach",
+        "text": "No attachments.\nWardens of the Reach gets +1 STR for each <i>The Reach</i> location you control.",
+        "traits": "Army."
+    },
+    {
+        "code": "01191",
+        "name": "Heartsbane",
+        "text": "[tyrell] character only.\n<b>Action:</b> While attached character is participating in a challenge, kneel Heartsbane to give that character +3 STR until the end of the challenge.",
+        "traits": "Valyrian Steel. Weapon."
+    },
+    {
+        "code": "01192",
+        "name": "Highgarden",
+        "text": "<b>Challenges Action:</b> Kneel Highgarden and pay 1 gold to choose an attacking character. Stand that character and remove it from the challenge.",
+        "traits": "Stronghold. The Reach."
+    },
+    {
+        "code": "01193",
+        "name": "The Mander",
+        "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR, kneel The Mander to draw 2 cards.",
+        "traits": "The Reach."
+    },
+    {
+        "code": "01194",
+        "name": "Rose Garden",
+        "text": "Limited.\n<b>Marshaling Action:</b> Kneel Rose Garden to reduce the cost of the next [tyrell] card you marshal this phase by 1.",
+        "traits": "The Reach."
+    },
+    {
+        "code": "01195",
+        "name": "Growing Strong",
+        "text": "<b>Challenges Action:</b> Choose up to three [tyrell] characters. Until the end of the phase, each of the chosen characters gets +2 STR.",
+        "traits": ""
+    },
+    {
+        "code": "01196",
+        "name": "Olenna's Cunning",
+        "text": "<b>Reaction:</b> After you win an [intrigue] or [power] challenge, the losing opponent names a cardtype (character, location, attachment, or event). Search your deck for a card with a different cardtype, reveal it, and add it to your hand. Shuffle your deck.",
+        "traits": ""
+    },
+    {
+        "code": "01197",
+        "flavor": "And off they went, from here to there,\nThe bear, the bear, and the maiden fair.",
+        "name": "\"The Bear and the Maiden Fair\"",
+        "text": "<b>Action:</b> Choose a player. Look at the top 5 cards of that player's deck. Place up to 3 of those cards on the bottom of that deck, and the others on top, in any order.",
+        "traits": "Song."
+    },
+    {
+        "code": "01198",
+        "flavor": "\"I never asked for Dragonstone. I never wanted it.\" <cite>Stannis Baratheon</cite>",
+        "name": "Banner of the Stag",
+        "text": "You may include non-loyal [baratheon] cards in your deck.\nYou must include at least 12 [baratheon] cards in your deck.",
+        "traits": "Banner."
+    },
+    {
+        "code": "01199",
+        "flavor": "\"Greyjoy demands half the kingdom as the price of alliance, but what will he do to earn it?\" <cite>Tywin Lannister</cite>",
+        "name": "Banner of the Kraken",
+        "text": "You may include non-loyal [greyjoy] cards in your deck.\nYou must include at least 12 [greyjoy] cards in your deck.",
+        "traits": "Banner."
+    },
+    {
+        "code": "01200",
+        "name": "Banner of the Lion",
+        "text": "You may include non-loyal [lannister] cards in your deck.\nYou must include at least 12 [lannister] cards in your deck.",
+        "traits": "Banner."
+    },
+    {
+        "code": "01201",
+        "name": "Banner of the Sun",
+        "text": "You may include non-loyal [martell] cards in your deck.\nYou must include at least 12 [martell] cards in your deck.",
+        "traits": "Banner."
+    },
+    {
+        "code": "01202",
+        "name": "Banner of the Watch",
+        "text": "You may include non-loyal [thenightswatch] cards in your deck.\nYou must include at least 12 [thenightswatch] cards in your deck.",
+        "traits": "Banner."
+    },
+    {
+        "code": "01203",
+        "name": "Banner of the Wolf",
+        "text": "You may include non-loyal [stark] cards in your deck.\nYou must include at least 12 [stark] cards in your deck.",
+        "traits": "Banner."
+    },
+    {
+        "code": "01204",
+        "name": "Banner of the Dragon",
+        "text": "You may include non-loyal [targaryen] cards in your deck.\nYou must include at least 12 [targaryen] cards in your deck.",
+        "traits": "Banner."
+    },
+    {
+        "code": "01205",
+        "name": "Banner of the Rose",
+        "text": "You may include non-loyal [tyrell] cards in your deck.\nYou must include at least 12 [tyrell] cards in your deck.",
+        "traits": "Banner."
+    },
+    {
+        "code": "01206",
+        "flavor": "\"There are things I might tell you of that eunuch that would chill your blood.\" <cite>Grand Maester Pycelle</cite>",
+        "name": "Master of Whispers",
+        "text": "Supported by Master of Ships\nSupports: Hand of the King\nRivals: Master of Laws, Master of Coin\nYou may resolve your [intrigue] claim against any number of opponents of your choice.\n+1 STR [intrigue]",
+        "traits": ""
+    },
+    {
+        "code": "01207",
+        "flavor": "\"He is well suited to the office. He has spent half his life on ships.\" <cite>Cersei Lannister</cite>",
+        "name": "Master of Ships",
+        "text": "Supported by Master of Coin\nSupports: Master of Whispers\nRivals: Master of Laws, Hand of the King\nRaise the claim value on your revealed plot card by 1 during [military] challenges in which you are attacking a rival.\n+1 STR [military]",
+        "traits": ""
+    },
+    {
+        "code": "01208",
+        "flavor": "The Hand of the King was the second-most powerful man in the Seven Kingdoms.",
+        "name": "Hand of the King",
+        "text": "Supported by Master of Whispers.\nSupports: Master of Laws.\nRivals: Master of Coin, Master of Ships.\nYou may initiate an additional [power] challenge during the challenges phase, against a different opponent.\n+1 STR [power]",
+        "traits": ""
+    },
+    {
+        "code": "01209",
+        "flavor": "Within three years of his coming to court, he was master of coin and a member of the small council, and today the crown's revenues were ten times what they had been under his beleaguered predecessor… though the crown's debt had grown vast as well.",
+        "name": "Master of Coin",
+        "text": "Supported by Master of Laws.\nSupports: Master of Ships\nRivals: Hand of the King, Master of Whispers\n+2 Income",
+        "traits": ""
+    },
+    {
+        "code": "01210",
+        "flavor": "\"Stannis is still the rightful heir by all the laws of the Seven Kingdoms.\" <cite>Ser Davos Seaworth</cite>",
+        "name": "Master of Laws",
+        "text": "Supported by Hand of the King\nSupports: Master of Coin\nRivals: Master of Whispers, Master of Ships\nIncrease the number of cards you draw in the draw phase by 1.\n+1 Reserve",
+        "traits": ""
+    },
+    {
+        "code": "01211",
+        "flavor": "\"The Hand serves,\" the young knight informed him airily. \"The regent rules until the king is of age.\" <cite>Ser Lancel Lannister</cite>",
+        "name": "Crown Regent",
+        "text": "Supported by None\nSupports: None\nRivals: None\nYou may redirect 1 challenge this round.\n+2 STR for Dominance",
+        "traits": ""
+    }
+]

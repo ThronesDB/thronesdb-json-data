@@ -1,0 +1,78 @@
+[
+    {
+        "code": "AMAF",
+        "name": "All Men Are Fools"
+    },
+    {
+        "code": "AtSK",
+        "name": "Across the Seven Kingdoms"
+    },
+    {
+        "code": "CoW",
+        "name": "Calm over Westeros"
+    },
+    {
+        "code": "Core",
+        "name": "Core Set"
+    },
+    {
+        "code": "CtA",
+        "name": "Called to Arms"
+    },
+    {
+        "code": "FFH",
+        "name": "For Family Honor"
+    },
+    {
+        "code": "GoH",
+        "name": "Ghosts of Harrenhal"
+    },
+    {
+        "code": "GtR",
+        "name": "Guarding the Realm"
+    },
+    {
+        "code": "LoCR",
+        "name": "Lions of Casterly Rock"
+    },
+    {
+        "code": "NMG",
+        "name": "No Middle Ground"
+    },
+    {
+        "code": "TC",
+        "name": "Tyrion's Chain"
+    },
+    {
+        "code": "TIMC",
+        "name": "There Is My Claim"
+    },
+    {
+        "code": "TKP",
+        "name": "The King's Peace"
+    },
+    {
+        "code": "TRtW",
+        "name": "The Road to Winterfell"
+    },
+    {
+        "code": "TS",
+        "name": "True Steel"
+    },
+    {
+        "code": "TtB",
+        "name": "Taking the Black"
+    },
+    {
+        "code": "VDS",
+        "name": "Valyrian Draft Set"
+    },
+    {
+        "code": "WotN",
+        "name": "Wolves of the North"
+    },
+    {
+        "code": "WotW",
+        "name": "Watchers on the Wall"
+    }
+]

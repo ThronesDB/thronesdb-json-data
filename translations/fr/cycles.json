@@ -1,0 +1,34 @@
+[
+    {
+        "code": "bng",
+        "name": "Blood and Gold"
+    },
+    {
+        "code": "core",
+        "name": "Core Set"
+    },
+    {
+        "code": "draft",
+        "name": "Draft Sets"
+    },
+    {
+        "code": "lions",
+        "name": "Lions of Casterly Rock"
+    },
+    {
+        "code": "war",
+        "name": "War of Five Kings Cycle"
+    },
+    {
+        "code": "watchers",
+        "name": "Watchers on the Wall"
+    },
+    {
+        "code": "westeros",
+        "name": "Westeros Cycle"
+    },
+    {
+        "code": "wolves",
+        "name": "Wolves of the North"
+    }
+]
