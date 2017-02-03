@@ -1,38 +1,38 @@
 [
     {
         "code": "baratheon",
-        "name": "House Baratheon"
+        "name": "Maison Baratheon"
     },
     {
         "code": "greyjoy",
-        "name": "House Greyjoy"
+        "name": "Maison Greyjoy"
     },
     {
         "code": "lannister",
-        "name": "House Lannister"
+        "name": "Maison Lannister"
     },
     {
         "code": "martell",
-        "name": "House Martell"
+        "name": "Maison Martell"
     },
     {
         "code": "neutral",
-        "name": "Neutral"
+        "name": "Neutre"
     },
     {
         "code": "stark",
-        "name": "House Stark"
+        "name": "Maison Stark"
     },
     {
         "code": "targaryen",
-        "name": "House Targaryen"
+        "name": "Maison Targaryen"
     },
     {
         "code": "thenightswatch",
-        "name": "The Night's Watch"
+        "name": "La Garde de Nuit"
     },
     {
         "code": "tyrell",
-        "name": "House Tyrell"
+        "name": "Maison Tyrell"
     }
 ]
