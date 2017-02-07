@@ -1,7 +1,7 @@
 [
     {
         "code": "bng",
-        "name": "Blood and Gold"
+        "name": "Sang et Or"
     },
     {
         "code": "core",
@@ -13,11 +13,11 @@
     },
     {
         "code": "lions",
-        "name": "Lions of Casterly Rock"
+        "name": "Les Lions de Castral Roc"
     },
     {
         "code": "war",
-        "name": "War of Five Kings Cycle"
+        "name": "La Guerre des Cinq Rois"
     },
     {
         "code": "watchers",
@@ -25,10 +25,10 @@
     },
     {
         "code": "westeros",
-        "name": "Westeros Cycle"
+        "name": "Cycle de Westeros"
     },
     {
         "code": "wolves",
-        "name": "Wolves of the North"
+        "name": "Les Loups du Nord"
     }
 ]
