@@ -1,30 +1,30 @@
 [
     {
         "code": "agenda",
-        "name": "Agenda"
+        "name": "Dessein"
     },
     {
         "code": "attachment",
-        "name": "Attachment"
+        "name": "Attachement"
     },
     {
         "code": "character",
-        "name": "Character"
+        "name": "Personnage"
     },
     {
         "code": "event",
-        "name": "Event"
+        "name": "Evénement"
     },
     {
         "code": "location",
-        "name": "Location"
+        "name": "Lieu"
     },
     {
         "code": "plot",
-        "name": "Plot"
+        "name": "Complot"
     },
     {
         "code": "title",
-        "name": "Title"
+        "name": "Titre"
     }
 ]
