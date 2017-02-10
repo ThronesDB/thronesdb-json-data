@@ -202,7 +202,7 @@
     },
     {
         "code": "01034",
-        "flavor": "\"Ses mouchards sont partout. Ses oisillons comme il les appelle.\" <cite>Littlefinger</cite>",
+        "flavor": "\"Ses mouchards sont partout.\n Ses oisillons comme il les appelle.\" <cite>Littlefinger</cite>",
         "name": "Oisillon",
         "text": "Le personnage attaché gagne une icône [intrigue].",
         "traits": "État."
@@ -230,51 +230,51 @@
     },
     {
         "code": "01038",
-        "flavor": "\"…it is a monstruous uncomfortable chair. In more ways than one.\" <cite>Robert Baratheon</cite>",
-        "name": "The Iron Throne",
-        "text": "The Iron Throne contributes 8 STR to your total for dominance.\n+1 Reserve.",
-        "traits": "King's Landing."
+        "flavor": "\"…ce siège est monstrueusement inconfortable. Et à plus d'un égard.\" <cite>Robert Baratheon</cite>",
+        "name": "Le trône de Fer",
+        "text": "Le trône de Fer confère 8 FOR à votre total pour l'hégémonie.\n+1 Reserve.",
+        "traits": "Port-Réal."
     },
     {
         "code": "01039",
-        "name": "The Kingsroad",
-        "text": "Limited.\n<b>Marshaling Action:</b> Kneel and sacrifice The Kingsroad to reduce the cost of the next character you marshal this phase by 3.\n+1 Initiative.",
+        "name": "La route Ropyale",
+        "text": "Limitée.\n<b>Action de recrutement:</b> inclinez et sacrifiez La route Royale pour réduire de 3 le coût du prochain personnage que vous recrutez à cette phase.\n+1 Initiative.",
         "traits": "Westeros."
     },
     {
         "code": "01040",
-        "name": "The Roseroad",
-        "text": "Limited.\n+1 Income.",
+        "name": "La route de la Rose",
+        "text": "Limitée.\n+1 Income.",
         "traits": "Westeros."
     },
     {
         "code": "01041",
-        "name": "Put to the Sword",
-        "text": "<b>Reaction:</b> After you win a [military] challenge by 5 or more STR as the attacking player, choose and kill a character controlled by the losing opponent. (Max 1 per challenge.)",
+        "name": "Passé au fil de l'épée",
+        "text": "<b>Réaction:</b> Après avoir gagné un défi [military] d'au moins 5 FOR en tant que joueur attaquant, choisissez et tuez un personnage contrôlé par l'adversaire perdant. (Maximum 1 par défi.)",
         "traits": ""
     },
     {
         "code": "01042",
-        "name": "Put to the Torch",
-        "text": "<b>Reaction:</b> After you win a [military] challenge by 5 or more STR as the attacking player, choose a location controlled by the losing opponent, and discard it from play. (Max 1 per challenge.)",
+        "name": "Livré au flammes",
+        "text": "<b>Réaction:</b> Après avoir gagné un défi [military] d'au moins 5 FOR en tant que joueur attaquant, choisissez un lieu contrôlé par l'adversaire perdant et défaussez-le du jeu. (Maximum 1 par défi.)",
         "traits": ""
     },
     {
         "code": "01043",
-        "name": "Superior Claim",
-        "text": "<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, gain 2 power for your faction. (Max 1 per challenge.)",
+        "name": "Solides prétentions",
+        "text": "<b>Réaction:</b> Après avoir gagné un défi [power] d'au moins 5 FOR, gagnez 2 points de pouvoir pour votre faction. (Maximum 1 par défi.)",
         "traits": ""
     },
     {
         "code": "01044",
-        "name": "Tears of Lys",
-        "text": "<b>Reaction:</b> After you win an [intrigue] challenge as the attacking player, place a poison token on a character without an [intrigue] icon controlled by the losing opponent. At the end of the phase, if that character still has the poison token, remove it and kill that character. (Max 1 per challenge.)",
+        "name": "Larmes de Lys",
+        "text": "<b>Réaction:</b> Après avoir gagné un défi [intrigue] en tant que joueur attaquant, posez un jeton de poison sur un personnage dénué d'une icône [intrigue] contrôlé par l'adversaire perdant. À la fin de la phase, si le personnage en question a toujours ce jeton de poison, retirez ce dernier et tuez ce personnage. (Maximum 1 par défi.)",
         "traits": "Poison."
     },
     {
         "code": "01045",
-        "name": "The Hand's Judgment",
-        "text": "<b>Interrupt:</b> When the effects of an opponent's event would initiate, cancel those effects. X is that event's printed cost.",
+        "name": "Le jugement de la Main",
+        "text": "<b>Interruption:</b> Quand les effets d'un événement d'un adversaire sont censé être initiés, annulez-les. X est le coût imprimé de l'événement en question.",
         "traits": ""
     },
     {
