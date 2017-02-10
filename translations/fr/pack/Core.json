@@ -68,92 +68,92 @@
     {
         "code": "01012",
         "name": "Position fortifiée",
-        "text": "chaque personnage perd le texte imprimé dans sa boite de texte (à l'exception des <i>Traits</i>).",
+        "text": "Chaque personnage perd le texte imprimé dans sa boite de texte (à l'exception des <i>Traits</i>).",
         "traits": "Siège. Guerre."
     },
     {
         "code": "01013",
         "name": "Des têtes sur des piques",
-        "text": "<b>WUne fois révélée:</b> Choisissez un adversaire. Défaussez 1 carte au hasard de la main de ce joueur. Si cette carte est un personnage, gagnez 2 points de pouvoir pour votre faction et posez le personnage défaussé dans la pile des morts de son propriétaire.",
+        "text": "<b>WUne fois révélée:</b> choisissez un adversaire. Défaussez 1 carte au hasard de la main de ce joueur. Si cette carte est un personnage, gagnez 2 points de pouvoir pour votre faction et posez le personnage défaussé dans la pile des morts de son propriétaire.",
         "traits": "Édit. Guerre."
     },
     {
         "code": "01014",
-        "name": "Jousting Contest",
-        "text": "Each player cannot declare more than 1 character as an attacker or defender in each challenge.",
-        "traits": "War."
+        "name": "Épreuve de joute",
+        "text": "Aucun joueur ne peut déclarer plus d'1 personnage comme attaquant ou défenseur dans chaque défi.",
+        "traits": "Guerre."
     },
     {
         "code": "01015",
-        "name": "Marched to the Wall",
-        "text": "<b>When Revealed:</b> Each player chooses a character he or she controls (if able), and discards it from play (cannot be saved).",
-        "traits": "Edict."
+        "name": "En route pour le Mur",
+        "text": "<b>Une fois révélée:</b> chaque joueur choisit un personnage qu'il contrôle (si possible) et le défausse du jeu (ne peut être sauvé).",
+        "traits": "Édit."
     },
     {
         "code": "01016",
-        "name": "Marching Orders",
-        "text": "You cannot marshal locations or attachments, or play events.",
-        "traits": "Edict. War."
+        "name": "Ordres de marche",
+        "text": "Vous ne pouvez pas recruter de lieux ou d'attachements, ni jouer d'événements.",
+        "traits": "Édit. Guerre."
     },
     {
         "code": "01017",
-        "name": "Naval Superiority",
-        "text": "Treat the base gold value on each revealed <i>Kingdom</i> and each revealed <i>Edict</i> plot card as if it were 0.",
-        "traits": "Siege. War."
+        "name": "Supériorité navale",
+        "text": "La valeur en or de base de chaque <i>Royaume</i> révélé et de chaque carte complot <i>Édit</i> révélée est égale à 0.",
+        "traits": "Siège. Guerre."
     },
     {
         "code": "01018",
-        "name": "Power Behind the Throne",
-        "text": "<b>When Revealed:</b> Place 1 stand token on Power Behind the Throne.\n<b>Action:</b> Discard 1 stand token from Power Behind the Throne to choose and stand a character.",
-        "traits": "Noble. Scheme."
+        "name": "Éminence grise",
+        "text": "<b>Une fois révélée:</b> posez un jeton de redressement sur cette carte.\n<b>Action:</b> défaussez un jeton redressement de cette carte pour choisir et redresser un personnage.",
+        "traits": "Noble. Machination."
     },
     {
         "code": "01019",
-        "name": "Rebuilding",
-        "text": "<b>When Revealed:</b> Choose up to 3 cards in your discard pile, and shuffle them into your deck.",
-        "traits": "Kingdom."
+        "name": "Reconstruction",
+        "text": "<b>Une fois révélée:</b> choisissez jusqu'à 3 cartes dans votre pile de défausse et mélangez les dans votre deck.",
+        "traits": "Royaume."
     },
     {
         "code": "01020",
-        "name": "Reinforcements",
-        "text": "<b>When Revealed:</b> Choose a character with printed cost 5 or lower in your hand or discard pile, and put it into play.",
-        "traits": "Kingdom. War."
+        "name": "Renforts",
+        "text": "<b>Une fois révélée:</b> choisissez un personnage ayant un coût imprimé de 5 ou moins dans votre main ou votre pile de défausse, et mettez-le en jeu.",
+        "traits": "Royaume. Guerre."
     },
     {
         "code": "01021",
-        "name": "Sneak Attack",
-        "text": "You cannot initiate more than 1 challenge during the challenges phase.",
-        "traits": "Scheme."
+        "name": "Attaque sournoise",
+        "text": "Vous ne pouvez pas initier plus d'1 défi lors de la phase de défis.",
+        "traits": "Machination."
     },
     {
         "code": "01022",
-        "name": "Summons",
-        "text": "<b>When Revealed:</b> Search the top 10 cards of your deck for a character, reveal it, and add it to your hand. Shuffle your deck.",
-        "traits": "Kingdom."
+        "name": "Recrutements",
+        "text": "<b>Une fois révélée:</b> cherchez un personnage parmi les 10 premières cartes de votre deck, révélez-le, et ajoutez-le à votre main. Mélangez votre deck.",
+        "traits": "Royaume."
     },
     {
         "code": "01023",
-        "name": "Supporting the Faith",
-        "text": "<b>Forced Reaction:</b> After the challenges phase begins, each player returns all gold in his or her gold pool to the treasury.",
-        "traits": "Edict. The Seven."
+        "name": "Soutenir la foi",
+        "text": "<b>Réaction forcée:</b> après le début de la phase de défis, chaque joueur renvoie tout l'or de sa réserve d'or dans le trésor.",
+        "traits": "Édit. Les Sept."
     },
     {
         "code": "01024",
         "name": "Taxation",
-        "text": "You may marshal or play 1 additional limited card this round.",
-        "traits": "Edict. Kingdom."
+        "text": "Vous pouvez recruter ou jouer une carte Limitée supplémentaire à ce round.",
+        "traits": "Édit. Royaume."
     },
     {
         "code": "01025",
-        "flavor": "A cold wind was blowing out of the north, and it made the trees rustle like living things. All day, Will had felt as though something were watching him, something cold and implacable that loved him not.",
-        "name": "The Winds of Winter",
-        "traits": "Winter."
+        "flavor": "Ce vent froid qui soufflait du nord et qui arrachait aux arbres des bruissements de choses en vie. À tout instant, Will s'était senti, ce jour-là, sous le regard de quelque chose, un regard froid, implacable, hostile.",
+        "name": "Les vents de l'hiver",
+        "traits": "Hiver."
     },
     {
         "code": "01026",
-        "name": "Wildfire Assault",
-        "text": "<b>When Revealed:</b> Each player chooses up to 3 characters he or she controls. Kill each character not chosen (cannot be saved).",
-        "traits": "Scheme. War."
+        "name": "Attaque de feu grégeois",
+        "text": "<b>Une fois révélée:</b> chaque joueur choisit jusqu'à 3 personnages qu'il contrôle. Tuez chaque personnage qui n'a pas été choisi (ne peut être sauvé).",
+        "traits": "Machination. Guerre."
     },
     {
         "code": "01027",
