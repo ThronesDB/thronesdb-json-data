@@ -157,8 +157,8 @@
     },
     {
         "code": "01027",
-        "name": "Fealty",
-        "text": "You cannot include more than 15 neutral cards in your deck.\n<b>Action:</b> Kneel your faction card to reduce the cost of the next loyal card you marshal or play this phase by 1.",
+        "name": "Féauté",
+        "text": "Vous ne pouvez pas inclure plus de 15 cartes neutres dans votre deck.\n<b>Action:</b> inclinez votre carte faction pour réduire de 1 le coût de la prochaine carte loyale que vous recrutez ou jouez à cette phase.",
         "traits": ""
     },
     {
@@ -1246,94 +1246,100 @@
     },
     {
         "code": "01198",
-        "flavor": "\"I never asked for Dragonstone. I never wanted it.\" <cite>Stannis Baratheon</cite>",
-        "name": "Banner of the Stag",
-        "text": "You may include non-loyal [baratheon] cards in your deck.\nYou must include at least 12 [baratheon] cards in your deck.",
-        "traits": "Banner."
+        "flavor": "\"Je n'ai jamais demandé Peyredragon. Je ne l'ai jamais désiré.\" <cite>Stannis Baratheon</cite>",
+        "name": "Bannière du Cerf",
+        "text": "Vous pouvez inclure des cartes [baratheon] non loyales dans votre deck.\nVous devez inclure au moins 12 cartes [baratheon] dans votre deck.",
+        "traits": "Bannière."
     },
     {
         "code": "01199",
-        "flavor": "\"Greyjoy demands half the kingdom as the price of alliance, but what will he do to earn it?\" <cite>Tywin Lannister</cite>",
-        "name": "Banner of the Kraken",
-        "text": "You may include non-loyal [greyjoy] cards in your deck.\nYou must include at least 12 [greyjoy] cards in your deck.",
-        "traits": "Banner."
+        "flavor": "\"Pour prix de cette alliance, Greyjoy exige la moitié du royaume, mais que fera-t-il pour la gagner?\" <cite>Tywin Lannister</cite>",
+        "name": "Bannière du Kraken",
+        "text": "Vous pouvez inclure des cartes [greyjoy] non loyales dans votre deck.\nVous devez inclure au moins 12 cartes [greyjoy] dans votre deck.",
+        "traits": "Bannière."
     },
     {
         "code": "01200",
-        "name": "Banner of the Lion",
-        "text": "You may include non-loyal [lannister] cards in your deck.\nYou must include at least 12 [lannister] cards in your deck.",
-        "traits": "Banner."
+        "flavor": "Aussi le roi fou commit-il sa dernière folie en ouvrant ses portes aux lions",
+        "name": "Bannière du Lion",
+        "text": "Vous pouvez inclure des cartes [lannister] non loyales dans votre deck.\nVous devez inclure au moins 12 cartes [lannister] dans votre deck.",
+        "traits": "Bannière."
     },
     {
         "code": "01201",
-        "name": "Banner of the Sun",
-        "text": "You may include non-loyal [martell] cards in your deck.\nYou must include at least 12 [martell] cards in your deck.",
-        "traits": "Banner."
+        "flavor": "\"Les Martell ont toutes les raisons de nous haïr. Néanmoins, je me flatte qu'ils accepteront.\" <cite>Tyrion Lannister</cite>",
+        "name": "Bannière du Soleil",
+        "text": "Vous pouvez inclure des cartes [martell] non loyales dans votre deck.\nVous devez inclure au moins 12 cartes [martell] dans votre deck.",
+        "traits": "Bannière."
     },
     {
         "code": "01202",
-        "name": "Banner of the Watch",
-        "text": "You may include non-loyal [thenightswatch] cards in your deck.\nYou must include at least 12 [thenightswatch] cards in your deck.",
-        "traits": "Banner."
+        "flavor": "\"Plus tu donnes à un roi, plus s'accroissent ses exigences. Faire plaisir à un seul roi n'est déjà pas facile, en contenter deux confine à l'impossible.\" <cite>John Snow</cite>",
+        "name": "Bannière de la Garde",
+        "text": "Vous pouvez inclure des cartes [thenightswatch] non loyales dans votre deck.\nVous devez inclure au moins 12 cartes [thenightswatch] dans votre deck.",
+        "traits": "Bannière."
     },
     {
         "code": "01203",
-        "name": "Banner of the Wolf",
-        "text": "You may include non-loyal [stark] cards in your deck.\nYou must include at least 12 [stark] cards in your deck.",
-        "traits": "Banner."
+        "flavor": "\"Robert est roi maintenant, et les rois diffèrent du commun des mortels. Si tu refuses de le servir, il s'en étonnera.\" <cite>Catelyn Stark</cite>",
+        "name": "Bannière du Loup",
+        "text": "Vous pouvez inclure des cartes [stark] non loyales dans votre deck.\nVous devez inclure au moins 12 cartes [stark] dans votre deck.",
+        "traits": "Bannière."
     },
     {
         "code": "01204",
-        "name": "Banner of the Dragon",
-        "text": "You may include non-loyal [targaryen] cards in your deck.\nYou must include at least 12 [targaryen] cards in your deck.",
-        "traits": "Banner."
+        "flavor": "\"Nous autres princes, échafaudons nos plans avec la dernière des minuties, et les dieux les anéantissent en les renversant d'une pichenette.\" <cite>Doran Martell</cite>",
+        "name": "Bannière du Dragon",
+        "text": "Vous pouvez inclure des cartes [targaryen] non loyales dans votre deck.\nVous devez inclure au moins 12 cartes [targaryen] dans votre deck.",
+        "traits": "Bannière."
     },
     {
         "code": "01205",
-        "name": "Banner of the Rose",
-        "text": "You may include non-loyal [tyrell] cards in your deck.\nYou must include at least 12 [tyrell] cards in your deck.",
-        "traits": "Banner."
+        "flavor": "La main de Renly balaya l'espace où pétillaient d'un horizon à l'autre les feux de camp. \"La voilà ma légitimité. Celle de Robert ne fut jamais mieux fondée.\"",
+        "name": "Bannière de la Rose",
+        "text": "Vous pouvez inclure des cartes [tyrell] non loyales dans votre deck.\nVous devez inclure au moins 12 cartes [tyrell] dans votre deck.",
+        "traits": "Bannière."
     },
     {
         "code": "01206",
-        "flavor": "\"There are things I might tell you of that eunuch that would chill your blood.\" <cite>Grand Maester Pycelle</cite>",
-        "name": "Master of Whispers",
-        "text": "Supported by Master of Ships\nSupports: Hand of the King\nRivals: Master of Laws, Master of Coin\nYou may resolve your [intrigue] claim against any number of opponents of your choice.\n+1 STR [intrigue]",
+        "flavor": "\"Je pourrais vous dire sur cet eunuque des choses qui vous glaceraient le sang...\" <cite>Grand Mestre Pycelle</cite>",
+        "name": "Maître des Chuchoteurs",
+        "text": "Soutenu par le Maître des Navires\nSoutien de la Main du Roi\nRival du Maître des Lois et du Grand Argentier\nVous pouvez résoudre votre prise [intrigue] contre autant d'adversaires que vous le souhaitez.\n+1 STR [intrigue]",
         "traits": ""
     },
     {
         "code": "01207",
-        "flavor": "\"He is well suited to the office. He has spent half his life on ships.\" <cite>Cersei Lannister</cite>",
-        "name": "Master of Ships",
-        "text": "Supported by Master of Coin\nSupports: Master of Whispers\nRivals: Master of Laws, Hand of the King\nRaise the claim value on your revealed plot card by 1 during [military] challenges in which you are attacking a rival.\n+1 STR [military]",
+        "flavor": "\"Il est l'homme idéal pour ce poste. Il a passé la moitié deson existence sur des bateaux.\" <cite>Cersei Lannister</cite>",
+        "name": "Maître des Navires",
+        "text": "Soutenu par le Grand Argentier\nSoutien du Maître des Chuchoteurs\nRival du Maître des Lois et de la Main du Roi\nAugmentez de 1 la valeur de prise de la carte complot que vous avez révélée lors des défis [military] dans lesquels vous attaquez un rival.\n+1 STR [military]",
         "traits": ""
     },
     {
         "code": "01208",
-        "flavor": "The Hand of the King was the second-most powerful man in the Seven Kingdoms.",
-        "name": "Hand of the King",
-        "text": "Supported by Master of Whispers.\nSupports: Master of Laws.\nRivals: Master of Coin, Master of Ships.\nYou may initiate an additional [power] challenge during the challenges phase, against a different opponent.\n+1 STR [power]",
+        "flavor": "La main du Roi occupait la deuxième place dans la hiérarchie des Sept Couronnes.",
+        "name": "Main du Roi",
+        "text": "Soutenu par le Maître des Chuchoteurs.\nSoutien du Maître des Lois.\nRival du Maître des Navires.\nVous pouvez initier un défi [power] supplémentaire lors de cette phase de défis, contre un adversaire différent.\n+1 STR [power]",
         "traits": ""
     },
     {
         "code": "01209",
-        "flavor": "Within three years of his coming to court, he was master of coin and a member of the small council, and today the crown's revenues were ten times what they had been under his beleaguered predecessor… though the crown's debt had grown vast as well.",
-        "name": "Master of Coin",
-        "text": "Supported by Master of Laws.\nSupports: Master of Ships\nRivals: Hand of the King, Master of Whispers\n+2 Income",
+        "flavor": "Trois années de présence à la cour lui suffirent pour devenir Grand Argentier, siéger au Conseil restreint et multiplier par dix les revenus antérieurs de la Couronne..., tout en endettant celle-ci de manière faramineuse.",
+        "name": "Grand Argentier",
+        "text": "Soutenu par le Maître des Lois.\nSSoutien du Maître des Navires\nRivals de la Main du Roi et du Maître des Chuchoteurs\n+2 Income",
         "traits": ""
     },
     {
         "code": "01210",
-        "flavor": "\"Stannis is still the rightful heir by all the laws of the Seven Kingdoms.\" <cite>Ser Davos Seaworth</cite>",
-        "name": "Master of Laws",
-        "text": "Supported by Hand of the King\nSupports: Master of Coin\nRivals: Master of Whispers, Master of Ships\nIncrease the number of cards you draw in the draw phase by 1.\n+1 Reserve",
+        "flavor": "\"De par toutes les lois des Sept Couronnes, Stannis est toujours l'héritier légitime du trône.\" <cite>Ser Davos Mervault</cite>",
+        "name": "Maître des lois",
+        "text": "Soutenu par la Main du Roi\nSoutien du Grand Argentier\nRival du Maître des Chuchoteurs et du , Maître des Navires\nAugmentez de 1 le nombre de cartes que vous piochez à la phase de pioche.\n+1 Reserve",
         "traits": ""
     },
     {
         "code": "01211",
-        "flavor": "\"The Hand serves,\" the young knight informed him airily. \"The regent rules until the king is of age.\" <cite>Ser Lancel Lannister</cite>",
-        "name": "Crown Regent",
-        "text": "Supported by None\nSupports: None\nRivals: None\nYou may redirect 1 challenge this round.\n+2 STR for Dominance",
+        "flavor": "\"La Main sert, le régent gouverne jusqu'à la maturité du roi.\" <cite>Ser Lancel Lannister</cite>",
+        "name": "Régent de la Couronne",
+        "text": "Soutenu par personne \nSoutien de personne \nRival de personne \nVous pouvez détourner 1 défi à ce round.\n+2 STR pour l'hégémonie",
         "traits": ""
     }
 ]
