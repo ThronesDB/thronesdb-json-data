@@ -163,70 +163,70 @@
     },
     {
         "code": "01028",
-        "flavor": "\"I did warn you not to trust me.\"",
+        "flavor": "\"Ce n'est pourtant pas faute de vous avoir prévenu qu'il ne fallait pas vous fier à moi.\"",
         "name": "Littlefinger",
-        "text": "<b>Reaction:</b> After you marshal Littlefinger, draw 2 cards.\n+1 Income.",
-        "traits": "Ally. Lord. Small Council."
+        "text": "<b>Réaction:</b> après avoir recruté Littlefinger, piochez 2 cartes.\n+1 Income.",
+        "traits": "Allié. Lord. Conseil restreint."
     },
     {
         "code": "01029",
-        "flavor": "\"Why is it always the innocents who suffer most, when you high lords play your game of thrones?\"",
+        "flavor": "\"Pourquoi la pire souffrance échoit-elle toujours aux innocents quand vous autres, grands seigneurs, vous amusez au jeu des trônes?\"",
         "name": "Varys",
-        "text": "Stealth.\n<b>Interrupt:</b> When the dominance phase ends, remove Varys from the game to discard each character from play.",
-        "traits": "Lord. Small Council. Spy."
+        "text": "Furtivité.\n<b>Interruption:</b> Quand la phase d'hégémonie prend fin,retirez Varys de la partie pour défausser chaque personnage du jeu.",
+        "traits": "Lord. Conseil restreint. Espion."
     },
     {
         "code": "01030",
-        "name": "Rattleshirt's Raiders",
-        "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which Rattleshirt's Raiders is participating as an attacker, choose an attachment controlled by the losing opponent, and discard it from play.",
-        "traits": "Raider. Wildling."
+        "name": "Pillards de Clinquefrac",
+        "text": "Pas d'attachements.\n<b>Réaction:</b> après avoir gagné un défi auquel les Pillards de Clinquefrac participent en tant qu'attaquants, choisissez un attachement contrôlé par l'adversaire perdant et défaussez le du jeu.",
+        "traits": "Pillard. Sauvageon."
     },
     {
         "code": "01031",
-        "name": "Wildling Horde",
-        "text": "No attachments. Pillage.\n<b>Challenges Action:</b> Kneel your faction card to choose a participating Wildling character you control. Until the end of the challenge, that character gets +2 STR.",
-        "traits": "Army. Wildling."
+        "name": "Horde de sauvageons",
+        "text": "Pas d'attachements. Pillage.\n<b>Action de défi:</b> inclinez votre carte faction pour choisir un personnage <i>sauvageon<i> participant que vous contrôlez. Jusqu'à la fin du défi, ce personnage gagne +2 STR.",
+        "traits": "Armée. Sauvageon."
     },
     {
         "code": "01032",
-        "flavor": "The king eats, they say, and the Hand takes the shit.\" <cite>Robert Baratheon</cite>",
-        "name": "Seal of the Hand",
-        "text": "<i>Lord</i> or <i>Lady</i> character only.\n<b>Action:</b> Kneel Seal of the Hand to stand attached character.",
-        "traits": "Item."
+        "flavor": "Ce que le roi bouffe, la Main s'en farcit la merde.\" <cite>Robert Baratheon</cite>",
+        "name": "Sceau de la Main",
+        "text": "Personnage <i> Lord</i> ou <i>Lady</i> uniquement.\n<b>Action:</b> inclinez le Sceau de la Main pour redresser le personnage attaché.",
+        "traits": "Objet."
     },
     {
         "code": "01033",
-        "name": "Bodyguard",
-        "text": "<i>Lord</i> or <i>Lady</i> character only.\n<b>Interrupt:</b> When attached character would be killed or discarded from play, sacrifice Bodyguard to save that character.",
-        "traits": "Condition."
+        "name": "Garde du corps",
+        "text": "Personnage <i> Lord</i> ou <i>Lady</i> uniquement.\n<b>Interruption:</b> quand le personnage attaché est censé être défaussé ou tué, sacrifiez le Garde du corps pour le sauver.",
+        "traits": "État."
     },
     {
         "code": "01034",
-        "flavor": "\"He has informants everywhere. His little birds, he calls them.\" <cite>Littlefinger</cite>",
-        "name": "Little Bird",
-        "text": "Attached character gains an [intrigue] icon.",
-        "traits": "Condition."
+        "flavor": "\"Ses mouchards sont partout. Ses oisillons comme il les appelle.\" <cite>Littlefinger</cite>",
+        "name": "Oisillon",
+        "text": "Le personnage attaché gagne une icône [intrigue].",
+        "traits": "État."
     },
     {
         "code": "01035",
-        "flavor": "By the time the maester removed the funnel from his mouth, he was already spiralling back to sleep.",
-        "name": "Milk of the Poppy",
-        "text": "Terminal.\nTreat attached character's printed text box as if it were blank (except for <i>Traits</i>).",
-        "traits": "Condition."
+        "flavor": "La pipette se retirait à peine qu'il retombait en tournoyant dans le puits du sommeil.",
+        "name": "Lait de pavot",
+        "text": "Condamné.\nTLe personnage attaché perd le texte de sa boîte de texte (à l'exception de ses <i>Traits</i>).",
+        "traits": "État."
     },
     {
         "code": "01036",
-        "flavor": "What had Jon Arryn wanted with a king's bastard, and why was it worth his life?",
-        "name": "Noble Lineage",
-        "text": "Attached character gains a [power] icon.",
-        "traits": "Condition."
+        "flavor": "Que diable lord Arryn comptait-il faire d'un bâtard de roi, et pourquoi cela lui avait-il coûté la vie?",
+        "name": "Haut lignage",
+        "text": "Le personnage attaché gagne une icône [power].",
+        "traits": "État."
     },
     {
         "code": "01037",
-        "flavor": "\"Now we will begin the dance.\" <cite>Syrio Forel</cite>",
-        "name": "Syrio's Training",
-        "text": "Attached character gains a [military] icon.",
-        "traits": "Condition. Skill."
+        "flavor": "\"À présent nous allons commencer la danse.\" <cite>Syrio Forel</cite>",
+        "name": "Leçons de Syrio",
+        "text": "Le personnage attaché gagne une icône [military].",
+        "traits": "État. Compétence."
     },
     {
         "code": "01038",
