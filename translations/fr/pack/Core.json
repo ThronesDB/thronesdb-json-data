@@ -1,81 +1,81 @@
 [
     {
         "code": "01001",
-        "name": "A Clash of Kings",
-        "text": "<b>Reaction:</b> After you win a [power] challenge, move 1 power from the losing opponent's faction card to your own.",
+        "name": "La bataille des rois",
+        "text": "<b>Réaction:</b> après avoir gagné un défi [power], déplacez 1 point de pouvoir de la carte faction de l'adversaire perdant vers la vôtre.",
         "traits": "Noble."
     },
     {
         "code": "01002",
-        "name": "A Feast for Crows",
-        "text": "<b>Reaction:</b> After you win dominance, gain 2 power for your faction.",
-        "traits": "Edict."
+        "name": "Un festin pour les corbeaux",
+        "text": "<b>Réaction:</b> après avoir remporté l'hégémonie, gagnez 2 points de pouvoir pour votre faction.",
+        "traits": "Édit."
     },
     {
         "code": "01003",
-        "name": "A Game of Thrones",
-        "text": "A player cannot initiate a [military] or [power] challenge unless he or she has won an [intrigue] challenge that phase.",
-        "traits": "Scheme."
+        "name": "Le jeu des trônes",
+        "text": "Un joueur ne peut pas initier de défi [military] ou [power], à moins d'avoir gagné un défi [intrigue] à cette phase.",
+        "traits": "Machination."
     },
     {
         "code": "01004",
-        "name": "A Noble Cause",
-        "text": "Reduce the cost of the first <i>Lord</i> or <i>Lady</i> character you marshal this round by 2.",
-        "traits": "Kingdom. Noble."
+        "name": "Une noble cause",
+        "text": "Réduisez de 2 le coût du premier personnage <i>Lord</i> ou <i>Lady</i> que vous recrutez à ce round.",
+        "traits": "Royaume. Noble."
     },
     {
         "code": "01005",
-        "name": "A Storm of Swords",
-        "text": "You may initiate an additional [military] challenge during the challenges phase.",
-        "traits": "War."
+        "name": "Une tempête d'épées",
+        "text": "Vous pouvez initier un défi [military] supplémentaire lors de cette phase de défis.",
+        "traits": "Guerre."
     },
     {
         "code": "01006",
-        "name": "Building Orders",
-        "text": "<b>When Revealed:</b> Search the top 10 cards of your deck for an attachment or a location, reveal it, and add it to your hand. Shuffle your deck.",
-        "traits": "Kingdom."
+        "name": "Ordres de construction",
+        "text": "<b>Une fois révélée:</b> cherchez un attachement ou un lieu parmi les 10 premières cartes de votre deck, révélez-le, et ajoutez-le à votre main. Mélangez votre deck.",
+        "traits": "Royaume."
     },
     {
         "code": "01007",
-        "name": "Calling the Banners",
-        "text": "<b>When Revealed:</b> Choose an opponent. Gain 1 gold for each character that player controls.",
-        "traits": "Kingdom."
+        "name": "Convocation des bannerets",
+        "text": "<b>Une fois révélée:</b> choisissez un adversaire. Gagnez 1 or pour chaque personnage que ce joueur contrôle.",
+        "traits": "Royaume."
     },
     {
         "code": "01008",
-        "name": "Calm Over Westeros",
-        "text": "<b>When Revealed:</b> Name a challenge type. Until you reveal a new plot card, reduce the claim value on the attacking player's revealed plot card by 1 during challenges of that type in which you are the defending player.",
-        "traits": "Summer."
+        "name": "Calme sur Westeros",
+        "text": "<b>Une fois révélée:</b> nommez un type de défi. Jusqu'à ce que vous révéliez une nouvelle carte complot, réduisez de 1 la valeur de prise de la carte complot que le joueur attaquant a révélée lors des défis de ce type dans lesquels vous êtes le joueur défenseur.",
+        "traits": "Été."
     },
     {
         "code": "01009",
         "name": "Confiscation",
-        "text": "<b>When Revealed:</b> Choose an attachment, and discard it from play.",
-        "traits": "Edict."
+        "text": "<b>Une fois révélée:</b> choisissez un attachement et défaussez-le du jeu.",
+        "traits": "Édit."
     },
     {
         "code": "01010",
-        "name": "Counting Coppers",
-        "text": "<b>When Revealed:</b> Draw 3 cards.",
-        "traits": "Kingdom."
+        "name": "Compter ses picaillons",
+        "text": "<b>Une fois révélée:</b> piochez 3 cartes.",
+        "traits": "Royaume."
     },
     {
         "code": "01011",
-        "name": "Filthy Accusations",
-        "text": "<b>When Revealed:</b> Choose and kneel a character.",
-        "traits": "Scheme."
+        "name": "Accusations crapuleuses",
+        "text": "<b>Une fois révélée:</b> choisissez et inclinez un personnage.",
+        "traits": "Machination."
     },
     {
         "code": "01012",
-        "name": "Fortified Position",
-        "text": "Treat each character as if its printed text box were blank (except for <i>Traits</i>).",
-        "traits": "Siege. War."
+        "name": "Position fortifiée",
+        "text": "chaque personnage perd le texte imprimé dans sa boite de texte (à l'exception des <i>Traits</i>).",
+        "traits": "Siège. Guerre."
     },
     {
         "code": "01013",
-        "name": "Heads on Spikes",
-        "text": "<b>When Revealed:</b> Choose an opponent. Discard 1 card at random from that player's hand. If that card is a character, gain 2 power for your faction and place the discarded character in its owner's dead pile.",
-        "traits": "Edict. War."
+        "name": "Des têtes sur des piques",
+        "text": "<b>WUne fois révélée:</b> Choisissez un adversaire. Défaussez 1 carte au hasard de la main de ce joueur. Si cette carte est un personnage, gagnez 2 points de pouvoir pour votre faction et posez le personnage défaussé dans la pile des morts de son propriétaire.",
+        "traits": "Édit. Guerre."
     },
     {
         "code": "01014",
