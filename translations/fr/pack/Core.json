@@ -237,7 +237,7 @@
     },
     {
         "code": "01039",
-        "name": "La route Ropyale",
+        "name": "La route Royale",
         "text": "Limitée.\n<b>Action de recrutement:</b> inclinez et sacrifiez La route Royale pour réduire de 3 le coût du prochain personnage que vous recrutez à cette phase.\n+1 Initiative.",
         "traits": "Westeros."
     },
@@ -279,36 +279,36 @@
     },
     {
         "code": "01046",
-        "name": "Maester Cressen",
-        "text": "<b>Marshaling Action:</b> Kneel Maester Cressen to choose a <i>Condition</i> attachment, and discard it from play.",
-        "traits": "Maester."
+        "name": "Mestre Cressen",
+        "text": "<b>Action de recrutement:</b> inclinez Mestre Cressen pour choisir un attachement <i>État</i> et le défausser du jeu.",
+        "traits": "Mestre."
     },
     {
         "code": "01047",
-        "flavor": "\"It is not the foes who curse you to your face that you must fear, but those who smile when you are looking and sharpen their knives when you turn your back.\"",
-        "name": "Melisandre",
-        "text": "<b>Reaction:</b> After you marshal or play a <i>R'hllor</i> card, choose and kneel a character. (Limit once per round.)",
+        "flavor": "\"Ce ne sont pas les ennemis qui vous maudissent face à face que vous devez redouter, mais ceux qui sourient quand vous regardez et émoulent leurs poignards dès que vous leur tournez le dos.\"",
+        "name": "Mélisandre",
+        "text": "<b>Réaction:</b> après avoir recruté ou joué une carte <i>R'hllor</i> choisissez et inclinez un personnage. (Limite d'une fois par round.)",
         "traits": "Lady. R'hllor."
     },
     {
         "code": "01048",
-        "flavor": "\"Fat? Fat, is it? Is that how your speak to your king? Ah, damn you, Ned, why are you always right?\"",
+        "flavor": "\"Gras? Gras, n'est-ce pas? Voilà dans quels termes tu t'adresses à ton roi? Ah Ned! le diable t'emporte! tu ne pourrais pas te tromper, parfois?\"",
         "name": "Robert Baratheon",
-        "text": "Intimidate. Renown.\nRobert Baratheon gets +1 STR for each other kneeling character in play.",
-        "traits": "King. Lord."
+        "text": "Intimidation. Renom.\nRobert Baratheon gagne +1 FOR pour chaque autre personnage incliné en jeu.",
+        "traits": "Roi. Lord."
     },
     {
         "code": "01049",
         "name": "Selyse Baratheon",
-        "text": "<b>Challenges Action:</b> Pay 1 gold to choose a [baratheon] character. Until the end of the phase, that character gains an [intrigue] icon.",
-        "traits": "House Florent. Lady. R'hllor."
+        "text": "<b>Action de défis:</b> payez 1 or pour choisir un personnage [baratheon]. Jusqu'à la fin de la phase, le personnage en question gagne une icône [intrigue].",
+        "traits": "Maison Florent. Lady. R'hllor."
     },
     {
         "code": "01050",
-        "flavor": "\"King Stannis is my god. He made me and blessed me with his trust.\"",
-        "name": "Ser Davos Seaworth",
-        "text": "Stealth.\n<b>Interrupt:</b> When Ser Davos Seaworth is killed, return him to your hand instead of placing him in your dead pile.",
-        "traits": "Knight. Smuggler."
+        "flavor": "\"Le roi Stannis est mon dieu. C'est lui qui m'a fait en m'accordant, bénie soit-elle, sa confiance.\"",
+        "name": "Ser Davos Mervault",
+        "text": "Furtivité.\n<b>Interruption:</b> quand Ser Davos Mervault est tué, ramenez-le dans votre main au lieu de le poser dans votre pile des morts.",
+        "traits": "Chevalier. Contrebandier."
     },
     {
         "code": "01051",
