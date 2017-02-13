@@ -38,6 +38,28 @@
         "type_code": "location"
     },
     {
+        "code": "06003",
+        "cost": 6,
+        "deck_limit": 3,
+        "faction_code": "tyrell",
+        "flavor": "Margaery's kindness had been unfailing, and her presence changed everything.",
+        "illustrator": "Kate Burmak",
+        "is_intrigue": true,
+        "is_loyal": true,
+        "is_military": false,
+        "is_power": true,
+        "is_unique": true,
+        "name": "Margaery Tyrell",
+        "octgn_id": null,
+        "pack_code": "AMAF",
+        "position": 3,
+        "quantity": 3,
+        "strength": 5,
+        "text": "Renown.\n<b>Reaction:</b> After a unique <i>King</i> or <i>Lord</i> character you control is killed, search your deck for a unique <i>King</i> or <i>Lord</i> character and put it into play. Shuffle your deck. (limit once per round.)",
+        "traits": "Lady. Queen.",
+        "type_code": "character"
+    },
+    {
         "code": "06007",
         "cost": 3,
         "deck_limit": 3,
