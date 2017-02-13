@@ -1,314 +1,314 @@
 [
     {
         "code": "01001",
-        "name": "A Clash of Kings",
-        "text": "<b>Reaction:</b> After you win a [power] challenge, move 1 power from the losing opponent's faction card to your own.",
+        "name": "La bataille des rois",
+        "text": "<b>Réaction:</b> après avoir gagné un défi [power], déplacez 1 point de pouvoir de la carte faction de l'adversaire perdant vers la vôtre.",
         "traits": "Noble."
     },
     {
         "code": "01002",
-        "name": "A Feast for Crows",
-        "text": "<b>Reaction:</b> After you win dominance, gain 2 power for your faction.",
-        "traits": "Edict."
+        "name": "Un festin pour les corbeaux",
+        "text": "<b>Réaction:</b> après avoir remporté l'hégémonie, gagnez 2 points de pouvoir pour votre faction.",
+        "traits": "Édit."
     },
     {
         "code": "01003",
-        "name": "A Game of Thrones",
-        "text": "A player cannot initiate a [military] or [power] challenge unless he or she has won an [intrigue] challenge that phase.",
-        "traits": "Scheme."
+        "name": "Le jeu des trônes",
+        "text": "Un joueur ne peut pas initier de défi [military] ou [power], à moins d'avoir gagné un défi [intrigue] à cette phase.",
+        "traits": "Machination."
     },
     {
         "code": "01004",
-        "name": "A Noble Cause",
-        "text": "Reduce the cost of the first <i>Lord</i> or <i>Lady</i> character you marshal this round by 2.",
-        "traits": "Kingdom. Noble."
+        "name": "Une noble cause",
+        "text": "Réduisez de 2 le coût du premier personnage <i>Lord</i> ou <i>Lady</i> que vous recrutez à ce round.",
+        "traits": "Royaume. Noble."
     },
     {
         "code": "01005",
-        "name": "A Storm of Swords",
-        "text": "You may initiate an additional [military] challenge during the challenges phase.",
-        "traits": "War."
+        "name": "Une tempête d'épées",
+        "text": "Vous pouvez initier un défi [military] supplémentaire lors de cette phase de défis.",
+        "traits": "Guerre."
     },
     {
         "code": "01006",
-        "name": "Building Orders",
-        "text": "<b>When Revealed:</b> Search the top 10 cards of your deck for an attachment or a location, reveal it, and add it to your hand. Shuffle your deck.",
-        "traits": "Kingdom."
+        "name": "Ordres de construction",
+        "text": "<b>Une fois révélée:</b> cherchez un attachement ou un lieu parmi les 10 premières cartes de votre deck, révélez-le, et ajoutez-le à votre main. Mélangez votre deck.",
+        "traits": "Royaume."
     },
     {
         "code": "01007",
-        "name": "Calling the Banners",
-        "text": "<b>When Revealed:</b> Choose an opponent. Gain 1 gold for each character that player controls.",
-        "traits": "Kingdom."
+        "name": "Convocation des bannerets",
+        "text": "<b>Une fois révélée:</b> choisissez un adversaire. Gagnez 1 or pour chaque personnage que ce joueur contrôle.",
+        "traits": "Royaume."
     },
     {
         "code": "01008",
-        "name": "Calm Over Westeros",
-        "text": "<b>When Revealed:</b> Name a challenge type. Until you reveal a new plot card, reduce the claim value on the attacking player's revealed plot card by 1 during challenges of that type in which you are the defending player.",
-        "traits": "Summer."
+        "name": "Calme sur Westeros",
+        "text": "<b>Une fois révélée:</b> nommez un type de défi. Jusqu'à ce que vous révéliez une nouvelle carte complot, réduisez de 1 la valeur de prise de la carte complot que le joueur attaquant a révélée lors des défis de ce type dans lesquels vous êtes le joueur défenseur.",
+        "traits": "Été."
     },
     {
         "code": "01009",
         "name": "Confiscation",
-        "text": "<b>When Revealed:</b> Choose an attachment, and discard it from play.",
-        "traits": "Edict."
+        "text": "<b>Une fois révélée:</b> choisissez un attachement et défaussez-le du jeu.",
+        "traits": "Édit."
     },
     {
         "code": "01010",
-        "name": "Counting Coppers",
-        "text": "<b>When Revealed:</b> Draw 3 cards.",
-        "traits": "Kingdom."
+        "name": "Compter ses picaillons",
+        "text": "<b>Une fois révélée:</b> piochez 3 cartes.",
+        "traits": "Royaume."
     },
     {
         "code": "01011",
-        "name": "Filthy Accusations",
-        "text": "<b>When Revealed:</b> Choose and kneel a character.",
-        "traits": "Scheme."
+        "name": "Accusations crapuleuses",
+        "text": "<b>Une fois révélée:</b> choisissez et inclinez un personnage.",
+        "traits": "Machination."
     },
     {
         "code": "01012",
-        "name": "Fortified Position",
-        "text": "Treat each character as if its printed text box were blank (except for <i>Traits</i>).",
-        "traits": "Siege. War."
+        "name": "Position fortifiée",
+        "text": "Chaque personnage perd le texte imprimé dans sa boite de texte (à l'exception des <i>Traits</i>).",
+        "traits": "Siège. Guerre."
     },
     {
         "code": "01013",
-        "name": "Heads on Spikes",
-        "text": "<b>When Revealed:</b> Choose an opponent. Discard 1 card at random from that player's hand. If that card is a character, gain 2 power for your faction and place the discarded character in its owner's dead pile.",
-        "traits": "Edict. War."
+        "name": "Des têtes sur des piques",
+        "text": "<b>WUne fois révélée:</b> choisissez un adversaire. Défaussez 1 carte au hasard de la main de ce joueur. Si cette carte est un personnage, gagnez 2 points de pouvoir pour votre faction et posez le personnage défaussé dans la pile des morts de son propriétaire.",
+        "traits": "Édit. Guerre."
     },
     {
         "code": "01014",
-        "name": "Jousting Contest",
-        "text": "Each player cannot declare more than 1 character as an attacker or defender in each challenge.",
-        "traits": "War."
+        "name": "Épreuve de joute",
+        "text": "Aucun joueur ne peut déclarer plus d'1 personnage comme attaquant ou défenseur dans chaque défi.",
+        "traits": "Guerre."
     },
     {
         "code": "01015",
-        "name": "Marched to the Wall",
-        "text": "<b>When Revealed:</b> Each player chooses a character he or she controls (if able), and discards it from play (cannot be saved).",
-        "traits": "Edict."
+        "name": "En route pour le Mur",
+        "text": "<b>Une fois révélée:</b> chaque joueur choisit un personnage qu'il contrôle (si possible) et le défausse du jeu (ne peut être sauvé).",
+        "traits": "Édit."
     },
     {
         "code": "01016",
-        "name": "Marching Orders",
-        "text": "You cannot marshal locations or attachments, or play events.",
-        "traits": "Edict. War."
+        "name": "Ordres de marche",
+        "text": "Vous ne pouvez pas recruter de lieux ou d'attachements, ni jouer d'événements.",
+        "traits": "Édit. Guerre."
     },
     {
         "code": "01017",
-        "name": "Naval Superiority",
-        "text": "Treat the base gold value on each revealed <i>Kingdom</i> and each revealed <i>Edict</i> plot card as if it were 0.",
-        "traits": "Siege. War."
+        "name": "Supériorité navale",
+        "text": "La valeur en or de base de chaque <i>Royaume</i> révélé et de chaque carte complot <i>Édit</i> révélée est égale à 0.",
+        "traits": "Siège. Guerre."
     },
     {
         "code": "01018",
-        "name": "Power Behind the Throne",
-        "text": "<b>When Revealed:</b> Place 1 stand token on Power Behind the Throne.\n<b>Action:</b> Discard 1 stand token from Power Behind the Throne to choose and stand a character.",
-        "traits": "Noble. Scheme."
+        "name": "Éminence grise",
+        "text": "<b>Une fois révélée:</b> posez un jeton de redressement sur cette carte.\n<b>Action:</b> défaussez un jeton redressement de cette carte pour choisir et redresser un personnage.",
+        "traits": "Noble. Machination."
     },
     {
         "code": "01019",
-        "name": "Rebuilding",
-        "text": "<b>When Revealed:</b> Choose up to 3 cards in your discard pile, and shuffle them into your deck.",
-        "traits": "Kingdom."
+        "name": "Reconstruction",
+        "text": "<b>Une fois révélée:</b> choisissez jusqu'à 3 cartes dans votre pile de défausse et mélangez les dans votre deck.",
+        "traits": "Royaume."
     },
     {
         "code": "01020",
-        "name": "Reinforcements",
-        "text": "<b>When Revealed:</b> Choose a character with printed cost 5 or lower in your hand or discard pile, and put it into play.",
-        "traits": "Kingdom. War."
+        "name": "Renforts",
+        "text": "<b>Une fois révélée:</b> choisissez un personnage ayant un coût imprimé de 5 ou moins dans votre main ou votre pile de défausse, et mettez-le en jeu.",
+        "traits": "Royaume. Guerre."
     },
     {
         "code": "01021",
-        "name": "Sneak Attack",
-        "text": "You cannot initiate more than 1 challenge during the challenges phase.",
-        "traits": "Scheme."
+        "name": "Attaque sournoise",
+        "text": "Vous ne pouvez pas initier plus d'1 défi lors de la phase de défis.",
+        "traits": "Machination."
     },
     {
         "code": "01022",
-        "name": "Summons",
-        "text": "<b>When Revealed:</b> Search the top 10 cards of your deck for a character, reveal it, and add it to your hand. Shuffle your deck.",
-        "traits": "Kingdom."
+        "name": "Recrutements",
+        "text": "<b>Une fois révélée:</b> cherchez un personnage parmi les 10 premières cartes de votre deck, révélez-le, et ajoutez-le à votre main. Mélangez votre deck.",
+        "traits": "Royaume."
     },
     {
         "code": "01023",
-        "name": "Supporting the Faith",
-        "text": "<b>Forced Reaction:</b> After the challenges phase begins, each player returns all gold in his or her gold pool to the treasury.",
-        "traits": "Edict. The Seven."
+        "name": "Soutenir la foi",
+        "text": "<b>Réaction forcée:</b> après le début de la phase de défis, chaque joueur renvoie tout l'or de sa réserve d'or dans le trésor.",
+        "traits": "Édit. Les Sept."
     },
     {
         "code": "01024",
         "name": "Taxation",
-        "text": "You may marshal or play 1 additional limited card this round.",
-        "traits": "Edict. Kingdom."
+        "text": "Vous pouvez recruter ou jouer une carte Limitée supplémentaire à ce round.",
+        "traits": "Édit. Royaume."
     },
     {
         "code": "01025",
-        "flavor": "A cold wind was blowing out of the north, and it made the trees rustle like living things. All day, Will had felt as though something were watching him, something cold and implacable that loved him not.",
-        "name": "The Winds of Winter",
-        "traits": "Winter."
+        "flavor": "\"Ce vent froid qui soufflait du nord et qui arrachait aux arbres des bruissements de choses en vie. À tout instant, Will s'était senti, ce jour-là, sous le regard de quelque chose, un regard froid, implacable, hostile.\"",
+        "name": "Les vents de l'hiver",
+        "traits": "Hiver."
     },
     {
         "code": "01026",
-        "name": "Wildfire Assault",
-        "text": "<b>When Revealed:</b> Each player chooses up to 3 characters he or she controls. Kill each character not chosen (cannot be saved).",
-        "traits": "Scheme. War."
+        "name": "Attaque de feu grégeois",
+        "text": "<b>Une fois révélée:</b> chaque joueur choisit jusqu'à 3 personnages qu'il contrôle. Tuez chaque personnage qui n'a pas été choisi (ne peut être sauvé).",
+        "traits": "Machination. Guerre."
     },
     {
         "code": "01027",
-        "name": "Fealty",
-        "text": "You cannot include more than 15 neutral cards in your deck.\n<b>Action:</b> Kneel your faction card to reduce the cost of the next loyal card you marshal or play this phase by 1.",
+        "name": "Féauté",
+        "text": "Vous ne pouvez pas inclure plus de 15 cartes neutres dans votre deck.\n<b>Action:</b> inclinez votre carte faction pour réduire de 1 le coût de la prochaine carte loyale que vous recrutez ou jouez à cette phase.",
         "traits": ""
     },
     {
         "code": "01028",
-        "flavor": "\"I did warn you not to trust me.\"",
+        "flavor": "\"Ce n'est pourtant pas faute de vous avoir prévenu qu'il ne fallait pas vous fier à moi.\"",
         "name": "Littlefinger",
-        "text": "<b>Reaction:</b> After you marshal Littlefinger, draw 2 cards.\n+1 Income.",
-        "traits": "Ally. Lord. Small Council."
+        "text": "<b>Réaction:</b> après avoir recruté Littlefinger, piochez 2 cartes.\n+1 Income.",
+        "traits": "Allié. Lord. Conseil restreint."
     },
     {
         "code": "01029",
-        "flavor": "\"Why is it always the innocents who suffer most, when you high lords play your game of thrones?\"",
+        "flavor": "\"Pourquoi la pire souffrance échoit-elle toujours aux innocents quand vous autres, grands seigneurs, vous amusez au jeu des trônes?\"",
         "name": "Varys",
-        "text": "Stealth.\n<b>Interrupt:</b> When the dominance phase ends, remove Varys from the game to discard each character from play.",
-        "traits": "Lord. Small Council. Spy."
+        "text": "Furtivité.\n<b>Interruption:</b> Quand la phase d'hégémonie prend fin,retirez Varys de la partie pour défausser chaque personnage du jeu.",
+        "traits": "Lord. Conseil restreint. Espion."
     },
     {
         "code": "01030",
-        "name": "Rattleshirt's Raiders",
-        "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which Rattleshirt's Raiders is participating as an attacker, choose an attachment controlled by the losing opponent, and discard it from play.",
-        "traits": "Raider. Wildling."
+        "name": "Pillards de Clinquefrac",
+        "text": "Pas d'attachements.\n<b>Réaction:</b> après avoir gagné un défi auquel les Pillards de Clinquefrac participent en tant qu'attaquants, choisissez un attachement contrôlé par l'adversaire perdant et défaussez le du jeu.",
+        "traits": "Pillard. Sauvageon."
     },
     {
         "code": "01031",
-        "name": "Wildling Horde",
-        "text": "No attachments. Pillage.\n<b>Challenges Action:</b> Kneel your faction card to choose a participating Wildling character you control. Until the end of the challenge, that character gets +2 STR.",
-        "traits": "Army. Wildling."
+        "name": "Horde de sauvageons",
+        "text": "Pas d'attachements. Pillage.\n<b>Action de défi:</b> inclinez votre carte faction pour choisir un personnage <i>sauvageon<i> participant que vous contrôlez. Jusqu'à la fin du défi, ce personnage gagne +2 STR.",
+        "traits": "Armée. Sauvageon."
     },
     {
         "code": "01032",
-        "flavor": "The king eats, they say, and the Hand takes the shit.\" <cite>Robert Baratheon</cite>",
-        "name": "Seal of the Hand",
-        "text": "<i>Lord</i> or <i>Lady</i> character only.\n<b>Action:</b> Kneel Seal of the Hand to stand attached character.",
-        "traits": "Item."
+        "flavor": "Ce que le roi bouffe, la Main s'en farcit la merde.\" <cite>Robert Baratheon</cite>",
+        "name": "Sceau de la Main",
+        "text": "Personnage <i> Lord</i> ou <i>Lady</i> uniquement.\n<b>Action:</b> inclinez le Sceau de la Main pour redresser le personnage attaché.",
+        "traits": "Objet."
     },
     {
         "code": "01033",
-        "name": "Bodyguard",
-        "text": "<i>Lord</i> or <i>Lady</i> character only.\n<b>Interrupt:</b> When attached character would be killed or discarded from play, sacrifice Bodyguard to save that character.",
-        "traits": "Condition."
+        "name": "Garde du corps",
+        "text": "Personnage <i> Lord</i> ou <i>Lady</i> uniquement.\n<b>Interruption:</b> quand le personnage attaché est censé être défaussé ou tué, sacrifiez le Garde du corps pour le sauver.",
+        "traits": "État."
     },
     {
         "code": "01034",
-        "flavor": "\"He has informants everywhere. His little birds, he calls them.\" <cite>Littlefinger</cite>",
-        "name": "Little Bird",
-        "text": "Attached character gains an [intrigue] icon.",
-        "traits": "Condition."
+        "flavor": "\"Ses mouchards sont partout.\n Ses oisillons comme il les appelle.\" <cite>Littlefinger</cite>",
+        "name": "Oisillon",
+        "text": "Le personnage attaché gagne une icône [intrigue].",
+        "traits": "État."
     },
     {
         "code": "01035",
-        "flavor": "By the time the maester removed the funnel from his mouth, he was already spiralling back to sleep.",
-        "name": "Milk of the Poppy",
-        "text": "Terminal.\nTreat attached character's printed text box as if it were blank (except for <i>Traits</i>).",
-        "traits": "Condition."
+        "flavor": "La pipette se retirait à peine qu'il retombait en tournoyant dans le puits du sommeil.",
+        "name": "Lait de pavot",
+        "text": "Condamné.\nTLe personnage attaché perd le texte de sa boîte de texte (à l'exception de ses <i>Traits</i>).",
+        "traits": "État."
     },
     {
         "code": "01036",
-        "flavor": "What had Jon Arryn wanted with a king's bastard, and why was it worth his life?",
-        "name": "Noble Lineage",
-        "text": "Attached character gains a [power] icon.",
-        "traits": "Condition."
+        "flavor": "Que diable lord Arryn comptait-il faire d'un bâtard de roi, et pourquoi cela lui avait-il coûté la vie?",
+        "name": "Haut lignage",
+        "text": "Le personnage attaché gagne une icône [power].",
+        "traits": "État."
     },
     {
         "code": "01037",
-        "flavor": "\"Now we will begin the dance.\" <cite>Syrio Forel</cite>",
-        "name": "Syrio's Training",
-        "text": "Attached character gains a [military] icon.",
-        "traits": "Condition. Skill."
+        "flavor": "\"À présent nous allons commencer la danse.\" <cite>Syrio Forel</cite>",
+        "name": "Leçons de Syrio",
+        "text": "Le personnage attaché gagne une icône [military].",
+        "traits": "État. Compétence."
     },
     {
         "code": "01038",
-        "flavor": "\"…it is a monstruous uncomfortable chair. In more ways than one.\" <cite>Robert Baratheon</cite>",
-        "name": "The Iron Throne",
-        "text": "The Iron Throne contributes 8 STR to your total for dominance.\n+1 Reserve.",
-        "traits": "King's Landing."
+        "flavor": "\"…ce siège est monstrueusement inconfortable. Et à plus d'un égard.\" <cite>Robert Baratheon</cite>",
+        "name": "Le trône de Fer",
+        "text": "Le trône de Fer confère 8 FOR à votre total pour l'hégémonie.\n+1 Reserve.",
+        "traits": "Port-Réal."
     },
     {
         "code": "01039",
-        "name": "The Kingsroad",
-        "text": "Limited.\n<b>Marshaling Action:</b> Kneel and sacrifice The Kingsroad to reduce the cost of the next character you marshal this phase by 3.\n+1 Initiative.",
+        "name": "La route Royale",
+        "text": "Limitée.\n<b>Action de recrutement:</b> inclinez et sacrifiez La route Royale pour réduire de 3 le coût du prochain personnage que vous recrutez à cette phase.\n+1 Initiative.",
         "traits": "Westeros."
     },
     {
         "code": "01040",
-        "name": "The Roseroad",
-        "text": "Limited.\n+1 Income.",
+        "name": "La route de la Rose",
+        "text": "Limitée.\n+1 Income.",
         "traits": "Westeros."
     },
     {
         "code": "01041",
-        "name": "Put to the Sword",
-        "text": "<b>Reaction:</b> After you win a [military] challenge by 5 or more STR as the attacking player, choose and kill a character controlled by the losing opponent. (Max 1 per challenge.)",
+        "name": "Passé au fil de l'épée",
+        "text": "<b>Réaction:</b> Après avoir gagné un défi [military] d'au moins 5 FOR en tant que joueur attaquant, choisissez et tuez un personnage contrôlé par l'adversaire perdant. (Maximum 1 par défi.)",
         "traits": ""
     },
     {
         "code": "01042",
-        "name": "Put to the Torch",
-        "text": "<b>Reaction:</b> After you win a [military] challenge by 5 or more STR as the attacking player, choose a location controlled by the losing opponent, and discard it from play. (Max 1 per challenge.)",
+        "name": "Livré au flammes",
+        "text": "<b>Réaction:</b> Après avoir gagné un défi [military] d'au moins 5 FOR en tant que joueur attaquant, choisissez un lieu contrôlé par l'adversaire perdant et défaussez-le du jeu. (Maximum 1 par défi.)",
         "traits": ""
     },
     {
         "code": "01043",
-        "name": "Superior Claim",
-        "text": "<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, gain 2 power for your faction. (Max 1 per challenge.)",
+        "name": "Solides prétentions",
+        "text": "<b>Réaction:</b> Après avoir gagné un défi [power] d'au moins 5 FOR, gagnez 2 points de pouvoir pour votre faction. (Maximum 1 par défi.)",
         "traits": ""
     },
     {
         "code": "01044",
-        "name": "Tears of Lys",
-        "text": "<b>Reaction:</b> After you win an [intrigue] challenge as the attacking player, place a poison token on a character without an [intrigue] icon controlled by the losing opponent. At the end of the phase, if that character still has the poison token, remove it and kill that character. (Max 1 per challenge.)",
+        "name": "Larmes de Lys",
+        "text": "<b>Réaction:</b> Après avoir gagné un défi [intrigue] en tant que joueur attaquant, posez un jeton de poison sur un personnage dénué d'une icône [intrigue] contrôlé par l'adversaire perdant. À la fin de la phase, si le personnage en question a toujours ce jeton de poison, retirez ce dernier et tuez ce personnage. (Maximum 1 par défi.)",
         "traits": "Poison."
     },
     {
         "code": "01045",
-        "name": "The Hand's Judgment",
-        "text": "<b>Interrupt:</b> When the effects of an opponent's event would initiate, cancel those effects. X is that event's printed cost.",
+        "name": "Le jugement de la Main",
+        "text": "<b>Interruption:</b> Quand les effets d'un événement d'un adversaire sont censé être initiés, annulez-les. X est le coût imprimé de l'événement en question.",
         "traits": ""
     },
     {
         "code": "01046",
-        "name": "Maester Cressen",
-        "text": "<b>Marshaling Action:</b> Kneel Maester Cressen to choose a <i>Condition</i> attachment, and discard it from play.",
-        "traits": "Maester."
+        "name": "Mestre Cressen",
+        "text": "<b>Action de recrutement:</b> inclinez Mestre Cressen pour choisir un attachement <i>État</i> et le défausser du jeu.",
+        "traits": "Mestre."
     },
     {
         "code": "01047",
-        "flavor": "\"It is not the foes who curse you to your face that you must fear, but those who smile when you are looking and sharpen their knives when you turn your back.\"",
-        "name": "Melisandre",
-        "text": "<b>Reaction:</b> After you marshal or play a <i>R'hllor</i> card, choose and kneel a character. (Limit once per round.)",
+        "flavor": "\"Ce ne sont pas les ennemis qui vous maudissent face à face que vous devez redouter, mais ceux qui sourient quand vous regardez et émoulent leurs poignards dès que vous leur tournez le dos.\"",
+        "name": "Mélisandre",
+        "text": "<b>Réaction:</b> après avoir recruté ou joué une carte <i>R'hllor</i> choisissez et inclinez un personnage. (Limite d'une fois par round.)",
         "traits": "Lady. R'hllor."
     },
     {
         "code": "01048",
-        "flavor": "\"Fat? Fat, is it? Is that how your speak to your king? Ah, damn you, Ned, why are you always right?\"",
+        "flavor": "\"Gras? Gras, n'est-ce pas? Voilà dans quels termes tu t'adresses à ton roi? Ah Ned! le diable t'emporte! tu ne pourrais pas te tromper, parfois?\"",
         "name": "Robert Baratheon",
-        "text": "Intimidate. Renown.\nRobert Baratheon gets +1 STR for each other kneeling character in play.",
-        "traits": "King. Lord."
+        "text": "Intimidation. Renom.\nRobert Baratheon gagne +1 FOR pour chaque autre personnage incliné en jeu.",
+        "traits": "Roi. Lord."
     },
     {
         "code": "01049",
         "name": "Selyse Baratheon",
-        "text": "<b>Challenges Action:</b> Pay 1 gold to choose a [baratheon] character. Until the end of the phase, that character gains an [intrigue] icon.",
-        "traits": "House Florent. Lady. R'hllor."
+        "text": "<b>Action de défis:</b> payez 1 or pour choisir un personnage [baratheon]. Jusqu'à la fin de la phase, le personnage en question gagne une icône [intrigue].",
+        "traits": "Maison Florent. Lady. R'hllor."
     },
     {
         "code": "01050",
-        "flavor": "\"King Stannis is my god. He made me and blessed me with his trust.\"",
-        "name": "Ser Davos Seaworth",
-        "text": "Stealth.\n<b>Interrupt:</b> When Ser Davos Seaworth is killed, return him to your hand instead of placing him in your dead pile.",
-        "traits": "Knight. Smuggler."
+        "flavor": "\"Le roi Stannis est mon dieu. C'est lui qui m'a fait en m'accordant, bénie soit-elle, sa confiance.\"",
+        "name": "Ser Davos Mervault",
+        "text": "Furtivité.\n<b>Interruption:</b> quand Ser Davos Mervault est tué, ramenez-le dans votre main au lieu de le poser dans votre pile des morts.",
+        "traits": "Chevalier. Contrebandier."
     },
     {
         "code": "01051",
@@ -1246,94 +1246,100 @@
     },
     {
         "code": "01198",
-        "flavor": "\"I never asked for Dragonstone. I never wanted it.\" <cite>Stannis Baratheon</cite>",
-        "name": "Banner of the Stag",
-        "text": "You may include non-loyal [baratheon] cards in your deck.\nYou must include at least 12 [baratheon] cards in your deck.",
-        "traits": "Banner."
+        "flavor": "\"Je n'ai jamais demandé Peyredragon. Je ne l'ai jamais désiré.\" <cite>Stannis Baratheon</cite>",
+        "name": "Bannière du Cerf",
+        "text": "Vous pouvez inclure des cartes [baratheon] non loyales dans votre deck.\nVous devez inclure au moins 12 cartes [baratheon] dans votre deck.",
+        "traits": "Bannière."
     },
     {
         "code": "01199",
-        "flavor": "\"Greyjoy demands half the kingdom as the price of alliance, but what will he do to earn it?\" <cite>Tywin Lannister</cite>",
-        "name": "Banner of the Kraken",
-        "text": "You may include non-loyal [greyjoy] cards in your deck.\nYou must include at least 12 [greyjoy] cards in your deck.",
-        "traits": "Banner."
+        "flavor": "\"Pour prix de cette alliance, Greyjoy exige la moitié du royaume, mais que fera-t-il pour la gagner?\" <cite>Tywin Lannister</cite>",
+        "name": "Bannière du Kraken",
+        "text": "Vous pouvez inclure des cartes [greyjoy] non loyales dans votre deck.\nVous devez inclure au moins 12 cartes [greyjoy] dans votre deck.",
+        "traits": "Bannière."
     },
     {
         "code": "01200",
-        "name": "Banner of the Lion",
-        "text": "You may include non-loyal [lannister] cards in your deck.\nYou must include at least 12 [lannister] cards in your deck.",
-        "traits": "Banner."
+        "flavor": "Aussi le roi fou commit-il sa dernière folie en ouvrant ses portes aux lions",
+        "name": "Bannière du Lion",
+        "text": "Vous pouvez inclure des cartes [lannister] non loyales dans votre deck.\nVous devez inclure au moins 12 cartes [lannister] dans votre deck.",
+        "traits": "Bannière."
     },
     {
         "code": "01201",
-        "name": "Banner of the Sun",
-        "text": "You may include non-loyal [martell] cards in your deck.\nYou must include at least 12 [martell] cards in your deck.",
-        "traits": "Banner."
+        "flavor": "\"Les Martell ont toutes les raisons de nous haïr. Néanmoins, je me flatte qu'ils accepteront.\" <cite>Tyrion Lannister</cite>",
+        "name": "Bannière du Soleil",
+        "text": "Vous pouvez inclure des cartes [martell] non loyales dans votre deck.\nVous devez inclure au moins 12 cartes [martell] dans votre deck.",
+        "traits": "Bannière."
     },
     {
         "code": "01202",
-        "name": "Banner of the Watch",
-        "text": "You may include non-loyal [thenightswatch] cards in your deck.\nYou must include at least 12 [thenightswatch] cards in your deck.",
-        "traits": "Banner."
+        "flavor": "\"Plus tu donnes à un roi, plus s'accroissent ses exigences. Faire plaisir à un seul roi n'est déjà pas facile, en contenter deux confine à l'impossible.\" <cite>John Snow</cite>",
+        "name": "Bannière de la Garde",
+        "text": "Vous pouvez inclure des cartes [thenightswatch] non loyales dans votre deck.\nVous devez inclure au moins 12 cartes [thenightswatch] dans votre deck.",
+        "traits": "Bannière."
     },
     {
         "code": "01203",
-        "name": "Banner of the Wolf",
-        "text": "You may include non-loyal [stark] cards in your deck.\nYou must include at least 12 [stark] cards in your deck.",
-        "traits": "Banner."
+        "flavor": "\"Robert est roi maintenant, et les rois diffèrent du commun des mortels. Si tu refuses de le servir, il s'en étonnera.\" <cite>Catelyn Stark</cite>",
+        "name": "Bannière du Loup",
+        "text": "Vous pouvez inclure des cartes [stark] non loyales dans votre deck.\nVous devez inclure au moins 12 cartes [stark] dans votre deck.",
+        "traits": "Bannière."
     },
     {
         "code": "01204",
-        "name": "Banner of the Dragon",
-        "text": "You may include non-loyal [targaryen] cards in your deck.\nYou must include at least 12 [targaryen] cards in your deck.",
-        "traits": "Banner."
+        "flavor": "\"Nous autres princes, échafaudons nos plans avec la dernière des minuties, et les dieux les anéantissent en les renversant d'une pichenette.\" <cite>Doran Martell</cite>",
+        "name": "Bannière du Dragon",
+        "text": "Vous pouvez inclure des cartes [targaryen] non loyales dans votre deck.\nVous devez inclure au moins 12 cartes [targaryen] dans votre deck.",
+        "traits": "Bannière."
     },
     {
         "code": "01205",
-        "name": "Banner of the Rose",
-        "text": "You may include non-loyal [tyrell] cards in your deck.\nYou must include at least 12 [tyrell] cards in your deck.",
-        "traits": "Banner."
+        "flavor": "La main de Renly balaya l'espace où pétillaient d'un horizon à l'autre les feux de camp. \"La voilà ma légitimité. Celle de Robert ne fut jamais mieux fondée.\"",
+        "name": "Bannière de la Rose",
+        "text": "Vous pouvez inclure des cartes [tyrell] non loyales dans votre deck.\nVous devez inclure au moins 12 cartes [tyrell] dans votre deck.",
+        "traits": "Bannière."
     },
     {
         "code": "01206",
-        "flavor": "\"There are things I might tell you of that eunuch that would chill your blood.\" <cite>Grand Maester Pycelle</cite>",
-        "name": "Master of Whispers",
-        "text": "Supported by Master of Ships\nSupports: Hand of the King\nRivals: Master of Laws, Master of Coin\nYou may resolve your [intrigue] claim against any number of opponents of your choice.\n+1 STR [intrigue]",
+        "flavor": "\"Je pourrais vous dire sur cet eunuque des choses qui vous glaceraient le sang...\" <cite>Grand Mestre Pycelle</cite>",
+        "name": "Maître des Chuchoteurs",
+        "text": "Soutenu par le Maître des Navires\nSoutien de la Main du Roi\nRival du Maître des Lois et du Grand Argentier\nVous pouvez résoudre votre prise [intrigue] contre autant d'adversaires que vous le souhaitez.\n+1 STR [intrigue]",
         "traits": ""
     },
     {
         "code": "01207",
-        "flavor": "\"He is well suited to the office. He has spent half his life on ships.\" <cite>Cersei Lannister</cite>",
-        "name": "Master of Ships",
-        "text": "Supported by Master of Coin\nSupports: Master of Whispers\nRivals: Master of Laws, Hand of the King\nRaise the claim value on your revealed plot card by 1 during [military] challenges in which you are attacking a rival.\n+1 STR [military]",
+        "flavor": "\"Il est l'homme idéal pour ce poste. Il a passé la moitié deson existence sur des bateaux.\" <cite>Cersei Lannister</cite>",
+        "name": "Maître des Navires",
+        "text": "Soutenu par le Grand Argentier\nSoutien du Maître des Chuchoteurs\nRival du Maître des Lois et de la Main du Roi\nAugmentez de 1 la valeur de prise de la carte complot que vous avez révélée lors des défis [military] dans lesquels vous attaquez un rival.\n+1 STR [military]",
         "traits": ""
     },
     {
         "code": "01208",
-        "flavor": "The Hand of the King was the second-most powerful man in the Seven Kingdoms.",
-        "name": "Hand of the King",
-        "text": "Supported by Master of Whispers.\nSupports: Master of Laws.\nRivals: Master of Coin, Master of Ships.\nYou may initiate an additional [power] challenge during the challenges phase, against a different opponent.\n+1 STR [power]",
+        "flavor": "La main du Roi occupait la deuxième place dans la hiérarchie des Sept Couronnes.",
+        "name": "Main du Roi",
+        "text": "Soutenu par le Maître des Chuchoteurs.\nSoutien du Maître des Lois.\nRival du Maître des Navires.\nVous pouvez initier un défi [power] supplémentaire lors de cette phase de défis, contre un adversaire différent.\n+1 STR [power]",
         "traits": ""
     },
     {
         "code": "01209",
-        "flavor": "Within three years of his coming to court, he was master of coin and a member of the small council, and today the crown's revenues were ten times what they had been under his beleaguered predecessor… though the crown's debt had grown vast as well.",
-        "name": "Master of Coin",
-        "text": "Supported by Master of Laws.\nSupports: Master of Ships\nRivals: Hand of the King, Master of Whispers\n+2 Income",
+        "flavor": "Trois années de présence à la cour lui suffirent pour devenir Grand Argentier, siéger au Conseil restreint et multiplier par dix les revenus antérieurs de la Couronne..., tout en endettant celle-ci de manière faramineuse.",
+        "name": "Grand Argentier",
+        "text": "Soutenu par le Maître des Lois.\nSSoutien du Maître des Navires\nRivals de la Main du Roi et du Maître des Chuchoteurs\n+2 Income",
         "traits": ""
     },
     {
         "code": "01210",
-        "flavor": "\"Stannis is still the rightful heir by all the laws of the Seven Kingdoms.\" <cite>Ser Davos Seaworth</cite>",
-        "name": "Master of Laws",
-        "text": "Supported by Hand of the King\nSupports: Master of Coin\nRivals: Master of Whispers, Master of Ships\nIncrease the number of cards you draw in the draw phase by 1.\n+1 Reserve",
+        "flavor": "\"De par toutes les lois des Sept Couronnes, Stannis est toujours l'héritier légitime du trône.\" <cite>Ser Davos Mervault</cite>",
+        "name": "Maître des lois",
+        "text": "Soutenu par la Main du Roi\nSoutien du Grand Argentier\nRival du Maître des Chuchoteurs et du , Maître des Navires\nAugmentez de 1 le nombre de cartes que vous piochez à la phase de pioche.\n+1 Reserve",
         "traits": ""
     },
     {
         "code": "01211",
-        "flavor": "\"The Hand serves,\" the young knight informed him airily. \"The regent rules until the king is of age.\" <cite>Ser Lancel Lannister</cite>",
-        "name": "Crown Regent",
-        "text": "Supported by None\nSupports: None\nRivals: None\nYou may redirect 1 challenge this round.\n+2 STR for Dominance",
+        "flavor": "\"La Main sert, le régent gouverne jusqu'à la maturité du roi.\" <cite>Ser Lancel Lannister</cite>",
+        "name": "Régent de la Couronne",
+        "text": "Soutenu par personne \nSoutien de personne \nRival de personne \nVous pouvez détourner 1 défi à ce round.\n+2 STR pour l'hégémonie",
         "traits": ""
     }
 ]
