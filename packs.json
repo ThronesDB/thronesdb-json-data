@@ -162,6 +162,15 @@
         "size": 20
     },
     {
+        "cgdb_id": 18,
+        "code": "TFoA",
+        "cycle_code": "bng",
+        "date_release": null,
+        "name": "The Fall of Astapor",
+        "position": 3,
+        "size": 20
+    },
+    {
         "cgdb_id": 22,
         "code": "WotW",
         "cycle_code": "watchers",
