@@ -45,12 +45,26 @@
             ]
         },
         "flavor": {
-            "minLength": 1,
-            "type": "string"
+            "oneOf": [
+                {
+                    "minLength": 0,
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "illustrator": {
-            "minLength": 0,
-            "type": "string"
+            "oneOf": [
+                {
+                    "minLength": 0,
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "income": {
             "minimum": 0,

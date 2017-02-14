@@ -24,7 +24,8 @@
         "code": "04084",
         "flavor": "\"Sólo Renly era capaz de irritarme tanto con una fruta.\" <cite>Stannis Baratheon</cite>",
         "name": "Ofrenda de un melocotón",
-        "text": "Juega esta carta sólo si controlas a Renly Baratheon o a un Personaje <i>Lady</i>.\n<b>Acción de Reto:</b> elige a un Personaje atacante. Pon en pie a ese Personaje y retíralo del reto."
+        "text": "Juega esta carta sólo si controlas a Renly Baratheon o a un Personaje <i>Lady</i>.\n<b>Acción de Reto:</b> elige a un Personaje atacante. Pon en pie a ese Personaje y retíralo del reto.",
+        "traits": ""
     },
     {
         "code": "04085",
@@ -125,7 +126,8 @@
     {
         "code": "04099",
         "name": "Silenciosa como una sombra",
-        "text": "<b>Acción:</b> elige un Personaje único que tenga un coste impreso de 3 o menos. Hasta el final de la fase, ese Personaje gana Sigilo."
+        "text": "<b>Acción:</b> elige un Personaje único que tenga un coste impreso de 3 o menos. Hasta el final de la fase, ese Personaje gana Sigilo.",
+        "traits": ""
     },
     {
         "code": "04100",

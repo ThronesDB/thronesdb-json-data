@@ -273,7 +273,7 @@
     {
         "code": "05043",
         "name": "Nombramiento",
-        "text": "Sólo Personajes únicos.\n",
+        "text": "Sólo Personajes únicos.\nEl Personaje vinculado gana un icono [intrigue] y el rasgo <i>Consejo Privado</i>.",
         "traits": "Título."
     },
     {
