@@ -145,7 +145,7 @@
         "position": 12,
         "quantity": 3,
         "strength": 2,
-        "text": "While Samwell Tarly is participating in a challenge, treat each other participating non-<i>Steward</i> character's printed text box as if it were blank (except <i>Traits</i>).",
+        "text": "While Samwell Tarly is participating in a challenge, treat each other participating non-<i>Steward</i> character's printed text box as if it were blank (except for <i>Traits</i>).",
         "traits": "Steward.",
         "type_code": "character"
     },
