@@ -17,7 +17,7 @@
         "position": 1,
         "quantity": 3,
         "strength": 6,
-        "text": "<b>Reaction:</b> After you win a challenge in which Jon Snow is participating, either: stand each attacking <i>Wildling</i> character, or stand each defending [thenightswatch] character. (Limit once per phase.)",
+        "text": "Stealth.\n<b>Reaction:</b> After you win a challenge in which Jon Snow is participating, either: stand each attacking <i>Wildling</i> character, or stand each defending [thenightswatch] character. (Limit once per phase.)",
         "traits": "Bastard. Steward. Wildling.",
         "type_code": "character"
     },
