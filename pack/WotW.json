@@ -160,7 +160,7 @@
         "is_loyal": false,
         "is_military": false,
         "is_power": false,
-        "is_unique": false,
+        "is_unique": true,
         "name": "Satin",
         "octgn_id": null,
         "pack_code": "WotW",
