@@ -159,7 +159,7 @@
         "is_intrigue": true,
         "is_loyal": false,
         "is_military": false,
-        "is_power": true,
+        "is_power": false,
         "is_unique": false,
         "name": "Satin",
         "octgn_id": null,
@@ -302,7 +302,7 @@
         "quantity": 3,
         "text": "[thenightswatch] or <i>Wildling</i> character only.\n<b>Action:</b> Kneel Weirwood Bow to choose a defending character. That character gets -2 STR until the end of the challenge.",
         "traits": "Weapon.",
-        "type_code": "location"
+        "type_code": "attachment"
     },
     {
         "code": "07044",
