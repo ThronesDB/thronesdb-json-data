@@ -218,7 +218,7 @@
         "cost": 4,
         "deck_limit": 3,
         "faction_code": "neutral",
-        "flavor": "\"You know nothing Jon Snow.\""
+        "flavor": "\"You know nothing Jon Snow.\"",
         "illustrator": "",
         "is_intrigue": true,
         "is_loyal": false,
@@ -250,7 +250,7 @@
         "text": "Your minimum deck size is 75 cards.\nYou may run 2 <i>Banner</i> agendas in addition to this agenda.",
         "traits": "",
         "type_code": "agenda"
-    }
+    },
     {
         "claim": 1,
         "code": "06020",
