@@ -15,7 +15,7 @@
         "position": 1,
         "quantity": 3,
         "strength": 1,
-        "text": "While Hoster Tully is participating in a challenge, each other participating <i>House Tully </i>character you control gains renown.",
+        "text": "While Hoster Tully is participating in a challenge, each other participating <i>House Tully</i> character you control gains renown.",
         "traits": "House Tully. Lord.",
         "type_code": "character"
     },
@@ -31,7 +31,7 @@
         "pack_code": "AMAF",
         "position": 2,
         "quantity": 3,
-        "text": "Bestow (3). <b>Reaction:</b> After a <i>House Tully </i>character gains power, discard 1 gold from The Tumblestone to stand that character.",
+        "text": "Bestow (3).\n<b>Reaction:</b> After a <i>House Tully</i> character gains power, discard 1 gold from The Tumblestone to stand that character.",
         "traits": "The Riverlands.",
         "type_code": "location"
     },
@@ -52,7 +52,7 @@
         "position": 3,
         "quantity": 3,
         "strength": 5,
-        "text": "Renown.\n<b>Reaction:</b> After a unique <i>King </i>or <i>Lord </i>character you control is killed, search your deck for a unique <i>King </i>or <i>Lord </i>character and put it into play. Shuffle your deck. (Limit once per round.)",
+        "text": "Renown.\n<b>Reaction:</b> After a unique <i>King</i> or <i>Lord</i> character you control is killed, search your deck for a unique <i>King</i> or <i>Lord</i> character and put it into play. Shuffle your deck. (Limit once per round.)",
         "traits": "Lady. Queen.",
         "type_code": "character"
     },
@@ -68,7 +68,8 @@
         "pack_code": "AMAF",
         "position": 4,
         "quantity": 3,
-        "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR, each <i>Lady </i>character you control gains 1 power. (Max 1 per challenge.)",
+        "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR, each <i>Lady</i> character you control gains 1 power. (Max 1 per challenge.)",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -175,7 +176,8 @@
         "pack_code": "AMAF",
         "position": 10,
         "quantity": 3,
-        "text": "<b>Reaction:</b> After you win a challenge in which you control an attacking <i>Clansman </i>character, put a <i>Clansman </i>character into play from your hand.",
+        "text": "<b>Reaction:</b> After you win a challenge in which you control an attacking <i>Clansman</i> character, put a <i>Clansman</i> character into play from your hand.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -195,7 +197,7 @@
         "position": 11,
         "quantity": 3,
         "strength": 3,
-        "text": "<b>Reaction:</b> After a character enters play from your dead pile, choose a <i>Drowned God </i>character and have it gain 1 power. (Limit twice per phase.)",
+        "text": "<b>Reaction:</b> After a character enters play from your dead pile, choose a <i>Drowned God</i> character and have it gain 1 power. (Limit twice per phase.)",
         "traits": "Drowned God.",
         "type_code": "character"
     },
@@ -211,7 +213,7 @@
         "pack_code": "AMAF",
         "position": 12,
         "quantity": 3,
-        "text": "While there are more <i>Winter </i>plot cards than <i>Summer </i>plot cards revealed, reduce the initiative value on each opponent's revealed plot card by 3, and the reserve value on each opponent's revealed plot card by 1.",
+        "text": "While there are more <i>Winter</i> plot cards than <i>Summer</i> plot cards revealed, reduce the initiative value on each opponent's revealed plot card by 3, and the reserve value on each opponent's revealed plot card by 1.",
         "traits": "Contested. The North.",
         "type_code": "location"
     },
@@ -284,6 +286,7 @@
         "position": 16,
         "quantity": 3,
         "text": "<b>Action:</b> Choose a character. Until the end of the phase, that character gets +1 STR for each plot card in your used pile and gains a challenge icon of your choice. \n<b>Reaction:</b> After you lose a challenge, pay 1 gold to return The Prince's Plan from your discard pile to your hand.",
+        "traits": "",
         "type_code": "event"
     },
     {
@@ -302,7 +305,7 @@
         "position": 17,
         "quantity": 3,
         "strength": 3,
-        "text": "Ygritte cannot be knelt by card effects.\nWhile you control another <i>Wildling </i>character, Ygritte gains stealth.",
+        "text": "Ygritte cannot be knelt by card effects.\nWhile you control another <i>Wildling</i> character, Ygritte gains stealth.",
         "traits": "Wildling.",
         "type_code": "character"
     },
@@ -317,7 +320,8 @@
         "pack_code": "AMAF",
         "position": 18,
         "quantity": 3,
-        "text": "Your minimum deck size is 75 cards.\nYou may run 2 <i>Banner </i>agendas in addition to this agenda.",
+        "text": "Your minimum deck size is 75 cards.\nYou may run 2 <i>Banner</i> agendas in addition to this agenda.",
+        "traits": "",
         "type_code": "agenda"
     },
     {
