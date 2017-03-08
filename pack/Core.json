@@ -553,7 +553,7 @@
         "position": 28,
         "quantity": 2,
         "strength": 4,
-        "text": "<b>Reaction:</b> After you marshal Littlefinger, draw 2 cards.\n+1 Income",
+        "text": "<b>Reaction:</b> After you marshal Littlefinger, draw 2 cards.\n+1 Income.",
         "traits": "Ally. Lord. Small Council.",
         "type_code": "character"
     },
@@ -742,7 +742,7 @@
         "pack_code": "Core",
         "position": 38,
         "quantity": 1,
-        "text": "The Iron Throne contributes 8 STR to your total for dominance.\n+1 Reserve",
+        "text": "The Iron Throne contributes 8 STR to your total for dominance.\n+1 Reserve.",
         "traits": "King's Landing.",
         "type_code": "location"
     },
@@ -759,7 +759,7 @@
         "pack_code": "Core",
         "position": 39,
         "quantity": 4,
-        "text": "Limited.\n<b>Marshaling Action:</b> Kneel and sacrifice The Kingsroad to reduce the cost of the next character you marshal this phase by 3.\n+1 Initiative",
+        "text": "Limited.\n<b>Marshaling Action:</b> Kneel and sacrifice The Kingsroad to reduce the cost of the next character you marshal this phase by 3.\n+1 Initiative.",
         "traits": "Westeros.",
         "type_code": "location"
     },
@@ -776,7 +776,7 @@
         "pack_code": "Core",
         "position": 40,
         "quantity": 4,
-        "text": "Limited.\n+1 Income",
+        "text": "Limited.\n+1 Income.",
         "traits": "Westeros.",
         "type_code": "location"
     },
@@ -1499,7 +1499,7 @@
         "position": 76,
         "quantity": 1,
         "strength": 2,
-        "text": "+1 Initiative",
+        "text": "+1 Initiative.",
         "traits": "Ironborn.",
         "type_code": "character"
     },
@@ -1771,7 +1771,7 @@
         "position": 90,
         "quantity": 1,
         "strength": 6,
-        "text": "Renown.\nTywin Lannister gets +1 STR for each gold in your gold pool.\n+2 Income",
+        "text": "Renown.\nTywin Lannister gets +1 STR for each gold in your gold pool.\n+2 Income.",
         "traits": "Lord.",
         "type_code": "character"
     },
@@ -2503,7 +2503,7 @@
         "position": 127,
         "quantity": 1,
         "strength": 1,
-        "text": "Insight.\n+1 Reserve",
+        "text": "Insight.\n+1 Reserve.",
         "traits": "Steward.",
         "type_code": "character"
     },
