@@ -107,7 +107,7 @@
         "pack_code": "AMAF",
         "position": 6,
         "quantity": 3,
-        "text": "<b>Reaction:</b> After the dominance phase begins, if you have a higher reserve value than an opponent, draw 1 card.\n+1 Reserve",
+        "text": "<b>Reaction:</b> After the dominance phase begins, if you have a higher reserve value than an opponent, draw 1 card.\n+1 Reserve.",
         "traits": "The North.",
         "type_code": "location"
     },
