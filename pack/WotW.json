@@ -39,7 +39,7 @@
         "position": 2,
         "quantity": 3,
         "strength": 4,
-        "text": "During [intrigue] challenges, each <i>Steward</i> character you control gains insight.\n+1 Reserve",
+        "text": "During [intrigue] challenges, each <i>Steward</i> character you control gains insight.\n+1 Reserve.",
         "traits": "Lord. Steward.",
         "type_code": "character"
     },
@@ -304,7 +304,7 @@
         "pack_code": "WotW",
         "position": 22,
         "quantity": 3,
-        "text": "Attached character gains the [thenightswatch] affiliation. While attached character has:\n- a [military] icon, it gains the <i>Ranger</i> trait.\n- an [intrigue] icon, it gains the <i>Steward</i> trait.\n- \n- a [power] icon, it gains the <i>Builder</i> trait.",
+        "text": "Attached character gains the [thenightswatch] affiliation. While attached character has:\n- a [military] icon, it gains the <i>Ranger</i> trait.\n- an [intrigue] icon, it gains the <i>Steward</i> trait.\n- a [power] icon, it gains the <i>Builder</i> trait.",
         "traits": "Condition.",
         "type_code": "location"
     },
