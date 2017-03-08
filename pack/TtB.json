@@ -149,7 +149,7 @@
         "pack_code": "TtB",
         "position": 8,
         "quantity": 3,
-        "text": "Attached character gets +1 STR.\r\n<b>Reaction:</b> After you win a challenge in which attached character is participating as an attacker, choose and kneel up to X total STR worth of characters, where X is attached character's STR. Then, sacrifice King Robert's Warhammer.",
+        "text": "Attached character gets +1 STR.\n<b>Reaction:</b> After you win a challenge in which attached character is participating as an attacker, choose and kneel up to X total STR worth of characters, where X is attached character's STR. Then, sacrifice King Robert's Warhammer.",
         "traits": "Weapon.",
         "type_code": "attachment"
     },

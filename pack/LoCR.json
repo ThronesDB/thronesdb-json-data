@@ -407,7 +407,7 @@
         "pack_code": "LoCR",
         "position": 20,
         "quantity": 3,
-        "text": "[lannister] <i>Lord</i> or <i>Lady</i> character only.\nWhile you control no <i>Lord</i> or <i>Lady</i> characters with printed cost 4 or higher other than attached character, attached character gets +2 STR and gains renown.\n +1 Income",
+        "text": "[lannister] <i>Lord</i> or <i>Lady</i> character only.\nWhile you control no <i>Lord</i> or <i>Lady</i> characters with printed cost 4 or higher other than attached character, attached character gets +2 STR and gains renown.\n+1 Income.",
         "traits": "Title.",
         "type_code": "attachment"
     },

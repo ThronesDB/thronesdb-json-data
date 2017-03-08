@@ -232,7 +232,7 @@
         "pack_code": "TS",
         "position": 112,
         "quantity": 3,
-        "text": "[greyjoy] character only.\nAttached character gains the <i>Drowned God</i> trait and cannot be chosen as the only target of opponents' events.\n+1 Initiative",
+        "text": "[greyjoy] character only.\nAttached character gains the <i>Drowned God</i> trait and cannot be chosen as the only target of opponents' events.\n+1 Initiative.",
         "traits": "Blessing.",
         "type_code": "attachment"
     },
