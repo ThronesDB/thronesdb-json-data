@@ -135,7 +135,7 @@
         "position": 67,
         "quantity": 3,
         "reserve": 6,
-        "text": "You cannot lose (and your opponent cannot win) the first challenge initiated against you each phase.",
+        "text": "You cannot lose <em>(and your opponent cannot win)</em> the first challenge initiated against you each phase.",
         "traits": "Siege.",
         "type_code": "plot"
     },
