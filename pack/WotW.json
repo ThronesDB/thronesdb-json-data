@@ -372,7 +372,7 @@
         "pack_code": "WotW",
         "position": 34,
         "quantity": 3,
-        "text": "Unique [stark] character only.\n<b>Action:</b> Kneel attached character to have it participate in a [military] challenge on your side. (Limit once per challenge.)\n<b>Action:</b> Pay 1 gold to attach Summer a different character. (Limit once per phase.)",
+        "text": "Unique [stark] character only.\n<b>Action:</b> Kneel attached character to have it participate in a [military] challenge on your side. (Limit once per challenge.)\n<b>Action:</b> Pay 1 gold to attach Summer to a different character. (Limit once per phase.)",
         "traits": "Direwolf.",
         "type_code": "attachment"
     },
