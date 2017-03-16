@@ -347,7 +347,7 @@
         "position": 20,
         "quantity": 3,
         "text": "<b>Action:</b> Kneel Catapult on the Wall and attached character to choose and kill an attacking character with STR 4 or lower. Attached character cannot stand during the standing phase this round.",
-        "traits": "Condition.",
+        "traits": "Weapon.",
         "type_code": "attachment"
     },
     {
