@@ -270,7 +270,7 @@
         "pack_code": "CtA",
         "position": 34,
         "quantity": 3,
-        "text": "[targaryen] character only.\nAttached character gains the <i>King</i> trait.\n<b>Reaction:</b> After an opponent reveals a plot card with a higher printed gold value than yours, kneel Beggar King to gain 1 gold. (2 gold instead if no opponent controls a <i>King</i> character.",
+        "text": "[targaryen] character only.\nAttached character gains the <i>King</i> trait.\n<b>Reaction:</b> After an opponent reveals a plot card with a higher printed gold value than yours, kneel Beggar King to gain 1 gold. (2 gold instead if no opponent controls a <i>King</i> character.)",
         "traits": "Title.",
         "type_code": "attachment"
     },
