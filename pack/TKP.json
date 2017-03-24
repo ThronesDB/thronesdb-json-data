@@ -16,7 +16,7 @@
         "position": 41,
         "quantity": 3,
         "strength": 4,
-        "text": "No attachments except <i>Weapon</i>.\r\nWhile Ser Rodrik Cassel is attacking in a [military] challenge, each unique [stark] character you control gains insight.",
+        "text": "No attachments except <i>Weapon</i>.\nWhile Ser Rodrik Cassel is attacking in a [military] challenge, each unique [stark] character you control gains insight.",
         "traits": "Knight.",
         "type_code": "character"
     },
@@ -73,7 +73,7 @@
         "pack_code": "TKP",
         "position": 44,
         "quantity": 3,
-        "text": "<i>Knight</i> character only.\r\nWhile attached character is attacking or defending alone, Mare in Heat gains: \"<b>Action:</b> Kneel Mare in Heat to choose a participating character with STR higher than that of attached character, and remove that character from the challenge.\"",
+        "text": "<i>Knight</i> character only.\nWhile attached character is attacking or defending alone, Mare in Heat gains: \"<b>Action:</b> Kneel Mare in Heat to choose a participating character with STR higher than that of attached character, and remove that character from the challenge.\"",
         "traits": "Warhorse.",
         "type_code": "attachment"
     },
@@ -94,7 +94,7 @@
         "position": 45,
         "quantity": 3,
         "strength": 4,
-        "text": "While you are the defending player, each [thenightswatch] character you control gains a [military] icon.\r\n<b>Reaction:</b> After a [military] challenge is initiated against you, kneel your faction card and pay 4 gold to put Ser Alliser Thorne into play from your hand.",
+        "text": "While you are the defending player, each [thenightswatch] character you control gains a [military] icon.\n<b>Reaction:</b> After a [military] challenge is initiated against you, kneel your faction card and pay 4 gold to put Ser Alliser Thorne into play from your hand.",
         "traits": "Knight. Ranger.",
         "type_code": "character"
     },
@@ -112,7 +112,7 @@
         "pack_code": "TKP",
         "position": 46,
         "quantity": 3,
-        "text": "[thenightswatch] character only. Ambush (2).\r\nAttached character gets +1 STR and gains a [military] icon.",
+        "text": "[thenightswatch] character only. Ambush (2).\nAttached character gets +1 STR and gains a [military] icon.",
         "traits": "Weapon.",
         "type_code": "attachment"
     },
@@ -134,7 +134,7 @@
         "position": 47,
         "quantity": 3,
         "strength": 2,
-        "text": "Insight.\r\n<b>Forced Reaction:</b> After you lose a challenge in which Moon Boy is participating, discard 1 card at random from your hand.",
+        "text": "Insight.\n<b>Forced Reaction:</b> After you lose a challenge in which Moon Boy is participating, discard 1 card at random from your hand.",
         "traits": "Fool.",
         "type_code": "character"
     },
@@ -175,7 +175,7 @@
         "position": 49,
         "quantity": 3,
         "strength": 10,
-        "text": "Pillage. Renown.\r\n<b>Reaction:</b> After Ser Gregor Clegane discards a character using pillage, place that card in its owner's dead pile. Then, you may choose and kill a character with printed cost equal to that card's printed cost.",
+        "text": "Pillage. Renown.\n<b>Reaction:</b> After Ser Gregor Clegane discards a character using pillage, place that card in its owner's dead pile. Then, you may choose and kill a character with printed cost equal to that card's printed cost.",
         "traits": "House Clegane. Knight. Lord.",
         "type_code": "character"
     },
@@ -213,7 +213,7 @@
         "position": 51,
         "quantity": 3,
         "strength": 4,
-        "text": "<b>Reaction:</b> After you marshal Newly-Made Lord, choose a non-limited location with printed cost 3 or lower, and discard it from play.\r\n<b>Card design by 2003 World Champion, Casey Galvan.</b>",
+        "text": "<b>Reaction:</b> After you marshal Newly-Made Lord, choose a non-limited location with printed cost 3 or lower, and discard it from play.\n<b>Card design by 2003 World Champion, Casey Galvan.</b>",
         "traits": "Lord.",
         "type_code": "character"
     },
@@ -230,7 +230,7 @@
         "pack_code": "TKP",
         "position": 52,
         "quantity": 3,
-        "text": "Opponent's character only.\r\nAttached character cannot be declared as a defender.",
+        "text": "Opponent's character only.\nAttached character cannot be declared as a defender.",
         "traits": "Condition. Item. Weapon.",
         "type_code": "attachment"
     },
@@ -269,7 +269,7 @@
         "pack_code": "TKP",
         "position": 54,
         "quantity": 3,
-        "text": "<i>Dothraki</i> character or Daenerys Targaryen only.\r\nWhile attached character is participating in a [power] challenge, it gains renown.\r\n<b>Reaction:</b> After attached character gains power using renown, sacrifice The Silver Steed. You may initiate an additional [power] challenge this phase.",
+        "text": "<i>Dothraki</i> character or Daenerys Targaryen only.\nWhile attached character is participating in a [power] challenge, it gains renown.\n<b>Reaction:</b> After attached character gains power using renown, sacrifice The Silver Steed. You may initiate an additional [power] challenge this phase.",
         "traits": "Warhorse.",
         "type_code": "attachment"
     },
@@ -287,7 +287,7 @@
         "pack_code": "TKP",
         "position": 55,
         "quantity": 3,
-        "text": "Opponent's character only.\r\nAttached character loses an [intrigue] icon.",
+        "text": "Opponent's character only.\nAttached character loses an [intrigue] icon.",
         "traits": "Condition.",
         "type_code": "attachment"
     },
@@ -304,7 +304,7 @@
         "pack_code": "TKP",
         "position": 56,
         "quantity": 3,
-        "text": "<b>Reaction:</b> After you lose a challenge, place 1 vengeance token on The Boneway.\r\n<b>Dominance Action:</b> Kneel The Boneway and discard 6 vengeance tokens from it to gain 3 power for your faction.",
+        "text": "<b>Reaction:</b> After you lose a challenge, place 1 vengeance token on The Boneway.\n<b>Dominance Action:</b> Kneel The Boneway and discard 6 vengeance tokens from it to gain 3 power for your faction.",
         "traits": "Dorne.",
         "type_code": "location"
     },
@@ -379,7 +379,7 @@
         "pack_code": "TKP",
         "position": 60,
         "quantity": 3,
-        "text": "During the first challenge you initiate each phase, each of your participating characters gets -1 STR.\r\nDuring the third challenge you initiate each phase, each of your participating characters gets +2 STR. If you win this challenge, gain 1 power for your faction.",
+        "text": "During the first challenge you initiate each phase, each of your participating characters gets -1 STR.\nDuring the third challenge you initiate each phase, each of your participating characters gets +2 STR. If you win this challenge, gain 1 power for your faction.",
         "traits": "House Frey.",
         "type_code": "agenda"
     }

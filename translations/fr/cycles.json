@@ -1,0 +1,34 @@
+[
+    {
+        "code": "bng",
+        "name": "Sang et Or"
+    },
+    {
+        "code": "core",
+        "name": "Core Set"
+    },
+    {
+        "code": "draft",
+        "name": "Draft Sets"
+    },
+    {
+        "code": "lions",
+        "name": "Les Lions de Castral Roc"
+    },
+    {
+        "code": "war",
+        "name": "La Guerre des Cinq Rois"
+    },
+    {
+        "code": "watchers",
+        "name": "Les Veilleurs au Rempart"
+    },
+    {
+        "code": "westeros",
+        "name": "Cycle de Westeros"
+    },
+    {
+        "code": "wolves",
+        "name": "Les Loups du Nord"
+    }
+]
