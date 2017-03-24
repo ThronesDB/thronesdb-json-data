@@ -29,7 +29,7 @@
     },
     {
         "code": "GtR",
-        "name": "Guarding the Realm"
+        "name": "Proteger el reino"
     },
     {
         "code": "LoCR",
@@ -42,6 +42,10 @@
     {
         "code": "TC",
         "name": "La cadena de Tyrion"
+    },
+    {
+        "code": "TFoA",
+        "name": "La caída de Astapor"
     },
     {
         "code": "TIMC",
