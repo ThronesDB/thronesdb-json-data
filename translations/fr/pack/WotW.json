@@ -7,6 +7,13 @@
         "traits": "Bastard. Steward. Wildling."
     },
     {
+        "code": "07002",
+        "flavor": "\"Bowen Marsh? The man counts spoons.\" <cite>Cotton Pyke</cite>",
+        "name": "Bowen Marsh",
+        "text": "During [intrigue] challenges, each <i>Steward</i> character you control gains insight.\n+1 Reserve.",
+        "traits": "Lord. Steward."
+    },
+    {
         "code": "07003",
         "flavor": "\"When dead men come hunting in the night, do you think it matters who sits on the Iron Throne?\"",
         "name": "Old Bear Mormont",
@@ -14,10 +21,60 @@
         "traits": "Commander. Lord."
     },
     {
+        "code": "07004",
+        "name": "Cotter Pyke",
+        "text": "Stealth.\n<b>Reaction:</b> After Cotter Pyke bypasses a character using stealth, if there is a <i>Winter</i> plot card revealed, choose a [thenightswatch] character and have it gain stealth until the end of the phase.",
+        "traits": "Bastard. Commander. Ironborn."
+    },
+    {
         "code": "07005",
         "name": "Cotter Pyke",
         "text": "Stealth.\n<b>Reaction:</b> After Cotter Pyke bypasses a character using stealth, if there is a <i>Winter</i> plot card revealed, choose a [thenightswatch] character and have it gain stealth until the end of the phase.",
         "traits": "Bastard. Commander. Ironborn."
+    },
+    {
+        "code": "07006",
+        "name": "Grizzled Miner",
+        "text": "No attachments except <i>Weapon</i>.\nReduce the cost to marshal Grizzled Miner by 1 for each [thenightswatch] attachment and location you control (to a minimum of 1).",
+        "traits": "Builder."
+    },
+    {
+        "code": "07007",
+        "name": "Ser Denys Mallister",
+        "text": "While Ser Denys Mallister is defending, he gains renown.",
+        "traits": "Commander. Knight."
+    },
+    {
+        "code": "07008",
+        "flavor": "No horn was blown, my lord, or my rangers would have heard it. I do not have sufficient men to mount as many patrols as I should like...",
+        "name": "Ser Jaremy Rykker",
+        "text": "No attachments except <i>Weapon</i>.\nEach other <i>Ranger</i> character you control gains a [power] icon.",
+        "traits": "Knight. Ranger."
+    },
+    {
+        "code": "07009",
+        "name": "Castle Black Mason",
+        "text": "No attachments except <i>Weapon</i>.\n<b>Action:</b> Kneel 2 <i>Builder</i> characters to search the top 10 cards of your deck for a location or attachment, reveal it, and add it to your hand. Shuffle your deck. (Limit twice per round.)",
+        "traits": "Builder."
+    },
+    {
+        "code": "07010",
+        "name": "Grenn",
+        "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you win a challenge in which Grenn is attacking, move 1 power from the losing opponent's faction card to another attacking [thenightswatch] character. (Up to 2 power instead if that character is standing.)",
+        "traits": "Ranger."
+    },
+    {
+        "code": "07011",
+        "name": "Pyp",
+        "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you win a challenge in which Pyp is attacking, choose another attacking [thenightswatch] character. That character gains insight until the end of the phase.",
+        "traits": "Ranger."
+    },
+    {
+        "code": "07012",
+        "flavor": "",
+        "name": "Samwell Tarly",
+        "text": "While Samwell Tarly is participating in a challenge, treat each other participating non-<i>Steward</i> character's printed text box as if it were blank (except for <i>Traits</i>).",
+        "traits": "Steward."
     },
     {
         "code": "07013",
@@ -27,10 +84,106 @@
         "traits": "Steward."
     },
     {
+        "code": "07014",
+        "name": "Lost Ranger",
+        "text": "No attachments except <i>Weapon</i>.\n<b>Forced Interrupt:</b> When the challenges phase ends, if you control no other <i>Ranger</i> characters, sacrifice Lost Ranger.",
+        "traits": "Ranger."
+    },
+    {
+        "code": "07017",
+        "name": "The New Gift",
+        "text": "Limited.\n<b>Marshaling Action:</b> Kneel a <i>Steward</i> character to gain 1 gold. (Limit twice per phase.)\n<b>Challenges Action:</b> Kneel a <i>Steward</i> character to draw 1 card. (Limit twice per phase.)",
+        "traits": "The North."
+    },
+    {
+        "code": "07018",
+        "name": "Abandoned Stronghold",
+        "text": "<b>Action:</b> Kneel Abandoned Stronghold to choose a defending character. Until the end of the challenge, that character gets +X STR. X is the number of <i>Builder</i> characters you control.",
+        "traits": "Stronghold. The North."
+    },
+    {
+        "code": "07020",
+        "name": "Catapult on the Wall",
+        "text": "<b>Action:</b> Kneel Catapult on the Wall and attached character to choose and kill an attacking character with STR 4 or lower. Attached character cannot stand during the standing phase this round.",
+        "traits": "Weapon."
+    },
+    {
+        "code": "07022",
+        "name": "Sworn to the Watch",
+        "text": "Attached character gains the [thenightswatch] affiliation. While attached character has:\n- a [military] icon, it gains the <i>Ranger</i> trait.\n- an [intrigue] icon, it gains the <i>Steward</i> trait.\n- a [power] icon, it gains the <i>Builder</i> trait.",
+        "traits": "Condition."
+    },
+    {
         "code": "07023",
         "name": "Now My Watch Begins",
         "text": "<b>Reaction:</b> After a character with printed cost 5 or lower is placed into an opponent's discard pile, put this character into play under your control.",
         "traits": ""
+    },
+    {
+        "code": "07024",
+        "name": "I Shall Win No Glory",
+        "text": "<b>Reaction:</b> After a challenge is initiated against you, kneel 3 <i>Builder</i> characters, 3 <i>Ranger</i> characters, or 3 <i>Steward</i> characters to end the challenge immediately with no winner or loser.",
+        "traits": ""
+    },
+    {
+        "code": "07025",
+        "name": "Marya Seaworth",
+        "text": "<b>Reaction:</b> After a character is bypassed using stealth, pay 1 gold to kneel it. (Limit twice per phase.)",
+        "traits": "Companion. Lady."
+    },
+    {
+        "code": "07026",
+        "name": "Black Betha",
+        "text": "While you control Ser Davos Seaworth, he gains renown.\n<b>Action:</b> Kneel Black Betha to choose an attacking character. Until the end of the challenge, that character gets +X STR. X is the number of kneeling characters the defending player controls.",
+        "traits": "Warship."
+    },
+    {
+        "code": "07027",
+        "name": "Salt Wife",
+        "text": "<b>Challenges Action:</b> Sacrifice Salt Wife to choose a character. Until the end of the phase, that character cannot be declared as a defender.",
+        "traits": "Companion."
+    },
+    {
+        "code": "07028",
+        "name": "Raiding the Bay of Ice",
+        "text": "<b>Reaction:</b> After you win a challenge as the attacking player, kneel a <i>Warship</i> location to choose a non-limited location controlled by the losing opponent, and place it on top of its owner's deck.",
+        "traits": ""
+    },
+    {
+        "code": "07031",
+        "name": "Southron Messenger",
+        "text": "Ambush (5).\n<b>Reaction:</b> After Southron Messenger enters play during a challenge, choose a participating character with fewer than 2 challenge icons, and return that character to its owner's hand.",
+        "traits": "Ally."
+    },
+    {
+        "code": "07032",
+        "name": "Lingering Venom",
+        "text": "Terminal.\n<b>Reaction:</b> After you lose a challenge, place a venom token on Lingering Venom. Then, if attached character's STR is equal to or lower than the number of venom tokens on Lingering Venom, kill it.",
+        "traits": "Condition."
+    },
+    {
+        "code": "07033",
+        "name": "Jeyne Poole",
+        "text": "<b>Marshaling Action:</b> Sacrifice Jeyne Poole to return a <i>Lady</i> character from your discard pile to your hand.",
+        "traits": "Companion."
+    },
+    {
+        "code": "07034",
+        "name": "Summer",
+        "text": "Unique [stark] character only.\n<b>Action:</b> Kneel attached character to have it participate in a [military] challenge on your side. (Limit once per challenge.)\n<b>Action:</b> Pay 1 gold to attach Summer to a different character. (Limit once per phase.)",
+        "traits": "Direwolf."
+    },
+    {
+        "code": "07035",
+        "name": "Dothraki Honor Guard",
+        "text": "No attachments.\nDothraki Honor Guard gets -1 STR for each card in your hand.",
+        "traits": "Army. Dothraki. Guard."
+    },
+    {
+        "code": "07036",
+        "name": "Plaza of Pride",
+        "text": "<b>Action:</b> Kneel Plaza of Pride and discard a card from your hand to choose and stand a character with printed cost X or lower. X is 3 higher than the printed cost of the discarded card.",
+        "traits": "Astapor."
     },
     {
         "code": "07037",
@@ -53,15 +206,57 @@
         "traits": "Wildling."
     },
     {
+        "code": "07042",
+        "name": "The Frozen Shore",
+        "text": "<b>Reaction:</b> After you win a challenge, kneel The Frozen Shore to choose and stand 1 attacking <i>Wildling</i> character for each <i>Winter</i> plot card revealed.",
+        "traits": "The North."
+    },
+    {
+        "code": "07043",
+        "name": "Weirwood Bow",
+        "text": "[thenightswatch] or <i>Wildling</i> character only.\n<b>Action:</b> Kneel Weirwood Bow to choose a defending character. That character gets -2 STR until the end of the challenge.",
+        "traits": "Weapon."
+    },
+    {
         "code": "07044",
         "name": "Scaling the Wall",
         "text": "<b>Reaction:</b> After you win a challenge in which you control an attacking <i>Wildling</i> character, choose a non-limited location controlled by the losing opponent. Return that location to its owner's hand.",
         "traits": ""
     },
     {
+        "code": "07045",
+        "name": "\"Last of the Giants\"",
+        "text": "<b>Action:</b> Put a neutral character into play from your hand. Until the end of the phase, that character gains intimidate. At the end of the phase, if that character is still in play, kill it (cannot be saved).",
+        "traits": "Song."
+    },
+    {
         "code": "07046",
         "name": "The Fire That Burns",
         "text": "Each [thenightswatch] character you control does not kneel when declared as a defender.",
         "traits": "Winter."
+    },
+    {
+        "code": "07047",
+        "name": "Retaliation",
+        "text": "If you win initiative, you must choose an opponent to be the first player.",
+        "traits": "War."
+    },
+    {
+        "code": "07048",
+        "name": "Whisper Campaign",
+        "text": "<b>Forced Reaction:</b> After a character without an [intrigue] icon enters play, kneel it.",
+        "traits": "Scheme."
+    },
+    {
+        "code": "07049",
+        "name": "Called Into Service",
+        "text": "<b>When Revealed:</b> Reveal the top card of your deck. If it is a character, put it into play. If it is a non-character card, draw it and gain 2 gold.",
+        "traits": "Kingdom."
+    },
+    {
+        "code": "07050",
+        "name": "The White Shadows",
+        "text": "<b>Reaction:</b> After a character an opponent controls is killed, put it into play under your control. While that character is in play, treat its printed text box as if it were blank. At the end of the phase, if that card is still in play, place it in its owner's dead pile (cannot be saved).",
+        "traits": "Omen."
     }
 ]

@@ -1,0 +1,21 @@
+[
+    {
+        "code": "06041",
+        "flavor": "She was strong, and swift, and fierce, and her pack was all around her, her brothers and her sisters.",
+        "name": "Roaming Wolfpack",
+        "text": "Intimidate. No attachments.\nWhile Roaming Wolfpack is attacking, each attacking <i>Direwolf</i> character gets +2 STR.",
+        "traits": "Direwolf."
+    },
+    {
+        "code": "06053",
+        "name": "Grey Worm",
+        "text": "No attachments except <i>Weapon</i>.\n<b>Action:</b> During a challenge in which Grey Worm is attacking, choose a defending character. Until the end of the challenge, that character gets -3 STR. (Limit once per challenge.)",
+        "traits": "Companion."
+    },
+    {
+        "code": "06054",
+        "name": "Astapor",
+        "text": "Bestow (4).\n<b>Action:</b> Kneel Astapor to choose a participating character. Until the end of the challenge, that character gets -X STR. X is the number of gold Astapor has.",
+        "traits": "Astapor. Contested."
+    }
+]
