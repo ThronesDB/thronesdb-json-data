@@ -569,7 +569,7 @@
         "pack_code": "WotW",
         "position": 35,
         "quantity": 3,
-        "strength": 1,
+        "strength": 10,
         "text": "No attachments.\nDothraki Honor Guard gets -1 STR for each card in your hand.",
         "traits": "Army. Dothraki. Guard.",
         "type_code": "character"
