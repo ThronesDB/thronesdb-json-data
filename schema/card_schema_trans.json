@@ -6,7 +6,7 @@
             "type": "string"
         },
         "flavor": {
-            "minLength": 1,
+            "minLength": 0,
             "type": "string"
         },
         "name": {
