@@ -37,7 +37,7 @@
         "position": 2,
         "quantity": 3,
         "strength": 4,
-        "text": "During [intrigue] challenges, each <i>Steward</i> character you control gains insight.\n<b>[+1 reserve]</b>",
+        "text": "During [intrigue] challenges, each <i>Steward</i> character you control gains insight.\n+1 Reserve.",
         "traits": "Lord. Steward.",
         "type_code": "character"
     },
