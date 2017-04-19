@@ -317,7 +317,7 @@
         "pack_code": "GtR",
         "position": 37,
         "quantity": 3,
-        "strength": 3,
+        "strength": 5,
         "text": "Bestow(3).\nDuring the third challenge you initiate each phase, Black Walder gains renown and gets +2 STR for each gold he has.",
         "traits": "House Frey.",
         "type_code": "character"
