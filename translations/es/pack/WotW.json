@@ -274,7 +274,7 @@
     },
     {
         "code": "07044",
-        "name": "Escalara el Muro",
+        "name": "Escalar el Muro",
         "text": "<b>Reacción:</b> después de que ganes un reto en el que controles a un Personaje <i>Salvaje</i> atacante, elige un Lugar que no sea limitado y esté controlado por el adversario derrotado. Devuelve ese Lugar a la mano de su propietario.",
         "traits": ""
     },
