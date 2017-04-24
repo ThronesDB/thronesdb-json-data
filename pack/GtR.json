@@ -92,7 +92,7 @@
         "position": 25,
         "quantity": 3,
         "strength": 1,
-        "text": "Bestow(3).\n<b>Action:</b> Discard 1 gold from Gilly to choose a <i>Steward</i> character you control. Until the end of the phase, that character gains stealth.",
+        "text": "Bestow (3).\n<b>Action:</b> Discard 1 gold from Gilly to choose a <i>Steward</i> character you control. Until the end of the phase, that character gains stealth.",
         "traits": "Wildling.",
         "type_code": "character"
     },
@@ -244,7 +244,7 @@
         "position": 33,
         "quantity": 3,
         "strength": 6,
-        "text": "Bestow(3).\n<b>Forced Interrupt:</b> When the challenges phase ends, sacrifice Second Sons unless you discard 1 gold from it.",
+        "text": "Bestow (3).\n<b>Forced Interrupt:</b> When the challenges phase ends, sacrifice Second Sons unless you discard 1 gold from it.",
         "traits": "Mercenary.",
         "type_code": "character"
     },
@@ -281,7 +281,7 @@
         "position": 35,
         "quantity": 3,
         "strength": 2,
-        "text": "Bestow(3).\n<b>Action:</b> Discard 1 gold from Orphan of the Greenblood to return another character you control to its owner's hand.",
+        "text": "Bestow (3).\n<b>Action:</b> Discard 1 gold from Orphan of the Greenblood to return another character you control to its owner's hand.",
         "traits": "Ally.",
         "type_code": "character"
     },
