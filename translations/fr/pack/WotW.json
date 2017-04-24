@@ -40,6 +40,7 @@
     },
     {
         "code": "07007",
+        "flavor": "\"So long as the Night's Watch remains in good hands, I am content.\"",
         "name": "Ser Denys Mallister",
         "text": "While Ser Denys Mallister is defending, he gains renown.",
         "traits": "Commander. Knight."
@@ -90,6 +91,19 @@
         "traits": "Ranger."
     },
     {
+        "code": "07015",
+        "name": "Seasoned Woodsman",
+        "text": "<b>Reaction:</b> After you attach an attachment to Seasoned Woodsman, either: gain 1 gold, or draw 1 card. (Limit twice per phase.)",
+        "traits": "Builder."
+    },
+    {
+        "code": "07016",
+        "flavor": "The order of builders provided the masons and carpenters to repair keeps and towers, the miners to dig tunnels and crush stone for roads and footpaths, the woodsmen to clear away new growth wherever the forest pressed too close to the Wall.",
+        "name": "Builder at the Wall",
+        "text": "<b>Marshaling Action:</b> Kneel Builder at the Wall to reduce the cost of the next [thenightswatch] attachment or location you marshal this phase by 1.",
+        "traits": "Builder."
+    },
+    {
         "code": "07017",
         "name": "The New Gift",
         "text": "Limited.\n<b>Marshaling Action:</b> Kneel a <i>Steward</i> character to gain 1 gold. (Limit twice per phase.)\n<b>Challenges Action:</b> Kneel a <i>Steward</i> character to draw 1 card. (Limit twice per phase.)",
@@ -102,10 +116,22 @@
         "traits": "Stronghold. The North."
     },
     {
+        "code": "07019",
+        "name": "Queenscrown",
+        "text": "<b>Action:</b> Kneel Queenscrown to reveal the top 3 cards of an opponent's deck. Choose up to 1 character revealed this way and place it in that player's discard pile. Place the other cards on the bottom of that player's deck in any order.",
+        "traits": "The North."
+    },
+    {
         "code": "07020",
         "name": "Catapult on the Wall",
         "text": "<b>Action:</b> Kneel Catapult on the Wall and attached character to choose and kill an attacking character with STR 4 or lower. Attached character cannot stand during the standing phase this round.",
         "traits": "Weapon."
+    },
+    {
+        "code": "07021",
+        "name": "Ghost",
+        "text": "[thenightswatch] or [stark] character only.\n<b>Interrupt:</b> When attached character would be killed, return Ghost to your hand to save that character.",
+        "traits": "Direwolf."
     },
     {
         "code": "07022",
@@ -127,6 +153,7 @@
     },
     {
         "code": "07025",
+        "flavor": "...it was his own Marya he pictured, a good-natured plump woman with sagging breasts and a kindly smile, the best woman in the world.",
         "name": "Marya Seaworth",
         "text": "<b>Reaction:</b> After a character is bypassed using stealth, pay 1 gold to kneel it. (Limit twice per phase.)",
         "traits": "Companion. Lady."
@@ -139,6 +166,7 @@
     },
     {
         "code": "07027",
+        "flavor": "\"Those who please their captains may be taken as salt wives, an honorable station.\" <cite>Victarion Greyjoy</cite>",
         "name": "Salt Wife",
         "text": "<b>Challenges Action:</b> Sacrifice Salt Wife to choose a character. Until the end of the phase, that character cannot be declared as a defender.",
         "traits": "Companion."
@@ -147,6 +175,19 @@
         "code": "07028",
         "name": "Raiding the Bay of Ice",
         "text": "<b>Reaction:</b> After you win a challenge as the attacking player, kneel a <i>Warship</i> location to choose a non-limited location controlled by the losing opponent, and place it on top of its owner's deck.",
+        "traits": ""
+    },
+    {
+        "code": "07029",
+        "name": "Ulf Son of Umar",
+        "text": "<b>Reaction:</b> After a <i>Clansman</i> character enters play under your control, Ulf Son of Umar gets +X STR until the end of the phase. X is that character's printed STR. (Limit 3 times per phase.)",
+        "traits": "Clansman."
+    },
+    {
+        "code": "07030",
+        "flavor": "\"There's only me.\" <cite>Ser Jaime Lannister</cite>",
+        "name": "There Are No Men Like Me",
+        "text": "<b>Action:</b> Choose a <i>Knight</i> character. Until the end of the phase, that character does not kneel when declared as an attacker or defender in a [military] challenge.",
         "traits": ""
     },
     {
@@ -163,6 +204,7 @@
     },
     {
         "code": "07033",
+        "flavor": "A dozen times Jeyne and Sansa cried out in unison as riders crashed together, lances exploding into splinters while the commons screamed for their favorites.",
         "name": "Jeyne Poole",
         "text": "<b>Marshaling Action:</b> Sacrifice Jeyne Poole to return a <i>Lady</i> character from your discard pile to your hand.",
         "traits": "Companion."
@@ -193,10 +235,23 @@
         "traits": "Knight."
     },
     {
+        "code": "07038",
+        "name": "The Honeywine",
+        "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR as the attacking player, The Honeywine gains 1 power.",
+        "traits": "The Reach."
+    },
+    {
         "code": "07039",
         "flavor": "\"I'll boil the flesh off you and make a byrnie from your ribs. I'll carve your teeth to cast me runes, and eat me oaten porridge from your skull.\"",
         "name": "Rattleshirt",
         "text": "While Rattleshirt is attacking alone, each character without attachments cannot be declared as a defender.",
+        "traits": "Wildling."
+    },
+    {
+        "code": "07040",
+        "flavor": "\"We free folk know things you kneelers have forgotten.\"",
+        "name": "Dalla",
+        "text": "<b>Reaction:</b> After a <i>Wildling</i> character enters play under your control, draw 1 card. (Limit once per phase.)",
         "traits": "Wildling."
     },
     {
@@ -258,5 +313,17 @@
         "name": "The White Shadows",
         "text": "<b>Reaction:</b> After a character an opponent controls is killed, put it into play under your control. While that character is in play, treat its printed text box as if it were blank. At the end of the phase, if that card is still in play, place it in its owner's dead pile (cannot be saved).",
         "traits": "Omen."
+    },
+    {
+        "code": "07051",
+        "name": "Name Day Tourney",
+        "text": "<b>Reaction:</b> After you win a challenge in which a <i>Knight</i> character you control is attacking or defending alone, choose a <i>Lord</i> or <i>Lady</i> character you control and have it gain 1 power.",
+        "traits": "Summer."
+    },
+    {
+        "code": "07052",
+        "name": "Frozen Expanse",
+        "text": "Each character with STR 2 or lower cannot stand.",
+        "traits": "Winter."
     }
 ]

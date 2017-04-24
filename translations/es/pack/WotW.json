@@ -1,262 +1,329 @@
 [
     {
         "code": "07001",
-        "flavor": "\"There's no shame in fear, my father told me, what matters is how we face it.\"",
-        "name": "Jon Snow",
-        "text": "<b>Reaction:</b> After you win a challenge in which Jon Snow is participating, either: stand each attacking <i>Wildling</i> character, or stand each defending [thenightswatch] character. (Limit once per phase.)",
-        "traits": "Bastard. Steward. Wildling."
+        "flavor": "\"El miedo no debe avergonzarnos; me lo dijo mi padre. Lo importante es cómo nos enfrentamos a él.\"",
+        "name": "Jon Nieve",
+        "text": "Sigilo.\n<b>Reacción:</b> después de que ganes un reto en el que Jon Nieve esté participando, elige entre poner en pie a cada Personaje <i>Salvaje</i> atacante, o bien poner en pie a cada Personaje [thenightswatch] defensor. (Límite de 1 vez por fase.)",
+        "traits": "Bastardo. Mayordomo. Salvaje."
     },
     {
         "code": "07002",
-        "flavor": "\"Bowen Marsh? The man counts spoons.\" <cite>Cotton Pyke</cite>",
+        "flavor": "\"¿A Bowen Marsh? Sólo vale para contar cucharas.\" <cite>Cotton Pyke</cite>",
         "name": "Bowen Marsh",
-        "text": "During [intrigue] challenges, each <i>Steward</i> character you control gains insight.\n+1 Reserve.",
-        "traits": "Lord. Steward."
+        "text": "Durante retos [intrigue], cada Personaje <i>Mayordomo</i> que controles gana Perspicacia.\n+1 Reserva.",
+        "traits": "Lord. Mayordomo."
     },
     {
         "code": "07003",
-        "flavor": "\"When dead men come hunting in the night, do you think it matters who sits on the Iron Throne?\"",
-        "name": "Old Bear Mormont",
-        "text": "<b>Reaction:</b> After you win a challenge in which Old Bear Mormont is participating, choose a non-unique character in the losing opponent's discard pile, and put it into play under your control.",
-        "traits": "Commander. Lord."
+        "flavor": "\"Los muertos regresan en medio de la noche; ¿crees que importa quién ocupe el Trono de Hierro?\"",
+        "name": "Viejo Oso Mormont",
+        "text": "<b>Reacción:</b> después de que ganes un reto en el que esté participando el Viejo Oso Mormont, elige un Personaje no único que esté en la pila de descartes del adversario derrotado y pono en juego controlado por ti.",
+        "traits": "Comandante. Lord."
     },
     {
         "code": "07004",
         "name": "Cotter Pyke",
-        "text": "Stealth.\n<b>Reaction:</b> After Cotter Pyke bypasses a character using stealth, if there is a <i>Winter</i> plot card revealed, choose a [thenightswatch] character and have it gain stealth until the end of the phase.",
-        "traits": "Bastard. Commander. Ironborn."
+        "text": "Sigilo.\n<b>Reacción:</b> después de que Cotter Pyke evite a un Personaje utilizando el Sigilo, si hay mostrada una carta de Trama de <i>Invierno</i>, elige un Personaje [thenightswatch] para que gane Sigilo hasta el final de la fase.",
+        "traits": "Bastardo. Comandante. Hijo del Hierro."
     },
     {
         "code": "07005",
-        "name": "Cotter Pyke",
-        "text": "Stealth.\n<b>Reaction:</b> After Cotter Pyke bypasses a character using stealth, if there is a <i>Winter</i> plot card revealed, choose a [thenightswatch] character and have it gain stealth until the end of the phase.",
-        "traits": "Bastard. Commander. Ironborn."
+        "name": "Maestre Aemon",
+        "text": "Sin Accesorios excepto <i>Objetos</i>.\n<b>Interrupción:</b> cuando termina la fase de Reto, elige un adversario y un tipo de reto que no se haya iniciado contra ti en esta fase. Ese jugador debe satisfacer el efecto de Conquista de ese reto como si tú fueras el adversario vencedor.",
+        "traits": "Maestre. Mayordomo."
     },
     {
         "code": "07006",
-        "name": "Grizzled Miner",
-        "text": "No attachments except <i>Weapon</i>.\nReduce the cost to marshal Grizzled Miner by 1 for each [thenightswatch] attachment and location you control (to a minimum of 1).",
-        "traits": "Builder."
+        "name": "Minero curtido",
+        "text": "Sin Accesorios excepto </i>Armas</i>.\nEl coste para reclutar al Minero curtido se reduce en 1 por cada Accesorio y Lugar [thenightswatch] que controles (hasta un mínimo de 1).",
+        "traits": "Constructor."
     },
     {
         "code": "07007",
+        "flavor": "\"Mientras la Guardia de la Noche quede en buenas manos, me doy por satisfecho.\"",
         "name": "Ser Denys Mallister",
-        "text": "While Ser Denys Mallister is defending, he gains renown.",
-        "traits": "Commander. Knight."
+        "text": "Mientras Ser Denys Mallister esté defendiendo, gana Renombre.",
+        "traits": "Comandante. Caballero."
     },
     {
         "code": "07008",
-        "flavor": "No horn was blown, my lord, or my rangers would have heard it. I do not have sufficient men to mount as many patrols as I should like...",
+        "flavor": "\"No sonó ningún cuerno, mi señor; de lo contrario, mis exploradores lo habrían oído. Tampoco tengo bastantes hombres para realizar todas las patrullas que me gustaría…\"",
         "name": "Ser Jaremy Rykker",
-        "text": "No attachments except <i>Weapon</i>.\nEach other <i>Ranger</i> character you control gains a [power] icon.",
-        "traits": "Knight. Ranger."
+        "text": "Sin Accesorios excepto <i>Armas</i>.\nTodos los demás Personajes <i>Exploradores</i> que controles ganan un icono [power].",
+        "traits": "Caballero. Explorador."
     },
     {
         "code": "07009",
-        "name": "Castle Black Mason",
-        "text": "No attachments except <i>Weapon</i>.\n<b>Action:</b> Kneel 2 <i>Builder</i> characters to search the top 10 cards of your deck for a location or attachment, reveal it, and add it to your hand. Shuffle your deck. (Limit twice per round.)",
-        "traits": "Builder."
+        "name": "Albañil del Castillo Negro",
+        "text": "Sin Accesorios excepto <i>Armas</i>.\n<b>Acción:</b> arrodilla 2 Personajes <i>Constructores</i> para buscar un Lugar o Accesorio entre las 10 primeras cartas de tu mazo, muéstralo y añádelo a tu mano. Baraja tu mazo. (Límite de 2 veces por ronda.)",
+        "traits": "Constructor."
     },
     {
         "code": "07010",
         "name": "Grenn",
-        "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you win a challenge in which Grenn is attacking, move 1 power from the losing opponent's faction card to another attacking [thenightswatch] character. (Up to 2 power instead if that character is standing.)",
-        "traits": "Ranger."
+        "text": "Sin Accesorios excepto <i>Armas</i>.\n<b>Reacción:</b> después de que ganes un reto en el que Grenn esté atacando, traslada 1 de Poder desde la carta de Facción del adversario derrotado hasta otro Personaje [thenightswatch] atacante. (Hasta 2 de Poder si ese Personaje está en pie.)",
+        "traits": "Explorador."
     },
     {
         "code": "07011",
         "name": "Pyp",
-        "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you win a challenge in which Pyp is attacking, choose another attacking [thenightswatch] character. That character gains insight until the end of the phase.",
-        "traits": "Ranger."
+        "text": "Sin Accesorios excepto <i>Armas</i>.\n<b>Reacción:</b> después de que ganes un reto en el que Pyp esté atacando, elige otro Personaje [thenightswatch] atacante. Ese Personaje gana Perspicacia hasta el final de la fase.",
+        "traits": "Explorador."
     },
     {
         "code": "07012",
-        "flavor": "",
+        "flavor": "\"Lo peor no ha pasado. Lo peor no ha hecho más que empezar, y no hay final feliz.\"",
         "name": "Samwell Tarly",
-        "text": "While Samwell Tarly is participating in a challenge, treat each other participating non-<i>Steward</i> character's printed text box as if it were blank (except for <i>Traits</i>).",
-        "traits": "Steward."
+        "text": "Mientras Samwell Tarly esté participando en un reto, todos los demás Personajes participantes que no sean <i>Mayordomo</i> se tratan como si su texto de reglas impreso estuviese en blanco (excepto los <i>Rasgos</i>).",
+        "traits": "Mayordomo."
     },
     {
         "code": "07013",
-        "flavor": "\"The other recruits started out despising him, but he won them over and made friends of them all\" <cite>Jon Snow</cite>",
-        "name": "Satin",
-        "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After Satin is knelt, choose and stand another <i>Steward</i> character. (Limit twice per phase.)",
-        "traits": "Steward."
+        "flavor": "\"Al principio, los otros reclutas lo despreciaban, pero acabó ganándoselos y se hizo amigo de todos.\" <cite>Jon Nieve</cite>",
+        "name": "Seda",
+        "text": "Sin Accesorios excepto <i>Armas</i>.\n<b>Reacción:</b> después de que Seda se arrodille, pon en pie a otro Personaje <i>Mayordomo</i> de tu elección. (Límite de 2 veces por fase.)",
+        "traits": "Mayordomo."
     },
     {
         "code": "07014",
-        "name": "Lost Ranger",
-        "text": "No attachments except <i>Weapon</i>.\n<b>Forced Interrupt:</b> When the challenges phase ends, if you control no other <i>Ranger</i> characters, sacrifice Lost Ranger.",
-        "traits": "Ranger."
+        "name": "Explorador perdido",
+        "text": "Sin Accesorios excepto <i>Armas</i>.\n<b>Interrupción obligada:</b> cuando termine la fase de Reto, si no controlas a ningún otro Personaje <i>Explorador</i>, sacrifica al Explorador perdido.",
+        "traits": "Explorador."
+    },
+    {
+        "code": "07015",
+        "name": "Montaraz experimentado",
+        "text": "<b>Reacción:</b> después de que vincules un Accesorio al Montaraz experimentado, elige entre ganar 1 de Oro o robar 1 carta. (Límite de 2 veces por fase.)",
+        "traits": "Constructor."
+    },
+    {
+        "code": "07016",
+        "flavor": "De la orden de los constructores salían los albañiles y los carpinteros, que se encargaban del mantenimiento de las torres y fortalezas; los mineros, que cavaban túneles y trituraban rocas para empedrar caminos y senderos; y los leñadores, que despejaban la maleza siempre que el bosque presionaba demasiado contra el Muro.",
+        "name": "Constructor del Muro",
+        "text": "<b>Acción de Reclutamiento:</b> arrodilla al Constructor del Muro para reducir en 1 el coste del siguiente Lugar o Accesorio [thenightswatch] que reclutes en esta fase.",
+        "traits": "Constructor."
     },
     {
         "code": "07017",
-        "name": "The New Gift",
-        "text": "Limited.\n<b>Marshaling Action:</b> Kneel a <i>Steward</i> character to gain 1 gold. (Limit twice per phase.)\n<b>Challenges Action:</b> Kneel a <i>Steward</i> character to draw 1 card. (Limit twice per phase.)",
-        "traits": "The North."
+        "name": "El Nuevo Agasajo",
+        "text": "Limitada.\n<b>Acción de Reclutamiento:</b> arrodilla un Personaje <i>Mayordomo</i> para ganar 1 de Oro. (Límite de 2 veces por fase.)\n<b>Acción de Reto:</b> arrodilla un Personaje <i>Mayordomo</i> para robar 1 carta. (Límite de 2 veces por fase.)",
+        "traits": "El Norte."
     },
     {
         "code": "07018",
-        "name": "Abandoned Stronghold",
-        "text": "<b>Action:</b> Kneel Abandoned Stronghold to choose a defending character. Until the end of the challenge, that character gets +X STR. X is the number of <i>Builder</i> characters you control.",
-        "traits": "Stronghold. The North."
+        "name": "Fortaleza abandonada",
+        "text": "<b>Acción:</b> arrodilla la Fortaleza abandonada para elegir un Personaje defensor. Hasta el final del reto, ese Personaje recibe un +X a su FUE. X es el número de Personajes <i>Constructores</i> que controles.",
+        "traits": "Fortaleza. El Norte."
+    },
+    {
+        "code": "07019",
+        "name": "Corona de la Reina",
+        "text": "<b>Acción:</b> arrodilla Corona de la Reina para mostrar las 3 primeras cartas del mazo de un adversario. Elige hasta 1 Personaje mostrado de este modo y colócalo en la pila de descartes de ese jugador. Coloca las demás cartas en la parte inferior del mazo de ese jugador, en el orden que prefieras.",
+        "traits": "El Norte."
     },
     {
         "code": "07020",
-        "name": "Catapult on the Wall",
-        "text": "<b>Action:</b> Kneel Catapult on the Wall and attached character to choose and kill an attacking character with STR 4 or lower. Attached character cannot stand during the standing phase this round.",
-        "traits": "Weapon."
+        "name": "Catapulta del Muro",
+        "text": "<b>Acción:</b> arrodilla la Catapulta del Muro y al Personaje vinculado para matar a un Personaje atacante de tu elección que tenga FUE 4 o menos. El Personaje vinculado no puede ponerse en pie durante la fase de Puesta en pie de esta ronda.",
+        "traits": "Arma."
+    },
+    {
+        "code": "07021",
+        "name": "Fantasma",
+        "text": "Sólo Personajes [thenightswatch] o [stark].\n<b>Interrupción:</b> cuando el Personaje vinculado vaya a morir, devuelve Fantasma a tu mano para salvar a ese Personaje.",
+        "traits": "Lobo huargo."
     },
     {
         "code": "07022",
-        "name": "Sworn to the Watch",
-        "text": "Attached character gains the [thenightswatch] affiliation. While attached character has:\n- a [military] icon, it gains the <i>Ranger</i> trait.\n- an [intrigue] icon, it gains the <i>Steward</i> trait.\n- a [power] icon, it gains the <i>Builder</i> trait.",
-        "traits": "Condition."
+        "name": "Juramentado a la Guardia",
+        "text": "El Personaje vinculado gana la facción [thenightswatch].\nMientras el Personaje vinculado tenga:\n- un icono [military], gana el rasgo <i>Explorador</i>.\n- un icono [intrigue], gana el rasgo <i>Mayordomo</i>.\n- un icono [power], gana el rasgo <i>Constructor</i>.",
+        "traits": "Estado."
     },
     {
         "code": "07023",
-        "name": "Now My Watch Begins",
-        "text": "<b>Reaction:</b> After a character with printed cost 5 or lower is placed into an opponent's discard pile, put this character into play under your control.",
+        "name": "Ahora empieza mi guardia",
+        "text": "<b>Reacción:</b> después de que un Personaje con un coste impreso de 5 o menos sea colocado en la pila de descartes de un adversario, pon en juego a ese Personaje controlado por ti.",
         "traits": ""
     },
     {
         "code": "07024",
-        "name": "I Shall Win No Glory",
-        "text": "<b>Reaction:</b> After a challenge is initiated against you, kneel 3 <i>Builder</i> characters, 3 <i>Ranger</i> characters, or 3 <i>Steward</i> characters to end the challenge immediately with no winner or loser.",
+        "name": "No alcanzaré la gloria",
+        "text": "<b>Reacción:</b> después de que se inicie un reto contra ti, arrodilla 3 Personajes <i>Constructores</i>, 3 Personajes <i>Exploradores</i> o 3 Personajes <i>Mayordomos</i> para finalizar el reto inmediatamente sin vencedor ni perdedor.",
         "traits": ""
     },
     {
         "code": "07025",
+        "flavor": "…la vio como a su Marya, una mujer regordeta y afable, de grandes pechos y sonrisa bondadosa, la mejor esposa del mundo.",
         "name": "Marya Seaworth",
-        "text": "<b>Reaction:</b> After a character is bypassed using stealth, pay 1 gold to kneel it. (Limit twice per phase.)",
-        "traits": "Companion. Lady."
+        "text": "<b>Reacción:</b> después de que un Personaje sea evitado mediante el Sigilo, paga 1 de Oro para arrodillarlo. (Límite de 2 veces por fase.)",
+        "traits": "Acompañante. Lady."
     },
     {
         "code": "07026",
-        "name": "Black Betha",
-        "text": "While you control Ser Davos Seaworth, he gains renown.\n<b>Action:</b> Kneel Black Betha to choose an attacking character. Until the end of the challenge, that character gets +X STR. X is the number of kneeling characters the defending player controls.",
-        "traits": "Warship."
+        "name": "Betha Negra",
+        "text": "Mientras controles a Ser Davos Seaworth, éste gana Renombre.\n<b>Acción:</b> arrodillarlo Betha Negra para elegir a un Personaje atacante. Hasta el final del reto, ese Personaje recibe un +X a su FUE. X es el número de Personajes arrodillados que controle el jugador defensor.",
+        "traits": "Barco de guerra."
     },
     {
         "code": "07027",
-        "name": "Salt Wife",
-        "text": "<b>Challenges Action:</b> Sacrifice Salt Wife to choose a character. Until the end of the phase, that character cannot be declared as a defender.",
-        "traits": "Companion."
+        "flavor": "\"Aquellas que satisfagan a sus capitanes serán tomadas como esposas de sal, todo un honor.\" <cite>Victarion Greyjoy</cite>",
+        "name": "Esposa de sal",
+        "text": "<b>Acción de Reto:</b> sacrifica a la Esposa de sal para elegir un Personaje. Hasta el final de la fase, ese Personaje no puede ser declarado como defensor.",
+        "traits": "Acompañante."
     },
     {
         "code": "07028",
-        "name": "Raiding the Bay of Ice",
-        "text": "<b>Reaction:</b> After you win a challenge as the attacking player, kneel a <i>Warship</i> location to choose a non-limited location controlled by the losing opponent, and place it on top of its owner's deck.",
+        "name": "Saquear la Bahía de Hielo",
+        "text": "<b>Reacción:</b> después de que ganes un reto como jugador atacante, arrodilla un Lugar <i>Barco de Guerra</i> para elegir un Lugar no limitado controlado por el adversario derrotado y colocarlo en la parte superior del mazo de su propietario.",
+        "traits": ""
+    },
+    {
+        "code": "07029",
+        "name": "Ulf, hijo de Umar",
+        "text": "<b>Reacción:</b> después de que un Personaje <i>Miembro de clan</i> entre en juego controlado por ti, Ulf, hijo de Umar recibe un +X a su FUE hasta el final de la fase. X es la FUE impresa de ese Personaje. (Límite de 3 veces por fase.)",
+        "traits": "Miembro de clan."
+    },
+    {
+        "code": "07030",
+        "flavor": "\"Soy único.\" <cite>Ser Jaime Lannister</cite>",
+        "name": "No hay hombres como yo",
+        "text": "<b>Acción:</b> elige un Personaje <i>Caballero</i>. Hasta el final de la fase, ese Personaje no se arrodilla cuando es declarado como atacante o defensor en un reto [military].",
         "traits": ""
     },
     {
         "code": "07031",
-        "name": "Southron Messenger",
-        "text": "Ambush (5).\n<b>Reaction:</b> After Southron Messenger enters play during a challenge, choose a participating character with fewer than 2 challenge icons, and return that character to its owner's hand.",
-        "traits": "Ally."
+        "name": "Emisario sureño",
+        "text": "Emboscada (5).\n<b>Reacción:</b> después de que el Emisario sureño entre en juego durante un reto, elige un Personaje participante que tenga menos de 2 iconos de reto y devuélvelo a la mano de su propietario.",
+        "traits": "Aliado."
     },
     {
         "code": "07032",
-        "name": "Lingering Venom",
-        "text": "Terminal.\n<b>Reaction:</b> After you lose a challenge, place a venom token on Lingering Venom. Then, if attached character's STR is equal to or lower than the number of venom tokens on Lingering Venom, kill it.",
-        "traits": "Condition."
+        "name": "Veneno de acción lenta",
+        "text": "Terminal.\n<b>Reacción:</b> después de que pierdas un reto, coloca 1 ficha de Veneno sobre el Veneno de acción lenta. Luego, si la FUE del Personaje vinculado es igual o inferior al número de fichas de Veneno que hay sobre el Veneno de acción lenta, mata a ese Personaje.",
+        "traits": "Estado."
     },
     {
         "code": "07033",
+        "flavor": "Sansa y Jeyne gritaron al unísono una docena de veces, cuando los jinetes chocaban y las lanzas saltaban en pedazos, mientras el pueblo llano animaba a sus favoritos.",
         "name": "Jeyne Poole",
-        "text": "<b>Marshaling Action:</b> Sacrifice Jeyne Poole to return a <i>Lady</i> character from your discard pile to your hand.",
-        "traits": "Companion."
+        "text": "<b>Acción de Reclutamiento:</b> sacrifica a Jeyne Poole para devolver un Personaje <i>Lady</i> a tu mano desde tu pila de descartes.",
+        "traits": "Acompañante."
     },
     {
         "code": "07034",
-        "name": "Summer",
-        "text": "Unique [stark] character only.\n<b>Action:</b> Kneel attached character to have it participate in a [military] challenge on your side. (Limit once per challenge.)\n<b>Action:</b> Pay 1 gold to attach Summer to a different character. (Limit once per phase.)",
-        "traits": "Direwolf."
+        "name": "Verano",
+        "text": "Sólo Personajes [stark] únicos.\n<b>Acción:</b> arrodilla al Personaje vinculado para hacer que participe en un reto [military] en tu bando. (Límite de 1 vez por reto.)\n<b>Acción:</b> paga 1 de Oro para vincular Verano a un Personaje diferente. (Límite de 1 vez por fase.)",
+        "traits": "Lobo huargo."
     },
     {
         "code": "07035",
-        "name": "Dothraki Honor Guard",
-        "text": "No attachments.\nDothraki Honor Guard gets -1 STR for each card in your hand.",
-        "traits": "Army. Dothraki. Guard."
+        "name": "Guardia de honor dothraki",
+        "text": "Sin Accesorios.\nLa Guardia de honor dothraki recibe un -1 a su FUE por cada carta que tengas en tu mano.",
+        "traits": "Ejército. Dothraki. Guardia."
     },
     {
         "code": "07036",
-        "name": "Plaza of Pride",
-        "text": "<b>Action:</b> Kneel Plaza of Pride and discard a card from your hand to choose and stand a character with printed cost X or lower. X is 3 higher than the printed cost of the discarded card.",
+        "name": "Plaza del Orgullo",
+        "text": "<b>Acción:</b> Arrodilla la Plaza del Orgullo y descarta una carta de tu mano para poner en pie a un Personaje de tu elección que tenga un coste impreso de X o menos. X es 3 más que el coste impreso de la carta descartada.",
         "traits": "Astapor."
     },
     {
         "code": "07037",
-        "flavor": "\"I would gladly take this challenge myself, though I'm not half the swordsman Lord Caron is, or Ser Guyard.\"",
+        "flavor": "\"Yo mismo aceptaría el desafío de buena gana, aunque mi habilidad con la espada no se puede comparar con la de lord Caron o la de ser Guyard.\"",
         "name": "Ser Jon Fossoway",
-        "text": "While Ser Jon Fossoway's STR is 5 or higher, he gains renown.",
-        "traits": "Knight."
+        "text": "Mientras la FUE de Ser Jon Fossoway sea de 5 o más, gana Renombre.",
+        "traits": "Caballero."
+    },
+    {
+        "code": "07038",
+        "name": "El Vinomiel",
+        "text": "<b>Reacción:</b> después de que ganes un reto por 5 o más de FUE como jugador atacante, El Vinomiel gana 1 de Poder.",
+        "traits": "El Dominio."
     },
     {
         "code": "07039",
-        "flavor": "\"I'll boil the flesh off you and make a byrnie from your ribs. I'll carve your teeth to cast me runes, and eat me oaten porridge from your skull.\"",
-        "name": "Rattleshirt",
-        "text": "While Rattleshirt is attacking alone, each character without attachments cannot be declared as a defender.",
-        "traits": "Wildling."
+        "flavor": "\"Te herviré, retiraré la carne y me haré una cota con tus costillas. Tallaré tus dientes para hacerme runas y comeré papilla de avena en tu calavera.\"",
+        "name": "Casaca de Matraca",
+        "text": "Mientras Casaca de Matraca esté atacando solo, ningún Personaje que no tenga Accesorios podrá ser declarado como defensor.",
+        "traits": "Salvaje."
+    },
+    {
+        "code": "07040",
+        "flavor": "\"Nosotros, el pueblo libre, sabemos cosas que los arrodillados han olvidado.\"",
+        "name": "Dalla",
+        "text": "<b>Reacción:</b> después de que un Personaje <i>Salvaje</i> entre en juego controlado por ti, roba 1 carta. (Límite de 1 vez por fase.)",
+        "traits": "Salvaje."
     },
     {
         "code": "07041",
-        "name": "Crow Killers",
-        "text": "Crow Killers does not kneel when declared as an attacker against an opponent whose reserve value is higher than yours.",
-        "traits": "Wildling."
+        "name": "Asesinos de cuervos",
+        "text": "Los Asesinos de cuervos no se arrodillan cuando son declarados como atacantes contra un adversario cuyo valor de Reserva sea más alto que el tuyo.",
+        "traits": "Salvaje."
     },
     {
         "code": "07042",
-        "name": "The Frozen Shore",
-        "text": "<b>Reaction:</b> After you win a challenge, kneel The Frozen Shore to choose and stand 1 attacking <i>Wildling</i> character for each <i>Winter</i> plot card revealed.",
-        "traits": "The North."
+        "name": "La Costa Helada",
+        "text": "<b>Reacción:</b> después de que ganes un reto, arrodilla La Costa Helada para poner en pie 1 Personaje <i>Salvaje</i> atacante de tu elección por cada carta de Trama de <i>Invierno</i> que haya mostrada.",
+        "traits": "El Norte."
     },
     {
         "code": "07043",
-        "name": "Weirwood Bow",
-        "text": "[thenightswatch] or <i>Wildling</i> character only.\n<b>Action:</b> Kneel Weirwood Bow to choose a defending character. That character gets -2 STR until the end of the challenge.",
-        "traits": "Weapon."
+        "name": "Arco de madera de arciano",
+        "text": "Sólo Personajes [thenightswatch] o <i>Salvaje</i>.\n<b>Acción:</b> arrodilla el Arco de madera de arciano para elegir a un Personaje defensor. Ese Personaje recibe un -2 a su FUE hasta el final del reto.",
+        "traits": "Arma."
     },
     {
         "code": "07044",
-        "name": "Scaling the Wall",
-        "text": "<b>Reaction:</b> After you win a challenge in which you control an attacking <i>Wildling</i> character, choose a non-limited location controlled by the losing opponent. Return that location to its owner's hand.",
+        "name": "Escalar el Muro",
+        "text": "<b>Reacción:</b> después de que ganes un reto en el que controles a un Personaje <i>Salvaje</i> atacante, elige un Lugar que no sea limitado y esté controlado por el adversario derrotado. Devuelve ese Lugar a la mano de su propietario.",
         "traits": ""
     },
     {
         "code": "07045",
-        "name": "\"Last of the Giants\"",
-        "text": "<b>Action:</b> Put a neutral character into play from your hand. Until the end of the phase, that character gains intimidate. At the end of the phase, if that character is still in play, kill it (cannot be saved).",
-        "traits": "Song."
+        "name": "\"El último gigante\"",
+        "text": "<b>Acción:</b> pon en juego un Personaje neutral desde tu mano. Hasta el final de la fase, ese Personaje gana Intimidación. Al final de la fase, si ese Personaje aún sigue en juego, mátalo (no puede salvarse).",
+        "traits": "Canción."
     },
     {
         "code": "07046",
-        "name": "The Fire That Burns",
-        "text": "Each [thenightswatch] character you control does not kneel when declared as a defender.",
-        "traits": "Winter."
+        "name": "El fuego que arde",
+        "text": "Los Personajes [thenightswatch] que controles no se arrodillan cuando son declarados como defensores.",
+        "traits": "Invierno."
     },
     {
         "code": "07047",
-        "name": "Retaliation",
-        "text": "If you win initiative, you must choose an opponent to be the first player.",
-        "traits": "War."
+        "name": "Represalia",
+        "text": "Si ganas la Iniciativa, debes elegir a un adversario como jugador inicial.",
+        "traits": "Guerra."
     },
     {
         "code": "07048",
-        "name": "Whisper Campaign",
-        "text": "<b>Forced Reaction:</b> After a character without an [intrigue] icon enters play, kneel it.",
-        "traits": "Scheme."
+        "name": "Campaña de susurros",
+        "text": "<b>Reacción obligada:</b> después de que entre en juego un Personaje que no tenga ningún icono [intrigue], arrodíllao.",
+        "traits": "Conspiración."
     },
     {
         "code": "07049",
-        "name": "Called Into Service",
-        "text": "<b>When Revealed:</b> Reveal the top card of your deck. If it is a character, put it into play. If it is a non-character card, draw it and gain 2 gold.",
-        "traits": "Kingdom."
+        "name": "Llamada a filas",
+        "text": "<b>Cuando se muestre esta carta:</b> muestra la primera carta de la parte superior de tu mazo. Si es un Personaje, ponlo en juego. Si esa carta no es un Personaje, róbala y ganas 2 de Oro.",
+        "traits": "Reino."
     },
     {
         "code": "07050",
-        "name": "The White Shadows",
-        "text": "<b>Reaction:</b> After a character an opponent controls is killed, put it into play under your control. While that character is in play, treat its printed text box as if it were blank. At the end of the phase, if that card is still in play, place it in its owner's dead pile (cannot be saved).",
-        "traits": "Omen."
+        "name": "Las sombras blancas",
+        "text": "<b>Reacción:</b> después de que muera un Personaje controlado por un adversario, ponlo en juego controlado por ti. Mientras ese Personaje esté en juego, se trata como si su texto de reglas impreso estuviese en blanco. Al final de la fase, si esa carta aún sigue en juego, colócala en la pila de muertos de su propietario (no puede salvarse).",
+        "traits": "Augurio."
+    },
+    {
+        "code": "07051",
+        "name": "Torneo del día del nombre",
+        "text": "<b>Reacción:</b> después de que ganes un reto en el que un Personaje <i>Caballero</i> que controles esté atacando o defendiende solo, elige un Personaje <i>Lord</i> o <i>Lady</i> que controles para que gane 1 de Poder.",
+        "traits": "Verano."
+    },
+    {
+        "code": "07052",
+        "name": "Páramo helado",
+        "text": "Ningún Personaje que tenga FUE 2 o menos puede ponerse en pie.",
+        "traits": "Invierno."
     }
 ]

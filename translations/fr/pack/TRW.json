@@ -1,0 +1,34 @@
+[
+    {
+        "code": "06073",
+        "flavor": "\"Killing makes Strong Belwas hungry.\"",
+        "name": "Strong Belwas",
+        "text": "Bestow (2).\n<b>Interrupt:</b> When another unique [targaryen] character would be killed, discard 1 gold from Strong Belwas to save it. (Limit once per phase.)",
+        "traits": "Companion."
+    },
+    {
+        "code": "06077",
+        "flavor": "\"My honored guests. Be welcome beneath my roof, and at my table.\"",
+        "name": "Walder Frey",
+        "text": "Renown.\nWhile Walder Frey is attacking, each other <i>House Frey</i> character you control is also considered to be attacking.",
+        "traits": "House Frey. Lord."
+    },
+    {
+        "code": "06078",
+        "name": "Frey Bastard",
+        "text": "Bestow (2).\n<b>Reaction:</b> After you win a challenge in which you control 2 or more attacking <i>House Frey</i> characters, discard 1 gold from Frey Bastard to gain 1 power for your faction.",
+        "traits": "Bastard. House Frey."
+    },
+    {
+        "code": "06079",
+        "name": "Frey Hospitality ",
+        "text": "<b>Reaction:</b> After you win a challenge in which you control an attacking <i>House Frey</i> character, if it was the third challenge you initiated this phase, choose and kill a character controlled by the losing opponent. (Choose and kill 3 characters instead if you won by 20 or more STR.)",
+        "traits": "House Frey."
+    },
+    {
+        "code": "06080",
+        "name": "The Red Wedding",
+        "text": "<b>Interrupt:</b> When you win a challenge as the attacking player, choose and kill a <i>Lord</i> or <i>Lady</i> character controlled by the losing opponent. (Any player may initiate this ability.)",
+        "traits": "House Frey. Scheme."
+    }
+]
