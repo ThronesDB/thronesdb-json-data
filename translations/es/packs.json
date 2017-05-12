@@ -40,6 +40,10 @@
         "name": "No hay puntos intermedios"
     },
     {
+        "code": "OR",
+        "name": "Oberyn's Revenge"
+    },
+    {
         "code": "TC",
         "name": "La cadena de Tyrion"
     },
