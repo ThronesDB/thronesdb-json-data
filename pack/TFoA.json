@@ -58,5 +58,25 @@
         "text": "Bestow (4).\n<b>Action:</b> Kneel Astapor to choose a participating character. Until the end of the challenge, that character gets -X STR. X is the number of gold Astapor has.",
         "traits": "Astapor. Contested.",
         "type_code": "location"
+    },
+    {
+        "claim": 1,
+        "code": "06060",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Ryan Valle",
+        "income": 4,
+        "initiative": 5,
+        "is_loyal": false,
+        "is_unique": false,
+        "name": "Duel",
+        "octgn_id": null,
+        "pack_code": "TFoA",
+        "position": 60,
+        "quantity": 3,
+        "reserve": 6,
+        "text": "<b>When Revealed:</b> Choose an opponent. That player chooses 2 non-<i>Army</i> characters, each with printed cost 6 or higher. Then, that player chooses and kneels 1 of those characters. Kill the other (cannot be saved).\n<b>Card design by 2014 North American Champion, Jonathan Andrews.</b>",
+        "traits": "War.",
+        "type_code": "plot"
     }
 ]
