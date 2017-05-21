@@ -1,124 +1,129 @@
 [
     {
         "code": "06021",
-        "name": "Bear Island Host",
-        "text": "Bestow (3). No attachments.\n<b>Action:</b> Discard 1 gold from Bear Island Host to choose a <i>House Mormont</i> character. Until the end of the phase, that character does not kneel when declared as an attacker in a [military] challenge.",
-        "traits": "Army. House Mormont."
+        "name": "Hueste de la Isla del Oso",
+        "text": "Encomienda (3). Sin Accesorios.\n<b>Acción:</b> descarta 1 de Oro de la Huesta de la Isla del Oso para elegir un Personaje de la <i>Casa Mormont</i>. Hasta el final de la fase, ese Personaje no se arrodilla cuando es declarado como atacante en un reto [military].",
+        "traits": "Ejército. Casa Mormont."
     },
     {
         "code": "06022",
-        "name": "Marriage Pact",
-        "text": "Terminal.\nAttached character cannot participate in challenges against you.\n<b>Forced Interrupt:</b> When attached character leaves play, sacrifice a character you control.",
-        "traits": "Condition."
+        "name": "Matrimonio concertado",
+        "text": "Terminal.\nEl Personaje vinculado no puede participar en retos contra ti.\n<b>Interrupción obligada:</b> cuando el Personaje vinculado abandone el juego, sacrifica un Personaje que controles.",
+        "traits": "Estado."
     },
     {
         "code": "06023",
-        "name": "Knight of the Reach",
-        "text": "<b>Reaction:</b> After you win a challenge in which Knight of the Reach is attacking or defending alone, choose a <i>Lady</i> character. That character gains 1 power.",
-        "traits": "Knight."
+        "name": "Caballero del Dominio",
+        "text": "<b>Reacción:</b> después de que ganes un reto en el que el Caballero del Dominio esté atacando o defendiendo solo, elige un Personaje <i>Lady</i>. Ese Personaje gana 1 de Poder.",
+        "traits": "Caballero."
     },
     {
         "code": "06024",
-        "name": "\"Lord Renly's Ride\"",
-        "text": "<b>Action:</b> Choose a character. Until the end of the phase, that character gets +X STR and gains intimidate. X is the printed STR of the top character in your dead pile.",
-        "traits": "Song."
+        "flavor": "Desde su trono de huesos, el Señor de la Muerte contempló al caballero asesinado…",
+        "name": "\"Lord Renly cabalgó de nuevo\"",
+        "text": "<b>Acción:</b> elige un Personaje. Hasta el final de la fase, ese Personaje recibe +X a su FUE y gana Intimidación. X es la FUE impresa del Personaje que esté en la parte superior de tu pila de muertos.",
+        "traits": "Canción."
     },
     {
         "code": "06025",
-        "name": "Gilly",
-        "text": "Bestow(3).\n<b>Action:</b> Discard 1 gold from Gilly to choose a <i>Steward</i> character you control. Until the end of the phase, that character gains stealth.",
-        "traits": "Wildling."
+        "flavor": "\"No me llaméis así. Soy madre, no señora.\"",
+        "name": "Elí",
+        "text": "Encomienda (3).\n<b>Acción:</b> descarta 1 de Oro de Elí para elegir un Personaje <i>Mayordomo</i> que controles. Hasta el final de la fase, ese Personaje gana sigilo",
+        "traits": "Salvaje."
     },
     {
         "code": "06026",
-        "name": "Guarding the Realm",
-        "text": "<b>Marshaling Action:</b> Choose a character with printed cost 3 or lower in an opponent's discard pile, and put it into play under your control.\n<b>Reaction:</b> After you win a challenge as the defending player, pay 1 gold to return Guarding the Realm from your discard pile to your hand.",
+        "name": "Proteger el reino",
+        "text": "<b>Acción de Reclutamiento:</b> elige un Personaje con un coste impreso de 3 o menos que esté en la pila de descartes de un adversario y ponlo en juego controlado por ti.\n<b>Reacción:</b> después de que ganes un reto como jugador defensor, paga 1 de Oro para devolver Proteger el reino a tu mano desde tu pila de descartes.",
         "traits": ""
     },
     {
         "code": "06027",
-        "flavor": "\"We choose light or we choose darkness. We choose good or we choose evil. We choose the true god or the false.\"",
+        "flavor": "\"Escogemos la luz o escogemos la oscuridad. Escogemos el bien o escogemos el mal. Escogemos a los dioses verdaderos o a los falses.\"",
         "name": "Melisandre",
-        "text": "Insight.\n<b>Reaction:</b> After you win dominance, choose an opponent and look at his or her hand. Then, choose and discard 1 card from that hand. If that card is a character, place it in its owner's dead pile.",
+        "text": "Perspicacia.\n<b>Reacción:</b> después de que ganes la Dominación, mira la mano de un adversario de tu elección. Luego elige y descarta 1 carta de esa mano. Si esa carta es un Personaje, colócola en la pila de muertos de su propietario.",
         "traits": "Lady. R'hllor."
     },
     {
         "code": "06028",
-        "flavor": "\"Lead us from the darkness, O my Lord. Fill our hearts with fire, so we may walk your shining path.\"",
-        "name": "Light of the Lord",
-        "text": "[baratheon] or <i>R'hllor</i> character only.\n<b>Reaction:</b> After the dominance phase begins, stand attached character and gain 1 gold.",
-        "traits": "Blessing. R'hllor."
+        "flavor": "\"Aléjanos de la oscuridad, oh, Señor. Inflama nuestros corazaones para que podamos recorrer tu camino de luz.\"",
+        "name": "La Luz del Señor",
+        "text": "Sólo Personajes [baratheon] o <i>R'hllor</i>.\n<b>Reacción:</b> después de que empiece la fase de Dominación, pon en pie al Personaje vinculado y gana 1 de Oro.",
+        "traits": "Bendición. R'hllor."
     },
     {
         "code": "06029",
+        "flavor": "\"¿Qué, Sandor? ¿Buscando a tu hermano?\"",
         "name": "Polliver",
-        "text": "Pillage.\n<b>Reaction:</b> After Polliver discards a character using pillage, return 2 gold from the losing opponent's gold pool to the treasury.",
-        "traits": "Ally."
+        "text": "Pillaje.\n<b>Reacción:</b> después de que Polliver descarte a un Personaje mediante el Pillaje, devuelve a la Tesorería 2 de Oro del suministro de Oro del adversario derrotado.",
+        "traits": "Aliado."
     },
     {
         "code": "06030",
-        "name": "The Hand's Solar",
-        "text": "<b>Action:</b> Kneel The Hand's Solar to choose a character. Until the end of the phase, that character gains an intrigue icon.",
-        "traits": "King's Landing."
+        "flavor": "El frío se sentía sentir en la habitación, a pesar de que las ventanas estaban cerradas por la noche.",
+        "name": "El salón de la Mano",
+        "text": "<b>Acción:</b> arrodilla El salón de la Mano para elegir un Personaje. Hasta el final de la fase, ese Personaje gana un icono [intrigue].",
+        "traits": "Desembarco del Rey."
     },
     {
         "code": "06031",
         "name": "Wex Pyke",
-        "text": "Bestow (8).\nWhile Wex Pyke is attacking, each character with printed cost X cannot be declared as a defender. X is the number of gold Wex Pyke has.\n<b>Dominance Action:</b> Move 1 gold from your gold pool to Wex Pyke. (Limit twice per phase.)",
-        "traits": "Bastard. House Botley."
+        "text": "Encomienda (8).\nMientras Wex Pyke esté atacando, ningún Personaje que tenga un coste impreso de X puede ser declarado como defensor. X es la cantidad de Oro que tenga Wex Pyke.\n<b>Acción de Dominación:</b> traslada 1 de Oro desde tu suministro de Oro hasta Wex Pyke. (Límite de 2 veces por fase.)",
+        "traits": "Bastardo. Casa Botley."
     },
     {
         "code": "06032",
-        "name": "Iron Islands Market",
-        "text": "Limited.\n<b>Marshaling Action:</b> Kneel Iron Islands Market to gain 1 gold. (2 gold instead if an opponent has 8 or more cards in his or her discard pile.)",
-        "traits": "Iron Islands."
+        "name": "Mercado de las Islas del Hierro",
+        "text": "Limitada.\n<b>Acción de Reclutamiento:</b> arrodilla el Mercado de las Islas del Hierro para ganar 1 de Oro. (2 de Oro si un adversario tiene 8 cartas o más en su pila de descartes.)",
+        "traits": "Islas del Hierro."
     },
     {
         "code": "06033",
-        "name": "Second Sons",
-        "text": "Bestow(3).\n<b>Forced Interrupt:</b> When the challenges phase ends, sacrifice Second Sons unless you discard 1 gold from it.",
-        "traits": "Mercenary."
+        "name": "Los Segundos Hijos",
+        "text": "Encomienda (3).\n<b>Interrupción obligada:</b> cuando termine la fase de Reto, sacrifica a Los Segundos Hijos a menos que descartes 1 de Oro de su carta.",
+        "traits": "Mercenario."
     },
     {
         "code": "06034",
-        "name": "A Dragon Is No Slave",
-        "text": "<b>Challenges Action:</b> Choose a character without attachments. That character gets -2 STR until the end of the phase.\n<b>Reaction:</b> After you win a challenge in which you control a participating <i>Dragon</i> character or Daenerys Targaryen, pay 1 gold to return A Dragon Is No Slave from your discard pile to your hand.",
+        "name": "Los dragones no son esclavos",
+        "text": "<b>Acción de Reto:</b> elige un Personaje que no tenga Accesorios vinculados. Ese Personaje recibe un -2 a su FUE hasta el final de la fase.\n<b>Reacción:</b> después de que ganes un reto en el que controles un Personaje participante <i>Dragón</i> o a Daenerys Targaryen, paga 1 de Oro para devolver Los dragones no son esclavos a tu mano desde tu pila de descartes.",
         "traits": ""
     },
     {
         "code": "06035",
-        "name": "Orphan of the Greenblood",
-        "text": "Bestow(3).\n<b>Action:</b> Discard 1 gold from Orphan of the Greenblood to return another character you control to its owner's hand.",
-        "traits": "Ally."
+        "name": "Huérfano del Sangreverde",
+        "text": "Encomienda (3).\n<b>Acción:</b> descarta 1 Oro del Huérfano del Sangreverde para devolver otro Personaje que controles a la mano de su propietario.",
+        "traits": "Aliado."
     },
     {
         "code": "06036",
-        "name": "Scorching Deserts",
-        "text": "<b>Reaction:</b> After a character with fewer than 2 challenge icons is declared as an attacker or defender, kneel and sacrifice Scorching Deserts to remove that character from the challenge.",
+        "name": "Desierto abrasador",
+        "text": "<b>Reacción:</b> después de que un Personaje con menos de dos iconos sea declarado como atacante o defensor, arrodilla y sacrifica el Desierto abrasador para retirar del reto a ese Personaje.",
         "traits": "Dorne."
     },
     {
         "code": "06037",
-        "name": "Black Walder",
-        "text": "Bestow(3).\nDuring the third challenge you initiate each phase, Black Walder gains renown and gets +2 STR for each gold he has.",
-        "traits": "House Frey."
+        "flavor": "Walder el Negro era hombre que conseguía todo lo que quería, la esposa de su hermano incluida.",
+        "name": "Walder el Negro",
+        "text": "Encomienda (3).\nDurante el tercer reto que inicies en cada fase, Walder el Negro gana Renombre y recibe un +2 a su FUE por cada unidad de Oro que tenga.",
+        "traits": "Casa Frey."
     },
     {
         "code": "06038",
-        "name": "Great Hall",
-        "text": "Limited.\n<b>Marshaling Action:</b> Kneel Great Hall to reduce the cost of the next unique character you marshal this phase by 1. (By 2 instead if that character's printed cost is 6 or higher.)",
-        "traits": "Westeros."
+        "name": "Salón principal",
+        "text": "Limitada.\n<b>Acción de Reclutamiento:</b> arrodilla el Salón principal para reducir en 1 el coste del siguiente Personaje único que reclutes en esta fase. (En 2 si el coste impreso de ese Personaje es de 6 o más).",
+        "traits": "Poniente."
     },
     {
         "code": "06039",
-        "name": "\"The Dornishman's Wife\"",
-        "text": "<b>Action:</b> Choose an opponent. If that player has a higher power total than you, gain 2 gold. If that player has more cards in his or her hand than you, gain 1 power for your faction. If that player controls more characters than you, draw 1 card.",
-        "traits": "Song."
+        "name": "\"La mujer del dorniense\"",
+        "text": "<b>Acción:</b> elige un adversario. Si ese jugador tiene más Poder que tú en total, ganas 2 de Oro. Si ese jugador tiene más cartas que tú en la mano, ganas 1 de Poder para tu facción. Si ese jugador controla más Personajes que tú, roba 1 carta.",
+        "traits": "Canción."
     },
     {
         "code": "06040",
-        "name": "The Annals of Castle Black",
-        "text": "Each player may play events in his or her discard pile as if they were in his or her hand.\n<b>Forced Reaction:</b> After an event is placed in a discard pile, remove it from the game.\n<b>Card design by 2014 Overall World Champion, Alexander Hynes.</b>",
-        "traits": "Legacy."
+        "name": "Los anales del Castillo Negro",
+        "text": "Cada jugador puede jugar Eventos que estén en la pila de descartes como si estuvieran en su mano.\n<b>Reacción obligada:</b> después de que se coloque un Evento en la pila de descarte, retíralo del juego.\n<b>Carta diseñada por Alexander Hynes, campeón mundial absoluto de 2014.</b>",
+        "traits": "Legado."
     }
 ]
