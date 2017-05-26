@@ -380,7 +380,7 @@
         "position": 40,
         "quantity": 3,
         "reserve": 6,
-        "text": "<b>Interrupt:</b> When the challenge phase ends, if there are no <i>Summer</i> plot cards revealed, gain 2 power for your faction.",
+        "text": "<b>Interrupt:</b> When the challenges phase ends, if there are no <i>Summer</i> plot cards revealed, gain 2 power for your faction.",
         "traits": "Winter.",
         "type_code": "plot"
     }
