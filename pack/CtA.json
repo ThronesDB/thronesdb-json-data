@@ -350,7 +350,7 @@
         "deck_limit": 2,
         "faction_code": "neutral",
         "illustrator": "Tomasz Jedruszek",
-        "income": 0,
+        "income": null,
         "initiative": 4,
         "is_loyal": false,
         "is_unique": false,
