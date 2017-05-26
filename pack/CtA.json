@@ -154,7 +154,7 @@
         "pack_code": "CtA",
         "position": 28,
         "quantity": 3,
-        "text": "While there is a <i>Kingdom</i> plot card revealed, increase the gold value of your revealed plot card by 1.",
+        "text": "While there is a <i>Kingdom</i> plot card revealed, increase the gold value on your revealed plot card by 1.",
         "traits": "Dragonstone.",
         "type_code": "location"
     },
