@@ -67,8 +67,15 @@
             ]
         },
         "income": {
-            "minimum": 0,
-            "type": "integer"
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "initiative": {
             "minimum": 0,
