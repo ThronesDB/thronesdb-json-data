@@ -154,7 +154,7 @@
         "pack_code": "CtA",
         "position": 28,
         "quantity": 3,
-        "text": "While there is a <i>Kingdom</i> plot card revealed, increase the gold value of your revealed plot card by 1.",
+        "text": "While there is a <i>Kingdom</i> plot card revealed, increase the gold value on your revealed plot card by 1.",
         "traits": "Dragonstone.",
         "type_code": "location"
     },
@@ -350,7 +350,7 @@
         "deck_limit": 2,
         "faction_code": "neutral",
         "illustrator": "Tomasz Jedruszek",
-        "income": 0,
+        "income": null,
         "initiative": 4,
         "is_loyal": false,
         "is_unique": false,
@@ -380,7 +380,7 @@
         "position": 40,
         "quantity": 3,
         "reserve": 6,
-        "text": "<b>Interrupt:</b> When the challenge phase ends, if there are no <i>Summer</i> plot cards revealed, gain 2 power for your faction.",
+        "text": "<b>Interrupt:</b> When the challenges phase ends, if there are no <i>Summer</i> plot cards revealed, gain 2 power for your faction.",
         "traits": "Winter.",
         "type_code": "plot"
     }

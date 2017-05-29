@@ -189,6 +189,15 @@
         "size": 20
     },
     {
+        "cgdb_id": 21,
+        "code": "TBWB",
+        "cycle_code": "bng",
+        "date_release": null,
+        "name": "The Brotherhood Without Banners",
+        "position": 6,
+        "size": 20
+    },
+    {
         "cgdb_id": 22,
         "code": "WotW",
         "cycle_code": "watchers",
