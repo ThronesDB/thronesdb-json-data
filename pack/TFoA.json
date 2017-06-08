@@ -73,7 +73,7 @@
         "pack_code": "TFoA",
         "position": 44,
         "quantity": 3,
-        "text": "Attached character gains stealth.\nWhile attached character is participating in a challenge, reduce the cost of each event you play by 1.",
+        "text": "<i>Lady</i> character only.\nAttached character gains stealth.\nWhile attached character is participating in a challenge, reduce the cost of each event you play by 1.",
         "traits": "Item.",
         "type_code": "attachment"
     },
