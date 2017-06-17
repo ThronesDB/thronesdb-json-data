@@ -346,7 +346,7 @@
         "pack_code": "TC",
         "position": 118,
         "quantity": 3,
-        "text": "<b>Reaction:</b> After your win a challenge by 5 or more STR as the attacking player, kneel your faction card. Then, you may initiate an additional challenge of that type this phase.",
+        "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR as the attacking player, kneel your faction card. Then, you may initiate an additional challenge of that type this phase.",
         "traits": "",
         "type_code": "event"
     },
