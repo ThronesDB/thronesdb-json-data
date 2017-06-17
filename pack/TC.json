@@ -363,7 +363,7 @@
         "pack_code": "TC",
         "position": 119,
         "quantity": 3,
-        "text": "<b>Reaction:</b> After your win a [power] challenge, discard 1 card at random from the losing opponent's hand. If that card is a character, place it in its owner's dead pile.",
+        "text": "<b>Reaction:</b> After you win a [power] challenge, discard 1 card at random from the losing opponent's hand. If that card is a character, place it in its owner's dead pile.",
         "traits": "",
         "type_code": "event"
     },
