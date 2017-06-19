@@ -114,7 +114,7 @@
         "position": 75,
         "quantity": 3,
         "strength": 4,
-        "text": "Bestow (3).\n<b>Reaction:</b> After you win a challenge in which Ellaria Sand is participating, discard 1 gold from her to stand each <i>Bastard</i> character you control.",
+        "text": "Bestow (3).\n<b>Reaction:</b> After you lose a challenge in which Ellaria Sand is participating, discard 1 gold from her to stand each <i>Bastard</i> character you control.",
         "traits": "Bastard. Companion.",
         "type_code": "character"
     },
