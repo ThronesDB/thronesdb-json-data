@@ -191,7 +191,7 @@
         "pack_code": "GtR",
         "position": 30,
         "quantity": 3,
-        "text": "<b>Action:</b> Kneel The Hand's Solar to choose a character. Until the end of the phase, that character gains an intrigue icon.",
+        "text": "<b>Action:</b> Kneel The Hand's Solar to choose a character. Until the end of the phase, that character gains an [intrigue] icon.",
         "traits": "King's Landing.",
         "type_code": "location"
     },
