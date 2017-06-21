@@ -205,5 +205,14 @@
         "name": "Watchers on the Wall",
         "position": 1,
         "size": 52
+    },
+    {
+        "cgdb_id": 29,
+        "code": "HoT",
+        "cycle_code": "thorns",
+        "date_release": null,
+        "name": "House of Thorns",
+        "position": 1,
+        "size": 52
     }
 ]
