@@ -74,7 +74,7 @@
         "pack_code": "CtA",
         "position": 24,
         "quantity": 3,
-        "text": "Play only during a challenge.\n<b>Challenges Action:</b> Reveal 4 [tyrell] characters from your hand to raise the claim value on your revealed plot by 1 until the end of the challenge. (Max 1 per challenge.)",
+        "text": "Play only during a challenge.\n<b>Challenges Action:</b> Reveal 4 [tyrell] characters from your hand to raise the claim value on your revealed plot card by 1 until the end of the challenge. (Max 1 per challenge.)",
         "traits": "",
         "type_code": "event"
     },
