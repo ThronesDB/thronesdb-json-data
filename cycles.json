@@ -46,5 +46,11 @@
         "name": "Watchers on the Wall",
         "position": 7,
         "size": 1
+    },
+    {
+        "code": "thorns",
+        "name": "House of Thorns",
+        "position": 9,
+        "size": 1
     }
 ]
