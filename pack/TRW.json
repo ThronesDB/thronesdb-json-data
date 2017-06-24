@@ -1,5 +1,26 @@
 [
     {
+        "code": "06063",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "tyrell",
+        "illustrator": "Sara Biddle",
+        "is_intrigue": true,
+        "is_loyal": true,
+        "is_military": false,
+        "is_power": false,
+        "is_unique": false,
+        "name": "Oldtown Informer",
+        "octgn_id": null,
+        "pack_code": "TRW",
+        "position": 63,
+        "quantity": 3,
+        "strength": 2,
+        "text": "Ambush (2). Bestow (3).\n<b>Reaction:</b> After a card enters play during the challenges phase, draw X cards. Then, discard X cards. X is the number of gold Oldtown Informer has.",
+        "traits": "Ally. Spy.",
+        "type_code": "character"
+    },
+    {
         "code": "06067",
         "cost": 4,
         "deck_limit": 3,
