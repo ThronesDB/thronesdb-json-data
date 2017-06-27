@@ -19,12 +19,14 @@
     },
     {
         "code": "06024",
+        "flavor": "From his throne of bones the Lord of Death looked down on the murdered lord...",
         "name": "\"Lord Renly's Ride\"",
         "text": "<b>Action:</b> Choose a character. Until the end of the phase, that character gets +X STR and gains intimidate. X is the printed STR of the top character in your dead pile.",
         "traits": "Song."
     },
     {
         "code": "06025",
+        "flavor": "\"Don't you call me that. I'm a mother, not a lady.\"",
         "name": "Gilly",
         "text": "Bestow(3).\n<b>Action:</b> Discard 1 gold from Gilly to choose a <i>Steward</i> character you control. Until the end of the phase, that character gains stealth.",
         "traits": "Wildling."
@@ -51,12 +53,14 @@
     },
     {
         "code": "06029",
+        "flavor": "\"Looking for your brother, Sandor?\"",
         "name": "Polliver",
         "text": "Pillage.\n<b>Reaction:</b> After Polliver discards a character using pillage, return 2 gold from the losing opponent's gold pool to the treasury.",
         "traits": "Ally."
     },
     {
         "code": "06030",
+        "flavor": "Even with the windows of the solar shuttered against the night, the chill in the room was palpable.",
         "name": "The Hand's Solar",
         "text": "<b>Action:</b> Kneel The Hand's Solar to choose a character. Until the end of the phase, that character gains an intrigue icon.",
         "traits": "King's Landing."
@@ -99,6 +103,7 @@
     },
     {
         "code": "06037",
+        "flavor": "Black Walder was a man who took what he wanted, even his brother's wife.",
         "name": "Black Walder",
         "text": "Bestow(3).\nDuring the third challenge you initiate each phase, Black Walder gains renown and gets +2 STR for each gold he has.",
         "traits": "House Frey."

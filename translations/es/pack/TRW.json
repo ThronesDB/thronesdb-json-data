@@ -1,10 +1,52 @@
 [
     {
+        "code": "06063",
+        "name": "Oldtown Informer",
+        "text": "Ambush (2). Bestow (3).\n<b>Reaction:</b> After a card enters play during the challenges phase, draw X cards. Then, discard X cards. X is the number of gold Oldtown Informer has.",
+        "traits": "Ally. Spy."
+    },
+    {
+        "code": "06067",
+        "name": "Ser Axell Florent",
+        "text": "Bestow (3).\n<b>Reaction:</b> After you win a challenge in which Ser Axell Florent is participating, discard 1 gold from him to choose and kneel a character without attachments.",
+        "traits": "House Florent. Knight."
+    },
+    {
+        "code": "06068",
+        "name": "Saving the Kingdom",
+        "text": "<b>Challenges Action:</b> Choose and kneel a character with STR 3 or lower. That character cannot stand during the standing phase this round.\n<b>Reaction:</b> After you win dominance, pay 1 gold to return Saving the Kingdom from your discard pile to your hand.",
+        "traits": ""
+    },
+    {
+        "code": "06069",
+        "name": "Ser Osmund Kettleblack",
+        "text": "Bestow (3).\n<b>Challenges Action:</b> Discard 1 gold from Ser Osmund Cattleblack to put a <i>Knight</i> character into play from your hand. At the end of the phase, if that card is still in play, discard it from play (cannot be saved). (Limit once per phase.)",
+        "traits": "Kingsguard. Knight."
+    },
+    {
+        "code": "06070",
+        "name": "Tywin's Stratagem",
+        "text": "<b>Challenges Action:</b> Choose a character with printed cost 2 or lower controlled by each player. Return each of those characters to its owner's hand.\n<b>Reaction:</b> After a character is discarded from an opponent's hand or deck, pay 1 gold to return Tywin's Stratagem from your discard pile to your hand.",
+        "traits": ""
+    },
+    {
         "code": "06073",
         "flavor": "\"Killing makes Strong Belwas hungry.\"",
         "name": "Strong Belwas",
         "text": "Bestow (2).\n<b>Interrupt:</b> When another unique [targaryen] character would be killed, discard 1 gold from Strong Belwas to save it. (Limit once per phase.)",
         "traits": "Companion."
+    },
+    {
+        "code": "06075",
+        "name": "Ellaria Sand",
+        "text": "Bestow (3).\n<b>Reaction:</b> After you lose a challenge in which Ellaria Sand is participating, discard 1 gold from her to stand each <i>Bastard</i> character you control.",
+        "traits": "Bastard. Companion."
+    },
+    {
+        "code": "06076",
+        "name": "Secret Schemes",
+        "text": "<b>Action:</b> Kneel your faction card to draw X cards. X is the number of plot cards in your used pile.",
+        "traits": ""
     },
     {
         "code": "06077",

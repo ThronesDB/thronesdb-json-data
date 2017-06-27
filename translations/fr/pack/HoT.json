@@ -1,0 +1,60 @@
+[
+    {
+        "code": "09001",
+        "name": "Mace Tyrell",
+        "text": "<b>Reaction:</b> After a [tyrell] character enters play under your control, pay 1 gold to have Mace Tyrell gain 1 power. (Limit once per phase.)\n<b>Action:</b> Kneel your faction card to remove another [tyrell] character from the game until the beginning of the next phase.",
+        "traits": "Lord."
+    },
+    {
+        "code": "09003",
+        "flavor": "\"A valiant deed unsung is no less valiant.\"",
+        "name": "Ser Garlan Tyrell",
+        "text": "<b>Action:</b> During a challenge in which a <i>Knight</i> character you control is attacking alone, discard 1 card from your hand to raise the claim value on your revealed plot card by 1 until the end of the challenge. (Limit once per challenge.)",
+        "traits": "Knight. Lord."
+    },
+    {
+        "code": "09006",
+        "name": "Margaery Tyrell",
+        "text": "While Margaery Tyrell is attacking, she gets +1 STR for each defending character.\n<b>Reaction:</b> After Margaery Tyrell is declared as an attacker, choose and kneel a character controlled by the defending player. That character is participating in the challenge as a defender.\n<b>Card design by 2011 European Melee Champion, Gregoire Lefebvre.</b>",
+        "traits": "Lady. Queen."
+    },
+    {
+        "code": "09017",
+        "flavor": "From where it stood atop the bluffs of Battle Island, its shadow cut the city like a sword.",
+        "name": "The Hightower",
+        "text": "<b>Reaction:</b> After a [tyrell] character enters play under your control, gain 1 gold and draw 1 card. (Limit once per phase.)",
+        "traits": "House Hightower. Oldtown."
+    },
+    {
+        "code": "09018",
+        "name": "Redwyne Straits",
+        "text": "Limited.\n+2 Income.",
+        "traits": "House Redwyne."
+    },
+    {
+        "code": "09038",
+        "name": "Tokar",
+        "text": "[targaryen] character only.\nAttached character gets +1 STR for each attachment it has.\nWhile attached character is participating in a challenge, each character without attachments cannot gain power.",
+        "traits": "Item."
+    },
+    {
+        "code": "09041",
+        "flavor": "He had only been at the Citadel for a year, yet already he had forged three links of his maester's chain.",
+        "name": "Citadel Novice",
+        "text": "<b>Reaction:</b> After Citadel Novice is knelt, reveal the top card of your deck. If it is an attachment or a <i>Maester</i> character, draw it. (Limit once per phase.)",
+        "traits": "Maester."
+    },
+    {
+        "code": "09043",
+        "flavor": "Dissolved in wine, it would make the muscles of a man's throat clench tighter than any fist.",
+        "name": "Strangler",
+        "text": "Terminal.\nWhile attached character is participating in a challenge, set its STR to 1. <em>(Other modifiers do not raise or lower its STR.)</em>",
+        "traits": "Condition. Poison."
+    },
+    {
+        "code": "09045",
+        "name": "The Conclave",
+        "text": "Your deck may include non-loyal <i>Maester</i> characters from any faction. Your deck must include at least 12 <i>Maester</i> characters. Before placing setup cards, place the top 7 cards of your deck facedown under this agenda.\n<b>Reaction:</b> After you win a challenge in which you control a participating <i>Maester</i> character, choose 1 card under this agenda and switch it with the top card of your deck.",
+        "traits": "Citadel. Conclave."
+    }
+]

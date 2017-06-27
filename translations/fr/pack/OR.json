@@ -1,0 +1,26 @@
+[
+    {
+        "code": "06090",
+        "name": "A Task For Every Tool",
+        "text": "<b>Challenges Action:</b> Put a [lannister] character with printed STR 2 or lower into play from your hand.",
+        "traits": ""
+    },
+    {
+        "code": "06095",
+        "name": "The Red Viper",
+        "text": "Renown.\nWhile The Red Viper is attacking, each defending character with fewer than 2 challenge icons does not contribute its STR to the challenge.",
+        "traits": "Lord."
+    },
+    {
+        "code": "06096",
+        "name": "Dornish Revenge",
+        "text": "<b>Reaction:</b> After you initiate a challenge, choose a character controlled by the defending player. That character must be declared as a defender for this challenge, if able. If you win this challenge by 5 or more STR, the losing opponent must choose and kill a defending character.",
+        "traits": ""
+    },
+    {
+        "code": "06100",
+        "name": "Wheels Within Wheels",
+        "text": "<b>When Revealed:</b> Search the top 10 cards of your deck for any number of events and reveal them. Add 1 to your hand, and place the others in your discard pile. Shuffle your deck.",
+        "traits": "Scheme."
+    }
+]

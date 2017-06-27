@@ -19,10 +19,23 @@
         "traits": "Lady. Reina."
     },
     {
+        "code": "09017",
+        "flavor": "From where it stood atop the bluffs of Battle Island, its shadow cut the city like a sword.",
+        "name": "The Hightower",
+        "text": "<b>Reaction:</b> After a [tyrell] character enters play under your control, gain 1 gold and draw 1 card. (Limit once per phase.)",
+        "traits": "House Hightower. Oldtown."
+    },
+    {
         "code": "09018",
         "name": "Estrechos Redwyne",
         "text": "Limitada.\n+2 Oro.",
         "traits": "Casa Redwyne."
+    },
+    {
+        "code": "09038",
+        "name": "Tokar",
+        "text": "[targaryen] character only.\nAttached character gets +1 STR for each attachment it has.\nWhile attached character is participating in a challenge, each character without attachments cannot gain power.",
+        "traits": "Item."
     },
     {
         "code": "09041",
@@ -30,6 +43,13 @@
         "name": "Novicio de la Ciudadela",
         "text": "<b>Reacción:</b> después de que el Novicio de la Ciudadela se arrodille, muestra la primera carta de tu mazo. Si es un Accesorio o un Personaje <i>Maestre</i>, róbalo. (Límite de 1 vez por ronda.)",
         "traits": "Maestre."
+    },
+    {
+        "code": "09043",
+        "flavor": "Dissolved in wine, it would make the muscles of a man's throat clench tighter than any fist.",
+        "name": "Strangler",
+        "text": "Terminal.\nWhile attached character is participating in a challenge, set its STR to 1. <em>(Other modifiers do not raise or lower its STR.)</em>",
+        "traits": "Condition. Poison."
     },
     {
         "code": "09045",

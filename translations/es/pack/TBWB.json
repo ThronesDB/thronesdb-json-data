@@ -1,0 +1,32 @@
+[
+    {
+        "code": "06103",
+        "name": "Highgarden Minstrel",
+        "text": "<b>Reaction:</b> After you play a <i>Song</i> event, gain 1 gold. (Limit 3 times per round.)",
+        "traits": "Minstrel."
+    },
+    {
+        "code": "06112",
+        "name": "Pay The Iron Price",
+        "text": "<b>Challenges Action:</b> Choose an attachment in an opponent's discard pile, and put it into play under your control.\n<b>Reaction:</b> After you win an unopposed challenge, pay 1 gold to return Pay The Iron Price from your discard pile to your hand.",
+        "traits": ""
+    },
+    {
+        "code": "06117",
+        "name": "Beric Dondarrion",
+        "text": "Renown.\nX is the number of kiss tokens Beric Dondarrion has.\n<b>Forced Reaction:</b> After you marshal Beric Dondarrion, place 6 kiss tokens on him. (Cannot be cancelled.)\n<b>Interrupt:</b> When Beric Dondarrion would be killed, discard a kiss token from him to save him.\n<b>Card design by 2014 European Melee Champion, Jakob Hultman.</b>",
+        "traits": "Knight. Lord. R'hllor."
+    },
+    {
+        "code": "06118",
+        "name": "Unbridled Generosity",
+        "text": "<b>Action:</b> Choose up to 3 cards. Move 1 gold from the treasury to each of those cards.",
+        "traits": ""
+    },
+    {
+        "code": "06119",
+        "name": "The Brotherhood Without Banners",
+        "text": "You cannot include loyal character in your deck.\n<b>Reaction:</b> After the challenges phase begins, kneel your faction card to choose a neutral character you control. Until the end of the phase, that character gains (choose one): insight, intimidate, renown, or stealth.",
+        "traits": ""
+    }
+]

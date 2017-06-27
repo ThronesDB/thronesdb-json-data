@@ -32,12 +32,24 @@
         "name": "Protéger le Royaume"
     },
     {
+        "code": "HoT",
+        "name": "House of Thorns"
+    },
+    {
         "code": "LoCR",
         "name": "Les Lions de Castral Roc"
     },
     {
         "code": "NMG",
         "name": "Pas de Moyen Terme"
+    },
+    {
+        "code": "OR",
+        "name": "Oberyn's Revenge"
+    },
+    {
+        "code": "TBWB",
+        "name": "The Brotherhood Without Banners"
     },
     {
         "code": "TC",
