@@ -1,0 +1,40 @@
+[
+    {
+        "code": "09001",
+        "name": "Mace Tyrell",
+        "text": "<b>Reacción:</b> después de que un Personaje [tyrell] entre en juego controlado por ti, paga 1 de Oro para hacer que Mace Tyrell gane 1 de Poder. (Límite de 1 vez por fase.)\n<b>Acción:</b> arrodilla tu carta de Facción para retirar del juego hasta el principio de la siguiente fase otro Personaje [tyrell] que controles.",
+        "traits": "Lord."
+    },
+    {
+        "code": "09003",
+        "flavor": "\"Una hazaña que no se cante no es menos hazaña.\"",
+        "name": "Ser Garlan Tyrell",
+        "text": "<b>Acción:</b> durante un reto en el que esté atacando solo un Personaje <i>Caballero</i> que controles, descarta 1 carta de tu mano para aumentar en 1 el valor de Conquista de tu carta de Trama mostrada hasta el final del reto. (Límite de 1 vez por reto.)",
+        "traits": "Caballero. Lord."
+    },
+    {
+        "code": "09006",
+        "name": "Margaery Tyrell",
+        "text": "Mientras Margaery Tyrell esté atacando, recibe un +1 a su FUE por cada Personaje defensor.\n<b>Reacción:</b> después de que Margaery Tyrell sea declarada como atacante, arrodilla un Personaje de tu elección que esté controlado por el jugador defensor. Ese Personaje está participando en el reto como defensor.",
+        "traits": "Lady. Reina."
+    },
+    {
+        "code": "09018",
+        "name": "Estrechos Redwyne",
+        "text": "Limitada.\n+2 Oro.",
+        "traits": "Casa Redwyne."
+    },
+    {
+        "code": "09041",
+        "flavor": "Sólo llevaba un año en la Ciudadela y ya había forjado tres eslabones de su cadena.",
+        "name": "Novicio de la Ciudadela",
+        "text": "<b>Reacción:</b> después de que el Novicio de la Ciudadela se arrodille, muestra la primera carta de tu mazo. Si es un Accesorio o un Personaje <i>Maestre</i>, róbalo. (Límite de 1 vez por ronda.)",
+        "traits": "Maestre."
+    },
+    {
+        "code": "09045",
+        "name": "El Cónclave",
+        "text": "Puedes incluir en tu mazo Personajes <i>Maestre</i> no leales de cualquier facción. Tu mazo debe contener al menos 12 Personajes <i>Maestre</i>. Antes de colocar  las cartas de inicio, pon boca abajo las 7 primeras cartas de tu mazo y colócalas debajo de esta carta de Estrategia.\n<b>Reacción:</b> después de que ganes un reto en el que controles un Personaje <i>Maestre</i> participante, elige 1 carta que esté debajo de esta carta de Estrategia e intercámbiala por la pimera carta de tu mazo.",
+        "traits": "Ciudadela. Cónclave."
+    }
+]

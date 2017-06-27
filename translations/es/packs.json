@@ -32,6 +32,10 @@
         "name": "Proteger el reino"
     },
     {
+        "code": "HoT",
+        "name": "La Casa de las Espinas"
+    },
+    {
         "code": "LoCR",
         "name": "Leones de Roca Casterly"
     },
@@ -42,6 +46,10 @@
     {
         "code": "OR",
         "name": "Oberyn's Revenge"
+    },
+    {
+        "code": "TBWB",
+        "name": "The Brotherhood Without Banners"
     },
     {
         "code": "TC",
@@ -61,7 +69,7 @@
     },
     {
         "code": "TRW",
-        "name": "The Red Wedding"
+        "name": "La Boda Roja"
     },
     {
         "code": "TRtW",
