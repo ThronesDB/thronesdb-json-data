@@ -1,127 +1,128 @@
 [
     {
         "code": "06041",
-        "flavor": "She was strong, and swift, and fierce, and her pack was all around her, her brothers and her sisters.",
-        "name": "Roaming Wolfpack",
-        "text": "Intimidate. No attachments.\nWhile Roaming Wolfpack is attacking, each attacking <i>Direwolf</i> character gets +2 STR.",
-        "traits": "Direwolf."
+        "flavor": "Era fuerte, rápida y fiera, estaba rodeada por su manada, sus hermanos y sus hermanas.",
+        "name": "Manada de lobos errante",
+        "text": "Intimidación. Sin Accesorios.\nMientras la Manada de lobos errante esté atacando, cada Personaje <i>Lobo huargo</i> atacante recibe un +2 a su FUE.",
+        "traits": "Lobo huargo."
     },
     {
         "code": "06042",
-        "name": "The North Remembers",
-        "text": "<b>Challenges Action:</b> Each player sacrifices a character or location.\n<b>Reaction:</b> After a character you control is killed, pay 1 gold to return The North Remembers from your discard pile to your hand.",
+        "name": "El Norte recuerda",
+        "text": "<b>Acción de Reto:</b> cada jugador sacrifica un Personaje o Lugar.\n<b>Reacción:</b> después de que muera un Personaje que controles, paga 1 de Oro para devolver El Norte recuerda a tu mano desde tu pila de descartes.",
         "traits": ""
     },
     {
         "code": "06043",
-        "flavor": "Megga was round and loud, Alla shy and pretty, but Elinor ruled the three by right of womanhood...",
+        "flavor": "Megga era regordeta y ruidosa, y Alla, tímida y bonita, pero Elinor era la cabecilla por derecho propio: ya era una doncella florecida…",
         "name": "Elinor Tyrell",
-        "text": "You may marshal or play 1 additional limited card each round.",
+        "text": "Puedes reclutar o jugar 1 carta Limitada adicional en cada ronda.",
         "traits": "Lady."
     },
     {
         "code": "06044",
-        "name": "Silver Hair Net",
-        "text": "<i>Lady</i> character only.\nAttached character gains stealth.\nWhile attached character is participating in a challenge, reduce the cost of each event you play by 1.",
-        "traits": "Item."
+        "name": "Redecilla de plata",
+        "text": "Sólo Personajes <i>Lady</i>.\nEl Personaje vinculado gana Sigilo.\nMientras el Personaje vinculado esté participando en un reto, reduce en 1 el coste de cada Evento que juegues.",
+        "traits": "Objeto."
     },
     {
         "code": "06045",
-        "name": "Recruiter for the Watch",
-        "text": "You may choose not to stand Recruiter for the Watch during the standing phase.\n<b>Marshaling Action:</b> Kneel Recruiter for the Watch to choose a character with printed cost 2 or lower. Take control of that character until Recruiter for the Watch stands or leaves play.",
-        "traits": "Wandering Crow."
+        "name": "Reclutador de la Guardia",
+        "text": "Puedes elegir no poner en pie al Reclutador de la Guardia durante la fase de Puesta en pie.\n<b>Acción de Reclutamiento:</b> arrodilla al Reclutador de la Guardia para elegir a un Personaje que tenga un coste impreso de 2 o menos. Toma el control de ese Personaje hasta que el Reclutador de la Guardia se ponga en pie o abandone el juego.",
+        "traits": "Cuervo errante."
     },
     {
         "code": "06046",
-        "name": "Underground Vault",
-        "text": "Limited.\n<b>Marshaling Action:</b> Kneel Underground Vault to gain 1 gold. (2 gold instead if the gold value on an opponent's revealed plot card is 5 or higher.)",
-        "traits": "The North."
+        "name": "Cámara subterránea",
+        "text": "Limitada.\n<b>Acción de Reclutamiento:</b> arrodilla la Cámara subterránea para ganar 1 de Oro. (2 de Oro si el valor de la carta de Trama mostrada de un adversario es de 5 o más.)",
+        "traits": "El Norte"
     },
     {
         "code": "06047",
-        "flavor": "The Bottom had a stench to it, a stink of pigsties and stables and tanner's sheds, mixed in with the sour smell of winesinks and cheap whorehouses.",
-        "name": "Flea Bottom Bastard",
-        "text": "During the dominance phase, Flea Bottom Bastard gets +3 STR.",
-        "traits": "Bastard."
+        "flavor": "El Lecho tenía un olor propio: apestaba a pocilgas, establos y curtidurías, y también a pellejos de vino agrio y a burdeles baratos.",
+        "name": "Bastarda del Lecho de Pulgas",
+        "text": "Durante la fase de Dominación, la Bastarda del Lecho de Pulgas recibe un +3 a su FUE.",
+        "traits": "Bastardo."
     },
     {
         "code": "06048",
-        "flavor": "...for every one that broke the surface, a dozen lurked treacherously just below it. Any captain with sense kept his course well away from them.",
-        "name": "Spears of the Merling King",
-        "text": "<b>Interrupt:</b> When a character you control is killed, sacrifice Spears of the Merling King to return that character to your hand instead of placing it in your dead pile.",
-        "traits": "Westeros."
+        "flavor": "…por cada uno que asomaba por encima de la superficie, una docena más acechaba debajo. Todo capitán con sentido común mantenía un rumbo bien apartado de ellos.",
+        "name": "Arpones del Rey Pescadilla",
+        "text": "<b>Interrupción:</b> cuando muera un Personaje que controles, sacrifica los Arpones del Rey Pescadilla para devolver ese Personaje a tu mano en vez de colocarlo en tu pila de muertos.",
+        "traits": "Poniente."
     },
     {
         "code": "06049",
-        "name": "Cersei's Attendant",
-        "text": "While Cersei's Attendant is participating in a challenge against an opponent with no cards in his or her hand, Cersei's Attendant gains insight.",
-        "traits": "Companion."
+        "name": "Asistente de Cersei",
+        "text": "Mientras la Asistente de Cersei esté participando en un reto contra un adversario que no tenga cartas en la mano, la Asistente de Cersei gana Perspicacia.",
+        "traits": "Acompañante."
     },
     {
         "code": "06050",
-        "name": "Fever Dreams",
-        "text": "Opponent's character only. Bestow (3).\n<b>Reaction:</b> After attached character is knelt, discard 1 gold from Fever Dreams to draw 2 cards.",
-        "traits": "Dream."
+        "name": "Sueños febriles",
+        "text": "Sólo Personajes de adversarios. Encomienda (3).\n<b>Reacción:</b> después de que el Personaje vinculado se arrodille, descarta 1 de Oro de los Sueños febriles para robar 2 cartas.",
+        "traits": "Sueño."
     },
     {
         "code": "06051",
-        "flavor": "\"A dead enemy is a thing of beauty.\"",
+        "flavor": "\"Un enemigo muerto es el espectáculo más hermoso que existe.\"",
         "name": "Theon Greyjoy",
-        "text": "While Theon Greyjoy is attacking alone, each character with a higher STR than his does not contribute its STR to the challenge.",
-        "traits": "Ironborn. Lord."
+        "text": "Minetras Theon Greyjoy esté atacando solo, ningún Personaje que tenga más FUE que él aportará su FUE al reto.",
+        "traits": "Hijo del Hierro. Lord."
     },
     {
         "code": "06052",
-        "name": "Corsair's Dirk",
-        "text": "<i>Ironborn</i> character only.\nAttached character gets +2 STR.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, move 1 gold from the losing opponent's gold pool to your own.",
-        "traits": "Weapon."
+        "name": "Cuchillo de corsario",
+        "text": "Sólo Personajes <i>Hijo del Hierro</i>.\nEl Personaje vinculado recibe un +2 a su FUE.\n<b>Reacción:</b> después de que ganes un reto en el que el Personaje vinculado esté atacando, traslada 1 de Oro del suministro de Oro del adversario derrotado al tuyo.",
+        "traits": "Arma."
     },
     {
         "code": "06053",
-        "name": "Grey Worm",
-        "text": "No attachments except <i>Weapon</i>.\n<b>Action:</b> During a challenge in which Grey Worm is attacking, choose a defending character. Until the end of the challenge, that character gets -3 STR. (Limit once per challenge.)",
-        "traits": "Companion."
+        "name": "Gusano Gris",
+        "text": "Sin Accesorios excepto <i>Arma</i>.\n<b>Acción:</b> durante un reto en el que Gusano Gris esté atacando, elige un Personaje defensor. Hasta el final del reto, ese Personaje recibe un -3 a us FUE. (Límite de 1 vez por reto.)",
+        "traits": "Acompañante."
     },
     {
         "code": "06054",
         "name": "Astapor",
-        "text": "Bestow (4).\n<b>Action:</b> Kneel Astapor to choose a participating character. Until the end of the challenge, that character gets -X STR. X is the number of gold Astapor has.",
-        "traits": "Astapor. Contested."
+        "text": "Encomienda (4).\n<b>Acción:</b> arrodilla Astapor para elegir un Personaje participante. Hasta el final del reto, ese Personaje recibe -X a su FUE. X es la cantidad de Oro que tenga Astapor.",
+        "traits": "Astapor. Disputa."
     },
     {
         "code": "06055",
-        "name": "Maester of Sunspear",
-        "text": "<b>Reaction:</b> After you lose a challenge in which Maester of Sunspear is participating, choose an attachment and return it to its owner's hand.",
-        "traits": "Maester."
+        "name": "Maestre de Lanza del Sol",
+        "text": "<b>Reacción:</b> después de que pierdas un reto en el que esté participando el Maestre de Lanza del Sol, devuelve un Accesorio de tu elección a la mano de su propietario.",
+        "traits": "Maestre."
     },
     {
         "code": "06056",
-        "name": "Dornish Fiefdom",
-        "text": "Limited.\n<b>Marshaling Action:</b> Kneel Dornish Fiefdom to gain 1 gold. (2 gold instead if you are not the first player.)",
+        "name": "Fuedo dorniense",
+        "text": "Limitada.\n<b>Acción de Reclutamiento:</b> arrodilla el Fuedo dorniense para ganar 1 de Oro. (2 de Oro si no eres el jugador inicial).",
         "traits": "Dorne."
     },
     {
         "code": "06057",
-        "name": "Frey Lordling",
-        "text": "<b>Reaction:</b> After you initiate a challenge, Frey Lordling gets +1 STR until the end of the phase.",
-        "traits": "House Frey. Lord."
+        "flavor": "En cierta ocasión, su padre le había dicho que Walder Frey era el único señor de los Siete Reinos capaz de sacarse un ejército de los calzones.",
+        "name": "Hidalgo de los Frey",
+        "text": "<b>Reacción:</b> después de que inicies un reto, el Hidalgo de los Frey recibe un +1 a su FUE hasta el final de la fase.",
+        "traits": "Casa Frey. Lord."
     },
     {
         "code": "06058",
-        "name": "The Twins",
-        "text": "During the third challenge you initiate each phase, if you control an attacking <i>House Frey</i> character, raise the claim value on your revealed plot card by 1.",
-        "traits": "House Frey. The Riverlands."
+        "name": "Los Gemelos",
+        "text": "Durante el tercer reto que inicies en cada fase, si controlas un Personaje atacante de la <i>Casa Frey</i>, aumenta en 1 el valor de Conquista de tu carta de Trama mostrada.",
+        "traits": "Casa Frey. Tierra de los Ríos."
     },
     {
         "code": "06059",
-        "name": "Lay Siege",
-        "text": "<b>Action:</b> Choose and kneel a location. Then, if that location is <i>Contested</i>, discard it from play.",
-        "traits": "Siege."
+        "name": "Campaña de asedio",
+        "text": "<b>Acción:</b> arrodilla un Lugar de tu elección. Luego, si ese Lugar posee el rasgo <i>Disputa</i>, descártalo del juego.",
+        "traits": "Asedio."
     },
     {
         "code": "06060",
-        "name": "Duel",
-        "text": "<b>When Revealed:</b> Choose an opponent. That player chooses 2 non-<i>Army</i> characters, each with printed cost 6 or higher. Then, that player chooses and kneels 1 of those characters. Kill the other (cannot be saved).\n<b>Card design by 2014 North American Champion, Jonathan Andrews.</b>",
-        "traits": "War."
+        "name": "Duelo",
+        "text": "<b>Cuando se muestre esta carta:</b> elige un adversario. Ese jugado elige 2 Personajes que no sean <i>Ejército</i> y que tengan un coste impreso de 6 o más cada uno. Luego ese jugador elige y arrodilla 1 de esos Personajes. Mata al otro (no puede salvarse).\n<b>Carta diseñada por Jonathan Andrews, campeón norteamericano de 2014.</b>",
+        "traits": "Guerra."
     }
 ]
