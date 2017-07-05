@@ -112,7 +112,7 @@
         "pack_code": "TRW",
         "position": 66,
         "quantity": 3,
-        "text": "Limited.\n<b>Marshaling Action:</b> Kneel Arbor Vineyard to gain 1 gold. (2 gold instead if there are more <i>Summer</i> plot cards than <i>Winter</i> plot cards revealed.)",
+        "text": "Location only.\n<b>Interrupt:</b> When attached location would leave play, sacrifice Improved Fortifications to save it.",
         "traits": "Fortification.",
         "type_code": "attachment"
     },
