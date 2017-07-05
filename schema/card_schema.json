@@ -130,8 +130,15 @@
             "type": "integer"
         },
         "strength": {
-            "minimum": 0,
-            "type": "integer"
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "text": {
             "minLength": 1,
