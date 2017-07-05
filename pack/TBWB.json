@@ -53,7 +53,7 @@
         "pack_code": "TBWB",
         "position": 117,
         "quantity": 3,
-        "strength": 0,
+        "strength": null,
         "text": "Renown.\nX is the number of kiss tokens Beric Dondarrion has.\n<b>Forced Reaction:</b> After you marshal Beric Dondarrion, place 6 kiss tokens on him. (Cannot be cancelled.)\n<b>Interrupt:</b> When Beric Dondarrion would be killed, discard a kiss token from him to save him.\n<b>Card design by 2014 European Melee Champion, Jakob Hultman.</b>",
         "traits": "Knight. Lord. R'hllor.",
         "type_code": "character"
