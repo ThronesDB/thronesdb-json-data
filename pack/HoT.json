@@ -16,7 +16,7 @@
         "position": 1,
         "quantity": 3,
         "strength": 5,
-        "text": "<b>Reaction:</b> After a [tyrell] character enters play under your control, pay 1 gold to have Mace Tyrell gain 1 power. (Limit once per phase.)\n<b>Action:</b> Kneel your faction card to remove another [tyrell] character from the game until the beginning of the next phase.",
+        "text": "<b>Reaction:</b> After a [tyrell] character enters play under your control, pay 1 gold to have Mace Tyrell gain 1 power. (Limit once per phase.)\n<b>Action:</b> Kneel your faction card to remove another [tyrell] character you control from the game until the beginning of the next phase.",
         "traits": "Lord.",
         "type_code": "character"
     },
