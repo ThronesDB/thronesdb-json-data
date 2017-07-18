@@ -207,6 +207,15 @@
         "size": 52
     },
     {
+        "cgdb_id": 23,
+        "code": "TAK",
+        "cycle_code": "foc",
+        "date_release": null,
+        "name": "The Archmaester's Key",
+        "position": 1,
+        "size": 20
+    },
+    {
         "cgdb_id": 29,
         "code": "HoT",
         "cycle_code": "thorns",
