@@ -36,7 +36,8 @@
         "text": "<b>Challenges Action:</b> You may initiate an additional [power] challenge this phase. (Max 1 per phase.)\n<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, pay 1 gold to return Olenna's Machinations from your discard pile to your hand.",
         "traits": "",
         "type_code": "event"
-    },{
+    },
+    {
         "code": "06087",
         "cost": 4,
         "deck_limit": 3,
