@@ -54,7 +54,7 @@
         "position": 87,
         "quantity": 3,
         "strength": 4,
-        "text": "Bestow (8). No attachments.\nEach character an opponent controls with printed cost X cannot stand during the standing phase. X is the number of gold Stannis's Cavalry has.\n</b>Standing Action:</b> Move 1 gold from your gold pool to Stannis's Cavalry. (Limit twice per phase.)",
+        "text": "Bestow (8). No attachments.\nEach character an opponent controls with printed cost X cannot stand during the standing phase. X is the number of gold Stannis's Cavalry has.\n<b>Standing Action:</b> Move 1 gold from your gold pool to Stannis's Cavalry. (Limit twice per phase.)",
         "traits": "Army.",
         "type_code": "character"
     },
