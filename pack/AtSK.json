@@ -229,7 +229,7 @@
         "position": 12,
         "quantity": 3,
         "strength": 2,
-        "text": "<b>Reaction:</b> After a non-loyal character enters play, kneel your faction card and sacrifice Captain's Daughter to put that character onto the top of it's owners deck.",
+        "text": "<b>Reaction:</b> After a non-loyal character enters play, kneel your faction card and sacrifice Captain's Daughter to put that character onto the top of it's owner's deck.",
         "traits": "Ally.",
         "type_code": "character"
     },

@@ -171,7 +171,7 @@
         "position": 69,
         "quantity": 3,
         "strength": 3,
-        "text": "Bestow (3).\n<b>Challenges Action:</b> Discard 1 gold from Ser Osmund Cattleblack to put a <i>Knight</i> character into play from your hand. At the end of the phase, if that card is still in play, discard it from play (cannot be saved). (Limit once per phase.)",
+        "text": "Bestow (3).\n<b>Challenges Action:</b> Discard 1 gold from Ser Osmund Kettleblack to put a <i>Knight</i> character into play from your hand. At the end of the phase, if that card is still in play, discard it from play (cannot be saved). (Limit once per phase.)",
         "traits": "Kingsguard. Knight.",
         "type_code": "character"
     },
