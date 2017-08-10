@@ -359,7 +359,7 @@
     {
         "code": "01058",
         "name": "Dueña de Luz",
-        "text": "Sólo Personajes [baratheon].\nSi el Personaje vinculado es Stannis Baratheon, gana Renombre.",
+        "text": "Sólo Personajes [baratheon].\nSi el Personaje vinculado es Stannis Baratheon, gana Renombre.\n<b>Reacción:</b> después de que el Personaje vinculado gane 1 o más de Poder, ponlo en pie. (Límite de 1 vez por fase.)",
         "traits": "R'hllor. Arma."
     },
     {
