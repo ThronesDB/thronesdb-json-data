@@ -214,5 +214,25 @@
         "text": "Your deck may include non-loyal <i>Maester</i> characters from any faction. Your deck must include at least 12 <i>Maester</i> characters. Before placing setup cards, place the top 7 cards of your deck facedown under this agenda.\n<b>Reaction:</b> After you win a challenge in which you control a participating <i>Maester</i> character, choose 1 card under this agenda and switch it with the top card of your deck.",
         "traits": "Citadel. Conclave.",
         "type_code": "agenda"
+    },
+    {
+        "claim": 1,
+        "code": "09046",
+        "deck_limit": 1,
+        "faction_code": "tyrell",
+        "illustrator": "Adam Lane",
+        "income": 4,
+        "initiative": 4,
+        "is_loyal": true,
+        "is_unique": false,
+        "name": "Wardens of the South",
+        "octgn_id": null,
+        "pack_code": "HoT",
+        "position": 46,
+        "quantity": 3,
+        "reserve": 6,
+        "text": "<b>Reaction:</b> After a [tyrell] character you control is declared as an attacker or defender, that character gets +2 STR until the end of the challenge.",
+        "traits": "Summer.",
+        "type_code": "plot"
     }
 ]
