@@ -216,6 +216,15 @@
         "size": 20
     },
     {
+        "cgdb_id": 24,
+        "code": "JoO",
+        "cycle_code": "foc",
+        "date_release": null,
+        "name": "Journey to Oldtown",
+        "position": 2,
+        "size": 20
+    },
+    {
         "cgdb_id": 29,
         "code": "HoT",
         "cycle_code": "thorns",
