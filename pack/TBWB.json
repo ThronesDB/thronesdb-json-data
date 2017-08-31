@@ -19,6 +19,43 @@
         "text": "<b>Reaction:</b> After you play a <i>Song</i> event, gain 1 gold. (Limit 3 times per round.)",
         "traits": "Minstrel.",
         "type_code": "character"
+    },{
+        "code": "06105",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "thenightswatch",
+        "illustrator": "",
+        "is_intrigue": true,
+        "is_loyal": false,
+        "is_military": true,
+        "is_power": false,
+        "is_unique": true,
+        "name": "Donal Noye",
+        "octgn_id": null,
+        "pack_code": "TBWB",
+        "position": 105,
+        "quantity": 3,
+        "strength": 4,
+        "text": "Bestow (3). No attachments except <i>Weapon</i>.\n<b>Action:</b> Discard 1 gold from Donal Noye to put a <i>Weapon</i> attachment into play from your hand.",
+        "traits": "Steward.",
+        "type_code": "character"
+    },
+    {
+        "code": "06106",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "thenightswatch",
+        "illustrator": "",
+        "is_loyal": false,
+        "is_unique": false,
+        "name": "Ranger's Bow",
+        "octgn_id": null,
+        "pack_code": "TBWB",
+        "position": 106,
+        "quantity": 3,
+        "text": "[thenightswatch] character only.\nAttached character gets +1 STR.\n<b>Challenges Action:</b> Kneel Ranger's Bow to choose a defending [thenightswatch] character. Until the end of the challenge, that character gets +2 STR."
+        "traits": "Weapon.",
+        "type_code": "attachment"
     },
     {
         "code": "06112",
