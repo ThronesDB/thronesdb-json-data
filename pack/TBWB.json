@@ -54,7 +54,7 @@
         "pack_code": "TBWB",
         "position": 106,
         "quantity": 3,
-        "text": "[thenightswatch] character only.\nAttached character gets +1 STR.\n<b>Challenges Action:</b> Kneel Ranger's Bow to choose a defending [thenightswatch] character. Until the end of the challenge, that character gets +2 STR."
+        "text": "[thenightswatch] character only.\nAttached character gets +1 STR.\n<b>Challenges Action:</b> Kneel Ranger's Bow to choose a defending [thenightswatch] character. Until the end of the challenge, that character gets +2 STR.",
         "traits": "Weapon.",
         "type_code": "attachment"
     },
