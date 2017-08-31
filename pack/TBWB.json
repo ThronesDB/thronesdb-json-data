@@ -19,7 +19,8 @@
         "text": "<b>Reaction:</b> After you play a <i>Song</i> event, gain 1 gold. (Limit 3 times per round.)",
         "traits": "Minstrel.",
         "type_code": "character"
-    },{
+    },
+    {
         "code": "06105",
         "cost": 4,
         "deck_limit": 3,
