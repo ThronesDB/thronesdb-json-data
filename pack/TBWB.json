@@ -107,7 +107,7 @@
         "name": "Warrior's Braid",
         "octgn_id": null,
         "pack_code": "TBWB",
-        "position": 106,
+        "position": 114,
         "quantity": 3,
         "text": "[targaryen] character only.\nAttached character gains renown, and gets +1 STR for each bell token on Warrior's Braid.\n<b>Reaction:</b> After you win a [military] challenge in which attached character is attacking, plcae a bell token on Warrior's Braid.",
         "traits": "Item.",
