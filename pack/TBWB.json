@@ -16,7 +16,7 @@
         "position": 101,
         "quantity": 3,
         "strength": 2,
-        "text": "Bestow (3). Each <i>Lady</i> character you control gets +1 STR for each gold Sansa's Maid has.",
+        "text": "Bestow (3).\nEach <i>Lady</i> character you control gets +1 STR for each gold Sansa's Maid has.",
         "traits": "Companion.",
         "type_code": "character"
     },
@@ -42,6 +42,7 @@
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "tyrell",
+        "flavor": "\"My lord father always keeps singers at court, sweeter ones than Butters here, and pipers and fiddlers and harpers as well.\" <cite>Margaery Tyrell</cite>",
         "illustrator": "Nicholas Gregory",
         "is_intrigue": true,
         "is_loyal": false,
@@ -71,7 +72,7 @@
         "pack_code": "TBWB",
         "position": 104,
         "quantity": 3,
-        "text": "Bestow (3). <b>Challenges Action:</b> Kneel Horn Hill to give each participating [tyrell] character you control +X STR until the end of the challenge. X is the number of gold Horn Hill has.",
+        "text": "Bestow (3).\n<b>Challenges Action:</b> Kneel Horn Hill to give each participating [tyrell] character you control +X STR until the end of the challenge. X is the number of gold Horn Hill has.",
         "traits": "The Reach.",
         "type_code": "location"
     },
@@ -80,6 +81,7 @@
         "cost": 4,
         "deck_limit": 3,
         "faction_code": "thenightswatch",
+        "flavor": "\"The Watch is not what it was. Too few honest men to keep the rogues in line.\"",
         "illustrator": "Josu Hernaiz",
         "is_intrigue": true,
         "is_loyal": false,
@@ -118,6 +120,7 @@
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "baratheon",
+        "flavor": "\"Under the sea, the fish eat us. I know, I know, oh, oh, oh.\"",
         "illustrator": "JB Casacop",
         "is_intrigue": false,
         "is_loyal": false,
@@ -147,7 +150,7 @@
         "pack_code": "TBWB",
         "position": 108,
         "quantity": 3,
-        "text": "<i>Bastard</i> or <i>King</i> character you control only. Bestow (3).\n<b>Action:</b> Kneel attached character and sacrifice King's Blood to discard X power from each opponent's faction card. X is the number of gold King's Blood has.",
+        "text": "<i>Bastard</i> or <i>King</i> character you control only. Bestow (3).\n<b>Plot Action:</b> Kneel attached character and sacrifice King's Blood to discard X power from each opponent's faction card. X is the number of gold King's Blood has.",
         "traits": "Condition.",
         "type_code": "attachment"
     },
@@ -185,7 +188,7 @@
         "pack_code": "TBWB",
         "position": 110,
         "quantity": 3,
-        "text": "Limited.\n<b>Challenges Action:</b> Kneel The Goldroad to gain 1 gold.\n<b>[+1 gold]</b>",
+        "text": "Limited.\n<b>Challenges Action:</b> Kneel The Goldroad to gain 1 gold.\n+1 Income.",
         "traits": "Westeros.",
         "type_code": "location"
     },
@@ -206,7 +209,7 @@
         "position": 111,
         "quantity": 3,
         "strength": 2,
-        "text": "Bestow (3). <b>Action:</b> Discard 1 gold from Stony Shore Raider to choose and kneel a location with printed cost 3 or lower. (Limit once per round.)",
+        "text": "Bestow (3).\n<b>Action:</b> Discard 1 gold from Stony Shore Raider to choose and kneel a location with printed cost 3 or lower. (Limit once per round.)",
         "traits": "Ironborn. Raider.",
         "type_code": "character"
     },
@@ -223,7 +226,7 @@
         "pack_code": "TBWB",
         "position": 112,
         "quantity": 3,
-        "text": "<b>Challenges Action:</b> Choose an attachment in an opponent's discard pile, and put it into play under your control.<b>\nReaction:</b> After you win an unopposed challenge, pay 1 gold to return Pay The Iron Price from your discard pile to your hand.",
+        "text": "<b>Challenges Action:</b> Choose an attachment in an opponent's discard pile, and put it into play under your control.\n<b>Reaction:</b> After you win an unopposed challenge, pay 1 gold to return Pay The Iron Price from your discard pile to your hand.",
         "traits": "",
         "type_code": "event"
     },
@@ -300,7 +303,7 @@
         "pack_code": "TBWB",
         "position": 116,
         "quantity": 3,
-        "text": "Terminal.<b>\nReaction:</b> After the marshaling phase begins, return attached character to its owner's hand (cannot be saved).",
+        "text": "Terminal.\n<b>Reaction:</b> After the marshaling phase begins, return attached character to its owner's hand (cannot be saved).",
         "traits": "Condition.",
         "type_code": "attachment"
     },
@@ -320,8 +323,8 @@
         "pack_code": "TBWB",
         "position": 117,
         "quantity": 3,
-        "strength": 0,
-        "text": "Renown.\nX is the number of kiss tokens Beric Dondarrion has.\n<b>Forced Reaction:</b> After you marshal Beric Dondarrion, place 6 kiss tokens on him. (Cannot be canceled.)\n<b>Interrupt:</b> When Beric Dondarrion would be killed, discard a kiss token from him to save him. \n<b>Card design by 2014 European Melee Champion, Jakob Hultman.</b>",
+        "strength": null,
+        "text": "Renown.\nX is the number of kiss tokens Beric Dondarrion has.\n<b>Forced Reaction:</b> After you marshal Beric Dondarrion, place 6 kiss tokens on him. (Cannot be canceled.)\n<b>Interrupt:</b> When Beric Dondarrion would be killed, discard a kiss token from him to save him.\n<b>Card design by 2014 European Melee Champion, Jakob Hultman.</b>",
         "traits": "Knight. Lord. R'hllor.",
         "type_code": "character"
     },
@@ -354,7 +357,7 @@
         "pack_code": "TBWB",
         "position": 119,
         "quantity": 3,
-        "text": "You cannot include loyal characters in your deck. \n<b>Reaction:</b> After the challenges phase begins, kneel your faction card to choose a neutral character you control. Until the end of the phase, that character gains (choose one): insight, intimidate, renown, or stealth.",
+        "text": "You cannot include loyal characters in your deck.\n<b>Reaction:</b> After the challenges phase begins, kneel your faction card to choose a neutral character you control. Until the end of the phase, that character gains (choose one): insight, intimidate, renown, or stealth.",
         "traits": "",
         "type_code": "agenda"
     },
@@ -375,7 +378,7 @@
         "quantity": 3,
         "reserve": 6,
         "text": "<b>Reaction:</b> After a card with bestow enters play, place 1 gold from the treasury on that card. (2 gold instead if that card has 3 or more gold on it.)",
-        "traits": "Kingdom. ",
+        "traits": "Kingdom.",
         "type_code": "plot"
     }
 ]
