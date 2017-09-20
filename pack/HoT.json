@@ -288,7 +288,7 @@
         "pack_code": "HoT",
         "position": 24,
         "quantity": 3,
-        "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, the losing opponent chooses and discards 2 cards from his or her hand. Then, if you control The Queen of Thorns, return Hidden Throns to your hand instead of placing it in your discard pile. (Max 1 per challenge.)",
+        "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, the losing opponent chooses and discards 2 cards from his or her hand. Then, if you control The Queen of Thorns, return Hidden Thorns to your hand instead of placing it in your discard pile. (Max 1 per challenge.)",
         "traits": "",
         "type_code": "event"
     },
