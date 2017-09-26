@@ -225,6 +225,15 @@
         "size": 20
     },
     {
+        "cgdb_id": 25,
+        "code": "K",
+        "cycle_code": "foc",
+        "date_release": null,
+        "name": "Kingsmoot",
+        "position": 3,
+        "size": 20
+    },
+    {
         "cgdb_id": 29,
         "code": "HoT",
         "cycle_code": "thorns",
