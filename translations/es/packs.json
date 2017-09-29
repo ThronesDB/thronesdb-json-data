@@ -36,6 +36,10 @@
         "name": "La Casa de las Espinas"
     },
     {
+        "code": "JoO",
+        "name": "Viaje a Antigua"
+    },
+    {
         "code": "LoCR",
         "name": "Leones de Roca Casterly"
     },
@@ -48,8 +52,12 @@
         "name": "La venganza de Oberyn"
     },
     {
+        "code": "TAK",
+        "name": "La llave del archimaestre"
+    },
+    {
         "code": "TBWB",
-        "name": "The Brotherhood Without Banners"
+        "name": "La Hermandad sin Estandartes"
     },
     {
         "code": "TC",
