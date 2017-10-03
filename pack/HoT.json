@@ -372,6 +372,27 @@
         "type_code": "character"
     },
     {
+        "code": "09040",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "neutral",
+        "illustrator": "Colin Boyer",
+        "is_intrigue": false,
+        "is_loyal": false,
+        "is_military": false,
+        "is_power": false,
+        "is_unique": false,
+        "name": "Faceless Man",
+        "octgn_id": null,
+        "pack_code": "HoT",
+        "position": 40,
+        "quantity": 3,
+        "strength": 3,
+        "text": "Ambush (4).\n<b>Challenges Action:</b> Choose a character in a dead pile. Until the end of the phase, Faceless Man gains each of that character's printed challenge icons, keywords, faction affiliations, and <i>Traits</i>. (Limit once per phase.)\n<b>Card design by 2013 Overall World Champion, Ryan Jones.</b>",
+        "traits": "",
+        "type_code": "character"
+    },
+    {
         "code": "09041",
         "cost": 2,
         "deck_limit": 3,
