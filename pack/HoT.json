@@ -350,6 +350,28 @@
         "type_code": "attachment"
     },
     {
+        "code": "09039",
+        "cost": 5,
+        "deck_limit": 3,
+        "faction_code": "neutral",
+        "flavor": "\"Morn will be upon us sooner than we'd like, and Archmaester Ebrose will be speaking on the properties of urine. Those who mean to forge a silver link would do well not to miss his talk.\" <cite>Armen the Acolyte</cite>",
+        "illustrator": "Sean Murphy",
+        "is_intrigue": true,
+        "is_loyal": false,
+        "is_military": false,
+        "is_power": true,
+        "is_unique": true,
+        "name": "Archmaester Ebrose",
+        "octgn_id": null,
+        "pack_code": "HoT",
+        "position": 39,
+        "quantity": 3,
+        "strength": 3,
+        "text": "<b>Action:</b> Kneel a <i>Maester</i> character to choose and stand another <i>Maester</i> character. (Limit once per phase.)",
+        "traits": "Maester.",
+        "type_code": "character"
+    },
+    {
         "code": "09041",
         "cost": 2,
         "deck_limit": 3,
@@ -388,6 +410,24 @@
         "text": "Terminal.\nWhile attached character is participating in a challenge, set its STR to 1. <em>(Other modifiers do not raise or lower its STR.)</em>",
         "traits": "Condition. Poison.",
         "type_code": "attachment"
+    },
+    {
+        "code": "09044",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "neutral",
+        "flavor": "\"I put more trust in deeds.\" <cite>Daenerys Targaryen</cite>",
+        "illustrator": "Andreia Ugrai",
+        "is_loyal": false,
+        "is_unique": false,
+        "name": "Words Are Wind",
+        "octgn_id": null,
+        "pack_code": "HoT",
+        "position": 44,
+        "quantity": 3,
+        "text": "<b>Interrupt:</b> When the effects of an opponent's event would initiate, that opponent must choose, either: cancel those effects, or you draw 2 cards.",
+        "traits": "",
+        "type_code": "event"
     },
     {
         "code": "09045",
