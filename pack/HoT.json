@@ -86,6 +86,27 @@
         "type_code": "character"
     },
     {
+        "code": "09008",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "tyrell",
+        "illustrator": "",
+        "is_intrigue": true,
+        "is_loyal": true,
+        "is_military": false,
+        "is_power": true,
+        "is_unique": true,
+        "name": "Willas Tyrell",
+        "octgn_id": null,
+        "pack_code": "HoT",
+        "position": 8,
+        "quantity": 3,
+        "strength": 3,
+        "text": "<b>Action:</b> Kneel Willas Tyrell. Then, if you control:\n- Margaery Tyrell, stand her.\n- The Knight of Flowers, he gains insight until the end of the phase.\n- Ser Garlan Tyrell, he gains renown until the end of the phase.",
+        "traits": "Lord.",
+        "type_code": "character"
+    },
+    {
         "code": "09011",
         "cost": 3,
         "deck_limit": 3,
@@ -273,6 +294,24 @@
         "quantity": 3,
         "text": "<b>Action:</b> Choose X participating characters. Each character with the highest STR among those characters gains renown until the end of the challenge. Each other chosen character does not contribute its STR to the challenge.",
         "traits": "",
+        "type_code": "event"
+    },
+    {
+        "code": "09023",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "tyrell",
+        "flavor": "Six maids there were in a spring-fed pool...",
+        "illustrator": "",
+        "is_loyal": true,
+        "is_unique": false,
+        "name": "\"Six Maids in a Pool\"",
+        "octgn_id": null,
+        "pack_code": "HoT",
+        "position": 23,
+        "quantity": 3,
+        "text": "<b>Action:</b> Draw 1 card for each <i>Lady</i> character you control.",
+        "traits": "Song.",
         "type_code": "event"
     },
     {
