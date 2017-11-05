@@ -234,6 +234,15 @@
         "size": 20
     },
     {
+        "cgdb_id": 26,
+        "code": "FotOG",
+        "cycle_code": "foc",
+        "date_release": null,
+        "name": "Favor of the Old Gods",
+        "position": 4,
+        "size": 20
+    },
+    {
         "cgdb_id": 29,
         "code": "HoT",
         "cycle_code": "thorns",
