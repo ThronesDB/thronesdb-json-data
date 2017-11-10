@@ -367,6 +367,7 @@
         "claim": 1,
         "code": "06060",
         "deck_limit": 1,
+        "designer": "Card design by 2014 North American Champion, Jonathan Andrews.",
         "faction_code": "neutral",
         "illustrator": "Ryan Valle",
         "income": 4,
@@ -379,7 +380,7 @@
         "position": 60,
         "quantity": 3,
         "reserve": 6,
-        "text": "<b>When Revealed:</b> Choose an opponent. That player chooses 2 non-<i>Army</i> characters, each with printed cost 6 or higher. Then, that player chooses and kneels 1 of those characters. Kill the other (cannot be saved).\n<b>Card design by 2014 North American Champion, Jonathan Andrews.</b>",
+        "text": "<b>When Revealed:</b> Choose an opponent. That player chooses 2 non-<i>Army</i> characters, each with printed cost 6 or higher. Then, that player chooses and kneels 1 of those characters. Kill the other (cannot be saved).",
         "traits": "War.",
         "type_code": "plot"
     }

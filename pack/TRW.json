@@ -25,6 +25,7 @@
         "code": "06062",
         "cost": 2,
         "deck_limit": 3,
+        "designer": "Card Design by 2015 Melee North American Champion, Brian Aurelio.",
         "faction_code": "stark",
         "illustrator": "Sara Biddle",
         "is_loyal": false,
@@ -34,7 +35,7 @@
         "pack_code": "TRW",
         "position": 62,
         "quantity": 3,
-        "text": "<b>Action:</b> During a [military] challenge, kneel Winterfell Archery Range to choose a participating character with STR 3 or lower, and remove it from the challenge.\n<b>Card Design by 2015 Melee North American Champion, Brian Aurelio.</b>",
+        "text": "<b>Action:</b> During a [military] challenge, kneel Winterfell Archery Range to choose a participating character with STR 3 or lower, and remove it from the challenge.",
         "traits": "Winterfell.",
         "type_code": "location"
     },

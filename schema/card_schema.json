@@ -31,6 +31,17 @@
             "minimum": 0,
             "type": "integer"
         },
+        "designer": {
+            "oneOf": [
+                {
+                    "minLength": 0,
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
         "faction_code": {
             "enum": [
                 "baratheon",

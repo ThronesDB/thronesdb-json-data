@@ -200,6 +200,7 @@
         "code": "02051",
         "cost": 4,
         "deck_limit": 3,
+        "designer": "Card design by 2003 World Champion, Casey Galvan.",
         "faction_code": "greyjoy",
         "illustrator": "Leo Winstead",
         "is_intrigue": false,
@@ -213,7 +214,7 @@
         "position": 51,
         "quantity": 3,
         "strength": 4,
-        "text": "<b>Reaction:</b> After you marshal Newly-Made Lord, choose a non-limited location with printed cost 3 or lower, and discard it from play.\n<b>Card design by 2003 World Champion, Casey Galvan.</b>",
+        "text": "<b>Reaction:</b> After you marshal Newly-Made Lord, choose a non-limited location with printed cost 3 or lower, and discard it from play.",
         "traits": "Lord.",
         "type_code": "character"
     },

@@ -360,6 +360,7 @@
         "claim": 1,
         "code": "02079",
         "deck_limit": 1,
+        "designer": "Card design by 2005 World Champion, John M. Bruno.",
         "faction_code": "neutral",
         "illustrator": "Thomas Denmark",
         "income": 3,
@@ -372,7 +373,7 @@
         "position": 79,
         "quantity": 3,
         "reserve": 6,
-        "text": "<b>Forced Reaction:</b> After the challenges phase begins, return each character with printed cost 3 or lower to its owner's hand.\n<b>Card design by 2005 World Champion, John M. Bruno.</b>",
+        "text": "<b>Forced Reaction:</b> After the challenges phase begins, return each character with printed cost 3 or lower to its owner's hand.",
         "traits": "Omen. Winter.",
         "type_code": "plot"
     },

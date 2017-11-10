@@ -311,6 +311,7 @@
         "code": "06117",
         "cost": 7,
         "deck_limit": 3,
+        "designer": "Card design by 2014 European Melee Champion, Jakob Hultman.",
         "faction_code": "neutral",
         "illustrator": "Joel Hustak",
         "is_intrigue": false,
@@ -324,7 +325,7 @@
         "position": 117,
         "quantity": 3,
         "strength": null,
-        "text": "Renown.\nX is the number of kiss tokens Beric Dondarrion has.\n<b>Forced Reaction:</b> After you marshal Beric Dondarrion, place 6 kiss tokens on him. (Cannot be canceled.)\n<b>Interrupt:</b> When Beric Dondarrion would be killed, discard a kiss token from him to save him.\n<b>Card design by 2014 European Melee Champion, Jakob Hultman.</b>",
+        "text": "Renown.\nX is the number of kiss tokens Beric Dondarrion has.\n<b>Forced Reaction:</b> After you marshal Beric Dondarrion, place 6 kiss tokens on him. (Cannot be canceled.)\n<b>Interrupt:</b> When Beric Dondarrion would be killed, discard a kiss token from him to save him.",
         "traits": "Knight. Lord. R'hllor.",
         "type_code": "character"
     },

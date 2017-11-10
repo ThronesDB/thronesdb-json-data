@@ -68,6 +68,7 @@
         "code": "03004",
         "cost": 6,
         "deck_limit": 3,
+        "designer": "Card design by 2009 World Champion, Erick A. Butzlaff.",
         "faction_code": "stark",
         "illustrator": "Cris Griffin",
         "is_intrigue": false,
@@ -81,7 +82,7 @@
         "position": 4,
         "quantity": 3,
         "strength": 4,
-        "text": "Renown.\nWhile The Blackfish has 4 or more power, each <i>House Tully </i>character you control does not kneel when declared as an attacker.\n<b>Reaction:</b> After you win a [military] challenge as the attacking player, draw 1 card. (Limit once per phase.)\n<b>Card design by 2009 World Champion, Erick A. Butzlaff.</b>",
+        "text": "Renown.\nWhile The Blackfish has 4 or more power, each <i>House Tully </i>character you control does not kneel when declared as an attacker.\n<b>Reaction:</b> After you win a [military] challenge as the attacking player, draw 1 card. (Limit once per phase.)",
         "traits": "House Tully. Knight. Lord.",
         "type_code": "character"
     },
@@ -892,6 +893,7 @@
         "claim": 1,
         "code": "03046",
         "deck_limit": 2,
+        "designer": "Card design by 2012 North American Champion, Dan Seefeldt.",
         "faction_code": "stark",
         "illustrator": "Jake Murray",
         "income": 3,
@@ -904,7 +906,7 @@
         "position": 46,
         "quantity": 3,
         "reserve": 6,
-        "text": "<b>When Revealed:</b> Search your deck for a <i>Direwolf</i> card, reveal it, and add it to your hand. If that card's printed cost is 3 or lower, you may put it into play instead. Shuffle your deck.\n<b>Card design by 2012 North American Champion, Dan Seefeldt.</b>",
+        "text": "<b>When Revealed:</b> Search your deck for a <i>Direwolf</i> card, reveal it, and add it to your hand. If that card's printed cost is 3 or lower, you may put it into play instead. Shuffle your deck.",
         "traits": "Winter.",
         "type_code": "plot"
     },
