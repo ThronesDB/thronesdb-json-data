@@ -24,6 +24,10 @@
         "name": "Pour l'Honneur de la Famille"
     },
     {
+        "code": "FotOG",
+        "name": "Favor of the Old Gods"
+    },
+    {
         "code": "GoH",
         "name": "Les Fantômes d'Harrenhal"
     },
@@ -36,6 +40,14 @@
         "name": "House of Thorns"
     },
     {
+        "code": "JtO",
+        "name": "Journey to Oldtown"
+    },
+    {
+        "code": "Km",
+        "name": "Kingsmoot"
+    },
+    {
         "code": "LoCR",
         "name": "Les Lions de Castral Roc"
     },
@@ -46,6 +58,10 @@
     {
         "code": "OR",
         "name": "Oberyn's Revenge"
+    },
+    {
+        "code": "TAK",
+        "name": "The Archmaester's Key"
     },
     {
         "code": "TBWB",
