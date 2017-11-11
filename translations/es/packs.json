@@ -24,6 +24,10 @@
         "name": "Por el honor de la familia"
     },
     {
+        "code": "FotOG",
+        "name": "El favor de los antiguos dioses"
+    },
+    {
         "code": "GoH",
         "name": "Fantasmas de Harrenhal"
     },
@@ -38,6 +42,10 @@
     {
         "code": "JtO",
         "name": "Viaje a Antigua"
+    },
+    {
+        "code": "Km",
+        "name": "Asamblea de sucesión"
     },
     {
         "code": "LoCR",
