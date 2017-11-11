@@ -197,6 +197,7 @@
         "code": "02031",
         "cost": 5,
         "deck_limit": 3,
+        "designer": "Card design by 2011 European Joust Champion, Martí Foz Hernandez.",
         "faction_code": "greyjoy",
         "illustrator": "Nacho Molina",
         "is_intrigue": true,
@@ -210,7 +211,7 @@
         "position": 31,
         "quantity": 3,
         "strength": 4,
-        "text": "<b>Reaction:</b> After you win an unopposed challenge in which a unique [greyjoy] character is participating, either: draw 1 card, or discard the top 3 cards from each opponent's deck. (Limit once per phase.)\n<b>Card design by 2011 European Joust Champion, Martí Foz Hernandez.</b>",
+        "text": "<b>Reaction:</b> After you win an unopposed challenge in which a unique [greyjoy] character is participating, either: draw 1 card, or discard the top 3 cards from each opponent's deck. (Limit once per phase.)",
         "traits": "House Harlaw. Lord.",
         "type_code": "character"
     },

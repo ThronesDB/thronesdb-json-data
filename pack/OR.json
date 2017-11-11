@@ -333,6 +333,7 @@
         "code": "06098",
         "cost": 1,
         "deck_limit": 3,
+        "designer": "Card design by 2004 World Champion, Greg Atkinson.",
         "faction_code": "neutral",
         "illustrator": "Regis Moulun",
         "is_loyal": false,
@@ -342,7 +343,7 @@
         "pack_code": "OR",
         "position": 98,
         "quantity": 3,
-        "text": "<b>Challenges Action:</b> Pay 1 gold and kneel Flea Bottom to put a character with printed cost 3 or lower into play from your discard pile. At the end of the phase, if that card is still in play, place it on the bottom of your deck.\n<b>Card design by 2004 World Champion, Greg Atkinson.</b>",
+        "text": "<b>Challenges Action:</b> Pay 1 gold and kneel Flea Bottom to put a character with printed cost 3 or lower into play from your discard pile. At the end of the phase, if that card is still in play, place it on the bottom of your deck.",
         "traits": "King's Landing.",
         "type_code": "location"
     },
@@ -350,6 +351,7 @@
         "code": "06099",
         "cost": 0,
         "deck_limit": 3,
+        "designer": "Card design by 2013 Melee World Champion, Ryan Jones.",
         "faction_code": "neutral",
         "illustrator": "Christine Thomas",
         "is_loyal": false,
@@ -359,7 +361,7 @@
         "pack_code": "OR",
         "position": 99,
         "quantity": 3,
-        "text": "<b>Action:</b> If it is not the taxation phase, kneel your faction card and return a character to your hand to gain gold equal to that character's printed cost. Until the end of the round, you cannot marshal or put into play any card with the same title as that character.\n<b>Card design by 2013 Melee World Champion, Ryan Jones.</b>",
+        "text": "<b>Action:</b> If it is not the taxation phase, kneel your faction card and return a character to your hand to gain gold equal to that character's printed cost. Until the end of the round, you cannot marshal or put into play any card with the same title as that character.",
         "traits": "",
         "type_code": "event"
     },

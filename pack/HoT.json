@@ -110,6 +110,7 @@
         "code": "09006",
         "cost": 4,
         "deck_limit": 3,
+        "designer": "Card design by 2011 European Melee Champion, Gregoire Lefebvre.",
         "faction_code": "tyrell",
         "illustrator": "Magali Villeneuve",
         "is_intrigue": true,
@@ -123,7 +124,7 @@
         "position": 6,
         "quantity": 3,
         "strength": 3,
-        "text": "While Margaery Tyrell is attacking, she gets +1 STR for each defending character.\n<b>Reaction:</b> After Margaery Tyrell is declared as an attacker, choose and kneel a character controlled by the defending player. That character is participating in the challenge as a defender.\n<b>Card design by 2011 European Melee Champion, Gregoire Lefebvre.</b>",
+        "text": "While Margaery Tyrell is attacking, she gets +1 STR for each defending character.\n<b>Reaction:</b> After Margaery Tyrell is declared as an attacker, choose and kneel a character controlled by the defending player. That character is participating in the challenge as a defender.",
         "traits": "Lady. Queen.",
         "type_code": "character"
     },
@@ -779,6 +780,7 @@
         "code": "09040",
         "cost": 4,
         "deck_limit": 3,
+        "designer": "Card design by 2013 Overall World Champion, Ryan Jones.",
         "faction_code": "neutral",
         "illustrator": "Colin Boyer",
         "is_intrigue": false,
@@ -792,7 +794,7 @@
         "position": 40,
         "quantity": 3,
         "strength": 3,
-        "text": "Ambush (4).\n<b>Challenges Action:</b> Choose a character in a dead pile. Until the end of the phase, Faceless Man gains each of that character's printed challenge icons, keywords, faction affiliations, and <i>Traits</i>. (Limit once per phase.)\n<b>Card design by 2013 Overall World Champion, Ryan Jones.</b>",
+        "text": "Ambush (4).\n<b>Challenges Action:</b> Choose a character in a dead pile. Until the end of the phase, Faceless Man gains each of that character's printed challenge icons, keywords, faction affiliations, and <i>Traits</i>. (Limit once per phase.)",
         "traits": "",
         "type_code": "character"
     },

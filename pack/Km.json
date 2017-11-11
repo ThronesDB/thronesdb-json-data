@@ -57,6 +57,7 @@
         "claim": 1,
         "code": "08060",
         "deck_limit": 1,
+        "designer": "Card design by 2013 North American Champion, Steven Simoni.",
         "faction_code": "neutral",
         "illustrator": "Jacob Murray",
         "income": 5,
@@ -68,7 +69,7 @@
         "position": 60,
         "quantity": 3,
         "reserve": 6,
-        "text": "Skip the standing phase this round.\n<b>Card design by 2013 North American Champion, Steven Simoni.</b>",
+        "text": "Skip the standing phase this round.",
         "traits": "Winter.",
         "type_code": "plot"
     }

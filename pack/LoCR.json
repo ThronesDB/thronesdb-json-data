@@ -46,6 +46,7 @@
         "code": "05003",
         "cost": 6,
         "deck_limit": 3,
+        "designer": "Card design by 2012 Chinese National Champion, Bing Ouyang.",
         "faction_code": "lannister",
         "illustrator": "Sebastian Giacobino",
         "is_intrigue": true,
@@ -59,7 +60,7 @@
         "position": 3,
         "quantity": 3,
         "strength": 4,
-        "text": "<b>Reaction:</b> After you marshal Ser Kevan Lannister, choose a [lannister] or neutral location or attachment in your discard pile and put it into play.\n<b>Card design by 2012 Chinese National Champion, Bing Ouyang.</b>",
+        "text": "<b>Reaction:</b> After you marshal Ser Kevan Lannister, choose a [lannister] or neutral location or attachment in your discard pile and put it into play.",
         "traits": "Knight. Lord. Small Council.",
         "type_code": "character"
     },
@@ -877,6 +878,7 @@
     {
         "code": "05045",
         "deck_limit": 1,
+        "designer": "Card Design by 2013 Joust World Champion, Álvaro Rodriguez.",
         "faction_code": "neutral",
         "illustrator": "Serena Malyon",
         "is_loyal": false,
@@ -886,7 +888,7 @@
         "pack_code": "LoCR",
         "position": 45,
         "quantity": 3,
-        "text": "Your plot deck must be 12 cards, including exactly 5 different <i>Scheme</i> cards. During the plot phase, <i>Scheme</i> cards are not considered to be in your plot deck.\n<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, kneel your faction card to reveal a <i>Scheme</i> plot. If that card leaves play, remove it from the game.\n<b>Card Design by 2013 Joust World Champion, Álvaro Rodriguez.</b>",
+        "text": "Your plot deck must be 12 cards, including exactly 5 different <i>Scheme</i> cards. During the plot phase, <i>Scheme</i> cards are not considered to be in your plot deck.\n<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, kneel your faction card to reveal a <i>Scheme</i> plot. If that card leaves play, remove it from the game.",
         "traits": "Song.",
         "type_code": "agenda"
     },

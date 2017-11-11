@@ -83,6 +83,7 @@
     {
         "code": "08039",
         "deck_limit": 1,
+        "designer": "Card design by 2011 Overall World Champion, Corey Faherty.",
         "faction_code": "neutral",
         "illustrator": "Kristina Carroll",
         "is_loyal": false,
@@ -92,7 +93,7 @@
         "pack_code": "JtO",
         "position": 39,
         "quantity": 3,
-        "text": "After all agendas are announced, search your deck for a non-limited unique location with printed cost 3 or lower and put it into play. That location cannot be discarded from play by card effects.\nYou cannot spend more than 4 gold during setup.\n<b>Card design by 2011 Overall World Champion, Corey Faherty.</b>",
+        "text": "After all agendas are announced, search your deck for a non-limited unique location with printed cost 3 or lower and put it into play. That location cannot be discarded from play by card effects.\nYou cannot spend more than 4 gold during setup.",
         "traits": "Dream.",
         "type_code": "agenda"
     }

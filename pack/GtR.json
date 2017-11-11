@@ -369,6 +369,7 @@
         "claim": 1,
         "code": "06040",
         "deck_limit": 2,
+        "designer": "Card design by 2014 Overall World Champion, Alexander Hynes.",
         "faction_code": "neutral",
         "illustrator": "Serena Malyon",
         "income": 4,
@@ -381,7 +382,7 @@
         "position": 40,
         "quantity": 3,
         "reserve": 7,
-        "text": "Each player may play events in his or her discard pile as if they were in his or her hand.\n<b>Forced Reaction:</b> After an event is placed in a discard pile, remove it from the game.\n<b>Card design by 2014 Overall World Champion, Alexander Hynes.</b>",
+        "text": "Each player may play events in his or her discard pile as if they were in his or her hand.\n<b>Forced Reaction:</b> After an event is placed in a discard pile, remove it from the game.",
         "traits": "Legacy.",
         "type_code": "plot"
     }
