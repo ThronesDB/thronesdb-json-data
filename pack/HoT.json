@@ -953,7 +953,7 @@
     {
         "claim": 1,
         "code": "09049",
-        "deck_limit": 1,
+        "deck_limit": 2,
         "faction_code": "neutral",
         "illustrator": "Mauro Dal Bo",
         "income": 3,
