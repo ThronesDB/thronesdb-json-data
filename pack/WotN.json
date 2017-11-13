@@ -815,6 +815,7 @@
         "position": 41,
         "quantity": 3,
         "strength": 2,
+        "text": "",
         "traits": "Maester.",
         "type_code": "character"
     },

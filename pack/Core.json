@@ -496,6 +496,7 @@
         "position": 25,
         "quantity": 1,
         "reserve": 5,
+        "text": "",
         "traits": "Winter.",
         "type_code": "plot"
     },
@@ -1035,6 +1036,7 @@
         "position": 53,
         "quantity": 1,
         "strength": 2,
+        "text": "",
         "traits": "Bastard.",
         "type_code": "character"
     },
@@ -2233,6 +2235,7 @@
         "position": 113,
         "quantity": 1,
         "strength": 2,
+        "text": "",
         "traits": "House Dayne. Knight.",
         "type_code": "character"
     },
@@ -2975,6 +2978,7 @@
         "position": 150,
         "quantity": 1,
         "strength": 2,
+        "text": "",
         "traits": "House Tully. Knight.",
         "type_code": "character"
     },
@@ -3706,6 +3710,7 @@
         "position": 187,
         "quantity": 1,
         "strength": 2,
+        "text": "",
         "traits": "Companion. Spy.",
         "type_code": "character"
     },
