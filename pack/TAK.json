@@ -1,10 +1,27 @@
 [
     {
+        "code": "08001",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "neutral",
+        "illustrator": "Ivan Dixon",
+        "is_loyal": false,
+        "is_unique": false,
+        "name": "Archmaester's Key",
+        "octgn_id": null,
+        "pack_code": "TAK",
+        "position": 1,
+        "quantity": 3,
+        "text": "<i>Maester</i> character only.\n<b>Action:</b> Kneel attached character to choose an event in an opponent's discard pile. Once this phase, you may play that event as if it were in your hand. If you do, place it on the bottom of its owner's deck instead of placing it in that player's discard pile.",
+        "traits": "Item. Citadel.",
+        "type_code": "attachment"
+    },
+    {
         "code": "08002",
         "cost": 4,
         "deck_limit": 3,
         "faction_code": "stark",
-        "illustrator": null,
+        "illustrator": "Adam Lane",
         "is_intrigue": true,
         "is_loyal": false,
         "is_military": false,
@@ -90,8 +107,9 @@
         "pack_code": "TAK",
         "position": 6,
         "quantity": 3,
+        "strength": 2,
         "text": "Bestow (3). No attachments except Weapon.\n<b>Reaction:</b> After a [thenightswatch] location or attachment enters play under your control, discard 1 gold from Young Builder to draw 1 card.",
-        "traits": "Builder",
+        "traits": "Builder.",
         "type_code": "character"
     },
     {
@@ -108,7 +126,7 @@
         "position": 7,
         "quantity": 3,
         "text": "<b>Marshalling Action:</b> Choose a character with printed cost X or lower. X is the number of Steward characters you control. Until the end of the round, take control of that character, and treat its printed text box as if it were blank (except for Traits).",
-        "traits": "Song",
+        "traits": "Song.",
         "type_code": "event"
     },
     {
@@ -148,7 +166,7 @@
         "position": 9,
         "quantity": 3,
         "text": "Opponent's character only.\nAttached character does not contribute its STR to [power] challenges or to its controller's total for dominance.",
-        "traits": "Condition",
+        "traits": "Condition.",
         "type_code": "attachment"
     },
     {
@@ -208,7 +226,7 @@
         "quantity": 3,
         "strength": 1,
         "text": "<b>Interrupt:</b> When Acolyte of the Waves is killed, gain 1 power for your faction.",
-        "traits": "Drowned God",
+        "traits": "Drowned God.",
         "type_code": "character"
     },
     {
@@ -341,7 +359,7 @@
         "position": 19,
         "quantity": 3,
         "text": "Bestow (1).\nDuring the marshaling phase, you may spend gold on The Iron Bank as if it were in your gold pool.\n<b>Reaction:</b> After you collect income, move X gold from the treasury to The Iron Bank.",
-        "traits": "Braavos",
+        "traits": "Braavos.",
         "type_code": "location"
     },
     {
