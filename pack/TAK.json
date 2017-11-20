@@ -108,7 +108,7 @@
         "position": 6,
         "quantity": 3,
         "strength": 2,
-        "text": "Bestow (3). No attachments except Weapon.\n<b>Reaction:</b> After a [thenightswatch] location or attachment enters play under your control, discard 1 gold from Young Builder to draw 1 card.",
+        "text": "Bestow (3). No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After a [thenightswatch] location or attachment enters play under your control, discard 1 gold from Young Builder to draw 1 card.",
         "traits": "Builder.",
         "type_code": "character"
     },
