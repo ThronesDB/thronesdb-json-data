@@ -149,7 +149,7 @@
         "pack_code": "TAK",
         "position": 8,
         "quantity": 3,
-        "strength": 1,
+        "strength": 2,
         "text": "<b>Reaction:</b> After you marshal Queen's Men, choose an opponent and look at his or her hand. Then, you may kneel a non-[baratheon] character to choose and discard 1 non-character card from that hand.",
         "traits": "Ally. R'hllor.",
         "type_code": "character"
@@ -313,7 +313,7 @@
         "code": "08017",
         "cost": 1,
         "deck_limit": 3,
-        "faction_code": "neutral",
+        "faction_code": "martell",
         "flavor": "There children frolicked naked in the sun, music played in tiled courtyards, and the air was sharp with the smell of lemons and blood oranges.",
         "illustrator": "Carlos Palma Cruchaga",
         "is_loyal": true,
