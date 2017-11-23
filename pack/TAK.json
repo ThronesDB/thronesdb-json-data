@@ -361,7 +361,7 @@
         "pack_code": "TAK",
         "position": 19,
         "quantity": 3,
-        "text": "Bestow (1).\nDuring the marshaling phase, you may spend gold on The Iron Bank as if it were in your gold pool.\n<b>Reaction:</b> After you collect income, move X gold from the treasury to The Iron Bank.",
+        "text": "Bestow (1).\nDuring the marshaling phase, you may spend gold on The Iron Bank as if it were in your gold pool.\n<b>Reaction:</b> After you collect income, move X gold from the treasury to The Iron Bank. X is the number of gold on The Iron Bank.",
         "traits": "Braavos.",
         "type_code": "location"
     },
