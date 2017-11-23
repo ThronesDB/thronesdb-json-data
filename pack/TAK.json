@@ -99,7 +99,7 @@
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "thenightswatch",
-        "illustrator": "David Demuret",
+        "illustrator": "David Demaret",
         "is_intrigue": false,
         "is_loyal": true,
         "is_military": false,
@@ -128,7 +128,7 @@
         "pack_code": "TAK",
         "position": 7,
         "quantity": 3,
-        "text": "<b>Marshalling Action:</b> Choose a character with printed cost X or lower. X is the number of Steward characters you control. Until the end of the round, take control of that character, and treat its printed text box as if it were blank (except for Traits).",
+        "text": "<b>Marshaling Action:</b> Choose a character with printed cost X or lower. X is the number of Steward characters you control. Until the end of the round, take control of that character, and treat its printed text box as if it were blank (except for Traits).",
         "traits": "Song.",
         "type_code": "event"
     },
@@ -189,7 +189,7 @@
         "position": 10,
         "quantity": 3,
         "strength": 2,
-        "text": "<b>Reaction:</b> After you play a [lannister] event, kneel Maester of the Rock to move that event from your discard pile to the top of your deck.",
+        "text": "<b>Reaction:</b> After you play a [lannister] event, kneel Maester at the Rock to move that event from your discard pile to the top of your deck.",
         "traits": "Maester.",
         "type_code": "character"
     },
