@@ -250,5 +250,14 @@
         "name": "House of Thorns",
         "position": 1,
         "size": 52
+    },
+    {
+        "cgdb_id": 30,
+        "code": "SoD",
+        "cycle_code": "sands",
+        "date_release": null,
+        "name": "Sands of Dorne",
+        "position": 1,
+        "size": 52
     }
 ]
