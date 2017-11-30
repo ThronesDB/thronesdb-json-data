@@ -14,7 +14,7 @@
             "type": "string"
         },
         "text": {
-            "minLength": 1,
+            "minLength": 0,
             "type": "string"
         },
         "traits": {

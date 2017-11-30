@@ -147,6 +147,7 @@
         "code": "01025",
         "flavor": "Soplaba un viento gélido del norte, que hacía que los árboles susurraran como si tuvieran vida propia. Durante toda la jornada, Will se había sentido observado, vigilado por algo frío e implacable que no le deseaba nada bueno.",
         "name": "Vientos de invierno",
+        "text": "",
         "traits": "Invierno."
     },
     {
@@ -328,6 +329,7 @@
         "code": "01053",
         "flavor": "\"Me dijo: «La semilla es fuerte». Fueron sus últimas palabras. No paraba de nombrar a Robert, me agarró el brazo con tanta fuerza que me dejó marcas. «Díselo a todos, diles que la semilla es fuerte».\" <cite>Lysa Arryn</cite>",
         "name": "Bastardo oculto",
+        "text": "",
         "traits": "Bastardo."
     },
     {
@@ -710,6 +712,7 @@
         "code": "01113",
         "flavor": "Sus caballos era unos castaños y otros dorados, aunque también había algunos blancos como la nieve…",
         "name": "Caballero de la casa Dayne",
+        "text": "",
         "traits": "Casa Dayne. Caballero."
     },
     {
@@ -949,6 +952,7 @@
         "code": "01150",
         "flavor": "El castillo está situado al final de la punta de tierra en la que el Piedra Caída fluye hacia el Forca Roja del Tridente.",
         "name": "Caballero de Piedra Caída",
+        "text": "",
         "traits": "Casa Tully. Caballero."
     },
     {
@@ -1181,6 +1185,7 @@
         "code": "01187",
         "flavor": "La guerra no había afectado a la legendaria generosidad de Altojardín.",
         "name": "Cortesana de la rosa",
+        "text": "",
         "traits": "Acompañante. Espía."
     },
     {
