@@ -58,5 +58,11 @@
         "name": "House of Thorns",
         "position": 9,
         "size": 1
+    },
+    {
+        "code": "sands",
+        "name": "Sands of Dorne",
+        "position": 10,
+        "size": 1
     }
 ]
