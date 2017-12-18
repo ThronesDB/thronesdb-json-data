@@ -34,7 +34,7 @@
         "pack_code": "JtO",
         "position": 22,
         "quantity": 3,
-        "text": "Bestow (10).\n<Dominance Action:</b> Kneel The House of Black and White and discard X gold from it to choose and kill a character with printed STR X or lower (X cannot be 0). You may move any number of gold from your gold pool to The House of Black and White.",
+        "text": "Bestow (10).\n<b>Dominance Action:</b> Kneel The House of Black and White and discard X gold from it to choose and kill a character with printed STR X or lower (X cannot be 0). You may move any number of gold from your gold pool to The House of Black and White.",
         "traits": "Braavos.",
         "type_code": "location"
     },
@@ -190,7 +190,7 @@
         "pack_code": "JtO",
         "position": 30,
         "quantity": 3,
-        "text": "<i>Kingsguard character only. Terminal.\n<b>Action:</b> Kneel attached character to choose and kill a character with 2 or more power. (Limit once per game.)\n<b>Forced Interrupt:</b> When attached character leaves play, each opponent gains 2 power for his or her faction.",
+        "text": "<i>Kingsguard</i> character only. Terminal.\n<b>Action:</b> Kneel attached character to choose and kill a character with 2 or more power. (Limit once per game.)\n<b>Forced Interrupt:</b> When attached character leaves play, each opponent gains 2 power for his or her faction.",
         "traits": "Title.",
         "type_code": "attachment"
     },
