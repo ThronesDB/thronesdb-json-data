@@ -43,6 +43,7 @@
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "tyrell",
+        "illustrator": "Adam Lane",
         "is_intrigue": false,
         "is_loyal": false,
         "is_military": true,
@@ -103,7 +104,7 @@
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "thenightswatch",
-        "flavor": "\"Sam, the Night’s Watch has hundreds of men who can loose an arrow, but only a handful who can read or write. I need you to become my new maester.\"",
+        "flavor": "\"Sam, the Night’s Watch has hundreds of men who can loose an arrow, but only a handful who can read or write. I need you to become my new maester.\" <cite>Jon Snow</cite>",
         "illustrator": "Igor Artyomenko",
         "is_loyal": false,
         "is_unique": false,
@@ -266,7 +267,7 @@
         "pack_code": "JtO",
         "position": 34,
         "quantity": 3,
-        "text": "<b>Challenges Action:</b> Discard another [Targaryen] card from your hand to choose a participating character. Until the end of the phase, that character gets -3 STR and is killed if its STR is 0.",
+        "text": "<b>Challenges Action:</b> Discard another [targaryen] card from your hand to choose a participating character. Until the end of the phase, that character gets -3 STR and is killed if its STR is 0.",
         "traits": "",
         "type_code": "event"
     },
@@ -379,8 +380,8 @@
         "pack_code": "JtO",
         "position": 40,
         "quantity": 3,
-        "reserve": 6,
-        "text": "You may initiate an additional [Power] challenge during the challenges phase. You cannot initiate [Military] or [Intrigue] challenges.",
+        "reserve": 5,
+        "text": "You may initiate an additional [power] challenge during the challenges phase. You cannot initiate [Military] or [Intrigue] challenges.",
         "traits": "Summer.",
         "type_code": "plot"
     }
