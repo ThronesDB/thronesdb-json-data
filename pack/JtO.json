@@ -381,7 +381,7 @@
         "position": 40,
         "quantity": 3,
         "reserve": 5,
-        "text": "You may initiate an additional [power] challenge during the challenges phase. You cannot initiate [Military] or [Intrigue] challenges.",
+        "text": "You may initiate an additional [power] challenge during the challenges phase. You cannot initiate [military] or [intrigue] challenges.",
         "traits": "Summer.",
         "type_code": "plot"
     }
