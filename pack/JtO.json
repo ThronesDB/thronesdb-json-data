@@ -54,7 +54,7 @@
         "pack_code": "JtO",
         "position": 23,
         "quantity": 3,
-        "strength": null,
+        "strength": 3,
         "text": "Bestow (3).\n<b>Marshaling Action:</b> Discard 1 gold from Brightwater Knight to reduce the cost of the next <i>Knight</i> character you marshal this phase by 2. (Limit once per phase.)",
         "traits": "House Florent. Knight.",
         "type_code": "character"
