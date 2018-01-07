@@ -243,6 +243,15 @@
         "size": 20
     },
     {
+        "cgdb_id": 27,
+        "code": "TFM",
+        "cycle_code": "foc",
+        "date_release": null,
+        "name": "The Faith Militant",
+        "position": 5,
+        "size": 20
+    },
+    {
         "cgdb_id": 29,
         "code": "HoT",
         "cycle_code": "thorns",
