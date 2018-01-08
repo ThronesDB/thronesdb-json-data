@@ -102,10 +102,10 @@
     },
     {
         "code": "06057",
+        "flavor": "En cierta ocasión, su padre le había dicho que Walder Frey era el único señor de los Siete Reinos capaz de sacarse un ejército de los calzones.",
         "name": "Hidalgo de los Frey",
         "text": "<b>Reacción:</b> después de que inicies un reto, el Hidalgo de los Frey recibe un +1 a su FUE hasta el final de la fase.",
-        "traits": "Casa Frey. Lord.",
-        "flavor": "En cierta ocasión, su padre le había dicho que Walder Frey era el único señor de los Siete Reinos capaz de sacarse un ejército de los calzones."
+        "traits": "Casa Frey. Lord."
     },
     {
         "code": "06058",

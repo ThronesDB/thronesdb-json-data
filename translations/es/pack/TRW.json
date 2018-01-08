@@ -71,10 +71,10 @@
     },
     {
         "code": "06072",
+        "flavor": "El único trabajo apto para un hombre del hierro era la guerra.",
         "name": "Saqueo",
         "text": "<b>Acción:</b> arrodilla tu carta de Facción para elegir un adversario. Ganas 1 de Oro por cada Lugar y Accesorio que haya en la pila de descartes de ese jugador.",
-        "traits": "",
-        "flavor": "El único trabajo apto para un hombre del hierro era la guerra."
+        "traits": ""
     },
     {
         "code": "06073",

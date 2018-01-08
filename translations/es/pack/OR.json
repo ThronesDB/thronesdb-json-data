@@ -58,10 +58,10 @@
     },
     {
         "code": "06090",
+        "flavor": "\"Recuerdo perfectamente qué le dije. Pero el Castillo Negro no es Harrenhal, y la Guardia de la Noche no es el Consejo del Rey. Hay una herramienta para cada tarea, y una tarea para cada herramienta.\" <cite>Tyrion Lannister</cite>",
         "name": "Una tarea para cada herramienta",
         "text": "<b>Acción de Reto:</b> pon en juego desde tu mano un Personaje [lannister] que tenga una FUE impresa de 2 o menos.",
-        "traits": "",
-        "flavor": "\"Recuerdo perfectamente qué le dije. Pero el Castillo Negro no es Harrenhal, y la Guardia de la Noche no es el Consejo del Rey. Hay una herramienta para cada tarea, y una tarea para cada herramienta.\" <cite>Tyrion Lannister</cite>"
+        "traits": ""
     },
     {
         "code": "06091",
