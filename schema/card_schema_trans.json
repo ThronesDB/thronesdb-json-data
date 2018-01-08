@@ -17,8 +17,15 @@
             ]
         },
         "flavor": {
-            "minLength": 0,
-            "type": "string"
+            "oneOf": [
+                {
+                    "minLength": 0,
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "name": {
             "minLength": 1,
