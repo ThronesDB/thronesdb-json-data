@@ -62,8 +62,9 @@
     },
     {
         "code": "02031",
+        "designer": "Carta diseñada por Martí Foz Hernandez, campeón de la Justa Europea de 2011.",
         "name": "El Lector",
-        "text": "<b>Reacción:</b> después de que ganes un reto sin oposición en el que esté participando un Personaje [greyjoy] único, elige entre robar 1 carta o descartar las 3 primeras del mazo de cada adversario. (Límite de 1 vez por fase.)\n<b>Carta diseñada por Martí Foz Hernandez, campeón de la Justa Europea de 2011.</b>",
+        "text": "<b>Reacción:</b> después de que ganes un reto sin oposición en el que esté participando un Personaje [greyjoy] único, elige entre robar 1 carta o descartar las 3 primeras del mazo de cada adversario. (Límite de 1 vez por fase.)",
         "traits": "Casa Harlaw. Lord."
     },
     {

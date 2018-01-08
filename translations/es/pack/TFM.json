@@ -1,6 +1,7 @@
 [
     {
         "code": "08085",
+        "designer": "Card design by 2011 Joust World Champion, Brett Zeiler.",
         "name": "Coldhands",
         "text": "Coldhands cannot be saved.\n<b>Reaction:</b> After you marshal Coldhands, choose another non-<i>Army</i> character controlled by each player. Remove each of those characters from the game until Coldhands leaves play.",
         "traits": "The North."

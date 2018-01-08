@@ -8,8 +8,9 @@
     },
     {
         "code": "06062",
+        "designer": "Carta diseñada por Brian Aurelio, campeón norteamericano de Contienda en 2015.",
         "name": "Campo de tiro de Invernalia",
-        "text": "<b>Acción:</b> durante un reto [military], arrodilla el Campo de tiro de Invernalia para elegir a un Personaje participante que tenga una FUE de 3 o menos y retirarlo del reto.\n<b>Carta diseñada por Brian Aurelio, campeón norteamericano de Contienda en 2015.</b>",
+        "text": "<b>Acción:</b> durante un reto [military], arrodilla el Campo de tiro de Invernalia para elegir a un Personaje participante que tenga una FUE de 3 o menos y retirarlo del reto.",
         "traits": "Invernalia."
     },
     {
@@ -70,10 +71,10 @@
     },
     {
         "code": "06072",
-        "flavor": "El único trabajo apto para un hombre del hierro era la guerra.",
         "name": "Saqueo",
         "text": "<b>Acción:</b> arrodilla tu carta de Facción para elegir un adversario. Ganas 1 de Oro por cada Lugar y Accesorio que haya en la pila de descartes de ese jugador.",
-        "traits": ""
+        "traits": "",
+        "flavor": "El único trabajo apto para un hombre del hierro era la guerra."
     },
     {
         "code": "06073",

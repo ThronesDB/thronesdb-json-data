@@ -58,10 +58,10 @@
     },
     {
         "code": "06090",
-        "flavor": "\"Recuerdo perfectamente qué le dije. Pero el Castillo Negro no es Harrenhal, y la Guardia de la Noche no es el Consejo del Rey. Hay una herramienta para cada tarea, y una tarea para cada herramienta.\" <cite>Tyrion Lannister</cite>",
         "name": "Una tarea para cada herramienta",
         "text": "<b>Acción de Reto:</b> pon en juego desde tu mano un Personaje [lannister] que tenga una FUE impresa de 2 o menos.",
-        "traits": ""
+        "traits": "",
+        "flavor": "\"Recuerdo perfectamente qué le dije. Pero el Castillo Negro no es Harrenhal, y la Guardia de la Noche no es el Consejo del Rey. Hay una herramienta para cada tarea, y una tarea para cada herramienta.\" <cite>Tyrion Lannister</cite>"
     },
     {
         "code": "06091",
@@ -109,14 +109,16 @@
     },
     {
         "code": "06098",
+        "designer": "Carta diseñada por Greg Atkinson, campeón mundial de 2004.",
         "name": "Lecho de Pulgas",
-        "text": "<b>Acción de Reto:</b> paga 1 de Oro y arrodilla el Lecho de Pulgas para poner en juego desde tu pila de descartes un Personaje con un coste impreso de 3 o menos. Al final de la fase, si esa carta aún está en juego, colócala en la parte inferior de tu mazo.\n<b>Carta diseñada por Greg Atkinson, campeón mundial de 2004.</b>",
+        "text": "<b>Acción de Reto:</b> paga 1 de Oro y arrodilla el Lecho de Pulgas para poner en juego desde tu pila de descartes un Personaje con un coste impreso de 3 o menos. Al final de la fase, si esa carta aún está en juego, colócala en la parte inferior de tu mazo.",
         "traits": "Desembarco del Rey."
     },
     {
         "code": "06099",
+        "designer": "Carta diseñada por Ryan Jones, campeón mundial de Contienda en 2013.",
         "name": "El Banco de Hierro obtiene lo que le pertenece",
-        "text": "<b>Acción:</b> si no es la fase de Impuestos, arrodilla tu carta de Facción y devuelve un Personaje a tu mano para ganar tanto Oro como el coste impreso de ese Personaje. Hasta el final de la ronda, no puedes recultar ni poner en juego ninguna carta que se llame igual que ese Personaje.\n<b>Carta diseñada por Ryan Jones, campeón mundial de Contienda en 2013.",
+        "text": "<b>Acción:</b> si no es la fase de Impuestos, arrodilla tu carta de Facción y devuelve un Personaje a tu mano para ganar tanto Oro como el coste impreso de ese Personaje. Hasta el final de la ronda, no puedes recultar ni poner en juego ninguna carta que se llame igual que ese Personaje.",
         "traits": ""
     },
     {

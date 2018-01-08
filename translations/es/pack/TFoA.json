@@ -102,10 +102,10 @@
     },
     {
         "code": "06057",
-        "flavor": "En cierta ocasión, su padre le había dicho que Walder Frey era el único señor de los Siete Reinos capaz de sacarse un ejército de los calzones.",
         "name": "Hidalgo de los Frey",
         "text": "<b>Reacción:</b> después de que inicies un reto, el Hidalgo de los Frey recibe un +1 a su FUE hasta el final de la fase.",
-        "traits": "Casa Frey. Lord."
+        "traits": "Casa Frey. Lord.",
+        "flavor": "En cierta ocasión, su padre le había dicho que Walder Frey era el único señor de los Siete Reinos capaz de sacarse un ejército de los calzones."
     },
     {
         "code": "06058",
@@ -121,8 +121,9 @@
     },
     {
         "code": "06060",
+        "designer": "Carta diseñada por Jonathan Andrews, campeón norteamericano de 2014.",
         "name": "Duelo",
-        "text": "<b>Cuando se muestre esta carta:</b> elige un adversario. Ese jugado elige 2 Personajes que no sean <i>Ejército</i> y que tengan un coste impreso de 6 o más cada uno. Luego ese jugador elige y arrodilla 1 de esos Personajes. Mata al otro (no puede salvarse).\n<b>Carta diseñada por Jonathan Andrews, campeón norteamericano de 2014.</b>",
+        "text": "<b>Cuando se muestre esta carta:</b> elige un adversario. Ese jugado elige 2 Personajes que no sean <i>Ejército</i> y que tengan un coste impreso de 6 o más cada uno. Luego ese jugador elige y arrodilla 1 de esos Personajes. Mata al otro (no puede salvarse).",
         "traits": "Guerra."
     }
 ]

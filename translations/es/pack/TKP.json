@@ -65,8 +65,9 @@
     },
     {
         "code": "02051",
+        "designer": "Carta diseñada por Casey Galvan, campeón mundial de 2003.",
         "name": "Lord de nuevo cuño",
-        "text": "<b>Reacción:</b> después de que reclutes al Lord de nuevo cuño, descarta del juego un Lugar no limitado de tu elección con un coste impreso de 3 o menos.\n<b>Carta diseñada por Casey Galvan, campeón mundial de 2003.</b>",
+        "text": "<b>Reacción:</b> después de que reclutes al Lord de nuevo cuño, descarta del juego un Lugar no limitado de tu elección con un coste impreso de 3 o menos.",
         "traits": "Lord."
     },
     {
@@ -97,10 +98,10 @@
     },
     {
         "code": "02056",
-        "flavor": "Any knight can make a knight...",
         "name": "El Sendahueso",
         "text": "<b>Reacción:</b> después de que pierdas un reto, coloca 1 ficha de Venganza sobre El Sendahueso.\n<b>Acción de Dominación:</b> arrodilla El Sendahueso y descarta 6 fichas de Venganza que tenga encima para ganar 3 de Poder para tu facción.",
-        "traits": "Dorne."
+        "traits": "Dorne.",
+        "flavor": "Any knight can make a knight..."
     },
     {
         "code": "02057",
