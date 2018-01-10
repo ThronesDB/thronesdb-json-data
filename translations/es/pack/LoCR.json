@@ -15,8 +15,8 @@
     },
     {
         "code": "05003",
-        "flavor": "",
         "designer": "Carta diseñada por Bing Ouyang, campeón de China en 2012.",
+        "flavor": "",
         "name": "Ser Kevan Lannister",
         "text": "<b>Reacción:</b> después de que reclutes a Ser Kevan Lannister, elige un Lugar o Accesorio [lannister] o neutral que esté en tu pila de descartes y ponlo en juego.",
         "traits": "Caballero. Lord. Consejo Privado."
@@ -310,8 +310,8 @@
     },
     {
         "code": "05045",
-        "flavor": "",
         "designer": "Carta diseñada por Álvaro Rodríguez, campeón mundial de Justa en 2013.",
+        "flavor": "",
         "name": "\"Las lluvias de Castamere\"",
         "text": "Tu mazo de Tramas debe contener 12 cartas, incluidas exactamente 5 cartas de <i>Conspiración</i> distintas. Durante la fase de Trama, las cartas de <i>Conspiración</i> no se consideran parte de tu mazo de Tramas.\n<b>Reacción:</b> después de que ganes un reto [intrigue] por 5 o más de FUE, arrodilla tu carta de Facción para mostrar una Trama de tipo <i>Conspiración</i>. Si esa carta abandona el juego, retírala del juego.",
         "traits": "Canción."

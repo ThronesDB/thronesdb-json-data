@@ -22,8 +22,8 @@
     },
     {
         "code": "03004",
-        "flavor": "",
         "designer": "Carta diseñada por Erick A. Butzlaff, campeón mundial de 2009.",
+        "flavor": "",
         "name": "El Pez Negro",
         "text": "Renombre.\nMientras El Pez Negro tenga 4 o más de Poder, ningún Personaje de la <i>Casa Tully</i> que controles se arrodilla cuando es declarado como atacante.\n<b>Reacción:</b> después de que ganes un reto [military] como jugador atacante, roba 1 carta. (Límite de 1 vez por fase.)",
         "traits": "Casa Tully. Caballero. Lord."
@@ -317,8 +317,8 @@
     },
     {
         "code": "03046",
-        "flavor": "",
         "designer": "Carta diseñada por Dan Seefeldt, campeón de los EE.UU. en 2012.",
+        "flavor": "",
         "name": "Tiempo de lobos",
         "text": "<b>Cuando se muestre esta carta:</b> busca en tu mazo una carta <i>Lobo huargo</i>, muéstrala y añádela tu mano. Si el coste impreso de esa carta es de 3 o menos, en vez de eso puedes ponerla en juego. Baraja tu  mazo.",
         "traits": "Invierno."

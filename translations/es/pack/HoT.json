@@ -36,8 +36,8 @@
     },
     {
         "code": "09006",
-        "flavor": "",
         "designer": "Carta diseñada por Gregoire Lefebvre, campeón europeo de Contienda en 2011.",
+        "flavor": "",
         "name": "Margaery Tyrell",
         "text": "Mientras Margaery Tyrell esté atacando, recibe un +1 a su FUE por cada Personaje defensor.\n<b>Reacción:</b> después de que Margaery Tyrell sea declarada como atacante, arrodilla un Personaje de tu elección que esté controlado por el jugador defensor. Ese Personaje está participando en el reto como defensor.",
         "traits": "Lady. Reina."
@@ -275,8 +275,8 @@
     },
     {
         "code": "09040",
-        "flavor": "",
         "designer": "Carta diseñada por Ryan Jones, campeón mundial absoluto en 2013.",
+        "flavor": "",
         "name": "Hombre sin Rostro",
         "text": "Emboscada (4).\n<b>Acción de Reto:</b> elige un Personaje que esté en una pila de muertos. Hasta el final de la fase, el Hombre sin Rostro gana todos los iconoes de reto, palabras clave, facciones y <i>Rasgos</i> impresos en la carta de ese Personaje. (Límite de 1 vez por fase.)",
         "traits": ""

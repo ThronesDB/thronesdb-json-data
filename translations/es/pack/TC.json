@@ -29,8 +29,8 @@
     },
     {
         "code": "04105",
-        "flavor": "",
         "designer": "Carta diseñada por Jonathan Benton, campeón mundial de Contienda en 2009.",
+        "flavor": "",
         "name": "Qhorin Mediamano",
         "text": "Renombre. Sin Accesorios excepto <i>Arma</i>.\n<b>Reacción:</b> después de que ganes un reto [military] en el que Qhorin Mediamano esté participando, mata a un Personaje no único de tu elección cuya FUE sea inferior a la suya y que esté controlado por el adversario derrotado.",
         "traits": "Explorador."
