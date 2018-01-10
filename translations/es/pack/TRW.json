@@ -8,8 +8,9 @@
     },
     {
         "code": "06062",
+        "designer": "Carta diseñada por Brian Aurelio, campeón norteamericano de Contienda en 2015.",
         "name": "Campo de tiro de Invernalia",
-        "text": "<b>Acción:</b> durante un reto [military], arrodilla el Campo de tiro de Invernalia para elegir a un Personaje participante que tenga una FUE de 3 o menos y retirarlo del reto.\n<b>Carta diseñada por Brian Aurelio, campeón norteamericano de Contienda en 2015.</b>",
+        "text": "<b>Acción:</b> durante un reto [military], arrodilla el Campo de tiro de Invernalia para elegir a un Personaje participante que tenga una FUE de 3 o menos y retirarlo del reto.",
         "traits": "Invernalia."
     },
     {

@@ -115,8 +115,9 @@
     },
     {
         "code": "02079",
+        "designer": "Carta diseñada por John M. Bruno, campeón mundial de 2005.",
         "name": "Las primeras nieves del invierno",
-        "text": "<b>Reacción obligada:</b> después de que empiece la fase de Reto, devuelve a la mano de su propietario cada Personaje que tenga un coste impreso de 3 o menos.\n<b>Carta diseñada por John M. Bruno, campeón mundial de 2005.</b>",
+        "text": "<b>Reacción obligada:</b> después de que empiece la fase de Reto, devuelve a la mano de su propietario cada Personaje que tenga un coste impreso de 3 o menos.",
         "traits": "Augurio. Invierno."
     },
     {

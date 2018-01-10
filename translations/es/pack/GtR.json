@@ -122,8 +122,9 @@
     },
     {
         "code": "06040",
+        "designer": "Carta diseñada por Alexander Hynes, campeón mundial absoluto de 2014.",
         "name": "Los anales del Castillo Negro",
-        "text": "Cada jugador puede jugar Eventos que estén en la pila de descartes como si estuvieran en su mano.\n<b>Reacción obligada:</b> después de que se coloque un Evento en la pila de descarte, retíralo del juego.\n<b>Carta diseñada por Alexander Hynes, campeón mundial absoluto de 2014.</b>",
+        "text": "Cada jugador puede jugar Eventos que estén en la pila de descartes como si estuvieran en su mano.\n<b>Reacción obligada:</b> después de que se coloque un Evento en la pila de descarte, retíralo del juego.",
         "traits": "Legado."
     }
 ]

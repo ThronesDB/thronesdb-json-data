@@ -5,9 +5,27 @@
             "pattern": "^[0-9]{5}$",
             "type": "string"
         },
+        "designer": {
+            "oneOf": [
+                {
+                    "minLength": 0,
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
         "flavor": {
-            "minLength": 0,
-            "type": "string"
+            "oneOf": [
+                {
+                    "minLength": 0,
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "name": {
             "minLength": 1,

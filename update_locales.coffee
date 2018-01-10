@@ -32,7 +32,7 @@ loadCards = (root) ->
     files = fs.readdirSync localeRoot
     for file in files
         json = JSON.parse fs.readFileSync(path.join(localeRoot, file), 'UTF-8')
-        result[file] = stripProps json, ['code','flavor','name','text','traits']
+        result[file] = stripProps json, ['code', 'designer', 'flavor','name','text','traits']
     result
 
 merge_data = (defaultLocale, locale) ->

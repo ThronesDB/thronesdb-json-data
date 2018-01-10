@@ -65,8 +65,9 @@
     },
     {
         "code": "02051",
+        "designer": "Carta diseñada por Casey Galvan, campeón mundial de 2003.",
         "name": "Lord de nuevo cuño",
-        "text": "<b>Reacción:</b> después de que reclutes al Lord de nuevo cuño, descarta del juego un Lugar no limitado de tu elección con un coste impreso de 3 o menos.\n<b>Carta diseñada por Casey Galvan, campeón mundial de 2003.</b>",
+        "text": "<b>Reacción:</b> después de que reclutes al Lord de nuevo cuño, descarta del juego un Lugar no limitado de tu elección con un coste impreso de 3 o menos.",
         "traits": "Lord."
     },
     {

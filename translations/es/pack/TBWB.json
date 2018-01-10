@@ -101,8 +101,9 @@
     },
     {
         "code": "06117",
+        "designer": "Carta diseñada por Jakob Hultman, campeón europeo de Contienda en 2014.",
         "name": "Beric Dondarrion",
-        "text": "Renombre.\nX es la cantidad de fichas de Beso que haya sobre Beric Dondarrion.\n<b>Reacción obligada:</b> después de que reclutes a Beric Dondarrion, coloca 6 fichas de Beso sobre su carta (este efecto no puede anularse).\n<b>Interrupción:</b> cuando Beric Dondarrion vaya a morir, descarta una ficha de Beso de su carta para salvarlo.\n<b>Carta diseñada por Jakob Hultman, campeón europeo de Contienda en 2014.</b>",
+        "text": "Renombre.\nX es la cantidad de fichas de Beso que haya sobre Beric Dondarrion.\n<b>Reacción obligada:</b> después de que reclutes a Beric Dondarrion, coloca 6 fichas de Beso sobre su carta (este efecto no puede anularse).\n<b>Interrupción:</b> cuando Beric Dondarrion vaya a morir, descarta una ficha de Beso de su carta para salvarlo.",
         "traits": "Caballero. Lord. R'hllor."
     },
     {

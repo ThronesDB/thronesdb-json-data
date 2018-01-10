@@ -60,6 +60,10 @@
         "name": "La venganza de Oberyn"
     },
     {
+        "code": "SoD",
+        "name": "Arenas de Dorne"
+    },
+    {
         "code": "TAK",
         "name": "La llave del archimaestre"
     },
@@ -70,6 +74,10 @@
     {
         "code": "TC",
         "name": "La cadena de Tyrion"
+    },
+    {
+        "code": "TFM",
+        "name": "The Faith Militant"
     },
     {
         "code": "TFoA",
