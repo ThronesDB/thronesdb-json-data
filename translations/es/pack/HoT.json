@@ -1,12 +1,14 @@
 [
     {
         "code": "09001",
+        "flavor": "",
         "name": "Mace Tyrell",
         "text": "<b>Reacción:</b> después de que un Personaje [tyrell] entre en juego controlado por ti, paga 1 de Oro para hacer que Mace Tyrell gane 1 de Poder. (Límite de 1 vez por fase.)\n<b>Acción:</b> arrodilla tu carta de Facción para retirar del juego hasta el principio de la siguiente fase otro Personaje [tyrell] que controles.",
         "traits": "Lord."
     },
     {
         "code": "09002",
+        "flavor": "",
         "name": "Brienne de Tarth",
         "text": "<b>Reacción:</b> después de que ganes un reto en el que esté participando Brienne de Tarth, si su FUE es:\n - 6 o más, Brienne de Tarth gana 1 de poder.\n - 10 o más, elige otro Personaje. Ese Personaje recibe un +3 a su FUE hasta el final de la fase.\n - 15 o más, pon en pie a Brienne de Tarth y roba 1 carta.",
         "traits": "Lady."
@@ -27,12 +29,14 @@
     },
     {
         "code": "09005",
+        "flavor": "",
         "name": "Guardia de honor de Altojardín",
         "text": "Emboscada (6). Sin Accesorios.\nEl coste para usar la Emboscada de la Guardia de honor de Altojardín se reduce en 1 por cada Lugar de <i>El Dominio</i> que controles.",
         "traits": "Ejército. Guardia."
     },
     {
         "code": "09006",
+        "flavor": "",
         "designer": "Carta diseñada por Gregoire Lefebvre, campeón europeo de Contienda en 2011.",
         "name": "Margaery Tyrell",
         "text": "Mientras Margaery Tyrell esté atacando, recibe un +1 a su FUE por cada Personaje defensor.\n<b>Reacción:</b> después de que Margaery Tyrell sea declarada como atacante, arrodilla un Personaje de tu elección que esté controlado por el jugador defensor. Ese Personaje está participando en el reto como defensor.",
@@ -47,6 +51,7 @@
     },
     {
         "code": "09008",
+        "flavor": "",
         "name": "Willas Tyrell",
         "text": "<b>Acción:</b> arrodilla a Willas Tyrell. Luego, si controlas a:\n - Margaery Tyrell, ponla en pie.\n - El Caballero de las Flores, éste gana Perspicacia hasta el final de la fase.\n - Ser Garlan Tyrell, éste gana Renombre hasta el final de la fase.",
         "traits": "Lord."
@@ -67,12 +72,14 @@
     },
     {
         "code": "09011",
+        "flavor": "",
         "name": "Emisaria de Torrealta",
         "text": "Emboscada (4).\n<b>Reacción:</b> después de que la Emisaria de Torrealta entre en juego, elige un Evento que esté en tu pila de descartes. Hasta el final de la fase, puedes jugar ese Evento como si estuviera en tu mano. Si lo haces, retíralo del juego en vez de colocarlo en tu pila de descartes.",
         "traits": "Casa Hightower."
     },
     {
         "code": "09012",
+        "flavor": "",
         "name": "Caballero de la manzana verde",
         "text": "El Caballero de la manzana verde recibe un +1 a su FUE por cada Personaje <i>Caballero</i> que controles aparte de él.\nMientras controles al menos otros 2 Personajes <i>Caballero</i>, el Caballero de la manzana no se arrodilla cuando es declarado como atacante.",
         "traits": "Caballero."
@@ -86,12 +93,14 @@
     },
     {
         "code": "09014",
+        "flavor": "",
         "name": "Maestre Ballabar",
         "text": "<b>Acción:</b> durante un reto en el que controles un Personaje participante, arrodilla al Maestre Ballabar para eligir un Personaje que tenga la FUE más baja de entre todos los Personajes participantes. Pon en pie a ese Personaje y retíralo del reto.",
         "traits": "Maestre."
     },
     {
         "code": "09015",
+        "flavor": "",
         "name": "Cortesana de Altojardín",
         "text": "<b>Reacción:</b> después de que la FUE de otro Personaje se va incrementada por efecto de una carta, arrodilla a la Cortesana de Altojardín para poner en pie a ese Personaje. (Límite de 1 vez por fase.)",
         "traits": "Acompañante."
@@ -112,6 +121,7 @@
     },
     {
         "code": "09018",
+        "flavor": "",
         "name": "Estrechos Redwyne",
         "text": "Limitada.\n+2 Oro.",
         "traits": "Casa Redwyne."
@@ -125,18 +135,21 @@
     },
     {
         "code": "09020",
+        "flavor": "",
         "name": "Reina de los Siete Reinos",
         "text": "Sólo Personajes <i>Lady</i>.\nEl Personaje vinculado gana el rasgo <i>Reina</i>.\n<b>Acción:</b> pon en pie al Personaje vinculado y retíralo de un reto para elegir un Personaje participante. Pon en pie a ese Personaje y retíralo del reto. (Límite de 1 vez por fase.)",
         "traits": "Título."
     },
     {
         "code": "09021",
+        "flavor": "",
         "name": "Lanza de torneo",
         "text": "Sólo Personajes <i>Caballero</i>.\nEl Personaje vinculado recibe un +1 a su FUE.\nMientras el Personaje vinculado esté atacando solo, el jugador defensor no puede declarar más de 1 Personaje como defensor.",
         "traits": "Arma."
     },
     {
         "code": "09022",
+        "flavor": "",
         "name": "Contienda en Puenteamargo",
         "text": "<b>Acción:</b> elige X Personajes participantes. Cada Personaje de entre los elegidos que tenga la puntuación más alta de FUE gana Renombre hasta el final del reto. Todos los demás Personajes elegidos no aportan su FUE al reto.",
         "traits": ""
@@ -150,6 +163,7 @@
     },
     {
         "code": "09024",
+        "flavor": "",
         "name": "Espinas ocultas",
         "text": "<b>Reacción:</b> después de que ganes un reto [intrigue] por 5 o más de FUE, el adversario derrotado descarta 2 cartas de su mano de su elección. Luego, si controlas a La Reina de las Espinas, devuelve Espinas ocultas a tu mano en vez de colocarla en tu pila de descartes. (Máximo 1 por reto.)",
         "traits": ""
@@ -170,12 +184,14 @@
     },
     {
         "code": "09027",
+        "flavor": "",
         "name": "Apóstol del Dios Ahogado",
         "text": "<b>Reacción:</b> después de que ganes la Dominación, mata al Apóstol del Dios Ahogado para poner en juego desde tu pila de muertos un Personaje [greyjoy] que no sea único y cuyo coste impreso sea de 3 o menos.",
         "traits": "Dios Ahogado. Hijo del Hierro"
     },
     {
         "code": "09028",
+        "flavor": "",
         "name": "Lago del Cadáver",
         "text": "<b>Reacción:</b> después de que un Personaje sea descartado del mazo de un adversario, el Lago del Cadáver gana 1 de Poder. (Límite de 3 veces por ronda.)",
         "traits": "Islas del Hierro."
@@ -189,12 +205,14 @@
     },
     {
         "code": "09030",
+        "flavor": "",
         "name": "Colmillo de León",
         "text": "Sólo Personajes [lannister] únicos. Emboscada (2).\nEl Personaje vinculado recibe un +1 a su FUE.\n<b>Acción:</b> durante un reto en el que esté participando el Personaje vinculado, sacrifica Colmillo de León para elegir un Personaje participante con un coste impreso de 3 o menos y devolverlo a la mano de su propietario.",
         "traits": "Arma."
     },
     {
         "code": "09031",
+        "flavor": "",
         "name": "El bastardo de Bondadivina",
         "text": "Renombre.\n<b>Acción de Reto:</b> descarta 1 de Poder de El bastardo de Bondadivina para reducir en 2 el coste de la siguiente carta que juegues o introduzcas mediante Emboscada en esta fase.",
         "traits": "Bastardo. Caballero."
@@ -208,12 +226,14 @@
     },
     {
         "code": "09033",
+        "flavor": "",
         "name": "Paul el Pequeño",
         "text": "Sin Accesorios excepto <i>Armas</i>.\n<b>Interrupción:</b> cuando Paul el Pequeño muera, busca entre las X primeras cartas de tu mazo cualquier número de Personajes <i>Mayordomo</i>, muéstralos y añádelos a tu mano. X es tu valor de Reserva. Baraja tu mazo.",
         "traits": "Mayordomo."
     },
     {
         "code": "09034",
+        "flavor": "",
         "name": "Juramentos rotos",
         "text": "<b>Acción de Reclutamiento:</b> cede a un adversario el control de un Personaje [thenightswatch] que controles. Luego toma el control de un Personaje no leal controlado por ese jugador que tenga un coste impreso inferior.",
         "traits": ""
@@ -227,6 +247,7 @@
     },
     {
         "code": "09036",
+        "flavor": "",
         "name": "Último Hogar",
         "text": "<b>Acción:</b> arrodilla Último Hogar para otorgar un +2 a la FUE de un Personaje [stark] participante hasta el final del reto (+3 a la FUE si hay menos de 3 cartas de Trama en tu pila de cartas usadas.)",
         "traits": "Casa Umber. El Norte."
@@ -240,6 +261,7 @@
     },
     {
         "code": "09038",
+        "flavor": "",
         "name": "Tokar",
         "text": "Sólo Personajes [targaryen].\nEl Personaje vinculado recibe un +1 a su FUE por cada Accesorio que tenga.\nMientras el Personaje vinculado esté participando en un reto, los Personajes que no tengan Accesorios no podrán ganar Poder.",
         "traits": "Objeto."
@@ -253,6 +275,7 @@
     },
     {
         "code": "09040",
+        "flavor": "",
         "designer": "Carta diseñada por Ryan Jones, campeón mundial absoluto en 2013.",
         "name": "Hombre sin Rostro",
         "text": "Emboscada (4).\n<b>Acción de Reto:</b> elige un Personaje que esté en una pila de muertos. Hasta el final de la fase, el Hombre sin Rostro gana todos los iconoes de reto, palabras clave, facciones y <i>Rasgos</i> impresos en la carta de ese Personaje. (Límite de 1 vez por fase.)",
@@ -288,48 +311,56 @@
     },
     {
         "code": "09045",
+        "flavor": "",
         "name": "El Cónclave",
         "text": "Puedes incluir en tu mazo Personajes <i>Maestre</i> no leales de cualquier facción. Tu mazo debe contener al menos 12 Personajes <i>Maestre</i>. Antes de colocar  las cartas de inicio, pon boca abajo las 7 primeras cartas de tu mazo y colócalas debajo de esta carta de Estrategia.\n<b>Reacción:</b> después de que ganes un reto en el que controles un Personaje <i>Maestre</i> participante, elige 1 carta que esté debajo de esta carta de Estrategia e intercámbiala por la pimera carta de tu mazo.",
         "traits": "Ciudadela. Cónclave."
     },
     {
         "code": "09046",
+        "flavor": "",
         "name": "Guardianes del Sur",
         "text": "<b>Reacción:</b> después de que un Personaje [tyrell] que controles sea declarado como atacante o defensor, ese Personaje recibe un +2 a su FUE hasta el final del reto.",
         "traits": "Verano."
     },
     {
         "code": "09047",
+        "flavor": "",
         "name": "Bajo asedio",
         "text": "Al menos un Personaje debe declararse como defensor en cada reto (si puede).",
         "traits": "Asedio. Guerra."
     },
     {
         "code": "09048",
+        "flavor": "",
         "name": "Tu Rey te lo ordena",
         "text": "Los Personajes que no sean <i>Rey</i> ni </i>Reina</i> no pueden ganar Poder.",
         "traits": "Edicto. Nobleza."
     },
     {
         "code": "09049",
+        "flavor": "",
         "name": "La red de la araña",
         "text": "<b>Reacción:</b> después de que se aplique el efecto de Conquista de un reto [intrigue] que hayas ganado tú, puedes iniciar un reto [intrigue] adicional en esta fase. Hasta el final de la fase, el valor de Conquista de tu carta de Trama mostrada aumenta en 1 durante retos [intrigue]. (Límite de 1 vez por fase.)",
         "traits": "Conspiración."
     },
     {
         "code": "09050",
+        "flavor": "",
         "name": "Ahora habrá guerra",
         "text": "<b>Interrupción obligada:</b> cuando se aplique el efecto de Conquista de un reto [intrigue] o [power], el jugador atacante puede elegir aplicar un efecto de Conquista [military] en su lugar.",
         "traits": "Guerra."
     },
     {
         "code": "09051",
+        "flavor": "",
         "name": "Rutas comerciales",
         "text": "<b>Cuando se muestre esta carta:</b> elige un adversario. Ganas 1 de Oro por cada Lugar que controles y por cada Lugar que controle ese adversario.",
         "traits": "Reino. Verano."
     },
     {
         "code": "09052",
+        "flavor": "",
         "name": "No hay nada que queme como el frío",
         "text": "<b>Cuando se muestre esta carta:</b> cada jugador elige un Accesorio y un Lugar no Limitado que controle, si puede, y descarta esas cartas del juego (no pueden salvarse).",
         "traits": "Invierno."

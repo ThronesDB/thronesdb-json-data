@@ -15,6 +15,7 @@
     },
     {
         "code": "04063",
+        "flavor": "",
         "name": "La hueste del rey Renly",
         "text": "Intimidación. Sin Accesorios.\nMientras haya mostrada una carta de Trama de <i>Verano</i>, La hueste del rey Renly recibe un +4 a su FUE.\nMientras haya mostrada una carta de Trama de <i>Invierno</i>, La hueste del rey Renly no puede ser declarada como atacante.",
         "traits": "Ejército."
@@ -28,12 +29,14 @@
     },
     {
         "code": "04065",
+        "flavor": "",
         "name": "Albañil de la Torre Sombría",
         "text": "Sin Accesorios excepto <i>Arma</i>.\nMientras controles 3 o más Lugares y/o Accesorios [thenightswatch], el Albañil de la Torre Sombría gana un icono [military] y un icono [intrigue].",
         "traits": "Constructor."
     },
     {
         "code": "04066",
+        "flavor": "",
         "name": "El Bosque Encantado",
         "text": "Mientras El Bosque Encantado esté en pie, aporta 1 de FUE a tu bando durante cualquier reto en el que seas el jugador defensor.\n<b>Reacción obligada:</b> después de que pierdas un reto, arrodilla El Bosque Encantado.",
         "traits": "El Norte."
@@ -96,36 +99,42 @@
     },
     {
         "code": "04075",
+        "flavor": "",
         "name": "Elia Arena",
         "text": "<b>Reacción:</b> después de que pierdas un reto, elige un Personaje. Hasta el final de la fase, ese Personaje gana Sigilo. (Límite de 2 veces por fase.)",
         "traits": "Bastardo. Serpiente de arena."
     },
     {
         "code": "04076",
+        "flavor": "",
         "name": "Ardiendo en la arena",
         "text": "<b>Reacción:</b> después de que pierdas un reto sin oposición, el valor de Conquista de la carta de Trama mostrada por el adversario ganador se reduce a 0 hasta el final del reto.",
         "traits": ""
     },
     {
         "code": "04077",
+        "flavor": "",
         "name": "Jaqen H'ghar",
         "text": "<b>Reacción:</b> después de que Jaqen H'ghar entre en juego, pon 1 ficha de Valar Morghulis sobre un máximo de 3 Personajes únicos diferentes. Si Jaqen H'ghar abandona el juego, esas fichas se descartan del juego.\n<b>Reacción:</b> después de que ganes un reto en el que Jaqen H'ghar esté atacando solo, mata a un Personaje de tu elección que tenga encima una ficha de Valar Morghulis.",
         "traits": "Aliado."
     },
     {
         "code": "04078",
+        "flavor": "",
         "name": "La Isla de los Cuervos",
         "text": "<b>Acción:</b> arrodilla La Isla de los Cuervos para elegir una carta que esté en la pila de descartes de cualquier jugador, devolverla al mazo de su propietario y luego barajar éste.",
         "traits": "Antigua."
     },
     {
         "code": "04079",
+        "flavor": "",
         "name": "Rey más allá del Muro",
         "text": "Sólo Personajes <i>Salvaje</i>.\nEl Personaje vinculado gana el rasgo <i>Rey</i>.\nMientras el Personaje vinculado esté atacando a un jugador que tenga un total de Poder más alto que el tuyo, el valor de Conquista de tu carta de Trama mostrada aumenta en 1.",
         "traits": "Título."
     },
     {
         "code": "04080",
+        "flavor": "",
         "name": "Valar Morghulis",
         "text": "<b>Cuando se muestre esta carta:</b> mata a cada Personaje.",
         "traits": "Augurio."

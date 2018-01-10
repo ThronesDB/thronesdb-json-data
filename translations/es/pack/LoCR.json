@@ -1,6 +1,7 @@
 [
     {
         "code": "05001",
+        "flavor": "",
         "name": "Cersei Lannister",
         "text": "Cersei Lannister no se arrodilla cuando es declarada como atacante en un reto [intrigue].\n<b>Reacción:</b> después de que se descarte 1 o más cartas de la mano de un adversario, si no apoyas a ese jugador, Cersei Lannister gana 1 de Poder. (Límite de 3 veces por ronda.)",
         "traits": "Lady. Reina."
@@ -14,6 +15,7 @@
     },
     {
         "code": "05003",
+        "flavor": "",
         "designer": "Carta diseñada por Bing Ouyang, campeón de China en 2012.",
         "name": "Ser Kevan Lannister",
         "text": "<b>Reacción:</b> después de que reclutes a Ser Kevan Lannister, elige un Lugar o Accesorio [lannister] o neutral que esté en tu pila de descartes y ponlo en juego.",
@@ -28,6 +30,7 @@
     },
     {
         "code": "05005",
+        "flavor": "",
         "name": "Ser Jaime Lannister",
         "text": "Cada Personaje <i>Caballero</i> que controles gana Renombre mientras esté atacando solo.\n<b>Acción de Reto:</b> elige un Personaje <i>Guardia Real</i>. Hasta el final de la fase, ese Personaje gana un icono [intrigue]. (Límite de 1 vez por fase.)",
         "traits": "Guardia Real. Caballero."
@@ -41,18 +44,21 @@
     },
     {
         "code": "05007",
+        "flavor": "",
         "name": "Chella, Hija de Cheyk",
         "text": "Chella, Hija de Cheyk recibe un +1 a su FUE por cada ficha de Oreja que tenga. Mientras tenga 3 o más fichas de Oreja, gana Intimidación y Renombre.\n<b>Reacción:</b> después de que un Personaje muera durante un reto en el que Chella, hija de Cheyk esté atacando, pon 1 ficha de Oreja sobre ella.",
         "traits": "Miembro de clan."
     },
     {
         "code": "05008",
+        "flavor": "",
         "name": "Saqueadores de ser Gregor",
         "text": "Pillaje.\n<b>Reacción:</b> después de que los Saqueadores de ser Gregor descarten un Evento utilizando Pillaje, ponlos en pie.",
         "traits": "Casa Clegane. Asaltante."
     },
     {
         "code": "05009",
+        "flavor": "",
         "name": "Shagga, hijo de Dolf",
         "text": "Mientras Shagga, hijo de Dolf esté en tu mano, gana Emboscada (0) si controlas un Personaje <i>Miembro de clan</i> o a Tyrion Lannister.\n<b>Reacción obligada:</b> después de que Shagga, hijo de Dolf entre en juego utilizando la Emboscada, mata a un Personaje [lannister] de tu elección que controles.",
         "traits": "Miembro de clan."
@@ -66,12 +72,14 @@
     },
     {
         "code": "05011",
+        "flavor": "",
         "name": "Hermanos de la Luna",
         "text": "<b>Acción:</b> durante un reto en el que controles un Personaje <i>Miembro de clan</i> atacante, arrodilla tu carta de Facción para poner en juego desde tu mano a los Hermanos de la Luna (en pie) participando como atacantes.",
         "traits": "Miembro de clan."
     },
     {
         "code": "05012",
+        "flavor": "",
         "name": "Espía de la Fortaleza Roja",
         "text": "Emboscada (4).\n<b>Reacción:</b> después de que la Espía de la Fortaleza Roja entre en juego utilizando la Emboscada, elige un Personaje con un coste impreso de 3 o menos. Si tienes más cartas en la mano que el jugador que controla a ese Personaje, devuélvelo a la mano de su propietario.",
         "traits": "Aliado. Espía."
@@ -99,12 +107,14 @@
     },
     {
         "code": "05016",
+        "flavor": "",
         "name": "Guardia de Lannisport",
         "text": "<b>Reacción:</b> después de que reclutes al Guardia de Lannisport, cada jugador roba 1 carta.",
         "traits": "Aliado. Guardia."
     },
     {
         "code": "05017",
+        "flavor": "",
         "name": "Colmillo Dorado",
         "text": "Limitada.\n<b>Acción:</b> arrodilla el Colmillo Dorado para ganar 1 de Oro. (3 de Oro si un adversario no tiene cartas en su mano.)",
         "traits": "Fortaleza. Tierras de Occidente."
@@ -118,12 +128,14 @@
     },
     {
         "code": "05019",
+        "flavor": "",
         "name": "Tesorería de Lannisport",
         "text": "<b>Reacción:</b> después de que empiece la fase de Impuestos, pon 1 de Oro de tu suministro de Oro sobre la Tesorería de Lannisport.\n<b>Acción de Reclutamiento:</b> arrodilla la Tesorería de Lannisport para trasladar cualquier cantidad de Oro desde la Tesorería de Lannisport hasta tu suministro de Oro.",
         "traits": "Tierras de Occidente."
     },
     {
         "code": "05020",
+        "flavor": "",
         "name": "Escudo de Lannisport",
         "text": "Sólo Personaje [lannister] <i>Lord</i> o </i>Lady</i>.\nMientras no controles ningún Personaje <i>Lord</i> o <i>Lady</i> con un coste impreso de 4 o más aparte del Personaje vinculado, éste recibe un +2 a su FUE y gana Renombre.",
         "traits": "Título."
@@ -137,18 +149,21 @@
     },
     {
         "code": "05022",
+        "flavor": "",
         "name": "Un Lannister siempre paga sus deudas",
         "text": "<b>Acción de Reto:</b> elige un adversario que haya ganado un reto contra ti en esta fase. Puedes iniciar un reto [military] y otro [intrigue] adicionales contra ese jugador en esta fase. (Máximo 1 por fase.)",
         "traits": ""
     },
     {
         "code": "05023",
+        "flavor": "",
         "name": "Conspiración insidiosa",
         "text": "<b>Reacción:</b> después de que se aplique el efecto de Conquista de un reto [intrigue] que hayas ganado por 5 o más de FUE, roba 2 cartas. (4 cartas si el adversario derrotado no tiene cartas en su mano.)",
         "traits": ""
     },
     {
         "code": "05024",
+        "flavor": "",
         "name": "Rescate audaz",
         "text": "Juega esta carta sólo si controlas un Personaje <i>Caballero</i>.\n<b>Acción de Reto:</b> devuelve un Personaje que controles a la mano de su propietario. Luego haz que un Personaje <i>Caballero</i> que controles gane 1 de Poder.",
         "traits": ""
@@ -162,6 +177,7 @@
     },
     {
         "code": "05026",
+        "flavor": "",
         "name": "Derecho disputado",
         "text": "Sólo Personajes <i>Bastardo</i>, <i>Lord</i>, o <i>Lady</i>.\nMientras tengas más Poder sobre tu carta de Facción que cada adversario, el Personaje vinculado recibe un +2 a su FUE y gana Renombre.",
         "traits": "Estado."
@@ -175,12 +191,14 @@
     },
     {
         "code": "05028",
+        "flavor": "",
         "name": "Viejo Wyk",
         "text": "<b>Reacción:</b> después de que inicies un reto [power], arrodilla Viejo Wyk para poner en juego arrodillado al primer Personaje del <i>Dios Ahogado</i> que haya en tu pila de muertos, participando como atacante. Si ganas el reto por 5 o más de FUE, devuelve ese Personaje a tu mano. En caso contrario, colócalo en la parte inferior de tu mazo.",
         "traits": "Islas del Hierro."
     },
     {
         "code": "05029",
+        "flavor": "",
         "name": "Trystane Martell",
         "text": "<b>Reacción:</b> después de que pierdas un reto en el que Trystane Martell esté participando, elige un Personaje que tenga menos FUE que él. Hasta el final de la fase, ese Personaje no puede ser declarado como defensor.",
         "traits": "Lord."
@@ -229,6 +247,7 @@
     },
     {
         "code": "05036",
+        "flavor": "",
         "name": "El favor de Daenerys",
         "text": "Sólo Personajes [targaryen].\nMientras el Personaje vinculado esté participando en un reto, todos los demás Personajes participantes reciben un -1 a su FUE.",
         "traits": "Estado."
@@ -242,12 +261,14 @@
     },
     {
         "code": "05038",
+        "flavor": "",
         "name": "\"Una rosa de oro\"",
         "text": "<b>Acción de Reto:</b> mira las 3 primeras cartas de tu mazo. Añade 1 a tu mano y coloca las demás en la parte inferior del mazo en el orden que prefieras.",
         "traits": "Canción."
     },
     {
         "code": "05039",
+        "flavor": "",
         "name": "Septón Supremo",
         "text": "<b>Interrupción:</b> cuando un adversario elija un Personaje que controles como único objetivo de una capacidad activada, en vez de eso elige un Personaje de <i>Los Siete</i> válido que controles para que sea objetivo de esa capacidad activada. (Límite de 1 vez por fase.)",
         "traits": "Los Siete."
@@ -261,18 +282,21 @@
     },
     {
         "code": "05041",
+        "flavor": "",
         "name": "Salvaje bandido",
         "text": "Mientras el Salvaje bandido esté atacando a un adversario que tenga más Oro que tú en su suministro de Oro, recibe un +2 a su FUE.",
         "traits": "Salvaje."
     },
     {
         "code": "05042",
+        "flavor": "",
         "name": "Camino del Océano",
         "text": "Limitada.\n<b>Acción de Reclutamiento:</b> arrodilla el Camino del Océano para reducir en 1 el coste de la siguiente carta neutral o de facción ajena que reclutes en esta fase.",
         "traits": "Poniente."
     },
     {
         "code": "05043",
+        "flavor": "",
         "name": "Nombramiento",
         "text": "Sólo Personajes únicos.\nEl Personaje vinculado gana un icono [intrigue] y el rasgo <i>Consejo Privado</i>.",
         "traits": "Título."
@@ -286,6 +310,7 @@
     },
     {
         "code": "05045",
+        "flavor": "",
         "designer": "Carta diseñada por Álvaro Rodríguez, campeón mundial de Justa en 2013.",
         "name": "\"Las lluvias de Castamere\"",
         "text": "Tu mazo de Tramas debe contener 12 cartas, incluidas exactamente 5 cartas de <i>Conspiración</i> distintas. Durante la fase de Trama, las cartas de <i>Conspiración</i> no se consideran parte de tu mazo de Tramas.\n<b>Reacción:</b> después de que ganes un reto [intrigue] por 5 o más de FUE, arrodilla tu carta de Facción para mostrar una Trama de tipo <i>Conspiración</i>. Si esa carta abandona el juego, retírala del juego.",
@@ -293,42 +318,49 @@
     },
     {
         "code": "05046",
+        "flavor": "",
         "name": "Leones de la Roca",
         "text": "<b>Reacción:</b> después de que empiece la fase de Reto, ganas 3 de oro.",
         "traits": "Reino."
     },
     {
         "code": "05047",
+        "flavor": "",
         "name": "Demora inesperada",
         "text": "<b>Reacción obligada:</b> después de que empiece la fase de Reto, cada jugador elige un Personaje que no tenga Poder ni Accesorios vinculados. Todos esos Personajes regresan a las manos de sus respectivos propietarios.",
         "traits": "Casa Frey."
     },
     {
         "code": "05048",
+        "flavor": "",
         "name": "Convocados ante la corte",
         "text": "<b>Reacción obligada:</b> cuando termine la fase de Robo, cada jugador elige una carta que tenga en su mano (si puede). Luego se muestran las cartas elegidas. Cada jugador que haya mostrado un Personaje con el coste impreso más bajo puede ponerlo en juego.",
         "traits": "Edicto. Reino."
     },
     {
         "code": "05049",
+        "flavor": "",
         "name": "La intromisión de Meñique",
         "text": "Reduce en 2 el coste de cada Evento que juegues.",
         "traits": "Reino. Conspiración."
     },
     {
         "code": "05050",
+        "flavor": "",
         "name": "Rumores y mentiras",
         "text": "Los Personajes que controles no se arrodillan cuando son declarados como atacantes en el primer reto [intrigue] que inicies durante la fase de Reto.",
         "traits": "Conspiración."
     },
     {
         "code": "05051",
+        "flavor": "",
         "name": "Temporada próspera",
         "text": "Aumenta en 1 el número de cartas que roba cada jugador en la fase de Robo.",
         "traits": "Verano."
     },
     {
         "code": "05052",
+        "flavor": "",
         "name": "Helada prematura",
         "text": "Reduce en 1 el número de cartas que roba cada jugador en la fase de Robo.",
         "traits": "Invierno."

@@ -1,6 +1,7 @@
 [
     {
         "code": "05001",
+        "flavor": "",
         "name": "Cersei Lannister",
         "text": "Cersei Lannister does not kneel when declared as an attacker in an [intrigue] challenge.\n<b>Reaction:</b> After 1 or more cards are discarded from an opponent's hand, if you do not support that player, Cersei Lannister gains 1 power. (Limit 3 times per round.)",
         "traits": "Lady. Queen."
@@ -14,6 +15,7 @@
     },
     {
         "code": "05003",
+        "flavor": "",
         "name": "Ser Kevan Lannister",
         "text": "<b>Reaction:</b> After you marshal Ser Kevan Lannister, choose a [lannister] or neutral location or attachment in your discard pile and put it into play.\n<b>Card design by 2012 Chinese National Champion, Bing Ouyang.</b>",
         "traits": "Knight. Lord. Small Council."
@@ -27,6 +29,7 @@
     },
     {
         "code": "05005",
+        "flavor": "",
         "name": "Ser Jaime Lannister",
         "text": "Each <i>Knight</i> character you control gains renown while attacking alone.\n<b>Challenges Action:</b> Choose a <i>Kingsguard</i> character. Until the end of the phase, that character gains an [intrigue] icon. (Limit once per phase.)",
         "traits": "Kingsguard. Knight."
@@ -40,18 +43,21 @@
     },
     {
         "code": "05007",
+        "flavor": "",
         "name": "Chella Daughter of Cheyk",
         "text": "Chella Daughter of Cheyk gets +1 STR for each ear token she has. While she has 3 or more ear tokens, she gains intimidate and renown.\n<b>Reaction:</b> After a character is killed during a challenge in which Chella Daughter of Cheyk is attacking, place an ear token on her.",
         "traits": "Clansman."
     },
     {
         "code": "05008",
+        "flavor": "",
         "name": "Ser Gregor's Marauders",
         "text": "Pillage.\n<b>Reaction:</b> After Ser Gregor's Marauders discards an event using pillage, stand Ser Gregor's Marauders.",
         "traits": "House Clegane. Raider."
     },
     {
         "code": "05009",
+        "flavor": "",
         "name": "Shagga Son of Dolf",
         "text": "While Shagga Son of Dolf is in your hand, he gains ambush (0) if you control a <i>Clansman</i> character or Tyrion Lannister.\n<b>Forced Reaction:</b> After Shagga Son of Dolf enters play using ambush, choose and kill a [lannister] character you control.",
         "traits": "Clansman."
@@ -65,12 +71,14 @@
     },
     {
         "code": "05011",
+        "flavor": "",
         "name": "Moon Brothers",
         "text": "<b>Action:</b> During a challenge in which you control an attacking <i>Clansman</i> character, kneel your faction card to put Moon Brothers into play from your hand (standing), participating as an attacker.",
         "traits": "Clansman."
     },
     {
         "code": "05012",
+        "flavor": "",
         "name": "Red Keep Spy",
         "text": "Ambush (4).\n<b>Reaction:</b> After Red Keep Spy enters play using ambush, choose a character with printed cost 3 or lower. If you have more cards in hand than that character's controller, return it to its owner's hand.",
         "traits": "Ally. Spy."
@@ -98,12 +106,14 @@
     },
     {
         "code": "05016",
+        "flavor": "",
         "name": "Lannisport Guard",
         "text": "<b>Reaction:</b> After you marshal Lannisport Guard, each player draws 1 card.",
         "traits": "Ally. Guard."
     },
     {
         "code": "05017",
+        "flavor": "",
         "name": "Golden Tooth",
         "text": "Limited.\n<b>Action:</b> Kneel Golden Tooth to gain 1 gold. (3 gold instead if an opponent has no cards in his or her hand.)",
         "traits": "Stronghold. The Westerlands."
@@ -117,12 +127,14 @@
     },
     {
         "code": "05019",
+        "flavor": "",
         "name": "Lannisport Treasury",
         "text": "<b>Reaction:</b> After the taxation phase begins, place 1 gold from your gold pool on Lannisport Treasury.\n<b>Marshaling Action:</b> Kneel Lannisport Treasury to move any number of gold from Lannisport Treasury to your gold pool.",
         "traits": "The Westerlands."
     },
     {
         "code": "05020",
+        "flavor": "",
         "name": "Shield of Lannisport",
         "text": "[lannister] <i>Lord</i> or <i>Lady</i> character only.\nWhile you control no <i>Lord</i> or <i>Lady</i> characters with printed cost 4 or higher other than attached character, attached character gets +2 STR and gains renown.\n +1 Income.",
         "traits": "Title."
@@ -136,18 +148,21 @@
     },
     {
         "code": "05022",
+        "flavor": "",
         "name": "A Lannister Always Pays His Debts",
         "text": "<b>Challenges Action:</b> Choose an opponent who has won a challenge against you this phase. You may initiate an additional [military] and [intrigue] challenge against that player this phase. (Max 1 per phase.)",
         "traits": ""
     },
     {
         "code": "05023",
+        "flavor": "",
         "name": "Insidious Scheme",
         "text": "<b>Reaction:</b> After claim is applied for an [intrigue] challenge you won by 5 or more STR, draw 2 cards. (4 cards instead if the losing opponent has no cards in his or her hand.)",
         "traits": ""
     },
     {
         "code": "05024",
+        "flavor": "",
         "name": "Daring Rescue",
         "text": "Play only if you control a <i>Knight</i> character.\n<b>Challenges Action:</b> Return a character you control to its owner's hand. Then, have a <i>Knight</i> character you control gain 1 power.",
         "traits": ""
@@ -161,6 +176,7 @@
     },
     {
         "code": "05026",
+        "flavor": "",
         "name": "Disputed Claim",
         "text": "<i>Bastard</i>, <i>Lord</i>, or <i>Lady</i> character only.\nWhile you have more power on your faction card than each opponent, attached character gets +2 STR and gains renown.",
         "traits": "Condition."
@@ -174,12 +190,14 @@
     },
     {
         "code": "05028",
+        "flavor": "",
         "name": "Old Wyk",
         "text": "<b>Reaction:</b> After you initiate a [power] challenge, kneel Old Wyk to put the top <i>Drowned God</i> character in your dead pile into play knelt, participating as an attacker. If you win the challenge by 5 or more STR, return that character to your hand. Otherwise, place it on the bottom of your deck.",
         "traits": "Iron Islands."
     },
     {
         "code": "05029",
+        "flavor": "",
         "name": "Trystane Martell",
         "text": "<b>Reaction:</b> After you lose a challenge in which Trystane Martell is participating, choose a character with lower STR than his. Until the end of the phase, that character cannot be declared as a defender.",
         "traits": "Lord."
@@ -228,6 +246,7 @@
     },
     {
         "code": "05036",
+        "flavor": "",
         "name": "Daenerys's Favor",
         "text": "[targaryen] character only.\nWhile attached character is participating in a challenge, each other participating character gets -1 STR.",
         "traits": "Condition."
@@ -241,12 +260,14 @@
     },
     {
         "code": "05038",
+        "flavor": "",
         "name": "\"A Rose of Gold\"",
         "text": "<b>Challenges Action:</b> Look at the top 3 cards of your deck. Add 1 to your hand, and place the others on the bottom of your deck in any order.",
         "traits": "Song."
     },
     {
         "code": "05039",
+        "flavor": "",
         "name": "High Septon",
         "text": "<b>Interrupt:</b> When an opponent chooses a character you control as the only target of a triggered ability, choose an eligible <i>The Seven</i> character you control to become the target of that triggered ability instead. (Limit once per phase.)",
         "traits": "The Seven."
@@ -260,18 +281,21 @@
     },
     {
         "code": "05041",
+        "flavor": "",
         "name": "Wildling Bandit",
         "text": "While Wildling Bandit is attacking an opponent with more gold in his or her gold pool than you, it gets +2 STR.",
         "traits": "Wildling."
     },
     {
         "code": "05042",
+        "flavor": "",
         "name": "Ocean Road",
         "text": "Limited.\n<b>Marshaling Action:</b> Kneel Ocean Road to reduce the cost of the next neutral or out-of-faction card you marshal this phase by 1.",
         "traits": "Westeros."
     },
     {
         "code": "05043",
+        "flavor": "",
         "name": "Appointed",
         "text": "Unique character only.\nAttached character gains an [intrigue] icon and the <i>Small Council</i> trait.",
         "traits": "Title."
@@ -285,48 +309,56 @@
     },
     {
         "code": "05045",
+        "flavor": "",
         "name": "\"The Rains of Castamere\"",
         "text": "Your plot deck must be 12 cards, including exactly 5 different <i>Scheme</i> cards. During the plot phase, <i>Scheme</i> cards are not considered to be in your plot deck.\n<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, kneel your faction card to reveal a <i>Scheme</i> plot. If that card leaves play, remove it from the game.\n<b>Card Design by 2013 Joust World Champion, Álvaro Rodriguez.</b>",
         "traits": "Song."
     },
     {
         "code": "05046",
+        "flavor": "",
         "name": "Lions of the Rock",
         "text": "<b>Reaction:</b> After the challenges phase begins, gain 3 gold.",
         "traits": "Kingdom."
     },
     {
         "code": "05047",
+        "flavor": "",
         "name": "Unexpected Delay",
         "text": "<b>Forced Reaction:</b> After the challenges phase begins, each player chooses a character without attachments or power. Return each of those characters to its owner's hand.",
         "traits": "House Frey."
     },
     {
         "code": "05048",
+        "flavor": "",
         "name": "Summoned to Court",
         "text": "<b>Forced Interrupt:</b> When the draw phase ends, each player chooses a card in his or her hand, if able. Then, reveal the chosen cards. Each player who revealed a character with the lowest printed cost may put that character into play.",
         "traits": "Edict. Kingdom."
     },
     {
         "code": "05049",
+        "flavor": "",
         "name": "Littlefinger's Meddling",
         "text": "Reduce the cost of each event you play by 2.",
         "traits": "Kingdom. Scheme."
     },
     {
         "code": "05050",
+        "flavor": "",
         "name": "Gossip and Lies",
         "text": "Each character you control does not kneel when declared as an attacker in the first [intrigue] challenge you initiate during the challenges phase.",
         "traits": "Scheme."
     },
     {
         "code": "05051",
+        "flavor": "",
         "name": "Time of Plenty",
         "text": "Increase the number of cards each player draws in the draw phase by 1.",
         "traits": "Summer."
     },
     {
         "code": "05052",
+        "flavor": "",
         "name": "Early Frost",
         "text": "Reduce the number of cards each player draws in the draw phase by 1.",
         "traits": "Winter."

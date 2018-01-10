@@ -1,6 +1,7 @@
 [
     {
         "code": "03001",
+        "flavor": "",
         "name": "La hueste del rey Robb",
         "text": "Sin Accesorios.\n<b>Reacción:</b> después de que ganes un reto [military] en el que esté participando La hueste del rey Robb, traslada 1 de Poder desde la carta de Facción del adversario derrotado hasta un Personaje atacanta. (2 de Poder si hay mostrada una carta de Trama de <i>Guerra</i>.)",
         "traits": "Ejército."
@@ -21,6 +22,7 @@
     },
     {
         "code": "03004",
+        "flavor": "",
         "designer": "Carta diseñada por Erick A. Butzlaff, campeón mundial de 2009.",
         "name": "El Pez Negro",
         "text": "Renombre.\nMientras El Pez Negro tenga 4 o más de Poder, ningún Personaje de la <i>Casa Tully</i> que controles se arrodilla cuando es declarado como atacante.\n<b>Reacción:</b> después de que ganes un reto [military] como jugador atacante, roba 1 carta. (Límite de 1 vez por fase.)",
@@ -35,6 +37,7 @@
     },
     {
         "code": "03006",
+        "flavor": "",
         "name": "Lobos del Norte",
         "text": "Sin Accesorios. Sigilo.\n<b>Reacción:</b> después de que Lobos del Norte evite a un Personaje utilizando el Sigilo, ese Personaje recibe un -X a su FUE hasta el final de la fase. X es el número de cartas <i>Lobo huargo</i> que controles.",
         "traits": "Lobo huargo."
@@ -48,12 +51,14 @@
     },
     {
         "code": "03008",
+        "flavor": "",
         "name": "Jory Cassel",
         "text": "<b>Interrupción:</b> cuando un Personaje [stark] único que controles vaya a morir, sacrifica a Jory Cassel para salvarlo. Luego, si hay mostrada una carta de Trama de <i>Invierno</i>, ese Personaje gana 1 de Poder.",
         "traits": "Guardia."
     },
     {
         "code": "03009",
+        "flavor": "",
         "name": "Juglar de Aguasdulces",
         "text": "<b>Reacción:</b> después de que el Juglar de Aguasdulces entre en juego, elige un Personaje de la <i>Casa Tully</i>. Ese Personaje gana 1 de Poder.",
         "traits": "Casa Tully. Juglar."
@@ -109,24 +114,28 @@
     },
     {
         "code": "03017",
+        "flavor": "",
         "name": "Invernalia",
         "text": "Cada Personaje [stark] que controles recibe un +1 a su FUE.\n<b>Reacción:</b> después de que se inicie un reto, arrodilla Invernalia. Luego, ningún jugador que tenga mostrada una carta de Trama que no sea de <i>Invierno</i> podrá activar capacidades de cartas hasta el final del reto.",
         "traits": "El Norte. Invernalia."
     },
     {
         "code": "03018",
+        "flavor": "",
         "name": "Árbol corazón de Invernalia",
         "text": "<b>Reacción:</b> después de que empiece una fase, sacrifica el Árbol corazón de Invernalia para elegir una carta [stark] que controles. Hasta el final de la fase, esa carta gana \"Inmune a efectos de las Tramas de los adversarios\".",
         "traits": "Antiguos dioses. Invernalia."
     },
     {
         "code": "03019",
+        "flavor": "",
         "name": "Nymeria",
         "text": "Sólo Personajes [stark] únicos.\nEl Personaje vinculado gana Intimidación.\n<b>Acción:</b> paga 1 de Oro para vincular Nymeria a un Personaje diferente. (Límite de 1 vez por fase.)",
         "traits": "Lobo huargo."
     },
     {
         "code": "03020",
+        "flavor": "",
         "name": "Aguja",
         "text": "Sólo Personajes [stark].\nEl Personaje vinculado recibe un +2 a su FUE.\n<b>Interrupción:</b> cuando el Personaje vinculado sea sacrificado, sacrifica Aguja para devolver ese Personaje a tu mano en vez de colocarlo en tu pila de descartes.",
         "traits": "Arma."
@@ -140,6 +149,7 @@
     },
     {
         "code": "03022",
+        "flavor": "",
         "name": "Duros como el invierno",
         "text": "Juega esta carta sólo si hay una carta de Trama de <i>Invierno</i> en tu pila de cartas usadas.\n<b>Reacción:</b> después de que un Personaje [stark] que controles muera o sea sacrificado, pon en juego desde tu mano un Personaje [stark] con coste impreso igual o inferior.",
         "traits": ""
@@ -160,6 +170,7 @@
     },
     {
         "code": "03025",
+        "flavor": "",
         "name": "Tatuado",
         "text": "Sólo Personajes de adversarios.\nEl Personaje vinculado gana el rasgo <i>Bufón</i>.\n<b>Reacción:</b> después de que el Personaje vinculado sea declarado como atacante o defensor, descarta 1 carta al azar de la mano del jugador que lo controla.",
         "traits": "Estado."
@@ -180,6 +191,7 @@
     },
     {
         "code": "03028",
+        "flavor": "",
         "name": "Antes de la marea",
         "text": "<b>Interrupción:</b> cuando compares Iniciativas, tu carta de Trama mostrada recibe un +3 a la Iniciativa hasta el final de la fase. Si ganas la Iniciativa en esta fase, roba 1 carta.",
         "traits": ""
@@ -193,6 +205,7 @@
     },
     {
         "code": "03030",
+        "flavor": "",
         "name": "Torre de la Mano",
         "text": "<b>Reacción:</b> después de que ganes un reto de [intrigue], arrodilla la Torre de la Mano y devuelve a tu mano un Personaje [lannister] participante para elegir a un Personaje que tenga un coste impreso inferior y esté controlado por el adversario derrotado. Devuelve ese Personaje a la mano de su propietario.",
         "traits": "Desembarco del Rey."
@@ -213,12 +226,14 @@
     },
     {
         "code": "03033",
+        "flavor": "",
         "name": "Serpiente de Piedra",
         "text": "Sigilo.\n<b>Reacción:</b> después de que Serpiente de Piedra evite a un Personaje utilizando el Sigilo, elige una de las palabras clave de ese Personaje. Serpiente de Piedra gana esa palabra clave hasta el final de la fase.",
         "traits": "Explorador."
     },
     {
         "code": "03034",
+        "flavor": "",
         "name": "La Torre Sombría",
         "text": "<b>Reacción:</b> después de que ganes un reto como jugador defensor, arrodilla La Torre Sombría para elegir un Personaje controlado por el adversario derrotado. Ese Personaje no puede ser declarado como atacante en esta fase.",
         "traits": "El Norte."
@@ -232,24 +247,28 @@
     },
     {
         "code": "03036",
+        "flavor": "",
         "name": "Vista de dragón",
         "text": "<b>Acción:</b> cada Personaje participante que no sea <i>Dragón</i> recibe un -1 a su FUE hasta el final del reto.",
         "traits": ""
     },
     {
         "code": "03037",
+        "flavor": "",
         "name": "Caballero de la casa Florent",
         "text": "<b>Reacción forzada:</b> después de que el Caballero de la casa Florent entre en juego, descarta del juego un Personaje de tu elección que tenga la puntuación más baja de FUE.",
         "traits": "Casa Florent. Caballero."
     },
     {
         "code": "03038",
+        "flavor": "",
         "name": "¡Por el estandarte de la rosa!",
         "text": "<b>Acción de Reclutamiento:</b> elige un Personaje [tyrell] que controles. Ganas X de Oro (siendo X igual a la FUE de ese Personaje). Luego sacrifica a ese Personaje.",
         "traits": ""
     },
     {
         "code": "03039",
+        "flavor": "",
         "name": "Mance Rayder",
         "text": "Renombre.\nCada Personaje <i>Salvaje</i> que tengas en tu mano gana Emboscada (X). X es el coste impreso de esa carta.\nMientras haya mostrada una carta de Trama de <i>Invierno</i>, reduce en 1 el coste de Emboscada de cada uno de tus Personajes <i>Salvajes</i>.",
         "traits": "Rey. Salvaje."
@@ -284,6 +303,7 @@
     },
     {
         "code": "03044",
+        "flavor": "",
         "name": "Conocimientos médicos",
         "text": "<b>Interrupción:</b> cuando un Personaje que controles y que no sea <i>Ejército</i> vaya a morir, arrodilla un Personaje <i>Maestre</i> para salvarlo.",
         "traits": "Ciudadela."
@@ -297,6 +317,7 @@
     },
     {
         "code": "03046",
+        "flavor": "",
         "designer": "Carta diseñada por Dan Seefeldt, campeón de los EE.UU. en 2012.",
         "name": "Tiempo de lobos",
         "text": "<b>Cuando se muestre esta carta:</b> busca en tu mazo una carta <i>Lobo huargo</i>, muéstrala y añádela tu mano. Si el coste impreso de esa carta es de 3 o menos, en vez de eso puedes ponerla en juego. Baraja tu  mazo.",
@@ -304,36 +325,42 @@
     },
     {
         "code": "03047",
+        "flavor": "",
         "name": "Caer en desgracia",
         "text": "<b>Cuando se muestre esta carta:</b> sacrifica un Personaje que controles.",
         "traits": "Edicto."
     },
     {
         "code": "03048",
+        "flavor": "",
         "name": "Sepultado por la nieve",
         "text": "La puntuación básica de Iniciativa de cada carta de Trama mostrada se considera 0.",
         "traits": "Invierno."
     },
     {
         "code": "03049",
+        "flavor": "",
         "name": "El largo invierno",
         "text": "<b>Cuando se muestre esta carta:</b> cada jugador que no tenga mostrada una carta de Trama de <i>Verano</i> descarta 1 de Poder de una carta que controle.",
         "traits": "Invierno."
     },
     {
         "code": "03050",
+        "flavor": "",
         "name": "Canción de verano",
         "text": "Mientras no haya cartas de Trama de <i>Invierno</i> mostradas, cada Personaje que controles recibe un +1 a su FUE.",
         "traits": "Verano."
     },
     {
         "code": "03051",
+        "flavor": "",
         "name": "Armas a las puertas",
         "text": "<b>Reacción obligada:</b> después de que empiece la fase de Reto, devuelve a la mano de su propietario cada carta que tenga impreso el tipo de carta Accesorio.",
         "traits": "Edicto."
     },
     {
         "code": "03052",
+        "flavor": "",
         "name": "Escondrijo de explorador",
         "text": "<b>Interrupción:</b> cuando termine la fase de Impuestos, elige entre robar 2 cartas o ganar 3 de Oro.",
         "traits": "Reino. Invierno."

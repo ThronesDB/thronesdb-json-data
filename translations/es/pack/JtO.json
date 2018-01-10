@@ -8,12 +8,14 @@
     },
     {
         "code": "08022",
+        "flavor": "",
         "name": "La Casa de Blanco y Negro",
         "text": "Encomienda (10).\n<b>Acción de Dominación:</b> arrodilla La Casa de Blanco y Negro y descarta X de Oro de su carta para matar a un Personaje de tu elección que tenga una FUE impresa de X o menos (X no puede ser 0). Puedes trasladar cualquier cantidad de Oro desde tu suministro de Oro hasta La Casa de Blanco y Negro.",
         "traits": "Braavos."
     },
     {
         "code": "08023",
+        "flavor": "",
         "name": "Caballero de Aguasclaras",
         "text": "Encomienda (3).\n<b>Acción de Reclutamiento:</b> descarta 1 de Oro del Caballero de Aguasclaras para reducir en 2 el coste del siguiente Personaje <i>Caballero</i> que reclutes en esta fase. (Límite de 1 vez por fase.)",
         "traits": "Casa Florent. Caballero."
@@ -41,6 +43,7 @@
     },
     {
         "code": "08027",
+        "flavor": "",
         "name": "Devan Seaworth",
         "text": "Encomienda (3).\n<b>Reacción:</b> después de que ganes la Dominación, descarta X de Oro de Devan Seaworth para buscar en tu  mazo un Lugar no Limitado que tenga un coste impreso de X o menos, mostrarlo y ponerlo en juego (X no puede ser 0). Baraja tu mazo.",
         "traits": "Acompañante."
@@ -61,30 +64,35 @@
     },
     {
         "code": "08030",
+        "flavor": "",
         "name": "Matarreyes",
         "text": "Sólo Personajes <i>Guardia Real</i>. Terminal.\n<b>Acción:</b> arrodilla al Personaje vinculado para matar a un Personaje de tu elección que tenga 2 o más de Poder. (Límite de 1 vez por partida.)\n<b>Interrupción obligada:</b> cuando el Personaje vinculado abandone el juego, cada adversario gana 2 de Poder para su facción.",
         "traits": "Título."
     },
     {
         "code": "08031",
+        "flavor": "",
         "name": "Tris Botley",
         "text": "Pillaje.\n<b>Acción:</b> elige una carta que esté en la pila de descartes de un adversario y retírala del juego. Hasta que Tris Botley abandone el juego, ese jugador no puede reclutar ni jugar ninguna copia de esa carta. (Límite de 1 vez por ronda.)",
         "traits": "Casa Botley. Lord."
     },
     {
         "code": "08032",
+        "flavor": "",
         "name": "Viento Negro",
         "text": "Mientras controles a Asha Greyjoy, ésta gana Renombre.\n<b>Reacción:</b> después de que un Personaje que controles descarte un Lugar o Accesorio mediante el Pillaje, roba 1 carta. (Límite de 2 veces por fase.)",
         "traits": "Barco de guerra."
     },
     {
         "code": "08033",
+        "flavor": "",
         "name": "Cuervos de Tormenta",
         "text": "Encomienda (5).\n<b>Acción de Reto:</b> descarta X de Oro de los Cuervos de Tormenta para elegir X Personajes. Hasta el final de la fase, cada uno de esos Personajes recibe un -1 a su FUE. (Límite de 1 vez por fase.)",
         "traits": "Mercenario."
     },
     {
         "code": "08034",
+        "flavor": "",
         "name": "Llamas abrasadoras",
         "text": "<b>Acción de Reto:</b> descarta otra carta [targaryen] de tu mano para elegir a un Personaje participante. Hasta el final de la fase, ese Personaje recibe un -3 a su FUE y muere si su FUE cae a 0.",
         "traits": ""
@@ -98,24 +106,28 @@
     },
     {
         "code": "08036",
+        "flavor": "",
         "name": "Cambio de planes",
         "text": "<b>Reacción:</b> después de que pierdas un reto, si hay menos de 5 cartas de Trama en tu pila de cartas usadas, traslada una carta desde tu mazo de Tramas hasta la parte inferior de tu pila de cartas usadas.",
         "traits": ""
     },
     {
         "code": "08037",
+        "flavor": "",
         "name": "Thoros of Myr",
         "text": "Renombre.\n<b>Interrupción:</b> cuando otro Personaje que controles y que no sea leal vaya a morir, arrodilla a Thoros de Myr y descarta 1 de Poder de su carta para salvar a ese Personaje.",
         "traits": "Hermandad. R'hllor."
     },
     {
         "code": "08038",
+        "flavor": "",
         "name": "Puertas de la Luna",
         "text": "Limitada.\nAumenta en 1 el valor de Oro de la carta de Trama mostrada de cada adversario.",
         "traits": "Disputa. Casa Arryn."
     },
     {
         "code": "08039",
+        "flavor": "",
         "designer": "Carta diseñada por Corey Faherty, campeón mundial absoluto de 2011.",
         "name": "La casa de la puerta roja",
         "text": "Después de que se hayan declarado todas las Estrategias, busca en tu mazo un Lugar único que no sea Limitado y que tenga un coste impreso de 3 o menos, y ponlo en juego. Ese Lugar no puede ser descartado del juego por efectos de cartas.\nNo puedes gastar más de 4 de Oro durante la preparación de la partida.",
@@ -123,6 +135,7 @@
     },
     {
         "code": "08040",
+        "flavor": "",
         "name": "Travesía porr el Mar del Verano",
         "text": "Puedes iniciar un reto [power] adicional durante la fase de Reto. No puedes iniciar retos [military] ni [intrigue].",
         "traits": "Verano."

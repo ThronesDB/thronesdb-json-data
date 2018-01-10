@@ -1,6 +1,7 @@
 [
     {
         "code": "08067",
+        "flavor": "",
         "name": "Selyse Baratheon",
         "text": "<b>Forced Reaction:</b> After you marshal Selyse Baratheon, kneel your faction card. Then, kneel each non-<i>Lady</i> character.",
         "traits": "Lady. Queen. R'hllor."

@@ -1,6 +1,7 @@
 [
     {
         "code": "08023",
+        "flavor": "",
         "name": "Brightwater Knight",
         "text": "Bestow (3).\n<b>Marshaling Action:</b> Discard 1 gold from Brightwater Knight to reduce the cost of the next (?) character you marshal this phase by 2. (Limit once per phase.)",
         "traits": "House Florent. Knight."
@@ -21,12 +22,14 @@
     },
     {
         "code": "08031",
+        "flavor": "",
         "name": "Tris Botley",
         "text": "Pillage.\n<b>Action:</b> Choose a card in an opponent's discard pile and remove it from the game. Until Tris Botley leaves play, that player cannot marshal or play any copy of that card. (Limit once per round.)",
         "traits": "House Botley. Lord."
     },
     {
         "code": "08039",
+        "flavor": "",
         "name": "The House With the Red Door",
         "text": "After all agendas are announced, search your deck for a non-limited unique location with printed cost 3 or lower and put it into play. That location cannot be discarded from play by card effects.\nYou cannot spend more than 4 gold during setup.",
         "traits": "Dream."

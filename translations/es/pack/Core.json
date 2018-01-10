@@ -1,144 +1,168 @@
 [
     {
         "code": "01001",
+        "flavor": "",
         "name": "Choque de reyes",
         "text": "<b>Reacción:</b> después de que ganes un reto [power], traslada 1 de Poder desde la carta de Facción del adversario derrotado hasta la tuya.",
         "traits": "Nobleza."
     },
     {
         "code": "01002",
+        "flavor": "",
         "name": "Festín de cuervos",
         "text": "<b>Reacción:</b> después de que ganes la Dominación, ganas 2 de Poder para tu facción.",
         "traits": "Edicto."
     },
     {
         "code": "01003",
+        "flavor": "",
         "name": "Juego de tronos",
         "text": "Un jugador no puede iniciar retos [military] ni [power] a menos que haya ganado un reto [intrigue] en esa misma fase.",
         "traits": "Conspiración."
     },
     {
         "code": "01004",
+        "flavor": "",
         "name": "Una causa noble",
         "text": "Reduce en 2 el coste del primer Personaje <i>Lord</i> o <i>Lady</i> que reclutes en esta ronda.",
         "traits": "Reino. Nobleza."
     },
     {
         "code": "01005",
+        "flavor": "",
         "name": "Tormenta de espadas",
         "text": "Puedes iniciar un reto [military] adicional durante la fase de Reto.",
         "traits": "Guerra."
     },
     {
         "code": "01006",
+        "flavor": "",
         "name": "Órdenes de construcción",
         "text": "<b>Cuando se muestre esta carta:</b> busca un Accesorio o Lugar entre las 10 primeras cartas de tu mazo, muéstralo y añádelo a tu mano. Baraja to mazo.",
         "traits": "Reino."
     },
     {
         "code": "01007",
+        "flavor": "",
         "name": "Convocar a los banderizos",
         "text": "<b>Cuando se muestra esta carta:</b> elige un adversario. Ganas 1 de Oro por cada Personaje que controle ese jugador.",
         "traits": "Reino."
     },
     {
         "code": "01008",
+        "flavor": "",
         "name": "Calma sobre Poniente",
         "text": "<b>Cuando se muestre esta carta:</b> nombra un tipo de reto. Hasta que muestres una nueva carta de Trama, reduce en 1 el valor de Conquista de la carta de Trama mostrada del jugador atacante durante los retos del tipo nombrado en los que seas el jugador defensor.",
         "traits": "Verano."
     },
     {
         "code": "01009",
+        "flavor": "",
         "name": "Confiscación",
         "text": "<b>Cuando se muestre esta carta:</b> descarta del juego un Accesorio de tu elección.",
         "traits": "Edicto."
     },
     {
         "code": "01010",
+        "flavor": "",
         "name": "Contar calderilla",
         "text": "<b>Cuando se muestre esta carta:</b> roba 3 cartas.",
         "traits": "Reino."
     },
     {
         "code": "01011",
+        "flavor": "",
         "name": "Sucias acusaciones",
         "text": "<b>Cuando se muestre esta carta:</b> arrodilla un Personaje de tu elección.",
         "traits": "Conspiración."
     },
     {
         "code": "01012",
+        "flavor": "",
         "name": "Posición fortificada",
         "text": "Trata cada Personaje como si su texto de reglas impreso estuviese en blanco (excepto los <i>Rasgos</i>).",
         "traits": "Asedio. Guerra."
     },
     {
         "code": "01013",
+        "flavor": "",
         "name": "Cabezas en estacas",
         "text": "<b>Cuando se muestre esta carta:</b> elige un adversario. Descarta 1 carta al azar de la mano de ese jugador. Si esa carta es un Personaje, ganas 2 de Poder para tu facción y coloca el Personaje descartado en la pila de muertos de su propietario.",
         "traits": "Edicto. Guerra."
     },
     {
         "code": "01014",
+        "flavor": "",
         "name": "Justa en buena lid",
         "text": "Cada jugador no puede declarar más de 1 Personaje como atacante o defensor en cada reto.",
         "traits": "Guerra."
     },
     {
         "code": "01015",
+        "flavor": "",
         "name": "Sentenciados al Muro",
         "text": "<b>Cuando se muestre esta carta:</b> cada jugador elige un Personaje que controle (si puede) y lo descarta del juego (no puede salvarse).",
         "traits": "Edicto."
     },
     {
         "code": "01016",
+        "flavor": "",
         "name": "Ordenar la marcha",
         "text": "No puedes reclutar Lugares ni Accesorios, ni tampoco jugar Eventos.",
         "traits": "Edicto. Guerra."
     },
     {
         "code": "01017",
+        "flavor": "",
         "name": "Superioridad naval",
         "text": "El valor de Oro básico de carta de Trama mostrada de <i>Reino</i> y <i>Edicto</i> se considera 0.",
         "traits": "Siege. War."
     },
     {
         "code": "01018",
+        "flavor": "",
         "name": "El poder tras el trono",
         "text": "<b>Cuando se muestre esta carta:</b> coloca 1 ficha de Puesta en pie sobre El poder tras el trono.\n<b>Acción:</b> descarta 1 ficha de Puesta en pie que esté sobre El poder tras el trono para poner en pie un Personaje de tu elección.",
         "traits": "Nobleza. Conspiración."
     },
     {
         "code": "01019",
+        "flavor": "",
         "name": "Reconstrucción",
         "text": "<b>Cuando se muestre esta carta:</b> elige hasta 3 cartas de tu pila de descartes, devuélvelas a tu mazo y baraja éste.",
         "traits": "Reino."
     },
     {
         "code": "01020",
+        "flavor": "",
         "name": "Refuerzos",
         "text": "<b>Cuando se muestre esta carta:</b> elige un Personaje con un coste impreso de 5 o menos que esté en tu mano o en tu pila de descartes, y ponlo en juego.",
         "traits": "Reino. Guerra."
     },
     {
         "code": "01021",
+        "flavor": "",
         "name": "Ataque sorpresa",
         "text": "No puedes iniciar más de 1 reto durante la fase de Reto.",
         "traits": "Scheme."
     },
     {
         "code": "01022",
+        "flavor": "",
         "name": "Llamamiento",
         "text": "<b>Cuando se muestre esta carta:</b> busca un Personaje entre las 10 primeras cartas de tu mazo, muéstralo y añádelo a tu mano. Baraja tu mazo.",
         "traits": "Reino."
     },
     {
         "code": "01023",
+        "flavor": "",
         "name": "Apoyo al culto",
         "text": "<b>Reacción obligada:</b> después de que empiece la fase de Reto, cada jugado devuelve a la Tesorería todo el Oro que tenga en su suministro de Oro.",
         "traits": "Edicto. Los Siete."
     },
     {
         "code": "01024",
+        "flavor": "",
         "name": "Impuestos",
         "text": "Puedes reclutar o jugar 1 carta Limitada adicional en esta ronda.",
         "traits": "Edicto. Reino."
@@ -152,12 +176,14 @@
     },
     {
         "code": "01026",
+        "flavor": "",
         "name": "Asalto con fuego valyrio",
         "text": "<b>Cuando se muestra esta carta:</b> cada jugador elige hasta 3 Personajes que controle. Mata a todo Personaje que no haya sido elegido (no puede salvarse).",
         "traits": "Conspiración. Guerra."
     },
     {
         "code": "01027",
+        "flavor": "",
         "name": "Vasallaje",
         "text": "No puedes incluir más de 15 cartas neutrales en tu mazo.\n<b>Acción:</b> arrodilla tu carta de Facción para reducir en 1 el coste de la siguiente carta leal que reclutes o juegues en esta fase.",
         "traits": ""
@@ -178,12 +204,14 @@
     },
     {
         "code": "01030",
+        "flavor": "",
         "name": "Asaltantes de Casaca de Matraca",
         "text": "Sin Accesorios.\n<b>Reacción:</b> después de que ganes un reto en el que Asaltantes de Casaca de Matraca esté participando como atacante, elige un Accesorio controlado por el adversario derrotado y descártalo del juego.",
         "traits": "Asaltante. Salvaje."
     },
     {
         "code": "01031",
+        "flavor": "",
         "name": "Horda de salvajes",
         "text": "Sin Accesorios. Pillaje.\n<b>Acción de Reto:</b> arrodilla tu carta de Facción para elegir un Personaje <i>Salvaje</i> participante que controles. Hasta el final del reto, ese Personaje recibe un +2 a su FUE.",
         "traits": "Ejército. Salvaje."
@@ -197,6 +225,7 @@
     },
     {
         "code": "01033",
+        "flavor": "",
         "name": "Guardaespaldas",
         "text": "Sólo Personajes <i>Lord</i> o <i>Lady</i>.\n<b>Interrupción:</b> cuando el Personaje vinculado vaya a morir o sea descartado del juego, sacrifica Guardaespaldas para salvar a ese Personaje.",
         "traits": "Estado."
@@ -238,48 +267,56 @@
     },
     {
         "code": "01039",
+        "flavor": "",
         "name": "El Camino Real",
         "text": "Limitada.\n<b>Acción de Reclutamiento:</b> arrodilla y sacrifica El Camino Real para reducir en 3 el coste del siguiente Personaje que reclutes en esta fase.\n+1 Iniciativa.",
         "traits": "Poniente."
     },
     {
         "code": "01040",
+        "flavor": "",
         "name": "El Camino de las Rosas",
         "text": "Limitada.\n+1 Oro.",
         "traits": "Poniente."
     },
     {
         "code": "01041",
+        "flavor": "",
         "name": "Pasar por la espada",
         "text": "<b>Reacción:</b> después de que ganes un reto [military] por 5 o más de FUE como jugador atacante, mata a un Personaje de tu elección controlado por el adversario derrotado. (Máximo 1 por reto.)",
         "traits": ""
     },
     {
         "code": "01042",
+        "flavor": "",
         "name": "Pasto de las llamas",
         "text": "<b>Reacción:</b> después de que ganes un reto [military] por 5 o más de FUE como jugador atacante, elige un Lugar controlado por el adversario derrotado y descártalo del juego. (Máximo 1 por reto.)",
         "traits": ""
     },
     {
         "code": "01043",
+        "flavor": "",
         "name": "Reivindicación Legítima",
         "text": "<b>Reacción:</b> después de que ganes un reto [power] por 5 o más de FUE, ganas 2 de Poder para tu facción. (Máximo 1 por reto.)",
         "traits": ""
     },
     {
         "code": "01044",
+        "flavor": "",
         "name": "Lágrimas de Lys",
         "text": "<b>Reacción:</b> después de que ganes un reto [intrigue] como jugador atacante, pon 1 ficha de Veneno sobre un Personaje que no tenga icono [intrigue] y esté controlado por el adversario derrotado. Al final de la fase, si ese Personaje aún tiene encima esa ficha de Veneno, quítasela y mata al Personaje. (Máximo 1 por reto.)",
         "traits": "Veneno."
     },
     {
         "code": "01045",
+        "flavor": "",
         "name": "El juicio de la Mano",
         "text": "<b>Interrupción:</b> cuando vayan a iniciarse los efectos del Evento de un adversario, anula esos efectos. X es el coste impreso de ese Evento.",
         "traits": ""
     },
     {
         "code": "01046",
+        "flavor": "",
         "name": "Maestre Cressen",
         "text": "<b>Acción de Reclutamiento:</b> arrodilla al Maestre Cressen para descartar del juego un Accesorio de <i>Estado</i> de tu elección.",
         "traits": "Maestre."
@@ -300,6 +337,7 @@
     },
     {
         "code": "01049",
+        "flavor": "",
         "name": "Selyse Baratheon",
         "text": "<b>Acción de Reto:</b> paga 1 de Oro para elegir un Personaje [baratheon]. Hasta el final de la fase, ese personaje gana un icono [intrigue].",
         "traits": "Casa Florent. Lady. R'hllor."
@@ -348,54 +386,63 @@
     },
     {
         "code": "01056",
+        "flavor": "",
         "name": "Fieles de Rocadragón",
         "text": "<b>Acción de Reclutamiento:</b> arrodilla a los Fieles de Rocadragón para reducir en 1 el coste del siguiente Personaje [baratheon] que reclutes esta fase.",
         "traits": "Aliado."
     },
     {
         "code": "01057",
+        "flavor": "",
         "name": "Lancero de vanguardia",
         "text": "<b>Reacción:</b> después de que el Lancero de vanguardia entre en juego, elige una carta de Personaje o de Facción de un adversario y descarta 1 Poder de esa carta.",
         "traits": "House Florent. Knight."
     },
     {
         "code": "01058",
+        "flavor": "",
         "name": "Dueña de Luz",
         "text": "Sólo Personajes [baratheon].\nSi el Personaje vinculado es Stannis Baratheon, gana Renombre.\n<b>Reacción:</b> después de que el Personaje vinculado gane 1 o más de Poder, ponlo en pie. (Límite de 1 vez por fase.)",
         "traits": "R'hllor. Arma."
     },
     {
         "code": "01059",
+        "flavor": "",
         "name": "Puerto de Rocadragón",
         "text": "Limitada.\n<b>Acción de Reclutamiento:</b> arrodilla el Puerto de Rocadragón para reducir en 1 el coste de la siguiente carta [baratheon] que reclutes esta fase.",
         "traits": "Rocadragón."
     },
     {
         "code": "01060",
+        "flavor": "",
         "name": "Cámara de la Mesa Pintada",
         "text": "<b>Reacción:</b> después de que ganes la Dominación, arrodilla la Cámara de la Mesa Pintada para trasladar 1 de Poder desde la carta de Facción de un adversario hasta la tuya.",
         "traits": "Rocadragón."
     },
     {
         "code": "01061",
+        "flavor": "",
         "name": "La Fortaleza Roja",
         "text": "La Fortaleza Roja aporta 2 de FUE a tu bando durante cualquier reto [power] en el que participe un Personaje que controles.\n<b>Interrupción:</b> cuando termine la fase de Reto, si no has perdido ningún reto [power] en esta ronda, arrodilla La Fortaleza Roja para robar 2 cartas.",
         "traits": "Desembarco del Rey."
     },
     {
         "code": "01062",
+        "flavor": "",
         "name": "Consolidación de poder",
         "text": "<b>Acción de Reclutamiento:</b> arrodilla Personajes de tu elección por un valor total de hasta FUE 4 que estén controlados por un mismo jugador. Luego uno de esos Personajes de tu elección gana 1 de Poder.",
         "traits": ""
     },
     {
         "code": "01063",
+        "flavor": "",
         "name": "Nuestra es la furia",
         "text": "Juega esta carta sólo durante un reto en el que seas el jugador defensor.\n<b>Acción:</b> elige un Personaje [baratheon] arrodillado que controles. Ese Personaje participa ahora como defensor. Si ganas este reto, pon en pie a ese Personaje.",
         "traits": ""
     },
     {
         "code": "01064",
+        "flavor": "",
         "name": "Visión en el fuego",
         "text": "Juega esta carta sólo si controlas un Personaje <i>R'hllor</i>.\n<b>Acción de Reto:</b> mira la mano de un adversario de tu elección. Luego elige y descarta 1 carta de esa mano.",
         "traits": "R'hllor."
@@ -451,24 +498,28 @@
     },
     {
         "code": "01072",
+        "flavor": "",
         "name": "Tripulación del Viento Negro",
         "text": "Pillaje.",
         "traits": "Hijo del Hierro. Asaltante."
     },
     {
         "code": "01073",
+        "flavor": "",
         "name": "Ahogados",
         "text": "Sin Accesorios.\nLos Ahogados reciben +1 a su FUE por cada Lugar <i>Barco de Guerra</i> que controles.",
         "traits": "Ejército. Dios Ahogado."
     },
     {
         "code": "01074",
+        "flavor": "",
         "name": "Pescadera de las Islas del Hierro",
         "text": "<b>Acción de Reclutamiento:</b> arrodilla a la Pescadera de las Islas del Hierro para reducir en 1 el coste del siguiente Personaje [greyjoy] que reclutes en esta fase.",
         "traits": "Aliado. Mercader."
     },
     {
         "code": "01075",
+        "flavor": "",
         "name": "Carpintero naval de Puerto Noble",
         "text": "<b>Acción de Reclutamiento:</b> arrodilla al Carpintero naval de Puerto Noble para arrodillar un Lugar de tu elección con un coste impreso de 2 o menos (con un coste impreso de 3 o menos si eres el jugador inicial).",
         "traits": "Aliado. Hijo del Hierro."
@@ -482,42 +533,49 @@
     },
     {
         "code": "01077",
+        "flavor": "",
         "name": "Hacha arrojadiza",
         "text": "Sólo Personajes <i>Hijo del Hierro</i>.\n<b>Reacción:</b> después de que ganes un reto en el que esté participando el Personaje vinculado como atacante, sacrifica el Hacha arrojadiza para matar a un Personaje defensor de tu elección.",
         "traits": "Arma."
     },
     {
         "code": "01078",
+        "flavor": "",
         "name": "Gran Kraken",
         "text": "Mientras controles a Balon Greyjoy, éste gana Sigilo.\n<b>Reacción:</b> después de que ganes un reto sin oposición, elige entre robar 1 carta o ganar 1 de Poder para tu Facción. (Límite de 2 veces por ronda.)",
         "traits": "Barco de guerra."
     },
     {
         "code": "01079",
+        "flavor": "",
         "name": "Avanzada de la Flota de Hierro",
         "text": "<b>Acción de Reto:</b> arrodilla la Avanzada de la Flota de Hierro para elegir un Personaje [greyjoy] participante. Hasta el final del reto, ese Personaje recibe un +1 a su FUE (+2 a su FUE si eres el jugador inicial).",
         "traits": "Barco de guerra."
     },
     {
         "code": "01080",
+        "flavor": "",
         "name": "Torre del Mar",
         "text": "Limitada.\n<b>Acción de Reclutamiento:</b> arrodilla la Torre del Mar para reducir en 1 el coste de la siguiente carta [greyjoy] que reclites en esta fase.",
         "traits": "Islas del Hierro."
     },
     {
         "code": "01081",
+        "flavor": "",
         "name": "Renacido del mar",
         "text": "<b>Interrupción:</b> cuando un Personaje [greyjoy] vaya a morir, sálvalo. Luego vincula Renacido del mar a ese Personaje como Accesorio de <i>Estado</i> con este texto: \"Terminal. El Personaje vinculado recibe un +1 a su FUE.\"",
         "traits": ""
     },
     {
         "code": "01082",
+        "flavor": "",
         "name": "Presa del kraken",
         "text": "Juega esta carta sólo si eres el jugador inicial.\n<b>Acción de Reto:</b> elige un Personaje defensor que tenga FUE 5 o menos. Ese Personaje no aporta su FUE a este reto.",
         "traits": ""
     },
     {
         "code": "01083",
+        "flavor": "",
         "name": "Nosotros no sembramos",
         "text": "<b>Reacción:</b> después de que ganes un reto sin oposición, elige un Accesorio o Lugar controlado por el adversario derrotado y descártalo del juego. (Máximo 1 por reto.)",
         "traits": ""
@@ -566,6 +624,7 @@
     },
     {
         "code": "01090",
+        "flavor": "",
         "name": "Tywin Lannister",
         "text": "Renombre.\nTywin Lannister recibe un +1 a su FUE por cada ficha de Oro que haya en tu suministro.\n+2 Oro.",
         "traits": "Lord."
@@ -579,30 +638,35 @@
     },
     {
         "code": "01092",
+        "flavor": "",
         "name": "Capas Doradas",
         "text": "Emboscada (2).\n<b>Interrupción obligada:</b> cuando termine una fase en la que hayan entrado en juego los Capas Doradas utilizando la Emboscada, descártalos del juego (no pueden salvarse).",
         "traits": "Aliado. Ejército."
     },
     {
         "code": "01093",
+        "flavor": "",
         "name": "Prestamista de Lannisport",
         "text": "Limitada.\n+1 oro.",
         "traits": "Mercader."
     },
     {
         "code": "01094",
+        "flavor": "",
         "name": "Mercader de Lannisport",
         "text": "<b>Acción de Reclutamiento:</b> arrodilla al Mercader de Lannisport para reducir en 1 el coste del siguiente Personaje [lannister] que reclutes esta fase.",
         "traits": "Aliado. Mayordomo."
     },
     {
         "code": "01095",
+        "flavor": "",
         "name": "Asesino de la Reina",
         "text": "Emboscada (4).\n<b>Reacción:</b> después de que el Asesino de la Reina entre en juego utilizando la Emboscada, elige un adversario. Si tienes más cartas en tu mano que ese jugador, deberá matar a un Personaje que controle de su elección.",
         "traits": "Espía."
     },
     {
         "code": "01096",
+        "flavor": "",
         "name": "Lamento de Viuda",
         "text": "Emboscada (1).\nEl Personaje vinculado recibe un +2 a su FUE.\nSi el Personaje vinculado es Joffrey Baratheon, gana un icono [military].",
         "traits": "Acero valyrio. Arma."
@@ -616,30 +680,35 @@
     },
     {
         "code": "01098",
+        "flavor": "",
         "name": "Lannisport",
         "text": "<b>Reacción:</b> después de que ganes un reto [intrigue], roba 1 carta.",
         "traits": "Tierras de Occidente."
     },
     {
         "code": "01099",
+        "flavor": "",
         "name": "Feudo occidental",
         "text": "Limitada.\n<b>Acción de Reclutamiento:</b> arrodilla el Feudo occidental para reducir en 1 el coste de la siguiente carta [lannister] que reclutes en esta fase.",
         "traits": "Tierras de Occidente."
     },
     {
         "code": "01100",
+        "flavor": "",
         "name": "¡Oye mi rugido!",
         "text": "<b>Acción:</b> pon en juego un Personaje [lannister] desde tu mano. Al final de la fase, si esa carta aún sigue en juego, descártala del juego (no puede salvarse).",
         "traits": ""
     },
     {
         "code": "01101",
+        "flavor": "",
         "name": "Qué cosas hago por amor",
         "text": "Juega esta carta sólo si controlas un Personaje <i>Lord</i> o <i>Lady</i> [lannister].\n<b>Acción de Reto:</b> arrodilla tu carta de Facción para elegir un Personaje controlado por el adversario con un coste impreso de X o menos y devolverlo a la mano de su propietario.",
         "traits": ""
     },
     {
         "code": "01102",
+        "flavor": "",
         "name": "Traición",
         "text": "Juega esta carta sólo si controlas un Personaje [lannister] único.\n<b>Interrupción:</b> cuando vayan a iniciarse los efectos de una capacidad activada de un Personaje, Lugar o Accesorio, anula esos efectos.",
         "traits": ""
@@ -653,6 +722,7 @@
     },
     {
         "code": "01104",
+        "flavor": "",
         "name": "Arianne Martell",
         "text": "<b>Acción:</b> pon en juego desde tu mano un Personaje con un coste impreso de 5 o menos. Luego devuelve a Arianne Martell a tu mano (no puede salvarse). (Límite de 1 vez por fase.)",
         "traits": "Lady."
@@ -666,12 +736,14 @@
     },
     {
         "code": "01106",
+        "flavor": "",
         "name": "Edric Dayne",
         "text": "Sigilo.\n<b>Acción:</b> paga 1 de Oro para darle a Edrid Dayne un icono de reto de tu elección hasta el final de la fase.",
         "traits": "Hermandad. Casa Dayne. Lord."
     },
     {
         "code": "01107",
+        "flavor": "",
         "name": "Maestre Caleotte",
         "text": "<b>Reacción:</b> después de que pierdas un reto en el que esté participando el Maestre Caleotte, elige un Personaje. Ese Personaje pierde un icono de reto de tu elección hasta el final de la fase.",
         "traits": "Maestre."
@@ -692,18 +764,21 @@
     },
     {
         "code": "01110",
+        "flavor": "",
         "name": "Carroñero del desierto",
         "text": "<b>Acción de Reclutamiento:</b> arrodilla al Carroñero del desierto para reducir en 1 el coste del siguiente Personaje [martell] que reclutes esta fase.",
         "traits": "Aliado."
     },
     {
         "code": "01111",
+        "flavor": "",
         "name": "Amante dorniense",
         "text": "<b>Reacción:</b> después de que la Amante dorniense sea declarada como atacante, elige un Personaje controlado por el jugador defensor. Ese Personaje debe declararse como defensor en este reto (si puede).",
         "traits": "Acompañante."
     },
     {
         "code": "01112",
+        "flavor": "",
         "name": "Comerciante del Sangreverde",
         "text": "<b>Reacción:</b> después de que el Comerciante del Sangreverde entre en juego, mira las 2 primeras cartas de tu mazo. Añade a tu mano hasta 1 de esas cartas y coloca las demás en la parte inferior de tu mazo en el orden que prefieras.",
         "traits": "Aliado."
@@ -717,54 +792,63 @@
     },
     {
         "code": "01114",
+        "flavor": "",
         "name": "Lancero de palacio",
         "text": "Sin Accesorios.\nMientras no seas el jugador inicial, el Lancero de palacio gana un icono [intrigue].",
         "traits": "Guardia."
     },
     {
         "code": "01115",
+        "flavor": "",
         "name": "Albor",
         "text": "El Personaje vinculado recibe un +1 a su FUE por cada carta de Trama que haya en tu pila de cartas usadas.\nMientras el Personaje vinculado tenga el rasgo <i>Casa Dayne</i>, gana Intimidación.",
         "traits": "Arma."
     },
     {
         "code": "01116",
+        "flavor": "",
         "name": "Rocagrís",
         "text": "<b>Reacción:</b> después de que pierdas un reto como jugador defensor, arrodilla y sacrifica Rocagrís para devolver un Personaje atacante a la mano de su propietario (no puede salvarse).",
         "traits": "Dorne."
     },
     {
         "code": "01117",
+        "flavor": "",
         "name": "Lanza del Sol",
         "text": "<b>Reacción:</b> después de que pierdas un reto como jugador defensor, arrodilla Lanza del Solo para aumentar en 1 el valor de Conquista de tu carta de Trama mostrada durante los demás retos de este mismo tipo hasta el final de la fase.",
         "traits": "Dorne."
     },
     {
         "code": "01118",
+        "flavor": "",
         "name": "Huerto de naranjas sanguinas",
         "text": "Limitada.\n<b>Acción de Reclutamiento:</b> arrodilla el Huerto de naranjas sanguinas para reducir en 1 el coste de la siguiente carta [martell] que reclutes en esta fase.",
         "traits": "Dorne."
     },
     {
         "code": "01119",
+        "flavor": "",
         "name": "El juego de Doran",
         "text": "<b>Reacción:</b> después de que ganes un reto [intrigue] por 5 o más de FUE, ganas X de Poder para tu facción. X es el número de cartas de Trama que haya en tu pila de cartas usadas. (Máximo 1 por reto.)",
         "traits": ""
     },
     {
         "code": "01120",
+        "flavor": "",
         "name": "Nunca doblegado, nunca roto",
         "text": "Juega esta carta sólo si no eres el jugador inicial.\n<b>Reacción:</b> después de que pierdas un reto como jugador defensor, nombra un tipo de reto. Hasta el final de la fase, el vencedor del reto no podrá iniciar retos de ese tipo. (Máximo 1 por reto.)",
         "traits": ""
     },
     {
         "code": "01121",
+        "flavor": "",
         "name": "Confinamiento",
         "text": "<b>Acción:</b> elige un Personaje que tenga FUE 4 o menos. Hasta el final de la fase, ese Personaje pierde un icono [military], un icono [intrigue] y un icono [power].",
         "traits": ""
     },
     {
         "code": "01122",
+        "flavor": "",
         "name": "Benjen Stark",
         "text": "Los Personajes <i>Explorador</i> que controles no pueden ser evitados por el Sigilo.\n<b>Interrupción:</b> cuando Benjen Stark muera, ganas 2 de Poder para tu facción. Luego devuélvelo a tu mazo y barájalo en vez de colocarlo en tu pila de muertos.",
         "traits": "Explorador."
@@ -820,12 +904,14 @@
     },
     {
         "code": "01130",
+        "flavor": "",
         "name": "Cuervo mensajero",
         "text": "Sin Accesorios.\n<b>Acción de Dominación:</b> devuelve el Cuervo mensajero a tu mano para robar 1 carta.",
         "traits": "Cuervo."
     },
     {
         "code": "01131",
+        "flavor": "",
         "name": "Viejo cazador forestal",
         "text": "Sin Accesorios excepto <i>Arma</i>.\n<b>Acción:</b> descarta 1 carta de tu mano para ganar 1 de Oro. (Límite de 1 vez por fase.)",
         "traits": "Explorador."
@@ -846,6 +932,7 @@
     },
     {
         "code": "01134",
+        "flavor": "",
         "name": "Constructor veterano",
         "text": "Sin Accesorios excepto <i>Arma</i>.\n<b>Acción:</b> sacrifica al Constructor veterano para poner en pie un Lugar de tu elección.",
         "traits": "Constructor."
@@ -859,12 +946,14 @@
     },
     {
         "code": "01136",
+        "flavor": "",
         "name": "Castillo Negro",
         "text": "<b>Acción:</b> arrodilla el Castillo Negro para poner en pie un Personaje [thenightswatch] defensor de tu elección. Hasta el final del reto, ese Personaje recibe un +2 a su FUE.",
         "traits": "El Norte."
     },
     {
         "code": "01137",
+        "flavor": "",
         "name": "El Muro",
         "text": "Cada Personaje [thenightswatch] que controles recibe un +1 a su FUE.\n<b>Reacción obligada:</b> después de que pierdas un reto sin oposición, arrodilla El Muro.\n<b>Interrupción:</b> cuando termine la fase de Reto, arrodilla El Muro para ganar 2 de Poder para tu facción.",
         "traits": "Fortaleza. El Norte."
@@ -885,12 +974,14 @@
     },
     {
         "code": "01140",
+        "flavor": "",
         "name": "La espada en la oscuridad",
         "text": "Juega esta carta sólo durante un reto en el que participe un Personaje [thenightswatch] que controles.\n<b>Reacción:</b> después de que ganes un reto por 5 o más de FUE como jugador defensor, el adversario derrotado no podrá iniciar retos contra ti en esta ronda.",
         "traits": ""
     },
     {
         "code": "01141",
+        "flavor": "",
         "name": "Arya Stark",
         "text": "Sigilo.\nMientras Arya tenga un duplicado, gana un icono [military].\n<b>Reacción:</b> después de que Arya Stark entre en juego, coloca la primera carta de tu  mazo sobre ella boca abajo como duplicado.",
         "traits": "Lady."
@@ -918,6 +1009,7 @@
     },
     {
         "code": "01145",
+        "flavor": "",
         "name": "Viento Grís",
         "text": "Intimidación. Sin Accesorios.\n<b>Acción de Reto:</b> arrodilla a Viento Grís para matar a un Personaje de tu elección que tenga FUE 1 o menos (FUE 2 o menos si controlas a Robb Stark).",
         "traits": "Lobo huargo."
@@ -938,12 +1030,14 @@
     },
     {
         "code": "01148",
+        "flavor": "",
         "name": "Verano",
         "text": "Sin Accesorios.\nMientras controles a Bran Stark, éste gana Perspicacia.\n<b>Reacción:</b> después de que Verano entre en juego, devuelve a tu mano un Personaje [stark] con una FUE impresa de 2 o menos desde tu pila de descartes o tu pila de muertos.",
         "traits": "Lobo huargo."
     },
     {
         "code": "01149",
+        "flavor": "",
         "name": "Cachorro de lobo huargo",
         "text": "Sin Accesorios.\nEl Cachorro de lobo huargo recibe un +1 a su FUE por cada otra carta de Lobo Huargo que controles.",
         "traits": "Lobo huargo."
@@ -957,42 +1051,49 @@
     },
     {
         "code": "01151",
+        "flavor": "",
         "name": "Vanguardia del Norte",
         "text": "Sin Accesorios.\nMientras un jugador tenga mostrada una Trama de <i>Guerra</i>, la Vanguardia del Norte no se arrodilla cuando es declarada como atacante en un reto [military].",
         "traits": "Ejército."
     },
     {
         "code": "01152",
+        "flavor": "",
         "name": "Mayordomo de Invernalia",
         "text": "<b>Acción de Reclutamiento:</b> arrodilla al Mayordomo de Invernalia para reducir en 1 el coste del siguiente Personaje [stark] que reclutes esta fase.",
         "traits": "Aliado. Mayordomo."
     },
     {
         "code": "01153",
+        "flavor": "",
         "name": "Hielo",
         "text": "Sólo Personajes [stark].\nEl Personaje vinculado recibe un +2 a su FUE.\n<b>Reacción:</b> después de que ganes un reto [military] en el que participe el Personaje vinculado, sacrifica Hielo para matar a un Personaje de tu elección controlado por el adversario derrotado.",
         "traits": "Acero valyrio. Arma."
     },
     {
         "code": "01154",
+        "flavor": "",
         "name": "Puertas de Invernalia",
         "text": "<b>Acción de Reto:</b> arrodilla Puertas de Invernalia para mostrar la primera carta de tu mazo. Si es una carta [stark], róbala.",
         "traits": "El Norte. Invernalia."
     },
     {
         "code": "01155",
+        "flavor": "",
         "name": "El Bosque de los Lobos",
         "text": "Cada carta <i>Lobo huargo</i> que tengas en tu mano gana Emboscada X. X es el coste impreso de esa carta.",
         "traits": "El Norte."
     },
     {
         "code": "01156",
+        "flavor": "",
         "name": "Bosquecillo del arbol corazón",
         "text": "Limitada.\n<b>Acción de Reclutamiento:</b> arrodilla el Bosquecillo del árbol corazón para reducir en 1 el coste de la siguiente carta [stark] que reclutes en esta fase.",
         "traits": "Antiguos dioses. Invernalia."
     },
     {
         "code": "01157",
+        "flavor": "",
         "name": "¡Por el Norte!",
         "text": "Juega esta carta sólo durante un reto [military].\n<b>Acción:</b> elige un Personaje [stark] participante. Hasta el final del reto, ese Personaje recibe un +2 a su FUE. Si ganas el reto, roba 1 carta.",
         "traits": ""
@@ -1006,6 +1107,7 @@
     },
     {
         "code": "01159",
+        "flavor": "",
         "name": "Se acerca el invierno",
         "text": "Juega esta carta sólo durante un reto.\n<b>Acción:</b> hasta el final del reto, aumenta en 1 el valor del Conquista de tu carta de Trama mostrada. (Máximo 1 por reto.)",
         "traits": ""
@@ -1019,6 +1121,7 @@
     },
     {
         "code": "01161",
+        "flavor": "",
         "name": "Drogon",
         "text": "Sin Accesorios.\nCada Personaje <i>De la Tormenta</i> que controles gana Renombre.",
         "traits": "Dragón. Cría."
@@ -1039,18 +1142,21 @@
     },
     {
         "code": "01164",
+        "flavor": "",
         "name": "Rhaegal",
         "text": "Sin Accesorios.\n<b>Reacción:</b> después de que ganes un reto en el que participe un Personaje <i>De la Tormenta</i> que controles, pon en pie a un Personaje <i>De la Tormenta</i> de tu elección. (Límite de 1 vez por fase.)",
         "traits": "Dragón. Cría."
     },
     {
         "code": "01165",
+        "flavor": "",
         "name": "Ser Jorah Mormont",
         "text": "Renombre.\nSi Ser Jorah Mormont tiene encima 3 o más fichas de Traición, sacrifícalo.\n<b>Reacción obligada:</b> después de que ganes un reto en elq ue esté participando Ser Jorah Mormont, pon 1 ficha de Traición sobre su carta.",
         "traits": "Acompañante. Caballero."
     },
     {
         "code": "01166",
+        "flavor": "",
         "name": "Viserion",
         "text": "Sin Accesorios.\nCada Personaje <i>De la Tormenta</i> que controles gana Sigilo.",
         "traits": "Dragón. Cría."
@@ -1085,60 +1191,70 @@
     },
     {
         "code": "01171",
+        "flavor": "",
         "name": "Inmaculados",
         "text": "Sin Accesorios excepto <i>Arma</i>.\nMientras los Inmaculados estén atacando, cada Personaje defensor recibe un -1 a su FUE.",
         "traits": "Ejército."
     },
     {
         "code": "01172",
+        "flavor": "",
         "name": "El arakh de Drogo",
         "text": "Sólo Personajes <i>Dothraki</i>.\nEl Personaje vinculado recibe un +2 a su FUE.\nSi el Personaje vinculado es Khal Drogo, no se arrodilla cuando es declarado como atacante en el primer reto [military] que inicies cada ronda.",
         "traits": "Arma."
     },
     {
         "code": "01173",
+        "flavor": "",
         "name": "Plaza del castigo",
         "text": "<b>Reacción:</b> después de que ganes un reto [power], arrodilla la Plaza del Castigo para elegir un Personaje que no tenga Accesorios vinculados. Hasta el final de la fase, ese Personaje recibe un -2 a su FUE y muere si su FUE cae a 0.",
         "traits": "Astapor."
     },
     {
         "code": "01174",
+        "flavor": "",
         "name": "Mar Dothraki",
         "text": "<b>Reacción:</b> después de que ganes un reto [power], sacrifica el Mar Dothraki para poner en juego un Personaje <i>Dothraki</i> desde tu mano. Al final de la fase, si esa carta aún está en juego, devuélvela a tu mano (no puede salvarse).",
         "traits": "Essos."
     },
     {
         "code": "01175",
+        "flavor": "",
         "name": "Hacienda de Illyrio",
         "text": "Limitada.\n<b>Acción de Reclutamiento:</b> arrodilla la Hacienda de Illyrio para reducir en 1 el coste de la siguiente carta [targaryen] que reclutes en esta fase.",
         "traits": "Pentos."
     },
     {
         "code": "01176",
+        "flavor": "",
         "name": "¡Dracarys!",
         "text": "<b>Acción:</b> arrodilla un Personaje <i>Dragón</i> o a Daenerys Targaryen para elegir un Personaje participante. Hasta el final de la fase, ese Personaje recibe un -4 a su FUE y muere si su FUE cae a 0.",
         "traits": ""
     },
     {
         "code": "01177",
+        "flavor": "",
         "name": "Fuego y sangre",
         "text": "<b>Acción de Reto:</b> elige un Personaje [targaryen] único de tu pila de muertos, devuélvelo a tu mazo y baraja éste. Si ese Personaje es una <i>Cría</i>, en vez de eso puedes ponerlo en juego.",
         "traits": ""
     },
     {
         "code": "01178",
+        "flavor": "",
         "name": "Despertar al dragón",
         "text": "<b>Acción:</b> pon en pie un Personaje [targaryen] único de tu elección que controles. Al final de la fase, si ese Personaje aún está en juego, devuélvelo a tu mano.",
         "traits": ""
     },
     {
         "code": "01179",
+        "flavor": "",
         "name": "Izquierdo",
         "text": "Sin Accesorios excepto <i>Arma</i>.\nMientras controles a Derecho, Izquierdo recibe un +1 a su FUE, gana un icono [power] y no se arrodilla cuando es declarado defensor.",
         "traits": "Guardia."
     },
     {
         "code": "01180",
+        "flavor": "",
         "name": "Maestre Lomys",
         "text": "<b>Reacción:</b> después de que ganes un reto [intrigue] como jugador defensor, descarta 1 carta al azar de la mano del jugador atacante.",
         "traits": "Maestre."
@@ -1152,24 +1268,28 @@
     },
     {
         "code": "01182",
+        "flavor": "",
         "name": "Paxter Redwyne",
         "text": "Reduce en 1 el coste en Oro del primer Evento que jueges cada ronda.\n+1 Oro.",
         "traits": "Casa Redwyne. Lord."
     },
     {
         "code": "01183",
+        "flavor": "",
         "name": "Randyll Tarly",
         "text": "Renombre.\n<b>Reacción:</b> después de que la FUE de Randyll Tarly se vea aumentada por un efecto de carta, ponlo en pie. (Límite de 2 veces por fase.)",
         "traits": "Casa Tarly. Lord."
     },
     {
         "code": "01184",
+        "flavor": "",
         "name": "Derecho",
         "text": "Sin Accesorios excepto <i>Arma</i>.\nMientras controles a Izquierdo, Derecho recibe un +1 a su FUE, gana un icono [intrigue] y no se arrodilla cuando es declarado como defensor.",
         "traits": "Guardia."
     },
     {
         "code": "01185",
+        "flavor": "",
         "name": "El Caballero de las Flores",
         "text": "Renombre.\nMientras El Caballero de las Flores esté atacando solo, el jugador defensor no puede declarar más de 1 Personaje como defensor.",
         "traits": "Caballero. Lord."
@@ -1190,54 +1310,63 @@
     },
     {
         "code": "01188",
+        "flavor": "",
         "name": "Jardinero",
         "text": "<b>Acción de Reclutamiento:</b> arrodilla al Jardinero para reducir en 1 el coste del siguiente Personaje [tyrell] que reclutes esta fase.",
         "traits": "Aliado."
     },
     {
         "code": "01189",
+        "flavor": "",
         "name": "Confidente de Olenna",
         "text": "Emboscada (4).\n<b>Reacción:</b> después de que la Confidente de Olenna entre en juego durante la fase de Reto, nombre un tipo de reto. Puedes iniciar un reto adicional de ese tipo en esta fase.",
         "traits": "Aliado. Espía."
     },
     {
         "code": "01190",
+        "flavor": "",
         "name": "Guardianes del Dominio",
         "text": "Sin Accesorios.\nGuardianes del Dominio recibe un +1 a su FUE por cada Lugar de <i>El Dominio</i> que controles.",
         "traits": "Ejército."
     },
     {
         "code": "01191",
+        "flavor": "",
         "name": "Veneno de Corazón",
         "text": "Sólo Personajes [tyrell].\n<b>Acción:</b> mientras el Personaje vinculado esté participando en un reto, arrodilla Veneno de Corazón para otorgar a ese Personaje un +3 a la FUE hasta el final del reto.",
         "traits": "Acero valyrio. Arma."
     },
     {
         "code": "01192",
+        "flavor": "",
         "name": "Altojardín",
         "text": "<b>Acción de Reto:</b> arrodilla Altojardín y paga 1 de Oro para elegir un Personaje atacante. Pon en pie a ese Personaje y retíralo del reto.",
         "traits": "Fortaleza. El Dominio."
     },
     {
         "code": "01193",
+        "flavor": "",
         "name": "El Mander",
         "text": "<b>Reacción:</b> después de que ganes un reto por 5 o más de FUE, arrodilla El Mander para robar 2 cartas.",
         "traits": "El Dominio."
     },
     {
         "code": "01194",
+        "flavor": "",
         "name": "Rosaleda",
         "text": "Limitada.\n<b>Acción de Reclutamiento:</b> arrodilla la Rosaleda para reducir en 1 el coste de la siguiente carta [tyrell] que reclites en esta fase.",
         "traits": "El Dominio."
     },
     {
         "code": "01195",
+        "flavor": "",
         "name": "Crecer fuerte",
         "text": "<b>Acción de Reto:</b> elige hasta 3 Personajes [tyrell]. Hasta el final de la fase, cada uno de los Personajes elegidos recibe un +2 a su FUE.",
         "traits": ""
     },
     {
         "code": "01196",
+        "flavor": "",
         "name": "La astucia de Olenna",
         "text": "<b>Reacción:</b> después de que ganes un reto [intrigue] o [power], el adversario derrotado nombra un tipo de carta (Personaje, Lugar, Accesorio o Evento). Busca en tu mazo una carta de un tipo distinto al nombrado, muéstrala y añádela a tu mano. Baraja tu mazo.",
         "traits": ""

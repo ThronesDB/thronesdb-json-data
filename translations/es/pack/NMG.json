@@ -8,6 +8,7 @@
     },
     {
         "code": "02062",
+        "flavor": "",
         "name": "Guardianes del Norte",
         "text": "<b>Acción de Reto:</b> durante un reto en el que controles un Personaje [stark] participante, arrodilla otro Personaje [stark] para hacer que participe en ese reto en tu bando. (Límite de 2 veces por ronda.)",
         "traits": "Guerra."
@@ -21,6 +22,7 @@
     },
     {
         "code": "02064",
+        "flavor": "",
         "name": "El Rejo",
         "text": "Limitada.\n +3 Oro.",
         "traits": "Casa Redwyne."
@@ -34,18 +36,21 @@
     },
     {
         "code": "02066",
+        "flavor": "",
         "name": "El vigilante del muro",
         "text": "Juego esta carta sólo durante un reto [military].\n<b>Acción de Reto:</b> arrodilla 2 Personajes <i>Explorador</i> para matar a cada Personaje atacante.",
         "traits": "Explorador."
     },
     {
         "code": "02067",
+        "flavor": "",
         "name": "¡Por la Guardia!",
         "text": "No puedes perder (ni tu adversario puede ganar) el primer reto que se inicie contra ti en cada fase.",
         "traits": "Asedio."
     },
     {
         "code": "02068",
+        "flavor": "",
         "name": "Gendry",
         "text": "<b>Reacción:</b> después de que ganes la Dominación, Gendry gana 1 de Poder.\n<b>Reacción obligada:</b> después de que un adversario gane la Dominación, puedes descartar 1 de Poder de Gendry. Si no lo h aces, sacrifica un Personaje <i>Bastardo</i>",
         "traits": "Bastardo."
@@ -59,12 +64,14 @@
     },
     {
         "code": "02070",
+        "flavor": "",
         "name": "Capas Rojas",
         "text": "Durante retos [intrigue], los Capas Rojas reciben un +1 a su FUE por cada unidad de Oro que tengan encima.\n<b>Acción:</b> traslada 1 de Oro desde tu suministro de Oro hasta los Capas Rojas. (Límite de 1 vez por fase.)",
         "traits": "Ejército. Mercenario."
     },
     {
         "code": "02071",
+        "flavor": "",
         "name": "Comprado",
         "text": "Sólo Personajes de adversarios. Emboscada (1).\n<b>Reacción:</b> después de que ganes un reto [intrigue], arrodilla al Personaje vinculado. Luego el jugador que controla a ese Personaje puede darte 1 de Oro de su suministro de Oro para poner en pie a ese Personaje.",
         "traits": "Estado."
@@ -78,24 +85,28 @@
     },
     {
         "code": "02073",
+        "flavor": "",
         "name": "Botín",
         "text": "Para pagar el coste de Botín sólo puedes utilizar Oro del suministro de Oro del adversario derrotado.\n<b>Reacción:</b> después de que ganes un reto sin oposición, descarta las primeras X cartas del mazo del adversario derrotado.",
         "traits": ""
     },
     {
         "code": "02074",
+        "flavor": "",
         "name": "Batidores dothrakis",
         "text": "Sin Accesorios. Pillaje.\nReduce el coste para reclutar a los Batidores dothrakis en 1 por cada Personaje <i>Dothraki</i> que controles.",
         "traits": "Ejército. Dothraki."
     },
     {
         "code": "02075",
+        "flavor": "",
         "name": "Sangre de dragón",
         "text": "Cada Personaje que no sea <i>Dragón</i> recibe un -1 a su FUE y muere si su FUE cae a 0.",
         "traits": "Legado."
     },
     {
         "code": "02076",
+        "flavor": "",
         "name": "Maestre of Campoestrella",
         "text": "<b>Acción de Reto:</b> arrodilla al Maestre de Campoestrella para elegir un Personaje. Hasta el final de la fase, ese Personaje pierde una de las siguientes palabras clave de tu elección: Intimidación, Perspicacia, Pillaje o Renombre",
         "traits": "Casa Dayne. Maestre."
@@ -109,12 +120,14 @@
     },
     {
         "code": "02078",
+        "flavor": "",
         "name": "Explorador de los salvajes",
         "text": "<b>Acción:</b> sacrifica al Explorador de los salvajes para elegir un Personaje. Hasta el final de la fase, ese Personaje gana Sigilo.",
         "traits": "Salvaje."
     },
     {
         "code": "02079",
+        "flavor": "",
         "designer": "Carta diseñada por John M. Bruno, campeón mundial de 2005.",
         "name": "Las primeras nieves del invierno",
         "text": "<b>Reacción obligada:</b> después de que empiece la fase de Reto, devuelve a la mano de su propietario cada Personaje que tenga un coste impreso de 3 o menos.",
@@ -122,6 +135,7 @@
     },
     {
         "code": "02080",
+        "flavor": "",
         "name": "Espectros entre sus filas",
         "text": "Reduce el 2 (hasta un mínimo de 2) el valor de Reserva de la carta de Trama mostrada de cada adversario.",
         "traits": "Invierno."

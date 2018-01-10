@@ -1,6 +1,7 @@
 [
     {
         "code": "02041",
+        "flavor": "",
         "name": "Ser Rodrik Cassel",
         "text": "Sin Accesorios excepto <i>Arma</i>.\nMientras Ser Rodrik Cassel esté atacando en un reto [military], cada Personaje [stark] único que controles gana Perspicacia.",
         "traits": "Caballero."
@@ -21,12 +22,14 @@
     },
     {
         "code": "02044",
+        "flavor": "",
         "name": "Yegua en celo",
         "text": "Sólo Personajes <i>Caballero</i>.\nMientras el Personaje vinculado esté atacando o defendiendo solo, la Yegua en celo gana: \"<b>Acción:</b> arrodilla la Yegua en celo para elegir un Personaje participante cuya FUE sea superior a la del Personaje vinculado y retirar ese Personaje del reto.\"",
         "traits": "Caballo de guerra."
     },
     {
         "code": "02045",
+        "flavor": "",
         "name": "Ser Alliser Thorne",
         "text": "Mientras seas el jugador defensor, cada Personaje [thenightswatch] que controles gana un icono [military].\n<b>Reacción:</b> después de que se inicie un reto [military] contra ti, arrodilla tu carta de Facción y paga 4 de Oro para poner en juego a Ser Alliser Thorne desde tu mano.",
         "traits": "Caballero. Explorador."
@@ -47,24 +50,28 @@
     },
     {
         "code": "02048",
+        "flavor": "",
         "name": "La paz del Rey",
         "text": "<b>Reacción:</b> después de que se inicie un reto [military] o [power] contra ti, el jugador atacante puede elegir entre arrodillar su carta de Facción o trasladar 1 de Poder desde esa carta de Facción hasta la tuya. Si ese jugador decide no hacerlo, el reto termina de inmediato sin vencedor ni perdedor.",
         "traits": "Edicto. Conspiración."
     },
     {
         "code": "02049",
+        "flavor": "",
         "name": "Ser Gregor Clegane",
         "text": "Pillaje. Renombre.\n<b>Reacción:</b> después de que Ser Gregor Clegane descarte a un Personaje utilizando Pillaje, coloca esa carta en la pila de muertos de su propietario. Luego puedes matar a un Personaje de tu elección cuyo coste impreso sea igual al coste impreso de esa carta.",
         "traits": "Casa Clegane. Caballero. Lord."
     },
     {
         "code": "02050",
+        "flavor": "",
         "name": "Jamás apuesto contra mi familia",
         "text": "<b>Acción de Reto:</b> arrodilla tu carta de Facción para mostrar las 5 últimas cartas de tu mazo. Puedes poner en juego 1 Personaje [lannister] único que haya sido mostrado por este efecto; devuelve las demás cartas a la parte inferior de tu mazo en el orden que prefieras. Al final de la fase, si esa carta aún sigue en juego, descártala del juego (no puede salvarse).",
         "traits": ""
     },
     {
         "code": "02051",
+        "flavor": "",
         "designer": "Carta diseñada por Casey Galvan, campeón mundial de 2003.",
         "name": "Lord de nuevo cuño",
         "text": "<b>Reacción:</b> después de que reclutes al Lord de nuevo cuño, descarta del juego un Lugar no limitado de tu elección con un coste impreso de 3 o menos.",
@@ -72,6 +79,7 @@
     },
     {
         "code": "02052",
+        "flavor": "",
         "name": "Red de pesca",
         "text": "Sólo Personajes de adversarios.\nEl Personaje vinculado no puede ser declarado como defensor.",
         "traits": "Estado. Objeto. Arma."
@@ -85,6 +93,7 @@
     },
     {
         "code": "02054",
+        "flavor": "",
         "name": "Yegua de plata",
         "text": "Sólo Personajes <i>Dothraki</i> o Daenerys Targaryen.\nMientras el Personaje vinculado esté participando en un reto [power], gana Renombre.\n<b>Reacción:</b> después de que el Personaje vinculado gane Poder utilizando Renombre, sacrifica la Yegua de plata. Puedes iniciar un reto [power] adicional esta fase.",
         "traits": "Caballo de guerra."
@@ -105,6 +114,7 @@
     },
     {
         "code": "02057",
+        "flavor": "",
         "name": "Caballero errante",
         "text": "Mientras controles otro Personaje <i>Caballero</i>, el Caballero errante recibe un +1 a su FUE y un icono [power].",
         "traits": "Caballero."
@@ -118,12 +128,14 @@
     },
     {
         "code": "02059",
+        "flavor": "",
         "name": "Un torneo para el Rey",
         "text": "Cada Personaje <i>Caballero</i> que controles gana Renombre e &ldquo;Inmune a Eventos de adversarios.&rdquo;",
         "traits": "Verano."
     },
     {
         "code": "02060",
+        "flavor": "",
         "name": "Señor del Cruce",
         "text": "Durante el primer reto que inicies en cada fase, cada uno de tus Personajes participantes recibe un -1 a su FUE.\nDurante el tercer reto que inicies en cada fase, cada uno de tus Personajes participantes recibe un +2 a su FUE. Si ganas ese reto, ganas 1 de Poder para tu facción.",
         "traits": "Casa Frey."

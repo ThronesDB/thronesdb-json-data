@@ -8,6 +8,7 @@
     },
     {
         "code": "08042",
+        "flavor": "",
         "name": "The Dreadfort",
         "text": "<b>Reaction:</b> After a character you control is sacrificed, kneel The Dreadfort to choose and stand a <i>House Bolton</i> or non-[stark] character.",
         "traits": "House Bolton. The North."
@@ -21,6 +22,7 @@
     },
     {
         "code": "08051",
+        "flavor": "",
         "name": "Asha Greyjoy",
         "text": "Pillage. Stealth.\n<b>Reaction:</b> After Asha Greyjoy discards a card using pillage, search the top X cards of your deck for a card and add it to your hand. Shuffle your deck. X is the number of cards in the losing opponent's discard pile.",
         "traits": "Captain. Ironborn. Lady."
@@ -34,6 +36,7 @@
     },
     {
         "code": "08060",
+        "flavor": "",
         "designer": "Card design by 2013 North American Champion, Steven Simoni.",
         "name": "The Withering Cold",
         "text": "Skip the standing phase this round.",

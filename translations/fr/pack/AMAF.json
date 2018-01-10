@@ -8,6 +8,7 @@
     },
     {
         "code": "06002",
+        "flavor": "",
         "name": "The Tumblestone",
         "text": "Bestow (3).\n<b>Reaction:</b> After a <i>House Tully</i> character gains power, discard 1 gold from The Tumblestone to stand that character.",
         "traits": "The Riverlands."
@@ -35,12 +36,14 @@
     },
     {
         "code": "06006",
+        "flavor": "",
         "name": "Eastwatch-by-the-Sea",
         "text": "<b>Reaction:</b> After the dominance phase begins, if you have a higher reserve value than an opponent, draw 1 card.\n+1 Reserve.",
         "traits": "The North."
     },
     {
         "code": "06007",
+        "flavor": "",
         "name": "Fickle Bannerman",
         "text": "Bestow (2). Renown.\n<b>Forced Reaction:</b> After you lose a [power] challenge, the winning opponent takes control of Fickle Bannerman unless you discard 1 gold from it.",
         "traits": "Ally."
@@ -54,6 +57,7 @@
     },
     {
         "code": "06009",
+        "flavor": "",
         "name": "Stone Crows",
         "text": "Ambush (3). Bestow (2). \n<b>Reaction:</b> After you win a challenge in which Stone Crows is attacking, discard 1 gold from it to have the losing opponent choose and kill a defending character.",
         "traits": "Clansman."
@@ -74,6 +78,7 @@
     },
     {
         "code": "06012",
+        "flavor": "",
         "name": "Moat Cailin",
         "text": "While there are more <i>Winter</i> plot cards than <i>Summer</i> plot cards revealed, reduce the initiative value on each opponent's revealed plot card by 3, and the reserve value on each opponent's revealed plot card by 1.",
         "traits": "Contested. The North."
@@ -87,18 +92,21 @@
     },
     {
         "code": "06014",
+        "flavor": "",
         "name": "Slaver's Bay Port",
         "text": "Limited.\n<b>Marshaling Action:</b> Kneel Slaver's Bay Port to gain 1 gold. (2 gold instead if an opponent has 4 or more characters in his or her dead pile.)",
         "traits": "Essos."
     },
     {
         "code": "06015",
+        "flavor": "",
         "name": "Ricasso",
         "text": "Bestow (2). (When this card enters play, move up to 2 gold from your gold pool to this card.)\nYou are considered to have X additional plot cards in your used pile. X is the number of gold Ricasso has.",
         "traits": "Ally. Steward."
     },
     {
         "code": "06016",
+        "flavor": "",
         "name": "The Prince's Plan",
         "text": "<b>Action:</b> Choose a character. Until the end of the phase, that character gets +1 STR for each plot card in your used pile and gains a challenge icon of your choice.\n<b>Reaction:</b> After you lose a challenge, pay 1 gold to return The Prince's Plan from your discard pile to your hand.",
         "traits": ""
@@ -112,18 +120,21 @@
     },
     {
         "code": "06018",
+        "flavor": "",
         "name": "Alliance",
         "text": "Your minimum deck size is 75 cards.\nYou may run 2 <i>Banner</i> agendas in addition to this agenda.",
         "traits": ""
     },
     {
         "code": "06019",
+        "flavor": "",
         "name": "Barring the Gates",
         "text": "Card abilities cannot cause characters to enter play.",
         "traits": "Edict. Winter."
     },
     {
         "code": "06020",
+        "flavor": "",
         "name": "Late Summer Feast",
         "text": "<b>Forced Reaction:</b> After you win a challenge, the losing opponent may draw 1 card.",
         "traits": "Kingdom. Summer."

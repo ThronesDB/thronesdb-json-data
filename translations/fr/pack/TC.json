@@ -15,6 +15,7 @@
     },
     {
         "code": "04103",
+        "flavor": "",
         "name": "Ser Robar Royce",
         "text": "<b>Reaction:</b> After a <i>Summer</i> plot card is revealed, Ser Robar Royce gains 1 power. (Limit once per phase).\n<b>Forced Reaction:</b> After a <i>Winter</i> plot card is revealed, kneel Ser Robar Royce.",
         "traits": "Knight."
@@ -28,24 +29,28 @@
     },
     {
         "code": "04105",
+        "flavor": "",
         "name": "Qhorin Halfhand",
         "text": "Renown. No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you win a [military] challenge in which Qhorin Halfhand is participating, choose and kill a non-unique character with lower STR than his controlled by the losing opponent.\n<b>Card design by 2009 Melee World Champion, Jonathan Benton.</b>",
         "traits": "Ranger."
     },
     {
         "code": "04106",
+        "flavor": "",
         "name": "Fist of the First Men",
         "text": "While your reserve value is higher than an opponent's, each <i>Ranger</i> character you control gets +1 STR and cannot be bypassed by stealth.",
         "traits": "The North."
     },
     {
         "code": "04107",
+        "flavor": "",
         "name": "Salladhor Saan",
         "text": "<b>Reaction:</b> After you win a challenge in which Salladhor Saan is participating, put a <i>Warship</i> location or <i>Weapon</i> attachment into play from your hand.",
         "traits": "Mercenary. Raider. Smuggler."
     },
     {
         "code": "04108",
+        "flavor": "",
         "name": "The Valyrian",
         "text": "Ambush (2).\n<b>Action:</b> Kneel The Valyrian to give an attacking character +X STR until the end of the challenge. X is the number of gold in the defending player's gold pool.",
         "traits": "Warship."
@@ -66,6 +71,7 @@
     },
     {
         "code": "04111",
+        "flavor": "",
         "name": "Esgred",
         "text": "Stealth.\nIf you control Asha Greyjoy, sacrifice Esgred and have your Asha Greyjoy gain 1 power.\nEsgred may bypass an additional character using stealth.",
         "traits": "Ironborn."
@@ -86,6 +92,7 @@
     },
     {
         "code": "04114",
+        "flavor": "",
         "name": "House of the Undying",
         "text": "<b>Challenges Action:</b> Remove House of the Undying from the game to choose an opponent. Put each character in that player's dead pile into play under your control. At the end of the phase, return each of those cards to its owner's dead pile (cannot be saved).",
         "traits": "Qarth."
@@ -106,24 +113,28 @@
     },
     {
         "code": "04117",
+        "flavor": "",
         "name": "Northern Refugee",
         "text": "While there is a <i>Winter</i> plot card revealed, reduce the cost to marshal Northern Refugee by 1.",
         "traits": "Ally. Wildling."
     },
     {
         "code": "04118",
+        "flavor": "",
         "name": "Relentless Assault",
         "text": "<b>Reaction:</b> After your win a challenge by 5 or more STR as the attacking player, kneel your faction card. Then, you may initiate an additional challenge of that type this phase.",
         "traits": ""
     },
     {
         "code": "04119",
+        "flavor": "",
         "name": "Tarred Heads",
         "text": "<b>Reaction:</b> After your win a [power] challenge, discard 1 card at random from the losing opponent's hand. If that card is a character, place it in its owner's dead pile.",
         "traits": ""
     },
     {
         "code": "04120",
+        "flavor": "",
         "name": "Battle of the Blackwater",
         "text": "<b>When Revealed:</b> Choose an opponent. Discard each duplicate you control and each duplicate controlled by that opponent from play.",
         "traits": "Siege. War."

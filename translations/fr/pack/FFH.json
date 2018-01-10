@@ -22,6 +22,7 @@
     },
     {
         "code": "04044",
+        "flavor": "",
         "name": "Crown of Golden Roses",
         "text": "<i>Lord</i> character only.\nAttached character gains the <i>King</i> trait.\n<b>Action:</b> Discard 1 card from your hand to give attached character +X STR until the end of the phase. X is the number of challenge icons attached character has. (Limit twice per round.)",
         "traits": "Crown. Item."
@@ -63,6 +64,7 @@
     },
     {
         "code": "04050",
+        "flavor": "",
         "name": "Harrenhal",
         "text": "<b>Challenges Action:</b> Kneel Harrenhal to put a [lannister] or <i>House Bolton</i> character into play from your hand. At the end of the phase, if that character is still in play, kill it (cannot be saved).",
         "traits": "Contested. Stronghold."
@@ -76,6 +78,7 @@
     },
     {
         "code": "04052",
+        "flavor": "",
         "name": "King of Salt and Rock",
         "text": "<i>Ironborn</i> character only.\nAttached character gains the <i>King</i> trait and pillage.\n<b>Reaction:</b> After an attachment or location is discarded using pillage, attached character gains 1 power.",
         "traits": "Title."
@@ -96,12 +99,14 @@
     },
     {
         "code": "04055",
+        "flavor": "",
         "name": "Spearmaiden",
         "text": "<b>Reaction:</b> After Spearmaiden is declared as an attacker in a [military] challenge, choose a character controlled by the defending player. If you win the challenge by 5 or more STR, that character must be chosen for claim during this challenge, if able.",
         "traits": "Ally."
     },
     {
         "code": "04056",
+        "flavor": "",
         "name": "The Scorpion's Sting",
         "text": "<b>Reaction:</b> After you lose a challenge, choose up to X [martell] characters. Each of those characters gains renown until the end of the phase. X is the number of plot cards in your used pile.",
         "traits": ""
@@ -115,6 +120,7 @@
     },
     {
         "code": "04058",
+        "flavor": "",
         "name": "The God's Eye",
         "text": "The God's Eye cannot be discarded from play.\n+1 Income.\n+1 Reserve.",
         "traits": "Westeros."
@@ -128,6 +134,7 @@
     },
     {
         "code": "04060",
+        "flavor": "",
         "name": "Battle of Oxcross",
         "text": "Each character with printed cost 4 or higher cannot be declared as a defender during the first challenge you initiate this round.",
         "traits": "War."

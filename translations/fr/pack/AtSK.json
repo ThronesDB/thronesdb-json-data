@@ -8,12 +8,14 @@
     },
     {
         "code": "04002",
+        "flavor": "",
         "name": "Robb Stark",
         "text": "Renown.\nDuring [military] challenges, Robb Stark gets +1 STR for each loyal character you control.\n<b>Action:</b> While Robb Stark is participating in a [military] challenge, choose a participating non-<i>King</i> character. Stand and remove that character from the challenge. (Limit once per challenge.)",
         "traits": "King. Lord."
     },
     {
         "code": "04003",
+        "flavor": "",
         "name": "Riverrun",
         "text": "<b>Reaction:</b> After power is gained by or moved to a <i>House Tully</i> character, kneel Riverrun to have that character gain 1 power.",
         "traits": "House Tully. The Riverlands."
@@ -27,6 +29,7 @@
     },
     {
         "code": "04005",
+        "flavor": "",
         "name": "Bitterbridge Encampment",
         "text": "<b>Reaction:</b> After a <i>Summer</i> plot card is revealed, kneel Bitterbridge Encampment. Then, each player may put a character into play from his or her hand.",
         "traits": "The Reach."
@@ -47,12 +50,14 @@
     },
     {
         "code": "04008",
+        "flavor": "",
         "name": "White Raven",
         "text": "<b>Forced Reaction:</b> After you lose a [power] challenge, sacrifice White Raven.\n<b>Reaction:</b> After you win dominance, if there is a <i>Summer</i> or <i>Winter</i> plot card revealed, gain 1 power for your faction.",
         "traits": "Raven."
     },
     {
         "code": "04009",
+        "flavor": "",
         "name": "Ruby of R'hllor",
         "text": "<i>R'hllor</i> character only.\n<b>Reaction:</b> After you win an [intrigue] challenge in which attached character is attacking, name a card. The losing opponent reveals his or her hand and discards each card with that name.",
         "traits": "Item. R'hllor."
@@ -66,6 +71,7 @@
     },
     {
         "code": "04011",
+        "flavor": "",
         "name": "Levies at the Rock",
         "text": "<b>Reaction:</b> After a player initiates a challenge against you, move up to X gold from that player's gold pool to your own. X is the number of attacking characters.",
         "traits": ""
@@ -86,6 +92,7 @@
     },
     {
         "code": "04014",
+        "flavor": "",
         "name": "Viserys Targaryen",
         "text": "While Viserys Targaryen is attacking, each <i>King</i> character must be declared as a defender, if able.\n<b>Interrupt:</b> When the dominance phase ends, if no opponent controls a <i>King</i> character, Viserys Targaryen gains 1 power.",
         "traits": "King. Lord."
@@ -99,6 +106,7 @@
     },
     {
         "code": "04016",
+        "flavor": "",
         "name": "Harmen Uller",
         "text": "Renown.\nEach <i>Sand Snake</i> character in your hand gains ambush (X). X is 1 less than that card's printed cost.",
         "traits": "House Uller. Lord."
@@ -119,6 +127,7 @@
     },
     {
         "code": "04019",
+        "flavor": "",
         "name": "Rains of Autumn",
         "text": "Characters and locations do not provide positive gold modifiers.",
         "traits": "Omen."
