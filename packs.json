@@ -228,7 +228,7 @@
         "cgdb_id": 25,
         "code": "Km",
         "cycle_code": "foc",
-        "date_release": null,
+        "date_release": "2018-01-18",
         "name": "Kingsmoot",
         "position": 3,
         "size": 20
@@ -240,6 +240,15 @@
         "date_release": null,
         "name": "Favor of the Old Gods",
         "position": 4,
+        "size": 20
+    },
+    {
+        "cgdb_id": 27,
+        "code": "TFM",
+        "cycle_code": "foc",
+        "date_release": null,
+        "name": "The Faith Militant",
+        "position": 5,
         "size": 20
     },
     {

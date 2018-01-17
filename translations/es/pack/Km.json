@@ -1,5 +1,19 @@
 [
     {
+        "code": "08041",
+        "flavor": "\"Lord Bolton, he used to say a naked man has few secrets, but a flayed man's got none.\"",
+        "name": "Ramsay Snow",
+        "text": "<b>Forced Reaction:</b> After Ramsay Snow enters play, each player sacrifices a character, if able.",
+        "traits": "Bastard. House Bolton."
+    },
+    {
+        "code": "08042",
+        "flavor": "",
+        "name": "The Dreadfort",
+        "text": "<b>Reaction:</b> After a character you control is sacrificed, kneel The Dreadfort to choose and stand a <i>House Bolton</i> or non-[stark] character.",
+        "traits": "House Bolton. The North."
+    },
+    {
         "code": "08050",
         "flavor": "He liked to believe that he was getting better, but the improvement was slow and not without cost. Underneath his steel and wool and boiled leather Jaime Lannister was a tapestry of cuts and scabs and bruises.",
         "name": "Sparring in Secret",
@@ -8,6 +22,7 @@
     },
     {
         "code": "08051",
+        "flavor": "",
         "name": "Asha Greyjoy",
         "text": "Pillage. Stealth.\n<b>Reaction:</b> After Asha Greyjoy discards a card using pillage, search the top X cards of your deck for a card and add it to your hand. Shuffle your deck. X is the number of cards in the losing opponent's discard pile.",
         "traits": "Captain. Ironborn. Lady."
@@ -21,6 +36,8 @@
     },
     {
         "code": "08060",
+        "designer": "Card design by 2013 North American Champion, Steven Simoni.",
+        "flavor": "",
         "name": "The Withering Cold",
         "text": "Skip the standing phase this round.",
         "traits": "Winter."

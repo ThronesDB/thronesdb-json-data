@@ -92,6 +92,7 @@
     },
     {
         "code": "04094",
+        "flavor": "",
         "name": "Mother of Dragons",
         "text": "<i>Stormborn</i> character you control only.\n<b>Challenges Action:</b> During a challenge in which you control a participating <i>Dragon</i> character, kneel Mother of Dragons to have attached character participate in the challenge on your side.",
         "traits": "Title."
@@ -105,6 +106,7 @@
     },
     {
         "code": "04096",
+        "flavor": "",
         "name": "The Prince's Pass",
         "text": "<b>Reaction:</b> After you lose a challenge as the defending player, kneel The Prince's Pass to choose an attacking character. Until the end of the phase, that character loses a challenge icon of your choice. Then, if it has no challenge icons, you may sacrifice The Prince's Pass to discard it from play.",
         "traits": "Dorne."
@@ -125,12 +127,14 @@
     },
     {
         "code": "04099",
+        "flavor": "",
         "name": "Quiet as a Shadow",
         "text": "<b>Action:</b> Choose a unique character with printed cost 3 or lower. Until the end of the phase, that character gains stealth.",
         "traits": ""
     },
     {
         "code": "04100",
+        "flavor": "",
         "name": "Ghosts of Harrenhal",
         "text": "<b>When Revealed:</b> Put the top character in each player's dead pile into play.",
         "traits": "Omen."

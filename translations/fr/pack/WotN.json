@@ -1,6 +1,7 @@
 [
     {
         "code": "03001",
+        "flavor": "",
         "name": "King Robb's Host",
         "text": "No attachments.<b>\nReaction:</b> After you win a [military] challenge in which King Robb's Host is participating, move 1 power from the losing opponent's faction card to an attacking character. (2 power instead if there is a <i>War</i> plot card revealed.)",
         "traits": "Army."
@@ -21,6 +22,7 @@
     },
     {
         "code": "03004",
+        "flavor": "",
         "name": "The Blackfish",
         "text": "Renown.\nWhile The Blackfish has 4 or more power, each <i>House Tully </i>character you control does not kneel when declared as an attacker.\n<b>Reaction:</b> After you win a [military] challenge as the attacking player, draw 1 card. (Limit once per phase.)\n<b>Card design by 2009 World Champion, Erick A. Butzlaff.</b>",
         "traits": "House Tully. Knight. Lord."
@@ -34,6 +36,7 @@
     },
     {
         "code": "03006",
+        "flavor": "",
         "name": "Wolves of the North",
         "text": "No attachments. Stealth.\n<b>Reaction:</b> After Wolves of the North bypasses a character using stealth, that character gets -X STR until the end of the phase. X is the number of <i>Direwolf</i> cards you control.",
         "traits": "Direwolf."
@@ -47,12 +50,14 @@
     },
     {
         "code": "03008",
+        "flavor": "",
         "name": "Jory Cassel",
         "text": "<b>Interrupt:</b> When a unique [stark] character you control would be killed, sacrifice Jory Cassel to save it. Then, if there is a <i>Winter</i> plot card revealed, that character gains 1 power.",
         "traits": "Guard."
     },
     {
         "code": "03009",
+        "flavor": "",
         "name": "Riverrun Minstrel",
         "text": "<b>Reaction:</b> After Riverrun Minstrel enters play, choose a <i>House Tully</i> character. That character gains 1 power.",
         "traits": "House Tully. Minstrel."
@@ -108,24 +113,28 @@
     },
     {
         "code": "03017",
+        "flavor": "",
         "name": "Winterfell",
         "text": "Each [stark] character you control gets +1 STR.\n<b>Reaction:</b> After a challenge is initiated, kneel Winterfell. Then, each player with a non-<i>Winter</i> plot card revealed cannot trigger card abilities until the end of the challenge.",
         "traits": "The North. Winterfell."
     },
     {
         "code": "03018",
+        "flavor": "",
         "name": "Winterfell Heart Tree",
         "text": "<b>Reaction:</b> After a phase begins, sacrifice Winterfell Heart Tree to choose a [stark] card you control. Until the end of the phase, that card gains \"immune to opponents' plot effects.\"",
         "traits": "Old Gods. Winterfell."
     },
     {
         "code": "03019",
+        "flavor": "",
         "name": "Nymeria",
         "text": "Unique [stark] character only.\nAttached character gains intimidate.\n<b>Action:</b> Pay 1 gold to attach Nymeria to a different character. (Limit once per phase.)",
         "traits": "Direwolf."
     },
     {
         "code": "03020",
+        "flavor": "",
         "name": "Needle",
         "text": "[stark] character only.\nAttached character gets +2 STR.\n<b>Interrupt:</b> When attached character is sacrificed, sacrifice Needle to return that character to your hand instead of placing it in your discard pile.",
         "traits": "Weapon."
@@ -139,6 +148,7 @@
     },
     {
         "code": "03022",
+        "flavor": "",
         "name": "As Hard as Winter",
         "text": "Play only if there is a <i>Winter</i> plot card in your used pile.\n<b>Reaction:</b> After a [stark] character you control is sacrificed or killed, put a [stark] character with equal or lower printed cost into play from your hand.",
         "traits": ""
@@ -159,6 +169,7 @@
     },
     {
         "code": "03025",
+        "flavor": "",
         "name": "Motley",
         "text": "Opponent's character only.\nAttached character gains the <i>Fool</i> trait.\n<b>Reaction:</b> After attached character is declared as an attacker or defender, discard 1 card at random from its controller's hand.",
         "traits": "Condition."
@@ -179,6 +190,7 @@
     },
     {
         "code": "03028",
+        "flavor": "",
         "name": "Ahead of the Tide",
         "text": "<b>Interrupt:</b> When you compare initiative, your revealed plot card gets +3 initiative until the end of the phase. If you win initiative this phase, draw 1 card.",
         "traits": ""
@@ -192,6 +204,7 @@
     },
     {
         "code": "03030",
+        "flavor": "",
         "name": "Tower of the Hand",
         "text": "<b>Reaction:</b> After you win an [intrigue] challenge, kneel Tower of the Hand and return a participating [lannister] character to your hand to choose a character with lower printed cost controlled by the losing opponent. Return that character to its owner's hand.",
         "traits": "King's Landing."
@@ -212,12 +225,14 @@
     },
     {
         "code": "03033",
+        "flavor": "",
         "name": "Stonesnake",
         "text": "Stealth.\n<b>Reaction:</b> After Stonesnake bypasses a character using stealth, choose one of that character's keywords. Stonesnake gains that keyword until the end of the phase.",
         "traits": "Ranger."
     },
     {
         "code": "03034",
+        "flavor": "",
         "name": "The Shadow Tower",
         "text": "<b>Reaction:</b> After you win a challenge as the defending player, kneel The Shadow Tower to choose a character controlled by the losing opponent. That character cannot be declared as an attacker this phase.",
         "traits": "The North."
@@ -231,24 +246,28 @@
     },
     {
         "code": "03036",
+        "flavor": "",
         "name": "Dragon Sight",
         "text": "<b>Action:</b> Each participating non-<i>Dragon</i> character gets -1 STR until the end of the challenge.",
         "traits": ""
     },
     {
         "code": "03037",
+        "flavor": "",
         "name": "House Florent Knight",
         "text": "<b>Forced Reaction:</b> After House Florent Knight enters play, choose a character with the lowest STR in play, and discard it from play.",
         "traits": "House Florent. Knight."
     },
     {
         "code": "03038",
+        "flavor": "",
         "name": "To the Rose Banner!",
         "text": "<b>Marshaling Action:</b> Choose a [tyrell] character you control. Gain X gold, where X is that character's STR. Then, sacrifice that character.",
         "traits": ""
     },
     {
         "code": "03039",
+        "flavor": "",
         "name": "Mance Rayder",
         "text": "Renown.\nEach <i>Wildling</i> character in your hand gains ambush (X). X is that card's printed cost.\nWhile there is a <i>Winter</i> plot card revealed, reduce the cost to ambush each of your <i>Wildling</i> characters by 1.",
         "traits": "King. Wildling."
@@ -282,6 +301,7 @@
     },
     {
         "code": "03044",
+        "flavor": "",
         "name": "Healing Expertise",
         "text": "<b>Interrupt:</b> When a non-<i>Army </i>character you control would be killed, kneel a <i>Maester</i> character to save it.",
         "traits": "Citadel."
@@ -295,42 +315,49 @@
     },
     {
         "code": "03046",
+        "flavor": "",
         "name": "A Time For Wolves",
         "text": "<b>When Revealed:</b> Search your deck for a <i>Direwolf</i> card, reveal it, and add it to your hand. If that card's printed cost is 3 or lower, you may put it into play instead. Shuffle your deck.\n<b>Card design by 2012 North American Champion, Dan Seefeldt.</b>",
         "traits": "Winter."
     },
     {
         "code": "03047",
+        "flavor": "",
         "name": "Fallen from Favor",
         "text": "<b>When Revealed:</b> Sacrifice a character you control.",
         "traits": "Edict."
     },
     {
         "code": "03048",
+        "flavor": "",
         "name": "Snowed Under",
         "text": "Treat the base initiative value on each revealed plot card as if it were 0.",
         "traits": "Winter."
     },
     {
         "code": "03049",
+        "flavor": "",
         "name": "The Long Winter",
         "text": "<b>When Revealed:</b> Each player without a <i>Summer</i> plot revealed discards 1 power from a card he or she controls.",
         "traits": "Winter."
     },
     {
         "code": "03050",
+        "flavor": "",
         "name": "A Song of Summer",
         "text": "While there are no <i>Winter</i> plot cards revealed, each character you control gets +1 STR.",
         "traits": "Summer."
     },
     {
         "code": "03051",
+        "flavor": "",
         "name": "Weapons at the Door",
         "text": "<b>Forced Reaction:</b> After the challenges phase begins, return each card with the printed attachment cardtype to its owner's hand.",
         "traits": "Edict."
     },
     {
         "code": "03052",
+        "flavor": "",
         "name": "Ranger's Cache",
         "text": "<b>Interrupt:</b> When the taxation phase ends, either: draw 2 cards or gain 3 gold.",
         "traits": "Kingdom. Winter."

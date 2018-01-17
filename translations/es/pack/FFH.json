@@ -22,6 +22,7 @@
     },
     {
         "code": "04044",
+        "flavor": "",
         "name": "Corona de rosas doradas",
         "text": "Sólo Personajes <i>Lord</i>.\nEl Personaje vinculado gana el rasgo de <i>Rey</i>.\n<b>Acción:</b> descarta 1 carta de tu mano para proporcionar al Personaje vinculado un +X a su FUE hasta el final de la fase. X es el número de iconos de reto que tenga el Personaje vinculado. (Límite de 2 veces por ronda.)",
         "traits": "Corona. Objeto."
@@ -63,6 +64,7 @@
     },
     {
         "code": "04050",
+        "flavor": "",
         "name": "Harrenhal",
         "text": "<b>Acción de Reto:</b> arrodilla Harrenhal para poner en juego desde tu mano un Personaje [lannister] o de la <i>Casa Bolton</i>. Al final de la fase, si ese Personaje sigue en juego, mátalo (no puede salvarse).",
         "traits": "Disputa. Fortaleza."
@@ -76,6 +78,7 @@
     },
     {
         "code": "04052",
+        "flavor": "",
         "name": "Rey de la Sal y de la Roca",
         "text": "Sólo Personajes <i>Hijo del Hierro</i>.\nEl Personaje vinculado gana el rasgo <i>Rey</i> y Pillaje.\n<b>Reacción:</b> después de que se descarte un Accesorio o Lugar mediante el Pillaje, el Personaje vinculado gana 1 de Poder.",
         "traits": "Título."
@@ -96,12 +99,14 @@
     },
     {
         "code": "04055",
+        "flavor": "",
         "name": "Lancera",
         "text": "<b>Reacción:</b> después de que la Lancera sea declarada como atacante en un reto [military], elige un Personaje controlado por el jugador defensor. Si ganas el reto por 5 o más de FUE, ese Personaje debe ser elegido para satisfacer la Conquista de este reto (si puede).",
         "traits": "Aliado."
     },
     {
         "code": "04056",
+        "flavor": "",
         "name": "La picadura del escorpión",
         "text": "<b>Reacción:</b> después de que pierdas un reto, elige hasta X Personajes [martell]. Cada uno de esos Personajes gana Renombre hasta el final de la fase. X es el número de cartas de Trama que hay en tu pila de cartas usadas.",
         "traits": ""
@@ -115,6 +120,7 @@
     },
     {
         "code": "04058",
+        "flavor": "",
         "name": "El Ojo de Dioses",
         "text": "El Ojo de Dioses no puede descartarse del juego.\n+1 Oro.\n+1 Reserva.",
         "traits": "Poniente."
@@ -128,6 +134,7 @@
     },
     {
         "code": "04060",
+        "flavor": "",
         "name": "Batalla de Cruce de Bueyes",
         "text": "Ningún Personaje con un coste impreso de 4 o más puede ser declarado como defensor durante el primer reto que inicies en esta ronda.",
         "traits": "Guerra."

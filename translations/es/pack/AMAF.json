@@ -8,6 +8,7 @@
     },
     {
         "code": "06002",
+        "flavor": "",
         "name": "Piedra Caída",
         "text": "Encomienda (3).\n<b>Reacción:</b> después de que un Personaje de la <i>Casa Tully</i> gane Poder, descarta 1 de Oro de Piedra Caída para poner en pie a ese Personaje.",
         "traits": "Tierra de los Ríos."
@@ -35,12 +36,14 @@
     },
     {
         "code": "06006",
+        "flavor": "",
         "name": "Guardiaoriente del Mar",
         "text": "<b>Reacción:</b> después de que empiece la fase de Dominación, si tu valor de Reserva es más alto que el de un adversario, roba 1 carta.\n+1 Reserva.",
         "traits": "El Norte."
     },
     {
         "code": "06007",
+        "flavor": "",
         "name": "Vasallo desleal",
         "text": "Encomienda (2). Renombre.\n<b>Reacción obligada:</b> después de que pierdas un reto [power], el adversario ganador toma el control del Vasallo desleal a menos que descartes 1 de Oro de su carta.",
         "traits": "Aliado."
@@ -54,6 +57,7 @@
     },
     {
         "code": "06009",
+        "flavor": "",
         "name": "Grajos de Piedra",
         "text": "Emboscada (3). Encomienda (2). \n<b>Reacción:</b> después de que ganes un reto en el que los Grajos de Piedra estén atacando, descarta 1 de Oro de su carta para hacer que el adversario derrotado mate a un Personaje defensor de su elección.",
         "traits": "Miembro de clan."
@@ -74,6 +78,7 @@
     },
     {
         "code": "06012",
+        "flavor": "",
         "name": "Foso Cailin",
         "text": "Mientras haya mostradas más cartas de Trama de <i>Invierno</i> que de <i>Verano</i>, la Iniciativa de la carta de Trama mostrada de cada adversario se reduce en 3 y el valor de Reserva de la carta de Trama mostrada de cada adversario se reduce en 1.",
         "traits": "Disputa. El Norte."
@@ -87,18 +92,21 @@
     },
     {
         "code": "06014",
+        "flavor": "",
         "name": "Puerto de la Bahía de los Esclavos",
         "text": "Limitada.\n<b>Acción de Reclutamiento:</b> arrodilla el Puerto de la Bahía de los Esclavos para ganar 1 de Oro. (2 de Oro si un adversario tiene 4 Personajes o más en su pila de muertos.)",
         "traits": "Essos."
     },
     {
         "code": "06015",
+        "flavor": "",
         "name": "Ricasso",
         "text": "Encomienda (2).\nSe considera que tienes X cartas de Trama adicionales en tu pila de cartas usadas. X es la cantidad de Oro que tenga Ricasso.",
         "traits": "Aliado. Mayordomo."
     },
     {
         "code": "06016",
+        "flavor": "",
         "name": "El plan del príncipe",
         "text": "<b>Acción:</b> elige un Personaje. Hasta el final de la fase, ese Personaje recibe un +1 a su FUE por cada carta de Trama que haya en tu pila de cartas usadas y también gana un icono de reto de tu elección.\n<b>Reacción:</b> después de que pierdas un reto, paga 1 de Oro para devolver El plan del príncipe a tu mano desde tu pila de descartes.",
         "traits": ""
@@ -112,18 +120,21 @@
     },
     {
         "code": "06018",
+        "flavor": "",
         "name": "Alianza",
         "text": "Tu mazo tiene un tamaño mínimo de 75 cartas.\nPuedes jugar con 2 Estrategias de <i>Estanderte</i> además de esta carta de Estrategia.",
         "traits": ""
     },
     {
         "code": "06019",
+        "flavor": "",
         "name": "Atrancar las puertas",
         "text": "Las capacidades de cartas no pueden hacer que entren en juego Personajes.",
         "traits": "Edicto. Invierno."
     },
     {
         "code": "06020",
+        "flavor": "",
         "name": "Banquete de fin de verano",
         "text": "<b>Reacción obligada:</b> después de que ganes un reto, el adversario derrotado puede robar 1 carta.",
         "traits": "Reino. Verano."

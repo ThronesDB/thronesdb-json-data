@@ -15,6 +15,7 @@
     },
     {
         "code": "04063",
+        "flavor": "",
         "name": "King Renly's Host",
         "text": "Intimidate. No attachments.\nWhile there is a <i>Summer</i> plot card revealed, King Renly's Host gets +4 STR.\nWhile there is a <i>Winter</i> plot card revealed, King Renly's Host cannot be declared as an attacker.",
         "traits": "Army."
@@ -28,12 +29,14 @@
     },
     {
         "code": "04065",
+        "flavor": "",
         "name": "Shadow Tower Mason",
         "text": "No attachments except <i>Weapon</i>.\nWhile you control 3 or more [thenightswatch] locations and/or attachments, Shadow Tower Mason gains a [military] and an [intrigue] icon.",
         "traits": "Builder."
     },
     {
         "code": "04066",
+        "flavor": "",
         "name": "The Haunted Forest",
         "text": "While The Haunted Forest is standing, it contributes 1 STR to your side during any challenge in which you are the defending player.\n<b>Forced Reaction:</b> After you lose a challenge, kneel The Haunted Forest.",
         "traits": "The North."
@@ -96,36 +99,42 @@
     },
     {
         "code": "04075",
+        "flavor": "",
         "name": "Elia Sand",
         "text": "<b>Reaction:</b> After you lose a challenge, choose a character. Until the end of the phase, that character gains stealth. (Limit twice per phase.)",
         "traits": "Bastard. Sand Snake."
     },
     {
         "code": "04076",
+        "flavor": "",
         "name": "Burning on the Sand",
         "text": "<b>Reaction:</b> After you lose an unopposed challenge, set the claim value on the winning opponent's revealed plot card to 0 until the end of the challenge.",
         "traits": ""
     },
     {
         "code": "04077",
+        "flavor": "",
         "name": "Jaqen H'ghar",
         "text": "<b>Reaction:</b> After Jaqen H'ghar enters play, place a Valar Morghulis token on up to 3 different unique characters. If Jaqen H'ghar leaves play, discard those tokens from play.\n<b>Reaction:</b> After you win a challenge in which Jaqen H'ghar is attacking alone, choose and kill a character with a Valar Morghulis token.",
         "traits": "Ally."
     },
     {
         "code": "04078",
+        "flavor": "",
         "name": "Isle of Ravens",
         "text": "<b>Action:</b> Kneel Isle of Ravens to choose a card in any player's discard pile, and shuffle it into its owner's deck.",
         "traits": "Oldtown."
     },
     {
         "code": "04079",
+        "flavor": "",
         "name": "King Beyond the Wall",
         "text": "<i>Wildling</i> character only.\nAttached character gains the <i>King</i> trait.\nWhile attached character is attacking a player with a higher power total than you, raise the claim value on your revealed plot card by 1.",
         "traits": "Title."
     },
     {
         "code": "04080",
+        "flavor": "",
         "name": "Valar Morghulis",
         "text": "<b>When Revealed:</b> Kill each character.",
         "traits": "Omen."

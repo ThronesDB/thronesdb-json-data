@@ -92,6 +92,7 @@
     },
     {
         "code": "04094",
+        "flavor": "",
         "name": "Madre de Dragones",
         "text": "Sólo Personajes <i>De la Tormenta</i> que controles.\n<b>Acción de Reto:</b> durante un reto en el que controles un Personaje <i>Dragón</i> participante, arrodilla a la Madre de Dragones para que el Personaje vinculado participe en el reto de tu parte.",
         "traits": "Título."
@@ -105,6 +106,7 @@
     },
     {
         "code": "04096",
+        "flavor": "",
         "name": "El Paso del Príncipe",
         "text": "<b>Reacción:</b> después de que pierdas un reto como jugador defensor, arrodilla El Paso del Príncipe para elegir a un Personaje atacante. Hasta el final de la fase, ese Personaje pierde un icono de reto de tu elección. Luego, si no tiene iconos de reto, puedes sacrificar El Paso del Príncipe para descartarlo del juego.",
         "traits": "Dorne."
@@ -125,12 +127,14 @@
     },
     {
         "code": "04099",
+        "flavor": "",
         "name": "Silenciosa como una sombra",
         "text": "<b>Acción:</b> elige un Personaje único que tenga un coste impreso de 3 o menos. Hasta el final de la fase, ese Personaje gana Sigilo.",
         "traits": ""
     },
     {
         "code": "04100",
+        "flavor": "",
         "name": "Fantasmas de Harrenhal",
         "text": "<b>Cuando se muestre esta carta:</b> pon en juego el primer Personaje que haya en la pila de muertos de cada jugador.",
         "traits": "Augurio."

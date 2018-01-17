@@ -22,6 +22,7 @@
     },
     {
         "code": "04024",
+        "flavor": "",
         "name": "Ahí está mi derecho",
         "text": "Juega esta carta sólo durante un reto.\n<b>Acción de Reto:</b> muestra 4 Personajes [tyrell] desde tu mano para aumentar el valor de Conquista de tu carta de Trama mostrada en 1 hasta el final del reto. (Máximo 1 por reto.)",
         "traits": ""
@@ -63,18 +64,21 @@
     },
     {
         "code": "04030",
+        "flavor": "",
         "name": "El Niño Rey",
         "text": "Sólo Personajes <i>Lord</i>.\nEl Personaje vinculado gana el rasgo <i>Rey</i>.\n<b>Reacción:</b> después de que muera un Personaje con un coste impreso de 3 o menos, arrodilla El Níño Rey para que el Personaje vinculado gane 1 de Poder.",
         "traits": "Título."
     },
     {
         "code": "04031",
+        "flavor": "",
         "name": "Balon Greyjoy",
         "text": "Renombre.\nBalon Greyjoy no se arrodilla cuando es declarado como atacante en un reto [military] contra un adversario que no controla ningún Personaje <i>Rey</i>.\n<b>Acción:</b> arrodilla un Lugar [greyjoy] para proporcionar a cada Personaje leal que controles un +1 a su FUE hasta el final del reto. (Límite de 1 vez por reto.)",
         "traits": "Hijo del Hierro. Rey. Lord."
     },
     {
         "code": "04032",
+        "flavor": "",
         "name": "Nuestras son las antiguas costumbres",
         "text": "<b>Acción de Reto:</b> hasta el final de la fase, elige una de estas dos opciones: cada Personaje [greyjoy] que controles gana Sigilo, o bien cada Personaje que no sea [greyjoy] pierde Sigilo.",
         "traits": "Estado."
@@ -88,42 +92,49 @@
     },
     {
         "code": "04034",
+        "flavor": "",
         "name": "El Rey Mendigo",
         "text": "Sólo Personajes [targaryen].\nEl Personaje vinculado gana el rasgo <i>Rey</i>.\n<b>Reacción:</b> después de que un adversario muestre una carta de Trama con un valor de Oro impreso más alto que el de la tuya, arrodilla El Rey Mendigo para ganar 1 de Oro. (2 de Oro si ningún adversario controla un Personaje <i>Rey</i>.)",
         "traits": "Título."
     },
     {
         "code": "04035",
+        "flavor": "",
         "name": "Caballería de Campoestrella",
         "text": "Sin Accesorios excepto <i>Arma</i>.\n<b>Reacción:</b> después de que la Caballería de Campoestrella entre en juego, roba 1 carta. (3 cartas si hay 3 o más cartas de Trama en tu pila de cartas usadas.)",
         "traits": "Ejército. Casa Dayne."
     },
     {
         "code": "04036",
+        "flavor": "",
         "name": "Filo venenoso",
         "text": "Sólo Personajes [martell] que tú controles. Emboscada (3).\n El Personaje vinculado recibe un +1 a su FUE.\n<b>Reacción:</b> después de que el Filo venenoso entre en juego, pon 1 ficha de Veneno sobre un Personaje que tenga FUE impresa de 2 o menos. Al final de la fase, si ese Personaje aún tiene encima esa ficha de Veneno, quítasela y mata al Personaje.",
         "traits": "Arma."
     },
     {
         "code": "04037",
+        "flavor": "",
         "name": "Reyes del verano",
         "text": "No puedes incluir cartas de Trama de <i>Invierno</i> en tu mazo de Tramas.\nAumenta en 1 el valor de Reserva de la carta de Trama mostrada de cada jugador. Mientras no haya cartas de Trama de <i>Invierno</i> mostradas, aumenta en 1 el valor de Oro de tu carta de Trama de <i>Verano</i> mostrada.",
         "traits": "Verano."
     },
     {
         "code": "04038",
+        "flavor": "",
         "name": "Reyes del invierno",
         "text": "No puedes incluir cartas de Trama de <i>Verano</i> en tu mazo de Tramas.\nReduce en 1 el valor de Reserva de la carta de Trama mostrada de cada jugador. Mientras tengas una carta de Trama de <i>Invierno</i> mostrada, reduce en 1 el valor de Oro de la carta de Trama de cada adversario que no sea de <i>Verano</i>.",
         "traits": "Invierno."
     },
     {
         "code": "04039",
+        "flavor": "",
         "name": "Cosecha estival",
         "text": "<b>Cuando se muestre esta carta:</b> elige un adversario. X es 2 más que el valor de Oro impreso en la carta de Trama mostrada de ese jugador.",
         "traits": "Verano."
     },
     {
         "code": "04040",
+        "flavor": "",
         "name": "Festival de invierno",
         "text": "<b>Interrupción:</b> cuando termine la fase de Reto, si no hay mostrada ninguna carta de Trama de <i>Verano</i>, ganas 2 de Poder para tu facción.",
         "traits": "Invierno."

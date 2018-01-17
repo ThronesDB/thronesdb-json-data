@@ -8,12 +8,14 @@
     },
     {
         "code": "04002",
+        "flavor": "",
         "name": "Robb Stark",
         "text": "Renombre.\nDurante retos [military], Robb Stark recibe un +1 a su FUE por cada Personaje leal que controles.\n<b>Acción:</b> mientras Robb Stark esté participando en un reto [military], elige un Personaje participante que no sea <i>Rey</i>. Pon en pie a ese Personaje y retíralo del reto. (Límite de 1 vez por reto.)",
         "traits": "Rey. Lord."
     },
     {
         "code": "04003",
+        "flavor": "",
         "name": "Aguasdulces",
         "text": "<b>Reacción:</b> después de que un Personaje de la <i>Casa Tully</i> gane Poder o se le traslade Poder, arrodilla Aguasdulces para hacer que ese Personaje gane 1 de Poder.",
         "traits": "Casa Tully. Tierras de los Ríos."
@@ -27,6 +29,7 @@
     },
     {
         "code": "04005",
+        "flavor": "",
         "name": "Campamento de Puenteamargo",
         "text": "<b>Reacción:</b> después de que se muestre una carta de Trama de <i>Verano</i>, arrodilla el Campamento de Puenteamargo. Luego cada jugador puede poner en juego un Personaje desde su mano.",
         "traits": "El Dominio."
@@ -47,12 +50,14 @@
     },
     {
         "code": "04008",
+        "flavor": "",
         "name": "Cuervo blanco",
         "text": "<b>Reacción obligada:</b> después de que pierdas un reto [power], sacrifica al Cuervo blanco.\n<b>Reacción:</b> después de que ganes la Dominación, si hay mostrada una carta de Trama de <i>Verano</i> o de <i>Invierno</i>, ganas 1 de Poder para tu facción.",
         "traits": "Cuervo."
     },
     {
         "code": "04009",
+        "flavor": "",
         "name": "Rubí de R'hllor",
         "text": "Sólo Personajes <i>R'hllor</i>.\n<b>Reacción:</b> después de que ganes un reto [intrigue] en el que esté atacando el Personaje vinculado, nombra una carta. El adversario derrotado muestra su mano y descarta todas las cartas que tengan ese nombre.",
         "traits": "Objeto. R'hllor."
@@ -66,6 +71,7 @@
     },
     {
         "code": "04011",
+        "flavor": "",
         "name": "Levas en la Roca",
         "text": "<b>Reacción:</b> después de que un jugador inicie un reto contra ti, traslada hasta X de Oro desde el suministro de Oro de ese jugador hasta el tuyo. X es el número de Personajes atacantes.",
         "traits": ""
@@ -86,6 +92,7 @@
     },
     {
         "code": "04014",
+        "flavor": "",
         "name": "Viserys Targaryen",
         "text": "Mientras Viserys Targaryen esté atacando, cada Personaje <i>Rey</i> debe ser declarado como defensor (si puede).\n<b>Interrupción:</b> cuando termine la fase de Dominación, si ningún adversario controla un Personaje <i>Rey</i>, Viserys Targaryen gana 1 de Poder.",
         "traits": "Rey. Lord."
@@ -99,6 +106,7 @@
     },
     {
         "code": "04016",
+        "flavor": "",
         "name": "Harmen Uller",
         "text": "Renombre.\nCada Personaje <i>Serpiente de arena</i> que tengas en tu mano gana Emboscada (X). X es 1 menos que el coste impreso de esa carta.",
         "traits": "Casa Uller. Lord."
@@ -119,6 +127,7 @@
     },
     {
         "code": "04019",
+        "flavor": "",
         "name": "Lluvias de otoño",
         "text": "Ni Personajes ni Lugares proporcionan modificadores positivos al Oro.",
         "traits": "Augurio."

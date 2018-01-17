@@ -15,6 +15,7 @@
     },
     {
         "code": "04103",
+        "flavor": "",
         "name": "Ser Robar Royce",
         "text": "<b>Reacción:</b> después de que se muestre una carta de Trama de <i>Verano</i>, Ser Robar Royce gana 1 de Poder. (Límite de 1 vez por fase).\n<b>Reacción obligada</b>: después de que se muestre una carta de Trama de <i>Invierno</i>, arrodilla a Ser Robar Royce.",
         "traits": "Caballero."
@@ -28,24 +29,29 @@
     },
     {
         "code": "04105",
+        "designer": "Carta diseñada por Jonathan Benton, campeón mundial de Contienda en 2009.",
+        "flavor": "",
         "name": "Qhorin Mediamano",
-        "text": "Renombre. Sin Accesorios excepto <i>Arma</i>.\n<b>Reacción:</b> después de que ganes un reto [military] en el que Qhorin Mediamano esté participando, mata a un Personaje no único de tu elección cuya FUE sea inferior a la suya y que esté controlado por el adversario derrotado.\n<b>Carta diseñada por Jonathan Benton, campeón mundial de Contienda en 2009.</b>",
+        "text": "Renombre. Sin Accesorios excepto <i>Arma</i>.\n<b>Reacción:</b> después de que ganes un reto [military] en el que Qhorin Mediamano esté participando, mata a un Personaje no único de tu elección cuya FUE sea inferior a la suya y que esté controlado por el adversario derrotado.",
         "traits": "Explorador."
     },
     {
         "code": "04106",
+        "flavor": "",
         "name": "Puño de los Primeros Hombres",
         "text": "Mientras tu valor de Reserva sea superior al de un adversario, cada Personaje <i>Explorador</i> que controles recibe un +1 a su FUE y no puede ser evitado mediante el Sigilo.",
         "traits": "El Norte."
     },
     {
         "code": "04107",
+        "flavor": "",
         "name": "Salladhor Saan",
         "text": "<b>Reacción:</b> después de que ganes un reto en el que esté participando Salladhor Saan, pon en juego desde tu mano un Lugar <i>Barco de guerra</i> o un Accesorio <i>Arma</i>.",
         "traits": "Mercenario. Asaltante. Contrabandista."
     },
     {
         "code": "04108",
+        "flavor": "",
         "name": "La Valyria",
         "text": "Emboscada (2).\n<b>Acción:</b> arrodilla La Valyria para proporcionar a un Personaje atacante un +X a su FUE hasta el final del reto. X es la cantidad de Oro que haya en el suministro de Oro del jugador defensor.",
         "traits": "Barco de guerra."
@@ -66,6 +72,7 @@
     },
     {
         "code": "04111",
+        "flavor": "",
         "name": "Esgred",
         "text": "Sigilo.\nSi controlas a Asha Greyjoy, sacrifica a Esgred y haz que tu Asha Greyjoy gane 1 de Poder.\nEsgred puede evitar a un Personaje adicional mediante el Sigilo.",
         "traits": "Hijo del Hierro."
@@ -86,6 +93,7 @@
     },
     {
         "code": "04114",
+        "flavor": "",
         "name": "La Casa de los Eternos",
         "text": "<b>Acción de Reto:</b> retira del juego La Casa de los Eternos para elegir a un adversario. Pon en juego controlado por ti a cada Personaje que haya en la pila de muertos de ese jugador. Al final de la fase, devuelve cada una de esas cartas a la pila de muertos de su propietario (no pueden salvarse).",
         "traits": "Qarth."
@@ -106,24 +114,28 @@
     },
     {
         "code": "04117",
+        "flavor": "",
         "name": "Refugiado del Norte",
         "text": "Mientras haya mostrada una carta de Trama de <i>Invierno</i>, reduce en 1 el coste para reclutar al Refugiado del Norte.",
         "traits": "Aliado. Salvaje."
     },
     {
         "code": "04118",
+        "flavor": "",
         "name": "Asalto implacable",
         "text": "<b>Reacción:</b> después de ue ganes un reto por 5 o más de FUE como jugador atacante, arrodilla tu carta de Facción. Luego puedes iniciar un reto adicional de ese tipo en esta fase.",
         "traits": ""
     },
     {
         "code": "04119",
+        "flavor": "",
         "name": "Cabezas embreadas",
         "text": "<b>Reacción:</b> después de que ganes un reto [power], descarta 1 carta al azar de la mano del adversario derrotado. Si esa carta es un Personaje, colócala en la pila de muertos de su propietario.",
         "traits": ""
     },
     {
         "code": "04120",
+        "flavor": "",
         "name": "Batalla del Aguasnegras",
         "text": "<b>Cuando se muestre esta carta:</b> elige un adversario. Descarta del juego cada duplicado que controles y cada duplicado controlado por ese adversario.",
         "traits": "Asedio. Guerra."
