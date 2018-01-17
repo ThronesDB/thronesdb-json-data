@@ -58,7 +58,7 @@
         "quantity": 3,
         "strength": 3,
         "text": "<b>Action:</b> During a challenge in which Ser Hyle Hunt is participating, pay 1 gold to choose a participating character with a lower STR than his. Stand that character and remove it from the challenge. (Limit once per challenge.)",
-        "traits": "Knight",
+        "traits": "Knight.",
         "type_code": "character"
     },
     {
@@ -156,7 +156,7 @@
         "position": 48,
         "quantity": 3,
         "text": "<b>Reaction:</b> After you initiate a challenge, kneel Laughing Lord to choose an attacking [baratheon] character. Until the end of the challenge, that character gains intimidate.",
-        "traits": "Warship",
+        "traits": "Warship.",
         "type_code": "location"
     },
     {
@@ -174,7 +174,7 @@
         "name": "Raff the Sweetling",
         "octgn_id": null,
         "pack_code": "Km",
-        "position": 48,
+        "position": 49,
         "quantity": 3,
         "strength": 4,
         "text": "Pillage.\n<b>Reaction:</b> After Raff the Sweetling discards a character using pillage, choose a character with printed cost 2 or lower and return it to its owner’s hand.",
@@ -244,7 +244,7 @@
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "targaryen",
-        "flavor": "It is known.",
+        "flavor": "\"It is known.\"",
         "illustrator": "Drazenka Kimpel",
         "is_intrigue": true,
         "is_loyal": true,
