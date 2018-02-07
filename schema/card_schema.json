@@ -94,6 +94,9 @@
         "is_military": {
             "type": "boolean"
         },
+        "is_multiple": {
+            "type": "boolean"
+        },
         "is_power": {
             "type": "boolean"
         },
