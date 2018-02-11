@@ -58,5 +58,28 @@
         "text": "<b>Forced Reaction:</b> After the draw phase begins, reveal the top card of each player's deck. You may kneel your faction card to discard those cards.",
         "traits": "",
         "type_code": "agenda"
+    },
+    {
+        "claim": 1,
+        "code": "08080",
+        "deck_limit": 1,
+        "designer": "Card design by 2015 Joust World Champion, Jakob Hultman.",
+        "faction_code": "neutral",
+        "flavor": "",
+        "illustrator": "JB Casacop",
+        "income": 5,
+        "initiative": 2,
+        "is_loyal": false,
+        "is_multiple": false,
+        "is_unique": false,
+        "name": "The King in the North",
+        "octgn_id": null,
+        "pack_code": "FotOG",
+        "position": 80,
+        "quantity": 3,
+        "reserve": 6,
+        "text": "While a player does not control a <i>King</i> character, he or she cannot trigger abilities on characters, locations, or attachments.",
+        "traits": "Kingdom.",
+        "type_code": "plot"
     }
 ]
