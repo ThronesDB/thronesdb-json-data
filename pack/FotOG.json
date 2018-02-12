@@ -18,7 +18,7 @@
         "position": 61,
         "quantity": 3,
         "strength": 3,
-        "text": "Intimidate. No attachments.\n<Action:</b> During a challenge in which you control a participating [Stark] character, kneel Nymeria and any number of other <i>Direwolf</i> characters to have each of those characters participate in the challenge on your side.",
+        "text": "Intimidate. No attachments.\n<b>Action:</b> During a challenge in which you control a participating [stark] character, kneel Nymeria and any number of other <i>Direwolf</i> characters to have each of those characters participate in the challenge on your side.",
         "traits": "Direwolf.",
         "type_code": "character"
     },
@@ -79,7 +79,7 @@
         "pack_code": "FotOG",
         "position": 64,
         "quantity": 3,
-        "text": "Character you control only.\nAttached character gains <i>The Seven</i> trait and \"No attachments except </i>Blessing.</i>\"",
+        "text": "Character you control only.\nAttached character gains <i>The Seven</i> trait and \"No attachments except <i>Blessing.</i>\"",
         "traits": "Blessing. The Seven.",
         "type_code": "attachment"
     },
@@ -102,7 +102,7 @@
         "position": 65,
         "quantity": 3,
         "strength": 6,
-        "text": "No attachments.\n<Reaction:</b> After Garrison on the Wall is declared as a defender, kneel a non-[thenightswatch] character to stand Garrison on the Wall.",
+        "text": "No attachments.\n<b>Reaction:</b> After Garrison on the Wall is declared as a defender, kneel a non-[thenightswatch] character to stand Garrison on the Wall.",
         "traits": "Army.",
         "type_code": "character"
     },
@@ -186,7 +186,7 @@
         "position": 69,
         "quantity": 3,
         "strength": 4,
-        "text": "Renown.\n<Reaction:</b> After a non-[lannister] Knight character enters play under your control, gain 2 gold. (Limit once per phase.)",
+        "text": "Renown.\n<b>Reaction:</b> After a non-[lannister] Knight character enters play under your control, gain 2 gold. (Limit once per phase.)",
         "traits": "Kingsguard. Knight.",
         "type_code": "character"
     },
@@ -205,7 +205,7 @@
         "pack_code": "FotOG",
         "position": 70,
         "quantity": 3,
-        "text": "During the challenges phase, you may spend gold on Sweet Cersei as if it were in your gold pool.\n<Reaction:</b> After you win an [intrigue] challenge, move 1 gold from the treasury to Sweet Cersei.",
+        "text": "During the challenges phase, you may spend gold on Sweet Cersei as if it were in your gold pool.\n<b>Reaction:</b> After you win an [intrigue] challenge, move 1 gold from the treasury to Sweet Cersei.",
         "traits": "Warship.",
         "type_code": "location"
     },
