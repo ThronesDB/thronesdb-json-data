@@ -414,7 +414,7 @@
         "flavor": "",
         "illustrator": "Sandara Tang",
         "is_loyal": false,
-        "is_multiple": false,
+        "is_multiple": true,
         "is_unique": true,
         "name": "Nymeria",
         "octgn_id": "a09d07ca-046d-4b3c-8dcb-fc2e6fe07393",
