@@ -85,7 +85,7 @@
     },
     {
         "code": "08085",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "designer": "Card design by 2011 Joust World Champion, Brett Zeiler.",
         "faction_code": "thenightswatch",
@@ -170,7 +170,7 @@
     },
     {
         "code": "08089",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -338,7 +338,7 @@
     },
     {
         "code": "08097",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "\"The Faith Militant reborn...that would be the answer to three hundred years of prayer, Your Grace.\"",
@@ -361,7 +361,7 @@
     },
     {
         "code": "08098",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "The Seven Gods who made us all, are listening if we should call. So close your eyes, you shall not fall, they see you, little children.",
