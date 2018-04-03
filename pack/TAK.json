@@ -350,7 +350,7 @@
         "pack_code": "TAK",
         "position": 17,
         "quantity": 3,
-        "text": "<b>Action:</b> Kneel The Water Gardens to reduce the cost of the next non-character you marshal, play, or ambush this phase by X. X is the number of plot cards in your used pile.",
+        "text": "<b>Action:</b> Kneel The Water Gardens to reduce the cost of the next non-character card you marshal, play, or ambush this phase by X. X is the number of plot cards in your used pile.",
         "traits": "Dorne.",
         "type_code": "location"
     },
