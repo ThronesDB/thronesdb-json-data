@@ -64,5 +64,11 @@
         "name": "Sands of Dorne",
         "position": 10,
         "size": 1
+    },
+    {
+        "code": "dos",
+        "name": "Dance of Shadows",
+        "position": 11,
+        "size": 6
     }
 ]
