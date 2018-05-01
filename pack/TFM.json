@@ -1,7 +1,7 @@
 [
     {
         "code": "08081",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "\"I don’t wear gowns. You can't fight in a stupid gown.\"",
@@ -24,7 +24,7 @@
     },
     {
         "code": "08082",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -43,7 +43,7 @@
     },
     {
         "code": "08083",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -66,7 +66,7 @@
     },
     {
         "code": "08084",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "Five times as large as Blackbird and magnificent to behold, she had three great burgundy sails and banks of oars that flashed gold and white in the sunlight.",
@@ -109,7 +109,7 @@
     },
     {
         "code": "08086",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "Its waters were grey and green and choppy, and the wooded shore they followed was a snarl of rocks and whirlpools.",
@@ -128,7 +128,7 @@
     },
     {
         "code": "08087",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -151,7 +151,7 @@
     },
     {
         "code": "08088",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -193,7 +193,7 @@
     },
     {
         "code": "08090",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -212,7 +212,7 @@
     },
     {
         "code": "08091",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "...who had once been thought so holy that he was picked to crown a king.",
@@ -235,7 +235,7 @@
     },
     {
         "code": "08092",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "\"He must be given to the god. The old way.\" <cite>Aeron Damphair</cite>",
@@ -254,7 +254,7 @@
     },
     {
         "code": "08093",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -277,7 +277,7 @@
     },
     {
         "code": "08094",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -296,7 +296,7 @@
     },
     {
         "code": "08095",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "The Yronwoods might declare for Quentyn, but alone they were no threat.",
@@ -319,7 +319,7 @@
     },
     {
         "code": "08096",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
