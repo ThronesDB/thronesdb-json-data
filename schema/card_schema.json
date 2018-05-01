@@ -19,7 +19,7 @@
         "cost": {
             "oneOf": [
                 {
-                    "maxLength": 1,
+                    "maxLength": 2,
                     "minLength": 1,
                     "type": "string"
                 },
