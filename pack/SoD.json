@@ -1,7 +1,7 @@
 [
     {
         "code": "10001",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -24,7 +24,7 @@
     },
     {
         "code": "10002",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "\"Is that how it goes, round and round forever? I ask again, where does it end?\"",
@@ -47,7 +47,7 @@
     },
     {
         "code": "10003",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -70,7 +70,7 @@
     },
     {
         "code": "10004",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "\"Men call me Darkstar, and I am of the night.\"",
@@ -93,7 +93,7 @@
     },
     {
         "code": "10005",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "\"He pointed to the spear, then to my mother's tears, and I picked up the spear.\"",
@@ -116,7 +116,7 @@
     },
     {
         "code": "10006",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -139,7 +139,7 @@
     },
     {
         "code": "10007",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "\"No more should you doubt this, my prince - my sisters and I shall not wait ten-and-seven years for our vengeance.\"",
@@ -162,7 +162,7 @@
     },
     {
         "code": "10008",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "Her soft, pale hands were as deadly as Obara's callused ones, if not more so.",
@@ -185,7 +185,7 @@
     },
     {
         "code": "10009",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -208,7 +208,7 @@
     },
     {
         "code": "10010",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -231,7 +231,7 @@
     },
     {
         "code": "10011",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "\"Your brother Quentyn has a harder road to walk.\" <cite>Doran Martell</cite>",
@@ -254,7 +254,7 @@
     },
     {
         "code": "10012",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "\"Give your bride a kiss for me.\"",
@@ -277,7 +277,7 @@
     },
     {
         "code": "10013",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "\"Loreza is six, Dorea eight. What wars could they foment?\" <cite>Arianne Martell</cite>",
@@ -300,7 +300,7 @@
     },
     {
         "code": "10014",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "\"Heed his counsel. He has devoted half his life to the study of the Nine Free Cities.\" <cite>Doran Martell</cite>",
@@ -323,7 +323,7 @@
     },
     {
         "code": "10015",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -346,7 +346,7 @@
     },
     {
         "code": "10016",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -369,7 +369,7 @@
     },
     {
         "code": "10017",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -388,7 +388,7 @@
     },
     {
         "code": "10018",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -407,7 +407,7 @@
     },
     {
         "code": "10019",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -426,7 +426,7 @@
     },
     {
         "code": "10020",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "\"You mistake patience for forbearance. I have worked at the downfall of Tywin Lannister since the day they told me of Elia and her children.\" <cite>Doran Martell</cite>",
@@ -445,7 +445,7 @@
     },
     {
         "code": "10021",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -464,7 +464,7 @@
     },
     {
         "code": "10022",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -483,7 +483,7 @@
     },
     {
         "code": "10023",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -502,7 +502,7 @@
     },
     {
         "code": "10024",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -521,7 +521,7 @@
     },
     {
         "code": "10025",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"Is it the justice of your cause you doubt, my lord, or the strength of your arm? Are you afraid I'll piss on your burning sword and put it out?\"",
@@ -544,7 +544,7 @@
     },
     {
         "code": "10026",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -563,7 +563,7 @@
     },
     {
         "code": "10027",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -586,7 +586,7 @@
     },
     {
         "code": "10028",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -605,7 +605,7 @@
     },
     {
         "code": "10029",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"She is so pretty, don't you think? I wish that I had curls like hers. She was made to be queen, just like her mother.\" <cite>Tyene Sand</cite>",
@@ -628,7 +628,7 @@
     },
     {
         "code": "10030",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -647,7 +647,7 @@
     },
     {
         "code": "10031",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"The bloody buggers got my leg... My wooden one!\"",
@@ -670,7 +670,7 @@
     },
     {
         "code": "10032",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -689,7 +689,7 @@
     },
     {
         "code": "10033",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "\"Grey Wind ate two of his fingers, and he laughed about it.\" <cite>Robb Stark</cite>",
@@ -712,7 +712,7 @@
     },
     {
         "code": "10034",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -731,7 +731,7 @@
     },
     {
         "code": "10035",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "The little scribe with the big golden eyes was wise beyond her years.",
@@ -754,7 +754,7 @@
     },
     {
         "code": "10036",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "\"Qarth is the greatest city that ever was or ever will be.\" <cite>Pyat Pree</cite>",
@@ -773,7 +773,7 @@
     },
     {
         "code": "10037",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "... Lord Leyton had not made the descent in more than a decade, preferring to rule his city from the clouds.",
@@ -796,7 +796,7 @@
     },
     {
         "code": "10038",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -815,7 +815,7 @@
     },
     {
         "code": "10039",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "\"I know the forest better than all your black-cloaked rangers. It holds no ghosts for me.\"",
@@ -838,7 +838,7 @@
     },
     {
         "code": "10040",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "Meribald was a septon without a sept, only one step up from a begging brother in the hierarchy of the Faith.",
@@ -861,7 +861,7 @@
     },
     {
         "code": "10041",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "\"Wise men may grow arrogant in their wisdom, but a maester must always remain humble.\" <cite>Armen the Acolyte</cite>",
@@ -884,7 +884,7 @@
     },
     {
         "code": "10042",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -903,7 +903,7 @@
     },
     {
         "code": "10043",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -922,7 +922,7 @@
     },
     {
         "code": "10044",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",

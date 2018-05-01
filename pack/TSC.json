@@ -1,7 +1,7 @@
 [
     {
         "code": "11011",
-        "cost": null,
+        "cost": "-",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -10,7 +10,7 @@
         "is_multiple": false,
         "is_unique": false,
         "name": "Beneath the Bridge of Dream",
-        "octgn_id": "",
+        "octgn_id": null,
         "pack_code": "TSC",
         "position": 11,
         "quantity": 3,
@@ -20,7 +20,7 @@
     },
     {
         "code": "11016",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -32,7 +32,7 @@
         "is_power": false,
         "is_unique": true,
         "name": "Ser Gerris Drinkwater",
-        "octgn_id": "",
+        "octgn_id": null,
         "pack_code": "TSC",
         "position": 16,
         "quantity": 3,
@@ -43,7 +43,7 @@
     },
     {
         "code": "11017",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -52,7 +52,7 @@
         "is_multiple": false,
         "is_unique": true,
         "name": "The Shadow City",
-        "octgn_id": "",
+        "octgn_id": null,
         "pack_code": "TSC",
         "position": 17,
         "quantity": 3,
@@ -62,7 +62,7 @@
     },
     {
         "code": "11018",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -74,7 +74,7 @@
         "is_power": true,
         "is_unique": false,
         "name": "Nefarious Acolyte",
-        "octgn_id": "",
+        "octgn_id": null,
         "pack_code": "TSC",
         "position": 18,
         "quantity": 3,
@@ -82,5 +82,5 @@
         "text": "Shadow (5).\n<b>Action:</b> Kneel Nefarious Acolyte and pay 1 gold to choose a plot card. Until the end of the phase, treat it as if its printed text box were blank (except for <i>Traits</i>).",
         "traits": "Maester.",
         "type_code": "character"
-    },
+    }
 ]
