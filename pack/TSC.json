@@ -26,7 +26,7 @@
         "flavor": "",
         "illustrator": "Aleksander Karcz",
         "is_intrigue": true,
-        "is_loyal": false,
+        "is_loyal": true,
         "is_military": false,
         "is_multiple": false,
         "is_power": true,
