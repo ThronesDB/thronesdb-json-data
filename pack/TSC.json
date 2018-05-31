@@ -32,7 +32,7 @@
         "is_power": true,
         "is_unique": false,
         "name": "Scheming Septon",
-        "octgn_id": "",
+        "octgn_id": null,
         "pack_code": "TSC",
         "position": 4,
         "quantity": 3,
