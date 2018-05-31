@@ -32,7 +32,7 @@
         "is_power": true,
         "is_unique": false,
         "name": "Nighttime Marauders",
-        "octgn_id": "",
+        "octgn_id": null,
         "pack_code": "TSC",
         "position": 12,
         "quantity": 3,
