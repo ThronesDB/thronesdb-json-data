@@ -295,5 +295,14 @@
         "name": "The March on Winterfell",
         "position": 2,
         "size": 20
+    },
+    {
+        "cgdb_id": 33,
+        "code": "SoKL",
+        "cycle_code": "dos",
+        "date_release": null,
+        "name": "Streets of King's Landing",
+        "position": 3,
+        "size": 20
     }
 ]
