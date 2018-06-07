@@ -248,7 +248,7 @@
         "pack_code": "SAT",
         "position": 112,
         "quantity": 3,
-        "text": "<i>Drowned God</i> character only.\nAttached character gets +1 STR for each character in your dead pile.\n<b>Interrupt:</b> When attached character is killed, move Driftwood Cudgel to another eligible character. That character gains 1 power.",
+        "text": "<i>Drowned God</i> character only.\nAttached character gets +1 STR for each character in your dead pile.\n<b>Interrupt:</b> When attached character is killed, move Driftwood Cudgel to another eligible character. That character gains 1 power. (Limit once per phase.)\n<em>Errata from FAQ v1.4</em>",
         "traits": "Drowned God. Weapon.",
         "type_code": "attachment"
     },
@@ -290,7 +290,7 @@
         "pack_code": "SAT",
         "position": 114,
         "quantity": 3,
-        "text": "<b>Dominance Action:</b> Each player may shuffle his or her hand (of at least 1 card) into his or her deck to draw 5 cards.",
+        "text": "<b>Dominance Action:</b> Each player may shuffle his or her hand (of at least 1 card) into his or her deck. Each player that does draws 5 cards.\n<em>Errata from FAQ v1.4</em>",
         "traits": "Prophecy.",
         "type_code": "event"
     },
