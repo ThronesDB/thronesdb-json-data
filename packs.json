@@ -304,5 +304,14 @@
         "name": "Streets of King's Landing",
         "position": 3,
         "size": 20
+    },
+    {
+        "cgdb_id": 34,
+        "code": "MoD",
+        "cycle_code": "dos",
+        "date_release": null,
+        "name": "Music of Dragons",
+        "position": 4,
+        "size": 20
     }
 ]
