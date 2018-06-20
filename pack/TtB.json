@@ -121,7 +121,7 @@
         "pack_code": "TtB",
         "position": 6,
         "quantity": 3,
-        "text": "Immune to card effects.\n<b>Reaction:</b> After you marshal Pleasure Barge, if you have not yet drawn any cards this phase, draw 3 cards.\n-1 Income",
+        "text": "Immune to card effects.\n<b>Reaction:</b> After you marshal Pleasure Barge, if you have not yet drawn any cards this phase, draw 3 cards.\n-1 Income.",
         "traits": "Barge.",
         "type_code": "location"
     },
