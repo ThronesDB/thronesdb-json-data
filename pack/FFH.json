@@ -373,7 +373,7 @@
         "pack_code": "FFH",
         "position": 58,
         "quantity": 3,
-        "text": "The God's Eye cannot be discarded from play.\n+1 Income\n+1 Reserve.",
+        "text": "The God's Eye cannot be discarded from play.\n+1 Income.\n+1 Reserve.",
         "traits": "Westeros.",
         "type_code": "location"
     },
