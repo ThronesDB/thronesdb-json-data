@@ -3438,7 +3438,7 @@
         "is_intrigue": false,
         "is_loyal": false,
         "is_military": true,
-        "is_multiple": false,
+        "is_multiple": true,
         "is_power": false,
         "is_unique": true,
         "name": "Drogon",
