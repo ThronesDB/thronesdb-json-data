@@ -41,7 +41,7 @@
         "position": 87,
         "quantity": 3,
         "strength": 1,
-        "text": "<b>Challenges Action:</b> Kneel Storm's End Maester to choose an opponent. If you have more power on your faction card than that player, draw 1 card.",
+        "text": "<b>Challenges Action:</b> Kneel Storm's End Maester to choose an opponent. If you have more power on your faction card than that player, draw ? cards.",
         "traits": "Maester.",
         "type_code": "character"
     },
