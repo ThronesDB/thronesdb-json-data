@@ -373,7 +373,7 @@
         "pack_code": "GoH",
         "position": 98,
         "quantity": 3,
-        "text": "<b>Reaction:</b> After The Frostfangs enters play, give control of it to an opponent.\n-1 Reserve",
+        "text": "<b>Reaction:</b> After The Frostfangs enters play, give control of it to an opponent.\n-1 Reserve.",
         "traits": "The North.",
         "type_code": "location"
     },
