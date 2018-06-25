@@ -86,5 +86,28 @@
         "text": "Play only during a challenge you initiated.\n<b>Action:</b> End the challenge with no winner or loser. You may initiate an additional [power] challenge this phase.",
         "traits": "",
         "type_code": "event"
+    },
+    {
+        "code": "11033",
+        "cost": "6",
+        "deck_limit": 3,
+        "faction_code": "targaryen",
+        "flavor": "\"One day all men must die, but it serves no good to dwell on death. I prefer to take each day as it comes.\"",
+        "illustrator": "Borja Pindado",
+        "is_intrigue": true,
+        "is_loyal": false,
+        "is_military": false,
+        "is_multiple": false,
+        "is_power": true,
+        "is_unique": true,
+        "name": "Hizdahr zo Loraq",
+        "octgn_id": null,
+        "pack_code": "TMoW",
+        "position": 33,
+        "quantity": 3,
+        "strength": 4,
+        "text": "<b>Action:</b> Action: Discard 1 card from your hand to reduce the cost of the next card you marshal, ambush, or bring out of shadows this phase by 3. (Limit once per phase.)",
+        "traits": "King.",
+        "type_code": "character"
     }
 ]
