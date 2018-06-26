@@ -106,7 +106,7 @@
         "position": 33,
         "quantity": 3,
         "strength": 4,
-        "text": "<b>Action:</b> Action: Discard 1 card from your hand to reduce the cost of the next card you marshal, ambush, or bring out of shadows this phase by 3. (Limit once per phase.)",
+        "text": "<b>Action:</b> Discard 1 card from your hand to reduce the cost of the next card you marshal, ambush, or bring out of shadows this phase by 3. (Limit once per phase.)",
         "traits": "King.",
         "type_code": "character"
     }
