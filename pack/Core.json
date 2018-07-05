@@ -2928,7 +2928,7 @@
         "flavor": "",
         "illustrator": "Lino Drieghe",
         "is_loyal": false,
-        "is_multiple": false,
+        "is_multiple": true,
         "is_unique": true,
         "name": "The Wall",
         "octgn_id": "5d20e021-5d12-4338-8bdd-42d008bff919",
