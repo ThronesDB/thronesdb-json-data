@@ -121,7 +121,7 @@
         "pack_code": "TMoW",
         "position": 26,
         "quantity": 3,
-        "text": "Each character you control gains the [thenightswatch] affiliation and loses all other faction affiliations.\n<b>Action:</b> Kneel The Wall to choose an opponent. Put an eligible character of that player’s choice from his or her discard pile into play under your control.",
+        "text": "Each character you control gains the [thenightswatch] affiliation and loses all other faction affiliations.\n<b>Action:</b> Kneel The Wall to choose an opponent. Put an eligible character of that player's choice from his or her discard pile into play under your control.",
         "traits": "The North.",
         "type_code": "location"
     },
@@ -228,7 +228,7 @@
         "position": 31,
         "quantity": 3,
         "strength": 2,
-        "text": "Shadow (2).\n<b>Interrupt:</b> When Hagen’s Daughter would be killed, save her and return her to shadows.",
+        "text": "Shadow (2).\n<b>Interrupt:</b> When Hagen's Daughter would be killed, save her and return her to shadows.",
         "traits": "Ironborn.",
         "type_code": "character"
     },
@@ -312,7 +312,7 @@
         "position": 35,
         "quantity": 3,
         "strength": 1,
-        "text": "Shadow (2).\n<b>Reaction:</b> After you lose a challenge in which Maiden of Poisons is participating, sacrifice it to choose a participating character with fewer than 2 challenge icons and return it to its owner’s hand.",
+        "text": "Shadow (2).\n<b>Reaction:</b> After you lose a challenge in which Maiden of Poisons is participating, sacrifice it to choose a participating character with fewer than 2 challenge icons and return it to its owner's hand.",
         "traits": "Bastard. Sand Snake.",
         "type_code": "character"
     },
@@ -354,7 +354,7 @@
         "position": 37,
         "quantity": 3,
         "strength": 3,
-        "text": "You cannot win the game.\n<b>Action:</b> Pay 6 gold to treat Tycho Nestoris’s printed text box as if it were blank (except for <i>Traits</i>) until the end of the phase.\n+3 Income.",
+        "text": "You cannot win the game.\n<b>Action:</b> Pay 6 gold to treat Tycho Nestoris's printed text box as if it were blank (except for <i>Traits</i>) until the end of the phase.\n+3 Income.",
         "traits": "Ally.",
         "type_code": "character"
     },
@@ -392,7 +392,7 @@
         "pack_code": "TMoW",
         "position": 39,
         "quantity": 3,
-        "text": "While you control no attachments, increase the gold value on each opponent’s revealed plot card by 1.\n<b>Reaction:</b> After claim is applied for a challenge you won, sacrifice an attachment to search your deck for a different attachment with equal or lower printed cost and put it into play.",
+        "text": "While you control no attachments, increase the gold value on each opponent's revealed plot card by 1.\n<b>Reaction:</b> After claim is applied for a challenge you won, sacrifice an attachment to search your deck for a different attachment with equal or lower printed cost and put it into play.",
         "traits": "Banner.",
         "type_code": "agenda"
     },
