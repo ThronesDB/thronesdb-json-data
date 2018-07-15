@@ -322,5 +322,14 @@
         "name": "In Daznak's Pit",
         "position": 5,
         "size": 20
+    },
+    {
+        "cgdb_id": 36,
+        "code": "DitD",
+        "cycle_code": "dos",
+        "date_release": null,
+        "name": "Daggers in the Dark",
+        "position": 6,
+        "size": 20
     }
 ]
