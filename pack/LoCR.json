@@ -341,7 +341,7 @@
         "position": 15,
         "quantity": 3,
         "strength": 2,
-        "text": "Each player with no cards in his or her hand cannot gain power from challenge bonuses (unopposed and rivals).",
+        "text": "Each player with no cards in his or her hand cannot gain power from challenge bonuses <em>(unopposed and rivals)</em>.",
         "traits": "King. Lord.",
         "type_code": "character"
     },
