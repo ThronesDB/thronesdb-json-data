@@ -331,5 +331,14 @@
         "name": "Daggers in the Dark",
         "position": 6,
         "size": 20
+    },
+    {
+        "cgdb_id": 45,
+        "code": "KotI",
+        "cycle_code": "isles",
+        "date_release": null,
+        "name": "Kings of the Isles",
+        "position": 1,
+        "size": 52
     }
 ]
