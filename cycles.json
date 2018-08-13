@@ -70,5 +70,11 @@
         "name": "Dance of Shadows",
         "position": 11,
         "size": 6
+    },
+    {
+        "code": "isles",
+        "name": "Kings of the Isles",
+        "position": 12,
+        "size": 1
     }
 ]
