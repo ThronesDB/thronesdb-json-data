@@ -13,6 +13,8 @@ TRANS_DIR="translations"
 formatting_errors = 0
 validation_errors = 0
 
+unique_card_codes = {}
+
 def check_dir_access(path):
     if not os.path.isdir(path):
         sys.exit("%s is not a valid path" % path)
@@ -47,6 +49,8 @@ def custom_card_check(args, card, pack_code, locale=None):
     else:
         if card["pack_code"] != pack_code:
             raise jsonschema.ValidationError("Pack code '%s' of the card '%s' doesn't match the pack code '%s' of the file it appears in." % (card["pack_code"], card["code"], pack_code))
+        if card["code"] in unique_card_codes:
+            raise jsonschema.ValidationError("Card code '%s' of the card '%s' has been used by '%s'." % (card["code"], card["name"], unique_card_codes[card["code"]]["name"]))
 
 def custom_pack_check(args, pack, cycles_data, locale=None, en_packs=None):
     if locale:
@@ -150,6 +154,7 @@ def validate_card(args, card, card_schema, pack_code, locale=None):
         verbose_print(args, "Validating card %s... " % (locale and ("%s-%s" % (card["code"], locale)) or card["name"]), 2)
         jsonschema.validate(card, card_schema)
         custom_card_check(args, card, pack_code, locale)
+        unique_card_codes[card["code"]] = card
         verbose_print(args, "OK\n", 2)
     except jsonschema.ValidationError as e:
         verbose_print(args, "ERROR\n",2)
