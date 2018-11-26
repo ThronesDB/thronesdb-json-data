@@ -1458,7 +1458,7 @@
         "is_intrigue": true,
         "is_loyal": true,
         "is_military": true,
-        "is_multiple": false,
+        "is_multiple": true,
         "is_power": true,
         "is_unique": true,
         "name": "Euron Crow's Eye",
