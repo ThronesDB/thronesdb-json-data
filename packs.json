@@ -340,5 +340,14 @@
         "name": "Kings of the Isles",
         "position": 1,
         "size": 52
+    },
+    {
+        "cgdb_id": 46,
+        "code": "AtG",
+        "cycle_code": "landing",
+        "date_release": null,
+        "name": "At the Gates",
+        "position": 1,
+        "size": 20
     }
 ]
