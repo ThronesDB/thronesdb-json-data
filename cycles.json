@@ -76,5 +76,11 @@
         "name": "Kings of the Isles",
         "position": 12,
         "size": 1
+    },
+    {
+        "code": "landing",
+        "name": "King's Landing",
+        "position": 13,
+        "size": 6
     }
 ]
