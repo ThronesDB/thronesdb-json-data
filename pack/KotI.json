@@ -110,7 +110,7 @@
         "position": 5,
         "quantity": 3,
         "strength": 3,
-        "text": "Insight.\n<b>Reaction:</b> After another <i>Drowned God</i> character you control is killed, draw a card. (Limit once per phase.)",
+        "text": "Insight.\n<b>Reaction:</b> After another <i>Drowned God</i> character you control is killed, draw 1 card. (Limit once per phase.)",
         "traits": "Drowned God. Ironborn. Lord.",
         "type_code": "character"
     },
@@ -179,7 +179,7 @@
         "position": 8,
         "quantity": 3,
         "strength": 5,
-        "text": "Pillage.\n<b>Reaction</b>: After Andrik the Unsmiling discards a card using pillage, choose a non-limited location or attachment in the losing opponent's discard pile. Discard 1 copy of that card from play.",
+        "text": "Pillage.\n<b>Reaction:</b> After Andrik the Unsmiling discards a card using pillage, choose a non-limited location or attachment in the losing opponent's discard pile. Discard 1 copy of that card from play.",
         "traits": "Ironborn. Raider.",
         "type_code": "character"
     },
@@ -590,7 +590,7 @@
         "is_loyal": false,
         "is_multiple": false,
         "is_unique": false,
-        "name": "My Mind is My Weapon",
+        "name": "My Mind Is My Weapon",
         "octgn_id": null,
         "pack_code": "KotI",
         "position": 28,
