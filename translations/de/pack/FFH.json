@@ -1,0 +1,142 @@
+[
+    {
+        "code": "04041",
+        "flavor": "\"Sag Vater, ich sei losgezogen, um ihn mit Stolz zu erfüllen.\"",
+        "name": "Ser Edmure Tully",
+        "text": "<b>Reaktion:</b> Nachdem ein Charakter Macht erhalten hat, verschiebe 1 Macht von dem Charakter auf einen <i>Haus Tully</i>-Charakter. (Nur ein Mal pro Runde.)",
+        "traits": "Haus Tully. Ritter."
+    },
+    {
+        "code": "04042",
+        "flavor": "\"Die Bäreninsel ist wunderschön, wenn auch sehr abgelegen.\" <cite>Ser Jorah Mormont</cite>",
+        "name": "Bäreninsel",
+        "text": "<b>Reaktion:</b> Nachdem du eine loyale Karte aufmarschieren lassen hast, erhältst du 1 Gold. (Nur zwei Mal pro Phase.)",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "04043",
+        "flavor": "\"Er war der König, der hätte sein sollen. Er war der Beste von allen.\" <cite>Der Ritter der Blumen</cite>",
+        "name": "Renly Baratheon",
+        "text": "Einblick. Ruhmreich.\nSolange ein Gegner einen <i>König</i>-Charakter kontrolliert, kann Renly Baratheon nicht gerettet werden.\n<b>Reaktion:</b> Nachdem du durch Einblick eine loyale Karte gezogen hast, decke sie auf, um 1 Karte zu ziehen.",
+        "traits": "König. Lord."
+    },
+    {
+        "code": "04044",
+        "flavor": "",
+        "name": "Goldene Rosenkrone",
+        "text": "Nur <i>Lord</i>-Charaktere.\nDer verstärkte Charakter erhält das Merkmal <i>König</i>.\n<b>Aktion:</b> Lege 1 Karte von deiner Hand ab, um dem verstärkten Charakter bis zum Ende der Phase +X Stärke zu geben. X ist die Anzahl der Herausforderungssymbole des verstärkten Charakters. (Nur zwei Mal pro Runde.)",
+        "traits": "Krone. Gegenstand."
+    },
+    {
+        "code": "04045",
+        "flavor": "\"Der Platz des Lord Kommandanten ist in der Schwarzen Festung, um zu herrschen und zu befehlen.\"",
+        "name": "Thoren Kleinwald",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Reaktion:</b> Nachdem du als verteidigender Spieler eine Herausforderung gewonnen hast, erhältst du 1 Macht für deine Fraktion.",
+        "traits": "Grenzer."
+    },
+    {
+        "code": "04046",
+        "flavor": "... und meine Wacht beginnt ...",
+        "name": "Die Nacht sinkt herab ...",
+        "text": "<b>Aufmarschaktion:</b> Wähle einen Gegner, dessen Reservewert niedriger ist als deiner. Bis zum Ende der Phase darfst du Charaktere aus dem Ablagestapel des gewählten Spielers aufmarschieren lassen, als wären sie auf deiner Hand.",
+        "traits": ""
+    },
+    {
+        "code": "04047",
+        "flavor": "\"Die Lady Melisandre sagt, R'hllor gewähre seinen gläubigen Dienern durch die Flammen gelegentlich einen Blick in die Zukunft.\" <cite>Ser Axell Florent</cite>",
+        "name": "Priesterin aus Asshai",
+        "text": "<b>Reaktion:</b> Nachdem du Priesterin aus Asshai aufmarschieren lassen hast, wähle einen Charakter mit Stärke 2 oder weniger und beuge ihn.",
+        "traits": "Verbündeter. R'hllor."
+    },
+    {
+        "code": "04048",
+        "flavor": "\"Die Schatten kommen zum Tanzen, Mylord, zum Tanzen, Mylord, zum Tanzen, Mylord, ...\" <cite>Flickenfratz</cite>",
+        "name": "Von Schatten heimgesucht",
+        "text": "Nur Charaktere von Gegnern.\nDer verstärkte Charakter bekommt -1 Stärke.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "04049",
+        "flavor": "Durch das offene Visier seines Helms konnte man das bleiche Schweinegesicht sehen.",
+        "name": "Ser Amory Lorch",
+        "text": "Solange ein Gegner 3 oder weniger Charaktere kontrolliert, erhält Ser Amory Lorch Ruhmreich.",
+        "traits": "Ritter."
+    },
+    {
+        "code": "04050",
+        "flavor": "",
+        "name": "Harrenhal",
+        "text": "<b>Herausforderungsaktion:</b> Beuge Harrenhal, um einen [lannister]- oder <i>Haus Bolton</i>-Charakter von deiner Hand ins Spiel zu bringen. Falls der Charakter am Ende der Phase immer noch im Spiel ist, töte ihn (kann nicht gerettet werden).",
+        "traits": "Umkämpft. Festung."
+    },
+    {
+        "code": "04051",
+        "flavor": "Unterhalb der Burg lag das Dorf Herrenhort, in dessen Hafen sich die Schiffe drängten.",
+        "name": "Fischer aus Herrenhort",
+        "text": "<b>Reaktion:</b> Nachdem du Fischer aus Herrenhort aufmarschieren lassen hast, nimm die unterste Karte deines Decks auf deine Hand.",
+        "traits": "Verbündeter. Händler."
+    },
+    {
+        "code": "04052",
+        "flavor": "",
+        "name": "König von Salz und Stein",
+        "text": "Nur <i>Eisenmann</i>-Charaktere.\nDer verstärkte Charakter erhält das Merkmal <i>König</i> und Brandschatzen.\n<b>Reaktion:</b> Nachdem ein Ort oder eine Ver stär kung durch Brandschatzen abgelegt wor den is, erhält der verstärkte Charakter 1 Macht.",
+        "traits": "Titel."
+    },
+    {
+        "code": "04053",
+        "flavor": "... Blutreiter seien mehr als nur Gardisten. Sie seien die Brüder des Khal, seine Schatten, seine wildesten Freunde.",
+        "name": "Ergebener Blutreiter",
+        "text": "Jeder <i>Blutreiter</i>-Charakter, den du kontrollierst, bekommt +1 Stärke.",
+        "traits": "Blutreiter. Dothraki."
+    },
+    {
+        "code": "04054",
+        "flavor": "Jhogo war der Erste, der seinen Arakh ihr zu Füßen legte.",
+        "name": "Blut von meinem Blut",
+        "text": "<b>Herausforderungsaktion:</b> Suche in deinem Deck nach einem <i>Blutreiter</i>-Charakter und bringe ihn ins Spiel. Mische dein Deck. Falls der Charakter am Ende der Phase immer noch im Spiel ist, schicke ihn auf deine Hand zurück.",
+        "traits": ""
+    },
+    {
+        "code": "04055",
+        "flavor": "",
+        "name": "Speermaid",
+        "text": "<b>Reaktion:</b> Nachdem Speermaid bei einer [military]-Herausforderung zum Angreifer deklariert worden ist, wähle einen vom verteidigenden Spieler kontrollierten Charakter. Falls du die Herausforderung um 5 oder mehr Stärke gewinnst, muss der gewählte Charakter als Schaden während dieser Herausforderung gewählt werden, falls möglich.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "04056",
+        "flavor": "",
+        "name": "Der Stachel des Skorpions",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung verloren hast, wähle bis zu X [martell]-Charaktere. Jeder gewählte Charakter erhält bis zum Ende der Phase Ruhmreich. X ist die Anzahl der Strategiekarten in deinem Archiv.",
+        "traits": ""
+    },
+    {
+        "code": "04057",
+        "flavor": "Gegen Mittag hatte Heiße Pastete zu jammern begonnen.",
+        "name": "Heisse Pastete",
+        "text": "<b>Aufmarschaktion:</b> Beuge einen <i>Gefährte</i>-Charakter, um die Kosten des nächsten einzigartigen Charakters, den du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "04058",
+        "flavor": "",
+        "name": "Das Götterauge",
+        "text": "Das Götterauge kann nicht aus dem Spiel abgelegt werden.\nGoldwert +1\nReservewert +1",
+        "traits": "Westeros."
+    },
+    {
+        "code": "04059",
+        "flavor": "\"Ich habe die Hälfte meiner Männer verloren. Und der Pferde. Ich führe niemanden mehr in dieses Inferno.\" <cite>Der Bluthund</cite>",
+        "name": "Zwietracht",
+        "text": "<b>Aufmarschaktion:</b> Wähle einen <i>Verbündeter</i>-Charakter und lege ihn aus dem Spiel ab.",
+        "traits": ""
+    },
+    {
+        "code": "04060",
+        "flavor": "",
+        "name": "Schlacht von Ochsenfurt",
+        "text": "Jeder Charakter mit aufgedruckten Kosten von 4 oder höher kann während der ersten Herausforderung, die du in dieser Runde initiierst, nicht zum Verteidiger deklariert werden.",
+        "traits": "Krieg."
+    }
+]

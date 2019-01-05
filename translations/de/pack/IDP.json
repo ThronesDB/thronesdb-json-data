@@ -1,0 +1,143 @@
+[
+    {
+        "code": "11081",
+        "flavor": "",
+        "name": "Späher von der Bäreninsel",
+        "text": "<b>Reaktion:</b> Nachdem du Späher von der Bäreninsel aufmarschieren lassen hast, suche in deinem Deck nach einer <i>Haus Mormont</i>-Karte, decke sie auf und nimm sie auf deine Hand, falls jeder Charakter, den du kontrollierst, die [stark]-Fraktionszugehörigkeit hat. Mische dein Deck.",
+        "traits": "Haus Mormont."
+    },
+    {
+        "code": "11082",
+        "flavor": "",
+        "name": "Skagos",
+        "text": "Schatten (1).\n<b>Aktion:</b> Beuge Skagos und opfere eine aufrechte [stark]-Karte, um in deinem Deck nach einer Karte zu suchen, die denselben Kartentitel wie die geopferte Karte hat, und sie ins Spiel zu bringen. Mische dein Deck.",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "11083",
+        "flavor": "",
+        "name": "Heerschar von Klarwasser",
+        "text": "Keine Verstärkungen.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Heerschar von Klarwasser angreift, wähle eine Karte in den Schatten und schicke sie auf die Hand ihres Besitzers zurück. Dann erhält ein einzigartiger [tyrell]-Charakter, den du kontrollierst, 2 Macht.",
+        "traits": "Armee. Haus Florent."
+    },
+    {
+        "code": "11084",
+        "flavor": "",
+        "name": "Die Macht der Weite",
+        "text": "<b>Herausforderungsaktion:</b> Wähle einen teilnehmenden Charakter. Bis zum Ende der Herausforderung bekommt der gewählte Charakter +10 Stärke.",
+        "traits": ""
+    },
+    {
+        "code": "11085",
+        "flavor": "An diesem Abend kochte Drei-Finger-Hobb den Jungen zur Feier des Tages ein besonderes Mahl.",
+        "name": "Drei-Finger-Hobb",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Reaktion:</b> Nachdem du die Reserve überprüft hast, ziehe 2 Karten, falls die Anzahl deiner Handkarten unter deinem Reservewert liegt.",
+        "traits": "Kämmerer."
+    },
+    {
+        "code": "11086",
+        "flavor": "Hartheim war auf dem besten Wege gewesen, eine Stadt zu werden, die einzige richtige Stadt nördlich der Mauer, bis zu der Nacht vor sechshundert Jahren, als sie von der Hölle verschluckt worden war.",
+        "name": "Hartheim",
+        "text": "Schatten (2).\n<b>Herrschaftsaktion:</b> Beuge und opfere Hartheim, um einen Gegner zu wählen. Der gewählte Spieler opfert einen aufrechten Charakter.",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "11087",
+        "flavor": "",
+        "name": "Maester von Sturmkap",
+        "text": "<b>Herausforderungsaktion:</b> Beuge Maester von Sturmkap, um einen Gegner zu wählen. Falls du mehr Macht auf deiner Fraktionskarte hast als der gewählte Spieler, ziehe 1 Karte.",
+        "traits": "Maester."
+    },
+    {
+        "code": "11088",
+        "flavor": "",
+        "name": "Blendwerk",
+        "text": "Nur Charaktere, die du kontrollierst. Schatten (2). Vergänglich.\nDer verstärkte Charakter bekommt +2 Stärke.\n<b>Aktion:</b> Töte den verstärkten Charakter, um einen anderen Charakter, der in dieser Phase getötet worden ist, in deinem Totenstapel zu wählen. Schicke den gewählten Charakter ins Spiel zurück.",
+        "traits": "Gegenstand. R'hllor."
+    },
+    {
+        "code": "11089",
+        "flavor": "",
+        "name": "Scheckenhunde",
+        "text": "Hinterhalt (4).\n<b>Herausforderungsaktion:</b> Schicke Scheckenhunde auf deine Hand zurück, um einen <i>Clanskrieger</i>-Charakter oder Tyrion Lennister zu wählen und aufzurichten.",
+        "traits": "Clanskrieger."
+    },
+    {
+        "code": "11090",
+        "flavor": "Ich habe keine Angst. Ich bin eine Löwin.",
+        "name": "Bussgang",
+        "text": "<bHerrschaftsaktion:</b> Lege beliebig viel Macht von einem Charakter ab, den du kontrollierst. Für jede abgelegte Macht lege 1 zufällige Karte von der Hand jedes Gegners ab und ziehe 1 Karte.",
+        "traits": "Die Sieben."
+    },
+    {
+        "code": "11091",
+        "flavor": "",
+        "name": "Besatzung der Eiserner Sieg",
+        "text": "Keine Verstärkungen.\n<b>Reaktion:</b> Nachdem Besatzung der Eiserner Sieg ins Spiel gekommen ist, suche in deinem Deck nach einem <i>Kriegsschiff</i>-Ort, decke ihn auf und nimm ihn auf deine Hand (falls es Eiserner Sieg ist, bringe ihn stattdessen ins Spiel). Mische dein Deck.",
+        "traits": "Eisenmann. Plünderer."
+    },
+    {
+        "code": "11092",
+        "flavor": "Sie würde lange für die Ausbesserungsarbeiten brauchen; in den Stürmen war von dem Schiff wenig mehr geblieben als der Rumpf.",
+        "name": "Ausgebessertes Wrack",
+        "text": "Goldwert +1.\nInitiativewert +1.",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "11093",
+        "flavor": "",
+        "name": "Drogon",
+        "text": "Hinterhalt (6). Keine Verstärkungen.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Drogon angreift, wähle eine Charakter, der vom verlierenden Gegner kontrolliert wird. Bis zum Ende der Phase bekommt der gewählte Charakter -4 Stärke und wird getötet, falls seine Stärke 0 ist.",
+        "traits": "Drache."
+    },
+    {
+        "code": "11094",
+        "flavor": "",
+        "name": "In Daznaks Arena",
+        "text": "Schatten (3).\n<b>Unterbrechung:</b> Sobald die Herausforderungsphase endet, richte jeden Charakter auf. Im Anschluss an diese Phase gibt es eine zusätzliche Herausforderungsphase. (Maximal 1 pro Runde.)",
+        "traits": ""
+    },
+    {
+        "code": "11095",
+        "flavor": "",
+        "name": "Maester Myl",
+        "text": "<b>Herausforderungsaktion:</b> Beuge Maester Myl, um einen Charakter zu wählen, dessen aufgedruckte Kosten gleich oder niedriger sind als die Anzahl der Strategiekarten in deinem Archiv. Bis zum Ende der Phase verliert der gewählte Charakter ein Herausforderungssymbol deiner Wahl.",
+        "traits": "Maester."
+    },
+    {
+        "code": "11096",
+        "flavor": "\"Mein Vater ist sehr gut darin, nichts zu tun.\" <cite>Arianne Martell</cite>",
+        "name": "Er nennt es Nachdenken",
+        "text": "<b>Unterbrechung:</b> Sobald die Effekte einer ausgelösten Nicht-Agenda-, Nicht-Strategie-Fähigkeit eines Gegners intiiert werden würden, hebe jene Effekte auf, es sei denn, der Gegner bezahlt 1 Gold.",
+        "traits": ""
+    },
+    {
+        "code": "11097",
+        "flavor": "\"Manche halten Reiher für majestätisch... Vielleicht wenn man einen König hat, der auf einem Bein steht und Frösche frisst.\"",
+        "name": "Alter Bill Knochen",
+        "text": "Schatten (1).\n<b>Reaktion:</b> Nachdem Alter Bill Knochen aus den Schatten getreten ist, beuge jede gegnerische Fraktionskarte.",
+        "traits": "Söldner."
+    },
+    {
+        "code": "11098",
+        "flavor": "",
+        "name": "Das Gasthaus am Kreuzweg",
+        "text": "Schatten (1).\n<b>Herrschaftsaktion:</b> Beuge Das Gasthaus am Kreuzweg, um 3 Karten zu ziehen und einen Gegner zu wählen. Gib dem gewählten Spieler die Kontrolle über Das Gasthaus am Kreuzweg.",
+        "traits": "Flusslande."
+    },
+    {
+        "code": "11099",
+        "designer": "Kartenentwurf von Lucas Reed, Weltmeister im Tjost 2008.",
+        "flavor": "",
+        "name": "Eine Prise Pulver",
+        "text": "Schatten (1).\n<b>Reaktion:</b> Nachdem du als angreifender Spieler eine [intrigue]- oder [power]-Herausforderung um 5 oder mehr Stärke gewonnen hast, schicke den verstärkten Charakter auf die Hand seines Besitzers zurück.",
+        "traits": "Gegenstand. Waffe."
+    },
+    {
+        "code": "11100",
+        "flavor": "",
+        "name": "Doppeltes Spiel",
+        "text": "<b>Strategieaktion:</b> Wähle eine Strategiekarte im Archiv eines Gegners. Doppeltes Spiel erhält das aufgedruckte Textfeld der gewählten Karte (mit Ausnahme von <i>Merkmalen</i>), bis du eine neue Strategiekarte aufdeckst. (Nur ein Mal pro Runde.)",
+        "traits": "Komplott."
+    }
+]

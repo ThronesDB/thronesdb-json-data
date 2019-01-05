@@ -1,0 +1,143 @@
+[
+    {
+        "code": "08081",
+        "flavor": "\"Ich trage keine Kleider. In einem blöden Kleid kann man nicht kämpfen.\"",
+        "name": "Arya Stark",
+        "text": "Solange Arya Stark aufrecht steht, können Charaktere nicht gerettet werden.",
+        "traits": "Lady."
+    },
+    {
+        "code": "08082",
+        "flavor": "",
+        "name": "Ich Bin Niemand",
+        "text": "<b>Aktion:</b> Wähle einen Charakter, den du kontrollierst, mit aufgedruckten Kosten von 3 oder weniger. Bis zum Ende der Phase verliert der gewählte Charakter alle Fraktionszugehörigkeiten und <i>Merkmale</i>, erhält Einblick und Heimlich, und wird nicht gebeugt, sobald er zum Angreifer deklariert wird.",
+        "traits": ""
+    },
+    {
+        "code": "08083",
+        "flavor": "",
+        "name": "Flüchtling aus Rosengarten",
+        "text": "Solange es eine aufgedeckte <i>Sommer</i>-Strategiekarte gibt, reduziere die Kosten, um Flüchtling aus Rosengarten aufmarschieren zu lassen, um 1.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "08084",
+        "flavor": "Das Schiff war fünfmal so groß gewesen wie die Schwarzdrossel und prächtig anzuschauen, es hatte drei große burgunderrote Segel gesetzt und Ruderbänke, die golden und weiß im Sonnenlicht blitzten.",
+        "name": "Arbor-Königin",
+        "text": "<b>Aktion:</b> Beuge Arbor-Königin, um einen [tyrell]-Charakter und einen Nicht-[tyrell]-Charakter zu wählen. Bis zum Ende der Phase bekommt jeder gewählte Charakter +2 Stärke.",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "08085",
+        "designer": "Kartenentwurf von Brett Zeiler, Weltmeister im Tjost 2011.",
+        "flavor": "",
+        "name": "Kalthand",
+        "text": "Kalthand kann nicht gerettet werden.\n<b>Reaktion:</b> Nachdem du Kalthand aufmarschieren lassen hast, wähle von jedem Spieler 1 anderen Nicht-<i>Armee</i>-Charakter, den dieser Spieler kontrolliert. Entferne alle gewählten Charaktere aus dem Spiel, bis Kalthand das Spiel verlässt.",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "08086",
+        "flavor": "Das Wasser war grau und grün und kabbelig, und vor der bewaldeten Küste, der sie folgten, wechselten sich Felsen und Strudel in wirrem Durcheinander ab.",
+        "name": "Die Seehundsbucht",
+        "text": "<b>Aktion:</b> Beuge Die Seehundsbucht, um einen Charakter, den ein Gegner besitzt, zu wählen und aufzurichten.",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "08087",
+        "flavor": "",
+        "name": "Die Männer der Königs",
+        "text": "<b>Reaktion:</b> Nachdem eine Phase begonnen hat, wähle einen gebeugten Charakter. Behandle den gewählten Charakter bis zum Ende der Phase so, als ob sein aufgedrucktes Textfeld leer wäre (mit Ausnahme von <i>Merkmalen</i>). (Nur ein Mal pro Runde.)",
+        "traits": "Verbündeter. Die Sieben."
+    },
+    {
+        "code": "08088",
+        "flavor": "",
+        "name": "Dem Roten Gott geopfert",
+        "text": "Kann nur gespielt werden, falls du einen <i>R'hllor</i>-Charakter kontrollierst.\n<b>Aufmarschaktion:</b> Opfere einen Charakter, um in deinem Deck nach einem <i>R'hllor</i>-Charakter mit gleichen oder niedrigeren aufgedruckten Kosten zu suchen und ihn auf deine Hand zu nehmen. Mische dein Deck.",
+        "traits": "R'hllor."
+    },
+    {
+        "code": "08089",
+        "flavor": "",
+        "name": "Cerseis Informantin",
+        "text": "Investition (3).\n<b>Aktion:</b> Verschiebe 1 Gold von Cerseis Informantin auf eine Nicht-<i>Spion</i>-Karte, die du kontrollierst, um 1 Karte zu ziehen. Dann wähle 1 Karte von deiner Hand und lege sie ab. (Nur ein Mal pro Runde.)",
+        "traits": "Spion."
+    },
+    {
+        "code": "08090",
+        "flavor": "",
+        "name": "Ser Sprung",
+        "text": "Nur einzigartige Charaktere mit aufgedruckten Kosten von 3 oder weniger. Hinterhalt (1).\nDer verstärkte Charakter erhält ein [intrigue]-Symbol und wird nicht gebeugt, sobald er bei einer [intrigue]-Herausforderung zum Angreifer deklariert wird.",
+        "traits": "Katze. Ritter."
+    },
+    {
+        "code": "08091",
+        "flavor": "...den man für so gottgefällig hielt, dass er einst erwählt wurde, um einen König zu krönen.",
+        "name": "Darle der Dreimal-Ertränkte",
+        "text": "Du darfst nicht-einzigartige <i>Ertrunkener Gott</i>-Charaktere aus deinem Totenstapel aufmarschieren lassen, als ob sie auf deiner Hand wären.",
+        "traits": "Ertrunkener Gott. Eisenmann."
+    },
+    {
+        "code": "08092",
+        "flavor": "\"Er muss dem Gott geopfert werden. Auf die alte Weise.\" <cite>Aeron Feuchthaar</cite>",
+        "name": "Dem Ertrunkenen Gott geopfert",
+        "text": "<b>Aktion:</b> Töte einen <i>Ertrunkener Gott</i>-Charakter, um X Karten zu ziehen. X sind die aufgedruckten Kosten des getöteten Charakters.",
+        "traits": "Ertrunkener Gott."
+    },
+    {
+        "code": "08093",
+        "flavor": "",
+        "name": "Daenerys Targaryen",
+        "text": "Daenerys Targaryens Stärke kann nicht durch Karteneffekte reduziert werden.\n<b>Reaktion:</b> Nachdem du ein [targaryen]-Ereignis gespielt hast, wähle einen Charakter. Bis zum Ende der Phase bekommt der gewählte Charakter -1 Stärke und wird getötet, falls seine Stärke 0 ist. (Nur drei Mal pro Runde.)",
+        "traits": "Lady. Königin."
+    },
+    {
+        "code": "08094",
+        "flavor": "",
+        "name": "Mhysa",
+        "text": "Nur <i>Lady</i>-Charaktere.\nWährend der ersten [power]-Herausforderung, die du in jeder Runde initiierst, wird der verstärkte Charakter nicht gebeugt, sobald er zum Angreifer deklariert wird, und bekommt +1 Stärke für jeden angreifenden Charakter.",
+        "traits": "Titel."
+    },
+    {
+        "code": "08095",
+        "flavor": "Die Isenwalds würden sich für Quentyn erklären, sie allein stellten jedoch keine Bedrohung dar.",
+        "name": "Ritter von Haus Isenwald",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung verloren hast, an der Ritter von Haus Isenwald teilnimmt, lege 1 zufällige Karte von der Hand des siegenden Gegners ab.",
+        "traits": "Haus Isenwald. Ritter."
+    },
+    {
+        "code": "08096",
+        "flavor": "",
+        "name": "Heimlicher Pakt",
+        "text": "Nur Nicht-[martell]-Charaktere. Hinterhalt (3).\nDer verstärkte Charakter erhält Ruhmreich.\nDer verstärkte Charakter kann in Herausforderungen gegen dich nicht zum Angreifer deklariert werden.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "08097",
+        "flavor": "\"Eine Wiedergeburt des Kriegerischen Arms des Glaubens ... Das wäre, als würden dreihundert Jahre des Gebetes endlich erhört, Euer Gnaden.\"",
+        "name": "Der Hohe Spatz",
+        "text": "Jeder Spieler kann nicht mehr als 7 Gold pro Runde erhalten.\nJeder Spieler kann nicht mehr als 3 Karten pro Runde ziehen.",
+        "traits": "Die Sieben."
+    },
+    {
+        "code": "08098",
+        "flavor": "Die Sieben Götter, sie erschufen uns,\nSie hören uns an, wenn wir erflehen ihre Gunst.\nSo schließ die Äuglein und gedenke des Bunds,\nSie sehen euch, kleine Kinder.",
+        "name": "\"Das Lied der Sieben\"",
+        "text": "<b>Reaktion:</b> Nachdem du die Herrschaft verloren hast, verschiebe 2 Macht von der Fraktionskarte des siegenden Gegners auf einen <i>Die Sieben</i>-Charakter, den du kontrollierst. (Maximal 1 pro Phase.)",
+        "traits": "Lied. Die Sieben."
+    },
+    {
+        "code": "08099",
+        "flavor": "",
+        "name": "Glaubenskrieger",
+        "text": "Nicht-<i>Die Sieben</i>-Charaktere und -Orte, die du kontrollierst, können keine Macht erhalten.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, beuge deine Fraktionskarte, um 1 Macht von der Fraktionskarte des verlierenden Gegners auf einen teilnehmenden <i>Die Sieben</i>-Charakter, den du kontrollierst, zu verschieben.",
+        "traits": "Die Sieben."
+    },
+    {
+        "code": "08100",
+        "flavor": "",
+        "name": "Religiöse Verpflichtungen",
+        "text": "<b>Sobald aufgedeckt:</b> Verschiebe alle Macht von allen Karten im Spiel auf die Fraktionskarten ihrer jeweiligen kontrollierenden Spieler.",
+        "traits": "Die Sieben."
+    }
+]

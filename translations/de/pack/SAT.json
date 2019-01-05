@@ -1,0 +1,143 @@
+[
+    {
+        "code": "08101",
+        "flavor": "",
+        "name": "Heerschar der Flusslande",
+        "text": "Investition (3). Keine Verstärkungen.\n<b>Reaktion:</b> Nachdem ein <i>Haus Tully</i>-Charakter, den du kontrollierst, Macht erhalten hat, lege 1 Gold von Heerschar der Flusslande ab, um jenen Charakter 1 Gold erhalten zu lassen. (Nur ein Mal pro Phase.)",
+        "traits": "Armee. Haus Tully."
+    },
+    {
+        "code": "08102",
+        "flavor": "Ein Götterhain hatte stets etwas Wildes an sich, und sogar in diesem hier, inmitten der Burg und der Stadt, konnte man die alten Götter spüren, die mit tausend Augen auf sie herabschauten.",
+        "name": "Götterhain",
+        "text": "<b>Reaktion:</b> Nachdem du als angreifender Spieler eine Herausforderung gewonnen hast und falls es mehr aufgedeckte <i>Winter</i>-Strategiekarten als aufgedeckte <i>Sommer</i>-Strategiekarten gibt, beuge Götterhain, um X Karten zu ziehen. X ist der Schadenswert deiner aufgedeckten Strategiekarte.",
+        "traits": "Alte Götter."
+    },
+    {
+        "code": "08103",
+        "flavor": "",
+        "name": "Maes Tyrell",
+        "text": "<b>Reaktion:</b> Nachdem Maes Tyrell gebeugt worden ist, ziehe 2 Karten. Dann wähle eine Karte von deiner Hand und lege sie oben auf dein Deck.",
+        "traits": "Lord. Kleiner Rat."
+    },
+    {
+        "code": "08104",
+        "flavor": "",
+        "name": "Mit aller Härte reagieren",
+        "text": "<b>Reaktion:</b> Nachdem 3 oder mehr Charaktere bei einer Herausforderung gegen dich zu Angreifern deklariert worden sind, suche in deinem Deck nach einem [tyrell]-Charakter und bringe ihn ins Spiel. Mische dein Deck.",
+        "traits": ""
+    },
+    {
+        "code": "08105",
+        "flavor": "Septon Cellador war wie üblich halb betrunken...",
+        "name": "Septon Cellador",
+        "text": "<b>Herausforderungsaktion:</b> Beuge Septon Cellador, um einen Gegner zu wählen. Der gewählte Spieler muss einen Charakter von seiner Hand wählen und ablegen, es sei denn, er deckt eine Hand auf, die keinerlei Charaktere enthält.",
+        "traits": "Die Sieben."
+    },
+    {
+        "code": "08106",
+        "designer": "Kartenentwurf von Sam Braatz, Weltmeister im Tjost 2014.",
+        "flavor": "",
+        "name": "Die Krähe ist ein verschlagener Vogel",
+        "text": "<b>Strategieaktion:</b> Beuge deine Fraktionskarte, um einen Gegner zu wählen und dir seinen Strategiestapel anzusehen. Wähle 1 Karte aus diesem Stapel. Der gewählte Spieler muss falls möglich die gewählte Karte als seine nächste Strategiekarte aufdecken.",
+        "traits": ""
+    },
+    {
+        "code": "08107",
+        "flavor": "Der Bastard von Nachtlied hatte die Nachhut befehligt, die es Stannis erlaubt hatte, sicher auf Salladhor Saans Galeeren an Bord zu gehen, doch er verehrte den Krieger mit einer Inbrunst, die ebenso grimmig war wie er selbst.",
+        "name": "Der Bastard von Nachtlied",
+        "text": "<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung gewonnen hast, an welcher Der Bastard von Nachtlied teilnimmt, verschiebe 1 Macht von der Fraktionskarte des verlierenden Gegners auf deine Fraktionskarte.",
+        "traits": "Bastard. Ritter."
+    },
+    {
+        "code": "08108",
+        "flavor": "",
+        "name": "Der König an der Mauer",
+        "text": "Nur einzigartige [baratheon]-Charaktere.\nDer verstärkte Charakter erhält das Merkmal <i>König</i>.\n<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung gewonnen hast, an welcher der verstärkte Charakter teilnimmt, ziehe 1 Karte für jeden nicht-fraktionszugehörigen Ort, den du kontrollierst.",
+        "traits": "Titel."
+    },
+    {
+        "code": "08109",
+        "flavor": "\"Die Citadel hat mir die Kette genommen, aber mein Wissen mussten sie mir lassen.\"",
+        "name": "Qyburn",
+        "text": "<b>Reaktion:</b> Nachdem ein Charakter getötet worden ist, beuge Qyburn, um 2 Karten zu ziehen. Dann wähle 1 Karte von deiner Hand und lege sie ab.",
+        "traits": "Maester. Kleiner Rat."
+    },
+    {
+        "code": "08110",
+        "flavor": "",
+        "name": "Komplott gegen die Königin",
+        "text": "<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung verloren hast, schicke einen Charakter mit 1 oder mehr Macht auf deine Hand zurück, um einen teilnehmenden Charakter mit 1 oder mehr Macht zu wählen und auf die Hand seines Besitzers zurückzuschicken.",
+        "traits": ""
+    },
+    {
+        "code": "08111",
+        "flavor": "",
+        "name": "Matrosin aus Salzklipp",
+        "text": "Investition (3).\nJeder Charakter mit 1 oder mehr Gold, den du kontrollierst, erhält Heimlich.\n<b>Aktion:</b> Verschiebe 1 Gold von Matrosin aus Salzklipp auf eine Nicht-[greyjoy]-Charakter, den du kontrollierst.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "08112",
+        "flavor": "",
+        "name": "Keule aus Treibholz",
+        "text": "Nur <i>Ertrunkener Gott</i>-Charaktere.\nDer verstärkte Charakter bekommt +1 Stärke für jeden Charakter in deinem Totenstapel.\n<b>Unterbrechung:</b> Sobald der verstärkte Charakter getötet wird, verschiebe Keule aus Treibholz auf einen anderen gültigen Charakter. Dieser Charakter erhält 1 Macht.",
+        "traits": "Ertrunkener Gott. Waffe."
+    },
+    {
+        "code": "08113",
+        "flavor": "",
+        "name": "Khalasar auf Beutezug",
+        "text": "Keine Verstärkungen. Brandschatzen.\nSolange Khalasar auf Beutezug angreift, erhöhe den Schadenswert deiner aufgedeckten Strategiekarte um 1, falls du einen angreifenden <i>Blutreiter</i>-Charakter kontrollierst.",
+        "traits": "Armee. Dothraki."
+    },
+    {
+        "code": "08114",
+        "flavor": "",
+        "name": "Um vorwärts zu gelangen, geht rückwärts",
+        "text": "<b>Herrschaftsaktion:</b> Jeder Spieler darf seine Hand (mit mindestens 1 Karte) in sein Deck mischen, um 5 Karten zu ziehen.",
+        "traits": "Prophezeiung."
+    },
+    {
+        "code": "08115",
+        "flavor": "",
+        "name": "Herrschar vom Knochenweg",
+        "text": "Einschüchternd. Keine Verstärkungen.\nHerrschar vom Knochenweg bekommt +1 Stärke für jede Strategiekarte in deinem Archiv.",
+        "traits": "Armee."
+    },
+    {
+        "code": "08116",
+        "flavor": "So sollte es nicht enden. Das sollte nicht geschehen",
+        "name": "Irgendwer redet immer",
+        "text": "<b>Unterbrechung:</b> Sobald die Effekte eines Ereignisses oder einer ausgelösten Strategiefähigkeit eines Gegners initiiert werden würden, hebe diese Effekte auf.",
+        "traits": ""
+    },
+    {
+        "code": "08117",
+        "flavor": "\"Männer kommen und gehen. Sie lügen oder sterben oder lassen dich allein. Ein Berg hingegen ist kein Mann, und ein Stein ist die Tochter eines Berges. Ich vertraue meinem Vater, und ich vertraue meinen Maultieren. Ich werde nicht stürzen.\"",
+        "name": "Mya Stein",
+        "text": "<b>Unterbrechung:</b> Sobald der Schaden einer [military]- oder [intrigue]-Herausforderung, in der du der verteidigende Spieler bist, angewandt wird, beuge Mya Stein, um stattdessen [power]-Schaden anzuwenden.",
+        "traits": "Bastard."
+    },
+    {
+        "code": "08118",
+        "flavor": "",
+        "name": "Die Große Septe von Baelor",
+        "text": "Investition (3).\n<b>Reaktion:</b> Nachdem ein Charakter ins Spiel gekommen ist, beuge Die Große Septe von Baelor und lege 1 Gold davon ab, um das aufgedruckte Textfeld dieses Charakters bis zum Ende der Runde so zu behandeln, als ob es leer wäre (mit Ausnahme von <i>Merkmalen</i>).",
+        "traits": "Königsmund. Die Sieben."
+    },
+    {
+        "code": "08119",
+        "flavor": "",
+        "name": "Der Siebenzackige Stern",
+        "text": "Der verstärkte Charakter erhält das Merkmal <i>Die Sieben</i>.\n<b>Aufmarschaktion:</b> Beuge den verstärkten Charakter, um die Kosten der nächsten <i>Die Sieben</i>-Karte, die du in dieser Phase aufmarschieren lässt, um 2 zu reduzieren.",
+        "traits": "Gegenstand. Die Sieben."
+    },
+    {
+        "code": "08120",
+        "flavor": "",
+        "name": "Man gewinnt oder man stirbt",
+        "text": "<b>Sobald aufgedeckt:</b> Ziehe 2 Karten.",
+        "traits": "Komplott."
+    }
+]

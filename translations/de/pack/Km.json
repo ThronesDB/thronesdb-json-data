@@ -1,0 +1,143 @@
+[
+    {
+        "code": "08041",
+        "flavor": "\"Lord Bolton hat immer gesagt, ein nackter Mann hat wenig Geheimnisse, aber ein gehäuteter Mann hat gar keine mehr.\"",
+        "name": "Ramsay Schnee",
+        "text": "<b>Erzwungene Reaktion:</b> Nachdem Ramsay Schnee ins Spiel gekommen ist, opfert jeder Spieler falls möglich einen Charakter",
+        "traits": "Bastard. Haus Bolton."
+    },
+    {
+        "code": "08042",
+        "flavor": "",
+        "name": "Grauenstein",
+        "text": "<b>Reaktion:</b> Nachdem ein Charakter, den du kontrollierst, geopfert worden ist, beuge Grauenstein, um einen <i>Haus Bolton</i>- oder Nicht-[stark]-Charakter zu wählen und aufzurichten.",
+        "traits": "Haus Bolton. Der Norden."
+    },
+    {
+        "code": "08043",
+        "flavor": "\"Seine Lordschaft teilte mir mit, er bräuchte mein Schwert nicht mehr, genauso wenig wie meine Unverschämtheit.\"",
+        "name": "Ser Hylo Hatz",
+        "text": "<b>Aktion:</b> Während einer Herausforderung, an der Ser Hylo Hatz teilnimmt, bezahle 1 Gold, um einen teilnehmenden Charakter zu wählen, der weniger Stärke hat als er. Richte den gewählten Charakter auf und entferne ihn aus der Herausforderung. (Nur ein Mal pro Herausforderung.)",
+        "traits": "Ritter."
+    },
+    {
+        "code": "08044",
+        "flavor": "Und der Reichtum von Rosengarten war mit ihr aus dem Süden die Rosenstraße hinaufgeflossen. Diese Narren schien sich nicht daran zu erinnern, dass Maes Tyrell es gewesen war, der die Rosenstraße geschlossen und damit die verfluchte Hungersnot erst herbeigeführt hatte.",
+        "name": "Der Reichtum von Rosengarten",
+        "text": "Limitiert.\n<b>Aktion:</b> Du erhältst 5 Gold. (Kann nicht aufgehoben werden.)",
+        "traits": ""
+    },
+    {
+        "code": "08045",
+        "flavor": "",
+        "name": "Kundschafter des Verfluchten Waldes",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nKundschafter des Verfluchten Waldes kann nicht zum Verteidiger deklariert werden.\nSolange du 3 oder mehr <i>Grenzer</i>-Charaktere kontrollierst, wird Kundschafter des Verfluchten Waldes nicht gebeugt, sobald er zum Angreifer deklariert wird.",
+        "traits": "Verbündeter. Grenzer."
+    },
+    {
+        "code": "08046",
+        "flavor": "",
+        "name": "Mulwarft",
+        "text": "Investition (4).\n<b>Herausforderungsaktion:</b> Beuge Mulwarft, um einen Charakter ohne Gold zu wählen. Verschiebe 1 Gold von Mulwarft auf den gewählten Charakter. Dann kann der gewählte Charakter bis zum Ende der Phase nicht zum Angreifer deklariert werden.",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "08047",
+        "flavor": "",
+        "name": "Lysenischer Pirat",
+        "text": "Solange du einen <i>Kriegsschiff</i>-Ort kontrollierst, erhält Lysenischer Pirat Heimlich.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Lysenischer Pirat angreift, verschiebe 1 Gold aus der Goldreserve des verlierenden Gegners oder von einer Karte, die er kontrolliert, in deine Goldreserve.",
+        "traits": "Plünderer. Schmuggler."
+    },
+    {
+        "code": "08048",
+        "flavor": "\"Die Zerlumpte Jenna und die Lachender Lord spielen noch immer Piraten auf dem Fluss, ist mir zu Ohren gekommen, aber wer kann das schon genau wissen.\" <cite>Salladhor Saan</cite>",
+        "name": "Lachender Lord",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung initiiert hast, beuge Lachender Lord, um einen angreifenden [baratheon]-Charakter zu wählen. Bis zum Ende der Herausforderung erhält der gewählte Charakter Einschüchternd.",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "08049",
+        "flavor": "Und Raff den Liebling, der Lommy den Speer durch die Kehle getrieben hatte, hasste sie mehr als alle anderen.",
+        "name": "Raff der Liebling",
+        "text": "Brandschatzen.\n<b>Reaktion:</b> Nachdem Raff der Liebling durch Brandschatzen einen Charakter abgelegt hat, wähle einen Charakter mit aufgedruckten Kosten von 2 oder weniger und schicke ihn auf die Hand seines Besitzers zurück.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "08050",
+        "flavor": "Er redete sich gern ein, dass er besser wurde, doch ging es langsam und nicht ohne Preis voran. Unter seinem Stahl, seiner Wolle und seinem gehärtetem Leder war Jaime Lennister ein Wandteppich aus Schnitten und Wundschorf und blauen Flecken.",
+        "name": "Heimliche Fechtübungen",
+        "text": "<b>Aktion:</b> Beuge einen <i>Ritter</i>-Charakter, um einen anderen <i>Ritter</i>-Charakter zu wählen und aufzurichten.",
+        "traits": ""
+    },
+    {
+        "code": "08051",
+        "flavor": "",
+        "name": "Asha Graufreud",
+        "text": "Brandschatzen. Heimlich.\n<b>Reaktion:</b> Nachdem Asha Graufreud durch Brandschatzen eine Karte abgelegt hat, suche in den obersten X Karten deines Decks nach einer Karte und nimm sie auf deine Hand. Mische dein Deck. X ist die Anzahl der Karten im Ablagestapel des verlierenden Gegners.",
+        "traits": "Kapitän. Eisenmann. Lady."
+    },
+    {
+        "code": "08052",
+        "flavor": "\"Im Namen des Ertrunkenen Gottes rufe ich Euch dazu auf.\" <cite>Aeron Feuchthaar</cite>",
+        "name": "Königsthing",
+        "text": "<b>Reaktion:</b> Nachdem du die Herrschaft gewonnen hast, wähle einen einzigartigen [greyjoy]-Charakter, den du kontrollierst. Für jeden einzigartigen [greyjoy]-Charakter, den du kontrollierst, erhält der gewählte Charakter 1 Macht (Maximal 1 pro Runde.)",
+        "traits": ""
+    },
+    {
+        "code": "08053",
+        "flavor": "\"Es ist bekannt.\"",
+        "name": "Jhiqui",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, lege 1 Karte von deiner Hand ab, um einen teilnehmenden <i>Lord</i>- oder <i>Lady</i>-Charakter 1 Macht erhalten zu lassen.",
+        "traits": "Gefährte. Dothraki."
+    },
+    {
+        "code": "08054",
+        "flavor": "",
+        "name": "Der Skahazadhan",
+        "text": "<b>Reaktion:</b> Nachdem du eine Strategiekarte aufgedeckt hast, beuge Der Skahazadhan und lege 1 Karte von deiner Hand ab, um 2 Gold zu erhalten. (Falls die Strategiekarte das Merkmal <i>Sommer</i> hat, sind es stattdessen 3 Gold.)",
+        "traits": "Essos."
+    },
+    {
+        "code": "08055",
+        "flavor": "\"Ich wurde mit Gift von der Mutterbrust entwöhnt, Dalt. Jede Viper, die mich beißt, wird es bereuen.\"",
+        "name": "Dunkelstern",
+        "text": "Heimlich.\n<b>Reaktion:</b> Nachdem Dunkelstern einen Charakter mit Heimlich umgangen hat, verliert jener Charakter bis zum Ende der Phase eineHerausforderungssymbol deiner Wahl.",
+        "traits": "Haus Dayn. Ritter."
+    },
+    {
+        "code": "08056",
+        "flavor": "Die Sandrösser von Dorne waren schnell und ausdauernd und konnten noch viele Meilen zurücklegen, wenn andere Pferde längst aufgeben mussten, doch ohne Wasser konnten auch sie nicht laufen.",
+        "name": "Sandross",
+        "text": "Nur 1 Kopie pro Charakter.\n<b>Reaktion:</b> Nachdem eine <i>Sommer</i>-Strategiekarte in dein Archiv gekommen ist, erhält der verstärkte Charakter 1 Macht.",
+        "traits": "Streitross."
+    },
+    {
+        "code": "08057",
+        "flavor": "\"Also, was das betrifft, ich bin Tom aus Siebenbächen, aber die meisten nennen mich Tom Siebensaiten oder einfach Tom Sieben.\"",
+        "name": "Tom aus Siebenbächen",
+        "text": "<b>Reaktion:</b> Nachdem du ein <i>Lied</i>-Ereignis gespielt hast, wähle einen nicht-loyalen Charakter, den du kontrollierst, und richte ihn auf. (Nur ein Mal pro Phase.)",
+        "traits": "Bruderschaft. Minnesänger. R'hllor."
+    },
+    {
+        "code": "08058",
+        "flavor": "\"Vielleicht. Was weiß schon ein Haufen verdammter Bauerntrampel von der Ehre eines Lords?\"",
+        "name": "Zit Zitronenmantel",
+        "text": "Solange du keine loyalen Charaktere kontrollierst, bekommt Zit Zitronenmantel +2 Stärke und erhält ein [power]-Symbol.",
+        "traits": "Bruderschaft. R'hllor."
+    },
+    {
+        "code": "08059",
+        "flavor": "",
+        "name": "Von den Geschichtsbüchern vergessen",
+        "text": "<b>Herrschaftsaktion:</b> Beuge deine Fraktionskarte, um einen Charakter mit aufgedruckten Kosten von X oder weniger zu wählen und ins Deck seines Besitzers zu mischen. X ist die Anzahl der Macht auf der Fraktionskarte des Spielers, der den gewählten Charakter kontrolliert.",
+        "traits": ""
+    },
+    {
+        "code": "08060",
+        "designer": "Kartenentwurf von Steven Simoni, Nordamerikanischer Meister 2013.",
+        "flavor": "",
+        "name": "Verheerende Kälte",
+        "text": "Überspringe in dieser Runde die Aufrichtenphase.",
+        "traits": "Winter."
+    }
+]

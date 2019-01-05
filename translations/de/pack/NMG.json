@@ -1,0 +1,143 @@
+[
+    {
+        "code": "02061",
+        "flavor": "\"Hodor!\"",
+        "name": "Hodor",
+        "text": "Keine Verstärkungen.\nHodor kann nicht zum Angreifer deklariert werden, es sei denn, du kontrollierst Bran Stark.\nHodor steuert keine Stärke zu deiner Gesamtstärke bei der Herrschaft bei.",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "02062",
+        "flavor": "",
+        "name": "Wächter des Nordens",
+        "text": "<b>Herausforderungsaktion:</b> Während einer Herausforderung, in der du einen teilnehmenden [stark]-Charakter kontrollierst, beuge einen anderen [stark]-Charakter, um ihn auf deiner Seite an dieser Herausforderung teilnehmen zu lassen. (Nur zwei Mal pro Runde.)",
+        "traits": "Krieg."
+    },
+    {
+        "code": "02063",
+        "flavor": "Hundertmal schon hatte Arya sie bei Hofe gesehen. Die Rothweyn-Zwillinge, Ser Horas und Ser Hobber, unscheinbare Jungen mit hellrotem Haar und eckigen Gesichtern voller Sommersprossen.",
+        "name": "Ser Horas Rothweyn",
+        "text": "<b>Reaktion:</b> Nachdem Ser Horas Rothweyn gebeugt worden ist, wähle einen <i>Lady</i>-Charakter und richte ihn auf.",
+        "traits": "Haus Rothweyn. Ritter."
+    },
+    {
+        "code": "02064",
+        "flavor": "",
+        "name": "Der Arbor",
+        "text": "Limitiert.\nGoldwert +3",
+        "traits": "Haus Rothweyn."
+    },
+    {
+        "code": "02065",
+        "flavor": "\"Ich gehe zu den Baumeistern. Welchen Nutzen hätten die Grenzer, wenn die Mauer einstürzt?\"",
+        "name": "Halder",
+        "text": "Keine Verstärkungen außer Waffe.\n<b>Aktion:</b> Beuge einen [thenightswatch]-Ort oder eine [thenightswatch]-Verstärkung, um einen [thenightswatch]-Charakter zu wählen. Bis zum Ende der Phase bekommt der gewählte Charakter +1 Stärke.",
+        "traits": "Baumeister."
+    },
+    {
+        "code": "02066",
+        "flavor": "",
+        "name": "Ich bin der Wächter auf den Mauern",
+        "text": "Kann nur während einer [military]-Herausforderung gespielt werden.\n<b>Herausforderungsaktion:</b> Beuge 2 <i>Grenzer</i>-Charaktere, um jeden angreifenden Charakter zu töten.",
+        "traits": "Grenzer."
+    },
+    {
+        "code": "02067",
+        "flavor": "",
+        "name": "Für die Wache!",
+        "text": "In jeder Phase kannst du die erste Herausforderung, die gegen dich initiiert wird, nicht verlieren <i>(und dein Gegner kann sie nicht gewinnen)</i>.",
+        "traits": "Belagerung."
+    },
+    {
+        "code": "02068",
+        "flavor": "",
+        "name": "Gendry",
+        "text": "<b>Reaktion:</b> Nachdem du die Herrschaft gewonnen hast, erhält Gendry 1 Macht.\n<b>Erzwungene Reaktion:</b> Nachdem ein Gegner die Herrschaft gewonnen hat, darfst du 1 Macht von Gendry ablegen. Falls du das nicht tust, opfere einen <i>Bastard</i>-Charakter.",
+        "traits": "Bastard."
+    },
+    {
+        "code": "02069",
+        "flavor": "\"Jeder Dorfschmied kann ein Kettenhemd anfertigen. Meine Arbeiten sind Kunstwerke.\" <cite>Tobho Mott</cite>",
+        "name": "Tobho Motts Rüstungsschmiede",
+        "text": "<b>Reaktion:</b> Nachdem du die Herrschaft gewonnen hast, beuge Tobho Motts Rüstungsschmiede, um 1 Karte zu ziehen.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "02070",
+        "flavor": "",
+        "name": "Rotröcke",
+        "text": "Während [intrigue]-Herausforderungen bekommen Rotröcke +1 Stärke für jedes Gold auf ihr.\n<b>Aktion:</b> Verschiebe 1 Gold aus deiner Goldreserve auf Rotröcke. (Nur ein Mal pro Phase.)",
+        "traits": "Armee. Söldner."
+    },
+    {
+        "code": "02071",
+        "flavor": "",
+        "name": "Bestechung",
+        "text": "Nur gegnerische Charaktere. Hinterhalt (1).\n<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung gewonnen hast, beuge den verstärkten Charakter. Dann darf dir der kontrollierende Spieler des Charakters 1 Gold aus seiner Goldreserve geben, um den Charakter aufzurichten.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "02072",
+        "flavor": "\"Und die Fluten des Zorns werden steigen, und der Ertrunkene Gott wird sein Reich über die grünen Lande ausdehnen.\" <cite>Aeron Feuchthaar</cite>",
+        "name": "Priester des Ertrunkenen Gottes",
+        "text": "Jeder <i>Ertrunkener Gott</i>-Charakter, den du kontrollierst, bekommt +1 Stärke.",
+        "traits": "Ertrunkener Gott."
+    },
+    {
+        "code": "02073",
+        "flavor": "",
+        "name": "Beute",
+        "text": "Du darfst ausschließlich Gold aus der Goldreserve des verlierenden Gegners verwenden, um für Beute zu bezahlen.\n<b>Reaktion:</b> Nachdem du eine unverteidigte Herausforderung gewonnen hast, lege die obersten X Karten vom Deck des verlierenden Gegners ab.",
+        "traits": ""
+    },
+    {
+        "code": "02074",
+        "flavor": "",
+        "name": "Dothrakische Vorreiter",
+        "text": "Keine Verstärkungen. Brandschatzen.\nReduziere die Kosten, um Dothrakische Vorreiter aufmarschieren zu lassen, um 1 für jeden <i>Dothraki</i>-Charakter, den du kontrollierst.",
+        "traits": "Armee. Dothraki."
+    },
+    {
+        "code": "02075",
+        "flavor": "",
+        "name": "Das Blut des Drachen",
+        "text": "Jeder Nicht-<i>Drache</i>-Charakter bekommt -1 Stärke und wird getötet, falls seine Stärke 0 ist.",
+        "traits": "Erbe."
+    },
+    {
+        "code": "02076",
+        "flavor": "",
+        "name": "Maester von Sternfall",
+        "text": "<b>Herausforderungsaktion:</b> Beuge Maester von Sternfall, um einen Charakter zu wählen. Bis zum Ende der Phase verliert der gewählte Charakter Einblick, Einschüchternd, Brandschatzen oder Ruhmreich (wähle 1).",
+        "traits": "Haus Dayn. Maester."
+    },
+    {
+        "code": "02077",
+        "flavor": "Er hörte nicht, wie sein Vater die Worte sprach, die ihn verdammten. Vielleicht waren auch keine Worte mehr notwendig. Ich habe mein Leben in die Hand der Roten Viper gelegt, und er hat es fallengelassen.\"",
+        "name": "Verurteilt",
+        "text": "Nur gegnerische Charaktere.\nDer verstärkte Charakter verliert ein [power]-Symbol.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "02078",
+        "flavor": "",
+        "name": "Späher der Wildlinge",
+        "text": "<b>Aktion:</b> Opfere Späher der Wildlinge, um einen Charakter zu wählen. Bis zum Ende der Phase erhält der gewählte Charakter Heimlich.",
+        "traits": "Wildling."
+    },
+    {
+        "code": "02079",
+        "designer": "Kartenentwurf von John M. Bruno, Weltmeister 2005.",
+        "flavor": "",
+        "name": "Der erste Schnee des Winters",
+        "text": "<b>Erzwungene Reaktion:</b> Nachdem die Herausforderungsphase begon nen hat, schicke jeden Charakter mit aufgedruckten Kosten von 3 oder weniger auf die Hand seines Besitzers zurück.",
+        "traits": "Omen. Winter."
+    },
+    {
+        "code": "02080",
+        "flavor": "",
+        "name": "Geister wandeln unter uns",
+        "text": "Reduziere die Reservewerte der aufgedeckten Strategiekarten aller Gegner um 2 (bis zu einem Minimum von 2).",
+        "traits": "Winter."
+    }
+]

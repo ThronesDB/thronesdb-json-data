@@ -1,0 +1,368 @@
+[
+    {
+        "code": "05001",
+        "flavor": "",
+        "name": "Cersei Lennister",
+        "text": "Cersei Lennister wird nicht gebeugt, sobald sie bei einer [intrigue]-Herausforderung zum Angreifer deklariert wird.\n<b>Reaktion:</b> Nachdem 1 oder mehrere Karten von der Hand eines Gegners abgelegt worden sind, erhält Cersei Lennister 1 Macht, falls du diesen Spieler nicht unterstützt. (Nur drei Mal pro Runde.)",
+        "traits": "Lady. Königin."
+    },
+    {
+        "code": "05002",
+        "flavor": "\"Mein Verstand ist meine Waffe.\"",
+        "name": "Tyrion Lennister",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, schicke einen angreifenden <i>Clankrieger</i>-Charakter auf deine Hand zurück, um (wähle 1): 2 Karten zu ziehen, 3 Gold zu erhalten oder den Schadenswert deiner aufgedeckten Strategie karte bis zum Ende der Herausforderung um 1 zu erhöhen. (Nur zwei Mal pro Phase.)",
+        "traits": "Lord."
+    },
+    {
+        "code": "05003",
+        "designer": "Kartenentwurf von Bing Ouyang, Sieger der chinesischen Meisterschaft 2012.",
+        "flavor": "",
+        "name": "Ser Kevan Lennister",
+        "text": "<b>Reaktion:</b> Nachdem du Ser Kevan Lennister aufmarschieren lassen hast, wähle einen [lannister]-Ort, einen neutralen Ort, eine [lannister]-Verstärkung oder eine neutrale Verstärkung in deinem Ablagestapel und bringe die gewählte Karte ins Spiel.",
+        "traits": "Ritter. Lord. Kleiner Rat."
+    },
+    {
+        "code": "05004",
+        "flavor": "\"Die Brandmänner fürchten nichts und niemanden. Timett, Sohn des Timett, reitet mit den Löwen.\"",
+        "name": "Timett, Sohn des Timett",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, bei der Timett, Sohn des Timett, angreift, wähle und töte einen Charakter mit aufgedruckten Kosten von X oder weniger. X ist die Anzahl der von dir kontrollierten <i>Clankrieger</i>-Charaktere.",
+        "traits": "Clankrieger."
+    },
+    {
+        "code": "05005",
+        "flavor": "",
+        "name": "Ser Jaime Lennister",
+        "text": "Jeder <i>Ritter</i>-Charakter, den du kontrollierst, erhält Ruhmreich, solange er alleine angreift.\n<b>Herausforderungsaktion:</b> Wähle einen <i>Königsgarde</i>-Charakter. Bis zum Ende der Phase erhält der gewählte Charakter ein [intrigue]-Symbol. (Nur ein Mal pro Phase.)",
+        "traits": "Königsgarde. Ritter."
+    },
+    {
+        "code": "05006",
+        "flavor": "\"... wenn Eure Feinde Euch Trotz bieten, müsst Ihr ihnen mit Stahl und Feuer antworten.\"",
+        "name": "Tywin Lennister",
+        "text": "Brandschatzen.\n<b>Unterbrechung:</b> Sobald genau 1 Karte vom Deck eines Spielers abgelegt wird, sieh dir stattdessen die obersten 2 Karten vom Deck dieses Spielers an und lege 1 ab.\nGoldwert +2",
+        "traits": "Lord. Kleiner Rat."
+    },
+    {
+        "code": "05007",
+        "flavor": "",
+        "name": "Chella, Tochter des Cheyck",
+        "text": "Chella, Tochter des Cheyck, bekommt +1 Stärke für jeden Ohrmarker, den sie hat. Solange sie 3 oder mehr Ohrmarker hat, erhält sie Einschüchternd und Ruhmreich.\n<b>Reaktion:</b> Nachdem während einer Heraus forderung, bei der Chella, Tochter des Cheyck, angreift, ein Charakter getötet worden ist, lege einen Ohrmarker auf sie.",
+        "traits": "Clankrieger."
+    },
+    {
+        "code": "05008",
+        "flavor": "",
+        "name": "Ser Gregors Plünderer",
+        "text": "Brandschatzen.\n<b>Reaktion:</b> Nachdem Ser Gregors Plünderer ein Ereignis durch Brandschatzen abgelegt hat, richte Ser Gregors Plünderer auf.",
+        "traits": "Haus Clegane. Plünderer."
+    },
+    {
+        "code": "05009",
+        "flavor": "",
+        "name": "Shagga, Sohn des Dolf",
+        "text": "Solange Shagga, Sohn des Dolf, auf deiner Hand ist, erhält er Hinterhalt (0), falls du einen <i>Clankrieger</i>-Charakter oder Tyrion Lennister kontrollierst.\n<b>Erzwungene Reaktion:</b> Nachdem Shagga, Sohn des Dolf, durch Hinterhalt ins Spiel gekommen ist, wähle und töte einen [lannister]-Charakter, den du kontrollierst.",
+        "traits": "Clankrieger."
+    },
+    {
+        "code": "05010",
+        "flavor": "\"Träume zerfallen bei Tageslicht zu Staub.\"",
+        "name": "Taena Sonnwetter",
+        "text": "<b>Reaktion:</b> Nachdem du ein Ereignis gespielt hast, wähle 1 Karte von deiner Hand und lege sie ab, um 1 Karte zu ziehen.",
+        "traits": "Gefährte. Lady."
+    },
+    {
+        "code": "05011",
+        "flavor": "",
+        "name": "Mondbrüder",
+        "text": "<b>Aktion:</b> Während einer Herausforderung, in der du einen angreifenden <i>Clankrieger</i>-Charakter kontrollierst, beuge deine Fraktionskarte, um Mondbrüder von deiner Hand ins Spiel zu bringen <i>(aufrecht)</i>. Mondbrüder nimmt als Angreifer an der Herausforderung teil.",
+        "traits": "Clankrieger."
+    },
+    {
+        "code": "05012",
+        "flavor": "",
+        "name": "Spionin im Roten Bergfried",
+        "text": "Hinterhalt (4).\n<b>Reaktion:</b> Nachdem Spionin im Roten Bergfried durch Hinterhalt ins Spiel gekommen ist, wähle einen Charakter mit aufgedruckten Kosten von 3 oder weniger. Falls du mehr Karten auf deiner Hand hast als der kontrollierende Spieler des gewählten Charakters, schicke ihn auf die Hand seines Besitzers zurück.",
+        "traits": "Verbündeter. Spion."
+    },
+    {
+        "code": "05013",
+        "flavor": "\"Mylord werden feststellen, wie gut mein Mund geschult ist. Schon als Mädchen lernte ich, wann ich ihn gebrauchen soll und wann nicht.\"",
+        "name": "Alayaya",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Alayaya teilnimmt, verschiebe 1 Gold aus der Goldreserve des verlierenden Gegners in deine Goldreserve.",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "05014",
+        "flavor": "Im Alter von sechzehn Jahren war er mit der Sicherheit der Jugend geschlagen, bar jeder Spur von Humor oder Selbstzweifeln und mit jener Arroganz vermählt, die jenen, die blond und stark und stattlich geboren wurden, so natürlich zufällt.",
+        "name": "Ser Lancel Lennister",
+        "text": "Solange du genau 1 anderen [lannister]-<i>Lord</i>- oder [lannister]-<i>Lady</i>-Charakter kontrollierst, bekommt Ser Lancel Lennister +X Stärke. X ist die Stärke des anderen Charakters.",
+        "traits": "Ritter. Lord."
+    },
+    {
+        "code": "05015",
+        "flavor": "\"Wenn ich groß bin und als König regiere, verbiete ich Rote Bete.\"",
+        "name": "Tommen Baratheon",
+        "text": "Jeder Spieler, der keine Karten auf seiner Hand hat, kann keine Macht durch Herausforderungsboni <i>(für unverteidigte Angriffe und Herausforderungen gegen Rivalen)</i> erhalten.",
+        "traits": "König. Lord."
+    },
+    {
+        "code": "05016",
+        "flavor": "",
+        "name": "Gardist aus Lennishort",
+        "text": "<b>Reaktion:</b> Nachdem du Gardist aus Lennishort aufmarschieren lassen hast, zieht jeder Spieler 1 Karte.",
+        "traits": "Verbündeter. Garde."
+    },
+    {
+        "code": "05017",
+        "flavor": "",
+        "name": "Goldzahn",
+        "text": "Limitiert. <i>(Pro Runde darf jeder Spieler nur 1 limitierte  arte spielen oder aufmarschieren lassen.)</i>\n<b>Aktion:</b> Beuge Goldzahn, um 1 Gold zu erhalten. (Falls ein Gegner keine Karten auf seiner Hand hat, stattdessen 3 Gold.)",
+        "traits": "Festung. Die Westlande."
+    },
+    {
+        "code": "05018",
+        "flavor": "Schattenkatzen lauerten auf diesen Pässen, Erdrutsche waren alltäglich, und die Bergstämme waren gesetzlose Banditen ...",
+        "name": "Mondberge",
+        "text": "<b>Reaktion:</b> Nachdem ein <i>Clankrieger</i>-Charakter ins Spiel gekommen ist, erhält jener Charakter bis zum Ende der Phase ein Herausforderungssymbol deiner Wahl.",
+        "traits": "Westeros."
+    },
+    {
+        "code": "05019",
+        "flavor": "",
+        "name": "Schatzkammer von Lennishort",
+        "text": "<b>Reaktion:</b> Nachdem die Abgabephase begonnen hat, lege 1 Gold aus deiner Gold reserve auf Schatzkammer von Lennishort.\n<b>Aufmarschaktion:</b> Beuge Schatzkammer von Lennishort, um beliebig viel Gold von Schatzkammer von Lennishort in deine Goldreserve zu verschieben.",
+        "traits": "Die Westlande."
+    },
+    {
+        "code": "05020",
+        "flavor": "",
+        "name": "Schild von Lennishort",
+        "text": "Nur [lannister]-<i>Lord</i>- oder [lannister]-<i>Lady</i>-Charaktere.\nSolange du außer dem verstärkten Charakter keine anderen <i>Lord</i>- oder <i>Lady</i>-Charaktere mit aufgedruckten Kosten von 4 oder höher kontrollierst, bekommt der verstärkte Charakter +2 Stärke und erhält Ruhmreich.\nGoldwert +1",
+        "traits": "Titel."
+    },
+    {
+        "code": "05021",
+        "flavor": "Ein Stück Drachenknochen und valyrischer Stahl, scharf wie der Unterschied zwischen falsch und richtig, zwischen wahr und unwahr, zwischen Leben und Tod.",
+        "name": "Dolch aus valyrischem Stahl",
+        "text": "Während [intrigue]-Herausforderungen bekommt der verstärkte Charakter +2 Stärke und erhält Heimlich.",
+        "traits": "Valyrischer Stahl. Waffe."
+    },
+    {
+        "code": "05022",
+        "flavor": "",
+        "name": "Ein Lennister begleicht stets seine Schuld",
+        "text": "<b>Herausforderungsaktion:</b> Wähle einen Gegner, der in dieser Phase eine Herausforderung gegen dich gewonnen hat. Du darfst in dieser Phase eine zusätzliche [military]- und eine zusätzliche [intrigue]-Herausforderung gegen den gewählten Gegner initiieren. (Maximal 1 pro Phase.)",
+        "traits": ""
+    },
+    {
+        "code": "05023",
+        "flavor": "",
+        "name": "Hinterhältige Intrige",
+        "text": "<b>Reaktion:</b> Nachdem der Schaden einer [intrigue]-Herausforderung, die du um 5 oder mehr Stärke gewonnen hast, angewandt worden ist, ziehe 2 Karten. (Falls der verlierende Gegner keine Karten auf seiner Hand hat, stattdessen 4 Karten.)",
+        "traits": ""
+    },
+    {
+        "code": "05024",
+        "flavor": "",
+        "name": "Riskante Rettungsaktion",
+        "text": "Kann nur gespielt werden, falls du einen <i>Ritter</i>-Charakter kontrollierst.\n<b>Herausforderungsaktion:</b> Schicke einen Charakter, den du kontrollierst, auf die Hand seines Besitzers zurück. Dann lasse einen <i>Ritter</i>-Charakter, den du kontrollierst, 1 Macht erhalten.",
+        "traits": ""
+    },
+    {
+        "code": "05025",
+        "flavor": "\"Den Herrn des Lichts bete ich aber nicht an. Ich bin ein Mann des Kriegers, wie mein Vater.\"",
+        "name": "Edric Sturm",
+        "text": "<b>Reaktion:</b> Nachdem die Herrschaftsphase begonnen hat, wähle einen Charakter. Der gewählte Charakter steuert in dieser Phase seine Stärke nicht zur Gesamtstärke seines kontrollierenden Spielers bei der Herrschaft bei.",
+        "traits": "Bastard."
+    },
+    {
+        "code": "05026",
+        "flavor": "",
+        "name": "Anfechtbarer Thronanspruch",
+        "text": "Nur <i>Bastard</i>-, <i>Lord</i>- oder <i>Lady</i>-Charaktere.\nSolange du mehr Macht auf deiner Fraktionskarte hast als jeder andere Gegner, bekommt der verstärkte Charakter +2 Stärke und erhält Ruhmreich.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "05027",
+        "flavor": "\"Kommt und tötet mich, wenn ihr könnt!\"",
+        "name": "Victarion Graufreud",
+        "text": "Einschüchternd. Ruhmreich.\n<b>Unterbrechung:</b> Sobald Victarion Graufreud getötet werden würde, lege 2 Macht von ihm ab, um ihn zu retten.",
+        "traits": "Kapitän. Eisenmann. Lord."
+    },
+    {
+        "code": "05028",
+        "flavor": "",
+        "name": "Alt Wiek",
+        "text": "<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung initiiert hast, beuge Alt Wiek, um den obersten <i>Ertrunkener Gott</i>-Charakter aus deinem Totenstapel gebeugt ins Spiel zu bringen; er nimmt als Angreifer an der Herausforderung teil. Falls du die Herausforderung um 5 oder mehr Stärke gewinnst, schicke den Charakter auf deine Hand zurück. Andernfalls lege ihn unter dein Deck.",
+        "traits": "Eiseninseln."
+    },
+    {
+        "code": "05029",
+        "flavor": "",
+        "name": "Trystan Martell",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung verloren hast, an der Trystan Martell teilnimmt, wähle einen Charakter, dessen Stärke niedriger ist als seine. Bis zum Ende der Phase kann der gewählte Charakter nicht zum Verteidiger deklariert werden.",
+        "traits": "Lord."
+    },
+    {
+        "code": "05030",
+        "flavor": "\"Elia! Sag es! Elia von Dorne!\" <cite>Die Rote Viper</cite>",
+        "name": "Du hast ihre Kinder getötet",
+        "text": "<b>Herausforderungsaktion:</b> Wähle einen [martell]-Charakter, den du kontrollierst. Verdopple bis zum Ende der Phase die Stärke jenes Charakters. Falls jener Charakter am Ende der Phase immer noch im Spiel ist, töte ihn.",
+        "traits": ""
+    },
+    {
+        "code": "05031",
+        "flavor": "Der schlanke blonde Bursche, der Süßer Donnel genannt wurde, hatte gerade auf fünfzig Meter mitten ins Schwarze getroffen.",
+        "name": "Süßer Donnel Hügel",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nSolange Süßer Donnel Hügel verteidigt, verliert jeder angreifende Charakter alle Schlüsselwörter.",
+        "traits": "Bastard. Kämmerer."
+    },
+    {
+        "code": "05032",
+        "flavor": "An der Schädelbrücke war er auf den Weiner und dreihundert Wildlinge gestoßen und hatte eine blutige Schlacht gewonnen.",
+        "name": "Die Schädelbrücke",
+        "text": "<b>Unterbrechung:</b> Sobald die Herausforderungsphase endet, wähle einen Gegner, der in dieser Phase keine [military]-Herausforderung gegen dich initiiert hat. Jener Spieler legt 1 zufällige Karte von seiner Hand ab.",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "05033",
+        "flavor": "\"Ich werde Robb eine gute und treue Ehefrau sein, das schwöre ich. Und als Königin so weise, wir ich kann.\"",
+        "name": "Jeyne Westerling",
+        "text": "<b>Aktion:</b> Beuge Jeyne Westerling, um einen [stark]-<i>König</i>- oder [stark]-<i>Lord</i>-Charakter zu wählen und aufzurichten.",
+        "traits": "Lady. Königin."
+    },
+    {
+        "code": "05034",
+        "flavor": "\"Die Umbers mögen schlichten Verstandes sein, aber es mangelt ihnen nicht an einer gewissen Verschlagenheit.\" <cite>Roose Bolton</cite>",
+        "name": "Späher vom Letzten Herd",
+        "text": "<b>Erzwungene Reaktion:</b> Nachdem ein Charakter während der Herausforderungsphase ins Spiel gekommen ist, beuge jenen Charakter.",
+        "traits": "Haus Umber."
+    },
+    {
+        "code": "05035",
+        "flavor": "\"Ich bin ein Ritter ... Ich werde wie ein Ritter sterben\"",
+        "name": "Ser Barristan Selmy",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Ser Barristan Selmy teilnimmt, richte ihn auf, falls du weniger Karten auf der Hand hast als der verlierende Gegner.",
+        "traits": "Ritter."
+    },
+    {
+        "code": "05036",
+        "flavor": "",
+        "name": "Daenerys' Gunst",
+        "text": "Nur [targaryen]-Charaktere.\nSolange der verstärkte Charakter an einer Herausforderung teilnimmt, bekommt jeder andere teilnehmende Charakter -1 Stärke.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "05037",
+        "flavor": "Sansa erkannte lediglich Lord Tyrells hochgewachsene, würdevolle Gemahlin, Lady Alerie, deren langer, silbergrauer Zopf von mit Edelsteinen besetzten Ringen gehalten wurde.",
+        "name": "Alerie Tyrell",
+        "text": "<b>Reaktion:</b> Nachdem Alerie Tyrell ins Spiel gekommen ist, suche in den obersten 10 Karten deines Decks nach einem [tyrell]-Charakter mit aufge druckten Kosten von 3 oder weniger, decke ihn auf und nimm ihn auf die and. Mische dein Deck.",
+        "traits": "Haus Hohenturm. Lady."
+    },
+    {
+        "code": "05038",
+        "flavor": "",
+        "name": "\"Eine Rose aus Gold\"",
+        "text": "<b>Herausforderungsaktion:</b> Sieh dir die obersten 3 Karten deines Decks an. Nimm 1 auf die Hand und lege die anderen in beliebiger Reihenfolge unter dein Deck.",
+        "traits": "Lied."
+    },
+    {
+        "code": "05039",
+        "flavor": "",
+        "name": "Hoher Septon",
+        "text": "<b>Unterbrechung:</b> Sobald ein Gegner einen Charakter, den du kontrollierst, als einziges Ziel einer ausgelösten Fähigkeit wählt, wähle einen gültigen <i>Die Sieben</i>-Charakter, den du kontrollierst, der stattdessen zum Ziel der ausgelösten Fähigkeit wird. (Nur ein Mal pro Phase.)",
+        "traits": "Die Sieben."
+    },
+    {
+        "code": "05040",
+        "flavor": "Der Krieger ist es, der vor den Feind sich stellt,\nBeschützt uns tagein und tagaus in der Welt,\nMit Schwert und mit Bogen, mit Speer und mit Schild,\nEr wacht über die kleinen Kinder.",
+        "name": "Frommer Reitersmann",
+        "text": "Während der Herausforderungsphase kann kein Spieler Gold erhalten.",
+        "traits": "Verbündeter. Söldner. Die Sieben."
+    },
+    {
+        "code": "05041",
+        "flavor": "",
+        "name": "Wildling-Bandit",
+        "text": "Wildling-Bandit bekommt +2 Stärke, solange er einen Gegner angreift, der mehr Gold in seiner Goldreserve hat als du in deiner.",
+        "traits": "Wildling."
+    },
+    {
+        "code": "05042",
+        "flavor": "",
+        "name": "Meerstrasse",
+        "text": "Limitiert. <i>(Pro Runde darf jeder Spieler nur 1 limitierte Karte spielen oder aufmarschieren lassen.)</i>\n<b>Aufmarschaktion:</b> Beuge Meerstraße, um die Kosten der nächsten neutralen oder nicht-fraktionszugehörigen Karte, die du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Westeros."
+    },
+    {
+        "code": "05043",
+        "flavor": "",
+        "name": "Ernennung",
+        "text": "Nur einzigartige Charaktere.\nDer verstärkte Charakter erhält ein [intrigue]-Symbol und das Merkmal <i>Kleiner Rat</i>.",
+        "traits": "Titel."
+    },
+    {
+        "code": "05044",
+        "flavor": "\"Solches hat der König erlassen. Der Kleine Rat stimmt damit überein.\" <cite>Großmaester Pycelle</cite>",
+        "name": "Der Rat stimmt zu",
+        "text": "<b>Reaktion:</b> Nachdem ein Spieler eine [intrigue]-Herausforderung um 5 oder mehr Stärke gewonnen hat, richte jeden <i>Kleiner Rat</i>-Charakter auf.",
+        "traits": "Kleiner Rat."
+    },
+    {
+        "code": "05045",
+        "designer": "Kartenentwurf von Álvaro Rodriguez, Weltmeister im Tjost 2013.",
+        "flavor": "",
+        "name": "\"Der Regen von Castamaer\"",
+        "text": "Dein Strategiestapel muss 12 Karten enthalten, darunter genau 5 verschiedene <i>Komplott</i>-Karten. Während der Strategiephase gelten <i>Komplott</i>-Karten nicht als Teil deines Strategiestapels.\n<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung um 5 oder mehr Stärke gewonnen hast, beuge deine Fraktionskarte, um eine <i>Komplott</i>-Strategiekarte aufzudecken. Falls die <i>Komplott</i>-Karte das Spiel verlässt, entferne sie aus dem Spiel.",
+        "traits": "Lied."
+    },
+    {
+        "code": "05046",
+        "flavor": "",
+        "name": "Die Löwen von Casterlystein",
+        "text": "<b>Reaktion:</b> Nachdem die Herausforderungsphase begonnen hat, erhältst du 3 Gold.",
+        "traits": "Königreich."
+    },
+    {
+        "code": "05047",
+        "flavor": "",
+        "name": "Unerwartete Verzögerung",
+        "text": "<b>Erzwungene Reaktion:</b> Nachdem die Herausforderungsphase begonnen hat, wählt jeder Spieler einen Charakter, der weder Verstärkungen noch Macht hat. Schicke jeden gewählten Charakter auf die Hand seines Besitzers zurück.",
+        "traits": "Haus Frey."
+    },
+    {
+        "code": "05048",
+        "flavor": "",
+        "name": "Vorladung",
+        "text": "<b>Erzwungene Unterbrechung:</b> Sobald die Nachziehphase endet, wählt jeder Spieler eine Karte auf seiner Hand, falls möglich. Dann werden die gewählten Karten aufgedeckt. Jeder Spieler, der einen Charakter mit den niedrigsten aufgedruckten Kosten aufgedeckt hat, darf jenen Charakter ins Spiel bringen.",
+        "traits": "Erlass. Königreich."
+    },
+    {
+        "code": "05049",
+        "flavor": "",
+        "name": "Kleinfingers Einmischung",
+        "text": "Reduziere die Kosten jedes Ereignisses, das du spielst, um 2.",
+        "traits": "Königreich. Komplott."
+    },
+    {
+        "code": "05050",
+        "flavor": "",
+        "name": "Lügen und Gerüchte",
+        "text": "Jeder Charakter, den du kontrollierst, wird nicht gebeugt, sobald er in der ersten [intrigue]-Herausforderung, die du während der Heraus forderungsphase initiierst, zum Angreifer deklariert wird.",
+        "traits": "Komplott."
+    },
+    {
+        "code": "05051",
+        "flavor": "",
+        "name": "Die fetten Jahre",
+        "text": "Erhöhe die Anzahl der Karten, die jeder Spieler in der Nachziehphase zieht, um 1.",
+        "traits": "Sommer."
+    },
+    {
+        "code": "05052",
+        "flavor": "",
+        "name": "Frühfrost",
+        "text": "Reduziere die Anzahl der Karten, die jeder Spieler in der Nachziehphase zieht, um 1.",
+        "traits": "Winter."
+    }
+]

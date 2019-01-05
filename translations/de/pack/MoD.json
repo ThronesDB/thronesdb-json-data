@@ -1,0 +1,143 @@
+[
+    {
+        "code": "11061",
+        "designer": "Kartenentwurf von Andrea Gualdoni, Turniersieger des Burgevents Stahleck 2010.",
+        "flavor": "",
+        "name": "Meera Reed",
+        "text": "Schatten (1). Heimlich.\n<b>Reaktion:</b> Nachdem ein [stark]-Charakter, den du kontrollierst, geopfert worden ist, schicke Meera Reet in die Schatten zurück.\n<b>Reaktion:</b> Nachdem Meera Reet aus den Schatten getreten ist, wähle einen Charakter. Behandle ihn bis zum Ende der Phase, als ob sein aufgedrucktes Textfeld leer wäre (mit Ausnahme von <i>Merkmalen</i>).",
+        "traits": "Haus Reet. Lady."
+    },
+    {
+        "code": "11062",
+        "flavor": "",
+        "name": "Struppel",
+        "text": "Nur [stark]-Charaktere, die du kontrollierst.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in welcher der verstärkte Charakter angreift, muss der verlierende Gegner einen verteidigenden Charakter wählen und töten.\n<b>Aktion:</b> Bezahle 1 Gold, um einen anderen Charakter mit Struppel zu verstärken. (Nur ein Mal pro Phase.)",
+        "traits": "Schattenwolf."
+    },
+    {
+        "code": "11063",
+        "flavor": "Ser Mark Mullendor hatte einen schwarzweißen Affen mitgebracht und fütterte ihn von seinem Teller...",
+        "name": "Ser Mark Mullendor",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Ser Mark Mullendor teilnimmt, decke die oberste Karte deines Decks auf. Du darfst jene Karte ins Spiel bringen. Falls du das tust, lege Ser Mark Mullendor oben auf dein Deck (kann nicht gerettet werden).",
+        "traits": "Ritter."
+    },
+    {
+        "code": "11064",
+        "flavor": "",
+        "name": "Bande der Ritterlichkeit",
+        "text": "<b>Aktion:</b> Wähle einen teilnehmenden <i>Ritter</i>-Charakter, den du kontrollierst. Richte ihn auf und entferne ihn aus der Herausforderung. Dann darfst du einen anderen <i>Ritter</i>-Charakter beugen, den du kontrollierst, um ihn auf deiner Seite an der Herausforderung teilnehmen zu lassen.",
+        "traits": ""
+    },
+    {
+        "code": "11065",
+        "flavor": "\"Ich bin Lord Kommandant, weil mich meine Brüder gewählt haben.\"",
+        "name": "Jon Schnee",
+        "text": "Solange du einen:\n- <i>Baumeister</i>-Charakter kontrollierst, erhält Jon Schnee Heimlich.\n- <i>Grenzer</i>-Charakter kontrollierst, erhält Jon Schnee Einschüchternd.\n- <i>Kämmerer</i>-Charakter kontrollierst, erhält Jon Schnee Einblick.",
+        "traits": "Bastard. Kommandant. Lord."
+    },
+    {
+        "code": "11066",
+        "flavor": "",
+        "name": "Lord Kommandant",
+        "text": "Nur [thenightswatch]-Charaktere mit aufgedruckten Kosten von 5 oder höher.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der du einen teilnehmenden [thenightswatch]-Charakter kontrollierst, erhält der verstärkte Charakter 1 Macht.",
+        "traits": "Titel."
+    },
+    {
+        "code": "11067",
+        "flavor": "",
+        "name": "Sharin Baratheon",
+        "text": "Schatten (3).\n<b>Aktion:</b> Während einer Herausforderung, an der Sharin Baratheon teilnimmt, wähle einen teilnehmenden Charakter. Der gewählte Charakter und Sharin Baratheon steuern keine Stärke zu der Herausforderung bei. (Nur ein Mal pro Herausforderung.)",
+        "traits": "Lady."
+    },
+    {
+        "code": "11068",
+        "flavor": "",
+        "name": "Privilegierte Stellung",
+        "text": "Kann nur gespielt werden, falls du in dieser Runde keine [power]-Herausforderung verloren hast.\n<b>Unterbrechung:</b> Sobald die Effekte eines Ereignisses oder einer ausgelösten Ortsfähigkeit eines Gegners initiiert werden würden, hebe jene Effekte auf.",
+        "traits": ""
+    },
+    {
+        "code": "11069",
+        "flavor": "",
+        "name": "Zehnt-Eintreiber",
+        "text": "<b>Reaktion:</b> Nachdem du Einkommen kassiert hast, bezahle 2 Gold, um Zehnt-Eintreiber 1 Macht erhalten zu lassen.\nGoldwert +1.",
+        "traits": "Verbündeter. Die Sieben."
+    },
+    {
+        "code": "11070",
+        "flavor": "",
+        "name": "Geschickte Finte",
+        "text": "<b>Aktion:</b> Beuge deine Fraktionskarte, um beliebig viele Karten mit dem Schlüsselwort Schatten zu wählen, die du kontrollierst. Schicke jede gewählte Karte in die Schatten zurück.",
+        "traits": ""
+    },
+    {
+        "code": "11071",
+        "flavor": "",
+        "name": "Victarion Graufreud",
+        "text": "<b>Herausforderungsaktion:</b> Beuge einen <i>Kriegsschiff</i>-Ort, um (wähle 1):\n- einen Ort zu wählen und zu beugen.\n- Victarion Graufreud aufzurichten.\n- Victarion Graufreud bis zum Ende der Herausforderung Ruhmreich erhalten zu lassen.",
+        "traits": "Kapitän. Eisenmann. Lord."
+    },
+    {
+        "code": "11072",
+        "flavor": "",
+        "name": "Grauer Geist",
+        "text": "Schatten (2).\n<b>Aktion:</b> Beuge Grauer Geist, um einen Charakter zu wählen (falls Grauer Geist in dieser Phase aus den Schatten getreten ist, sind es stattdessen bis zu 2 Charaktere). Bis zum Ende der Phase kann keiner der gewählten Charaktere zum Verteidiger deklariert werden.",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "11073",
+        "flavor": "Bislang hatte sich der grüne Drache als der gefährlichere von beiden erwiesen.",
+        "name": "Rhaegal",
+        "text": "Hinterhalt (5). Keine Verstärkungen.\n<b>Reaktion:</b> Nachdem ein gegnerischer Charakter durch einen Karteneffekt getötet worden ist, richte Rhaegal auf.",
+        "traits": "Drachen."
+    },
+    {
+        "code": "11074",
+        "flavor": "",
+        "name": "Meereenischer Markt",
+        "text": "<b>Aktion:</b> Beuge Meereenischer Markt, um eine Karte in einem Ablagestapel zu wählen und sie unter das Deck ihres Besitzers zu legen.\nGoldwert +1.",
+        "traits": "Meereen."
+    },
+    {
+        "code": "11075",
+        "flavor": "",
+        "name": "Gardist von Haus Mannkraft",
+        "text": "Solange du nicht Startspieler bist, wird jeder <i>Garde</i>-Charakter, den du kontrollierst, nicht gebeugt, sobald er zum Verteidiger deklariert wird.",
+        "traits": "Garde. Haus Mannkraft."
+    },
+    {
+        "code": "11076",
+        "flavor": "",
+        "name": "Ein Auftrag in Essos",
+        "text": "Schatten (2).\n<b>Aktion:</b> Entferne alle Karten deines Decks bis auf die unterste verdeckt aus dem Spiel. Dann mische deinen Ablagestapel in dein Deck und ziehe 3 Karten.",
+        "traits": ""
+    },
+    {
+        "code": "11077",
+        "flavor": "Dieser Riese aß gar kein Fleisch, aber er wurde zum wahren Schrecken, wenn man ihm einen Korb mit Gemüse reichte. Dann zerbiss er Zwiebeln und Rüben und sogar rohe Steckrüben mit den großen viereckigen Zähnen.",
+        "name": "Wun Wun",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Aktion:</b> Beuge Wun Wun, um ihn an einer Herausforderung, in der du einen teilnehmenden <i>Wildling</i>-Charakter kontrollierst, teilnehmen zu lassen.",
+        "traits": "Riese. Wildling."
+    },
+    {
+        "code": "11078",
+        "flavor": "",
+        "name": "Vergiftete Münze",
+        "text": "Schatten (0).\n<b>Reaktion:</b> Nachdem du eine unverteidigte Herausforderung gewonnen hast, in der du einen angreifenden Charakter mit dem Schlüsselwort Schatten kontrollierst, lege einen Giftmarker auf einen Charakter ohne das Schlüsselwort Schatten, der vom kontrollierenden Gegner kontrolliert wird. Falls der Charakter den Giftmarker am Ende der Phase immer noch hat, entferne ihn und töte den Charakter. (Maximal 1 pro Herausforderung.)",
+        "traits": ""
+    },
+    {
+        "code": "11079",
+        "flavor": "",
+        "name": "Das Freie Volk",
+        "text": "Dein Strategiestapel und dein Deck können nur neutrale Karten enthalten.\n<b>Reaktion:</b> Nachdem der Schaden einer Herausforderung, in der du einen angreifenden <i>Wildling</i>-Charakter kontrollierst, angewandt worden ist, beuge deine Fraktionskarte, um den Schaden einer anderen Herausforderungsart anzuwenden.",
+        "traits": ""
+    },
+    {
+        "code": "11080",
+        "flavor": "",
+        "name": "Wintervorräte",
+        "text": "Solange Wintervorräte in deinem Archiv ist, erhöhe den Goldwert und den Reservewert deiner aufgedeckten <i>Winter</i>-Strategiekarte um 1.",
+        "traits": "Königreich. Winter."
+    }
+]

@@ -1,0 +1,368 @@
+[
+    {
+        "code": "12001",
+        "flavor": "",
+        "name": "Balon Graufreud",
+        "text": "Brandschatzen. Ruhmreich.\n<b>Aktion:</b> Beuge deine Fraktionskarte, um eine Karte im Ablagestapel eines Gegners zu wählen und unter deiner Kontrolle ins Spiel zu bringen. Mische die gewählte Karte am Ende der Phase ins Deck ihres Besitzers zurück.",
+        "traits": "Eisenmann. Lord."
+    },
+    {
+        "code": "12002",
+        "flavor": "\"Du dienst einem Gott, Feuchthaar, ich aber habe zehntausend gedient. Von Ib bis nach Asshai beten die Menschen, wenn sie meine Segel sehen.\"",
+        "name": "Euron Krähenauge",
+        "text": "Einschüchternd.\n<b>Reaktion:</b> Nachdem du Euron Krähenauge aufmarschieren lassen hast, suche auf deiner Hand, in deinem Deck und deinem Ablagestapel nach Stille und bringe sie ins Spiel. Mische dein Deck.",
+        "traits": "Kapitän. Eisenmann. Lord. Plünderer."
+    },
+    {
+        "code": "12003",
+        "flavor": "\"Wenn an Steuerbord Felsen aufragen und backbords ein Sturm lauert, steuert ein weiser Kapitän den dritten Kurs.\"",
+        "name": "Asha Graufreud",
+        "text": "Brandschatzen. Heimlich.\nJeder andere einzigartige <i>Eisenmann</i>-Charakter, den du kontrollierst, erhält Heimlich.",
+        "traits": "Kapitän. Eisenmann. Lady."
+    },
+    {
+        "code": "12004",
+        "flavor": "\"Der Ritter hat ganz allein Grimhof eingenommen. Er hat sein Banner unter der Burg aufgepflanzt und die Grimms herausgefordert, sich ihm im Zweikampf zu stellen. Einer tat es, dann noch einer und wieder einer. Er hat sie alle erschlagen...\" <cite>Hotho Harlau</cite>",
+        "name": "Der Ritter",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nSolange Der Ritter alleine angreift, erhält er Heimlich und Ruhmreich.",
+        "traits": "Haus Harlau. Ritter."
+    },
+    {
+        "code": "12005",
+        "flavor": "\"Mir gehört die Kraft des Meeres, eine Kraft, der Krähenauge nicht widerstehen kann.\"",
+        "name": "Aeron Feuchthaar",
+        "text": "Einsicht.\n<b>Reaktion:</b> Nachdem ein anderer <i>Ertrunkener Gott</i>-Charakter, den du kontrollierst, getötet worden ist, ziehe eine Karte. (Nur ein Mal pro Phase.)",
+        "traits": "Ertrunkener Gott. Eisenmann. Lord."
+    },
+    {
+        "code": "12006",
+        "flavor": "\"Wo steht geschrieben, dass unser König ein Krake sein muss?\"",
+        "name": "Der Drumm",
+        "text": "Solange Der Drumm in einer [military]- oder [power]-Herausforderung angreift, kann jeder Charakter mit einem [intrigue]-Symbol nicht zum Verteidiger deklariert werden.",
+        "traits": "Kapitän. Lord."
+    },
+    {
+        "code": "12007",
+        "flavor": "Seitdem waren viele Jahr vergangen, doch die Witwe blieb, trauerte, und murmelte von Zeit zu Zeit, die Burg solle eigentlich ihr gehören.",
+        "name": "Gwynesse Harlau",
+        "text": "<b>Action:</b> Wähle 3 Karten im Ablagestapel eines Gegners und lege sie in beliebiger Reihenfolge unter sein Deck. Dann erhältst du 1 Gold und ziehe 1 Karte. (Nur ein mal pro Runde.)",
+        "traits": "Haus Harlau. Lady."
+    },
+    {
+        "code": "12008",
+        "flavor": "",
+        "name": "Andrik der Ernste",
+        "text": "Brandschatzen.\n<b>Reaktion</b>: Nachdem Andrik der Ernste durch Brandschatzen eine Karte abgelegt hat, wähle im Ablagestapel des verlierenden Gegners einen nicht-limitierten Ort oder eine nicht-limitierte Verstärkung. Lege 1 Kopie der gewählten Karte aus dem Spiel ab.",
+        "traits": "Eisenmann. Plünderer."
+    },
+    {
+        "code": "12009",
+        "flavor": "Qarl stand mit tropfendem Langschwert über ihm. Das Mondlicht glänzte in seinen Augen.",
+        "name": "Qarl die Jungfrau",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Qarl die Jungfrau teilnimmt, richte entweder einen <i>Kriegsschiff</i>-Ort oder Asha Graufreud auf.",
+        "traits": "Eisenmann."
+    },
+    {
+        "code": "12010",
+        "flavor": "\"Betet, so viel Ihr wollt, das ändert nichts am Gesetz.\"",
+        "name": "Maester Murenmur",
+        "text": "<b>Unterbrechung:</b> Sobald die Effekte einer ausgelösten Ortsfähigkeit initiiert werden würden, beuge Maester Murenmur, um jene Effekte aufzuheben.",
+        "traits": "Maester."
+    },
+    {
+        "code": "12011",
+        "flavor": "\"... sogar die Alte Graue Möwe hat den Felsen verlassen, auf dem er lebt, um die Nachricht von dem Königsthing überall auf Harlau kundzutun.\" <cite>Der Leser</cite>",
+        "name": "Alte Grau Möwe",
+        "text": "<b>Aktion:</b> Beuge Alte Graue Möwe, um einen anderen [greyjoy]-Charakter, den du kontrollierst, zu töten. Dann darfst du den getöteten Charakter aus deinem Totenstapel auf deine Hand zurückschicken.",
+        "traits": "Ertrunkener Gott. Eisenmann."
+    },
+    {
+        "code": "12012",
+        "flavor": "",
+        "name": "Priester von Alt Wiek",
+        "text": "Solange sich ein <i>Ertrunkener Gott</i>-Charakter in deinem Totenstapel befindet, trägt Priester von Alt Wiek auch dann seine Stärke zu deiner Gesamtstärke bei der Herrschaft bei, solange er gebeugt ist.",
+        "traits": "Ertrunkener Gott."
+    },
+    {
+        "code": "12013",
+        "flavor": "",
+        "name": "Prophet des Ertrunkenen Gottes",
+        "text": "<b>Unterbrechung:</b> Sobald Prophet des Ertrunkenen Gottes getötet wird, suche in den obersten 5 Karten deines Decks nach einem [greyjoy]-Charakter und lege ihn auf deinen Totenstapel. Mische dein Deck.",
+        "traits": "Ertrunkener Gott."
+    },
+    {
+        "code": "12014",
+        "flavor": "",
+        "name": "Eifrige Matrosin",
+        "text": "<b>Reaktion:</b> Nachdem ein <i>Kriegsschiff</i>-Ort unter deiner Kontrolle ins Spiel gekommen ist, bringe Eifrige Matrosin von deiner Hand ins Spiel.",
+        "traits": "Verbündeter. Plünderer."
+    },
+    {
+        "code": "12015",
+        "flavor": "",
+        "name": "Plünderer von Orgmont",
+        "text": "Brandschatzen.\nSolange ein Gegner 10 oder mehr Karten in seinem Ablagestapel hat, erhält Plünderer von Orgmont Heimlich.",
+        "traits": "Eisenmann. Plünderer."
+    },
+    {
+        "code": "12016",
+        "flavor": "",
+        "name": "Stille",
+        "text": "<b>Herausforderungsaktion:</b>Beuge Stille, um einen <i>Kriegsschiff</i>-Ort von deiner Hand ins Spiel zu bringen. Dann richte Euron Krähenauge auf, falls du ihn kontrollierst.\nInitiativewert +2.",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "12017",
+        "flavor": "",
+        "name": "Gross Wiek",
+        "text": "<b>Reaktion:</b> Nachdem ein Charakter aus deinem Totenstapel ins Spiel gekommen ist, wählt jeder Gegner 1 Karte von seiner Hand und legt sie ab. (Nur ein Mal pro Phase.)",
+        "traits": "Ertrunkener Gott. Eiseninseln."
+    },
+    {
+        "code": "12018",
+        "flavor": "",
+        "name": "Goldener Sturm",
+        "text": "<b>Reaktion:</b> Nachdem du als angreifender Spieler eine [military]-Herausforderung gewonnen hast, beuge Goldener Sturm, um einen teilnehmenden Charakter zu wählen und zu töten. Dann richte Goldener Sturm auf, falls du einen teilnehmenden <i>Plünderer</i>-Charakter kontrollierst.",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "12019",
+        "flavor": "",
+        "name": "Jungfrauentod",
+        "text": "<b>Reaktion:</b> Nachdem du eine unverteidigte Herausforderung gewonnen hast, beuge Jungfrauentod, um einen angreifenden Charakter zu wählen und aufzurichten. Dann richte Jungfrauentod auf, falls der gewählte Charakter ein <i>Kapitän</i> ist.",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "12020",
+        "flavor": "",
+        "name": "Kundschafterschiff",
+        "text": "<b>Unterbrechung:</b> Sobald ein Charakter, den du kontrollierst, durch Brandschatzen eine Karte ablegt, beuge und opfere Kundschafterschiff, um stattdessen 3 Karten abzulegen.",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "12021",
+        "flavor": "",
+        "name": "Rotregen",
+        "text": "Nur einzigartige [greyjoy]-Charaktere.\nFalls der verstärkte Charakter Der Drumm ist, erhält er Heimlich.\n<b>Reaktion:</b> Nachdem du eine unverteidigte Herausforderung gewonnen hast, in welcher der verstärkte Charakter angreift, erhält er 2 Macht. (Nur ein Mal pro Phase.)",
+        "traits": "Valyrischer Stahl. Waffe."
+    },
+    {
+        "code": "12022",
+        "flavor": "",
+        "name": "Flottenkapitän",
+        "text": "Der verstärkte Charakter erhält das Merkmal <i>Kapitän</i> und bekommt +1 Stärke. (Falls du 3 oder mehr <i>Kriegsschiff</i>-Orte kontrollierst, bekommt er stattdessen +3 Stärke.)",
+        "traits": "Titel."
+    },
+    {
+        "code": "12023",
+        "flavor": "",
+        "name": "Was tot ist, kann niemals sterben",
+        "text": "<b>Reaktion:</b> Nachdem du die Herrschaft gewonnen hast, wähle einen [greyjoy]-Charakter in deinem Totenstapel und bringe ihn ins Spiel.",
+        "traits": "Ertrunkener Gott."
+    },
+    {
+        "code": "12024",
+        "flavor": "",
+        "name": "Nächtlicher Raubzug",
+        "text": "<b>Aktion:</b> Wähle bis zu 3 Charaktere mit Brandschatzen und/oder dem Merkmal <i>Plünderer</i>. Die gewählten Charaktere erhalten bis zum Ende der Phase Heimlich.",
+        "traits": ""
+    },
+    {
+        "code": "12025",
+        "flavor": "\"Gut gemacht, Khorane. Dafür streicht Ihr eine schöne Belohnung ein, denke ich.\" <cite>Salladhor Saan</cite>",
+        "name": "Khorane Sathmantes",
+        "text": "<b>Aktion:</b> Beuge Khorane Sathmantes und einen <i>Kriegsschiff</i>-Ort, um 1 Charakter und 1 Ort zu wählen und zu beugen.",
+        "traits": "Kapitän. Plünderer. Schmuggler."
+    },
+    {
+        "code": "12026",
+        "flavor": "",
+        "name": "Zorn",
+        "text": "Solange du Stannis Baratheon kontrollierst, erhält er Einschüchternd.\n<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung gewonnen hast, beuge Zorn, um einen Charakter oder einen Ort zu wählen. Verschiebe 1 Macht von der gewählten Karte auf deine Fraktionskarte.",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "12027",
+        "flavor": "\"Das Gold eines Flachlandlords ist wertlos wie die Versprechen eines Halbmannes.\"",
+        "name": "Gunthor, Sohn des Gurn",
+        "text": "Hinterhalt (4).\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, bei der Gunthor, Sohn des Gurn angreift, muss der verlierende Gegner 1 Karte von seiner Hand wählen und ablegen.",
+        "traits": "Clankrieger."
+    },
+    {
+        "code": "12028",
+        "flavor": "\"... wie ein Schwert den Wetzstein braucht ein Verstand Bücher, um seine Schärfe zu behalten.\"",
+        "name": "Mein Verstand ist meine Waffe",
+        "text": "<b>Aktion:</b> Wähle während einer [military]-Herausforderung einen Charakter mit [intrigue]-Symbol, den du kontrollierst, und lasse ihn auf deiner Seite an der Herausforderung teilnehmen.",
+        "traits": ""
+    },
+    {
+        "code": "12029",
+        "designer": "Kartenentwurf von Istvan Cserdi, Europameister im Buhurt 2012.",
+        "flavor": "",
+        "name": "Wüstenräuber",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung verloren hast, bringe Wüstenräuber aus deinem Totenstapel ins Spiel und wähle einen Charakter, der vom siegenden Gegner kontrolliert wird. Der gewählte Charakter erhält 1 Macht. Bis zum Ende der Phase verliert der gewählte Charakter ein [intrigue]- oder ein [power]-Symbol und Wüstenräuber erhält jenes Symbol.",
+        "traits": "Verbündeter. Haus Dayn. Plünderer."
+    },
+    {
+        "code": "12030",
+        "flavor": "Der mächtigste dornische Lord war Anders Isenwald, das Königsblut ...",
+        "name": "Das Königsblut",
+        "text": "Nur [martell]-Charaktere.\nSolange du nicht Startspieler bist, erhält der verstärkte Charakter Heimlich und Ruhmreich.",
+        "traits": "Haus Isenwald. Titel."
+    },
+    {
+        "code": "12031",
+        "flavor": "",
+        "name": "Rachsüchtiger Grenzer",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung als verteidigender Spieler verloren hast, erhält Rachsüchtiger Grenzer bis zum Ende der Phase Heimlich und ein Herausforderungssymbol deiner Wahl.",
+        "traits": "Grenzer."
+    },
+    {
+        "code": "12032",
+        "flavor": "",
+        "name": "Westwacht an der Brücke",
+        "text": "<b>Aktion:</b> Beuge Westwacht an der Brücke, um einen anderen [thenightswatch]-Ort mit aufgedruckten Kosten von 1 oder weniger zu wählen und aufzurichten. (Falls du einen <i>Grenzer</i>-, einen <i>Kämmerer</i>- und einen <i>Baumeister</i>-Charakter kontrollierst, sind es stattdessen aufgedruckte Kosten von 4 oder weniger.)",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "12033",
+        "flavor": "\"Mylady, gibt es etwas, das ich für Euch tun kann?\"",
+        "name": "Maester Vyman",
+        "text": "<b>Reaktion:</b> Nachdem du eine [military]- oder [power]-Herausforderung gewonnen hast, beuge Maester Vyman, um einen anderen Charakter zu wählen, der ein <i>Merkmal</i> mit ihm teilt. Der gewählte Charakter erhält 1 Macht.",
+        "traits": "Haus Tully. Maester."
+    },
+    {
+        "code": "12034",
+        "flavor": "\"Karholt steht zu mir, und mehr müssen die Männer nicht wissen.\" <cite>Stannis Baratheon</cite>",
+        "name": "Karholt",
+        "text": "Solange ein Spieler keine <i>Winter</i>-Strategiekarte aufgedeckt hat, können Charaktere und Orte, die er kontrolliert, keine Macht erhalten.",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "12035",
+        "flavor": "Und der alte Cohollo - Cohollo, der sein Leben bei Drogos Geburt an ihn gebunden hatte, Cohollo, der immer gut zu ihr gewesen war - Cohollo spuckte ihr ins Gesicht.",
+        "name": "Cohollo",
+        "text": "Einschüchternd.\n<b>Aktion:</b> Beuge Cohollo und lege 1 Karte von deiner Hand ab, um ihn auf deiner Seite an einer Herausforderung teilnehmen zu lassen.",
+        "traits": "Blutreiter. Dothraki."
+    },
+    {
+        "code": "12036",
+        "flavor": "A haunting ballad of two dying lovers amidst the Doom of Valyria might have pleased the hall more if Collio had not sung it in High Valyrian, which most of the guests could not speak.",
+        "name": "\"Drachentanz\"",
+        "text": "<b>Aktion:</b> Wähle eine Nicht-Ereigniskarte mit aufgedruckten Kosten von 3 oder weniger in deinem Ablagestapel und schicke sie auf deine Hand zurück.",
+        "traits": "Lied."
+    },
+    {
+        "code": "12037",
+        "flavor": "Bei dem jungen Serry war das anders gewesen. Ein tapferer Mann, dachte Victarion. Fast ein Eisenmann.",
+        "name": "Ser Talbert Serry",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Reaktion:</b> Nachdem ein Gegner eine Ortsfähigkeit ausgelöst hat, bekommt Ser Talbert Serry bis zum Ende der Phase +2 Stärke. (Nur drei Mal pro Phase.)",
+        "traits": "Ritter."
+    },
+    {
+        "code": "12038",
+        "flavor": "Auch wenn sich die Männer von den Schildinseln Seeleute nannten, scheuten sie sich davor, das Meer zu überqueren und trugen im Kampf nur leichte Rüstung, weil sie Angst vor dem Ertrinken hatten.",
+        "name": "Die Schildinseln",
+        "text": "Erhöhe die Anzahl der Karten, die jeder Spieler in der Nachziehphase zieht, um 1.",
+        "traits": "Die Weite."
+    },
+    {
+        "code": "12039",
+        "flavor": "",
+        "name": "Bronze Yohn Rois",
+        "text": "Ruhmreich.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Bronze Yohn Rois verteidigt, beuge einen neutralen Ort mit aufgedruckten Kosten von 1 oder höher, um Bronze Yohn Rois aufzurichten. (Nur zwei Mal pro Phase.)",
+        "traits": "Haus Arryn. Lord."
+    },
+    {
+        "code": "12040",
+        "flavor": "",
+        "name": "Schurkischer Wildling",
+        "text": "Hinterhalt (5).\n<b>Reaktion:</b> Nachdem Schurkischer Wildling ins Spiel gekommen ist, wähle einen <i>Wildling</i>-Charakter, den du kontrollierst, und richte ihn auf.",
+        "traits": "Plünderer. Wildling."
+    },
+    {
+        "code": "12041",
+        "flavor": "",
+        "name": "Archivar der Citadel",
+        "text": "<b>Reaktion:</b> Nachdem Archivar der Citadel in deinen Ablagestapel gekommen ist, mischt jeder Spieler seinen Ablagestapel in sein Deck.",
+        "traits": "Maester."
+    },
+    {
+        "code": "12042",
+        "flavor": "",
+        "name": "Die Sternensepte",
+        "text": "<b>Aktion:</b> Verschiebe 1 Macht von Die Sternensepte auf einen Charakter. Behandle jenen Charakter bis zum Ende der Phase so, als ob sein aufgedrucktes Textfeld leer wäre (mit Ausnahme von <i>Merkmalen</i>).\n<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung gewonnen hast, erhält Die Sternensepte 1 Macht.",
+        "traits": "Altsass. Die Sieben."
+    },
+    {
+        "code": "12043",
+        "flavor": "",
+        "name": "Waghalsig",
+        "text": "Vergänglich.\nDer verstärkte Charakter muss in jeder Herausforderung zum Angreifer oder Verteidiger deklariert werden, falls möglich.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "12044",
+        "designer": "Kartenentwurf von Tzu-Mainn Chen, Weltmeister im Buhurt 2008.",
+        "flavor": "",
+        "name": "Als ich aufwachte ...",
+        "text": "<b>Reaktion:</b> Nachdem ein Spieler eine [military]-Herausforderung verloren hat, wählt jener Spieler einen teilnehmenden Charakter und legt ihn oben das Deck seines Besitzers. (Maximal 1 pro Herausforderung.)",
+        "traits": ""
+    },
+    {
+        "code": "12045",
+        "flavor": "",
+        "name": "Meer aus Blut",
+        "text": "Reduziere während [military]-Herausforderungen die Kosten für jedes Ereignis, das du spielst, für jeden Blutmarker auf Meer aus Blut um 1. Du kannst während [intrigue]- oder [power]-Herausforderungen keine Ereignisse spielen.\n<b>Reaktion:</b> Nachdem du eine [military]-Herausforderung um 5 oder mehr Stärke gewonnen hast, beuge deine Fraktionskarte, um einen Blutmarker auf Meer aus Blut zu legen. Dann suche in deinem Deck nach einem Ereignis, decke es auf und nimm es auf deine Hand. Mische dein Deck.",
+        "traits": "Prophezeiung."
+    },
+    {
+        "code": "12046",
+        "flavor": "",
+        "name": "We nehmen uns Westeros!",
+        "text": "<b>Sobald aufgedeckt:</b> Wähle einen Ort in einem Ablagestapel und bringe ihn unter deiner Kontrolle ins Spiel.",
+        "traits": "Krieg."
+    },
+    {
+        "code": "12047",
+        "flavor": "",
+        "name": "Rückkehr auf die Felder",
+        "text": "<b>Sobald aufgedeckt:</b> Du darfst bis zu 3 Charaktere opfern. Für jeden auf diese Weise geopferten Charakter ziehst du 1 Karte und erhältst 1 Gold.",
+        "traits": "Erlass."
+    },
+    {
+        "code": "12048",
+        "flavor": "",
+        "name": "Erbe des Eisernen Throns",
+        "text": "<b>Sobald aufgedeckt:</b> Suche in den obersten 10 Karten deines Decks nach einem <i>Lord</i>- oder <i>Lady</i>-Charakter und bringe ihn ins Spiel. Mische dein Deck. Dann opfere einen <i>Lord</i>- oder <i>Lady</i>-Charakter.",
+        "traits": "Königreich."
+    },
+    {
+        "code": "12049",
+        "flavor": "",
+        "name": "Koordinierter Angriff",
+        "text": "<b>Reaktion:</b> Nachdem du als angreifender Spieler eine Herausforderung gewonnen hast, wähle eine andere Herausforderungsart. Du darfst in dieser Phase eine zusätzliche Herausforderung der gewählten Art initiieren. (Nur ein Mal pro Phase.)",
+        "traits": "Krieg."
+    },
+    {
+        "code": "12050",
+        "flavor": "",
+        "name": "Abgefangene Botschaft",
+        "text": "Jeder Spieler spielt mit der obersten Karte seines Decks aufgedeckt.\n<b>Aktion:</b> Zahle 1 Gold, um die oberste Karte eines gegnerischen Decks unter das Deck jenes Spielers zu legen. (Nur drei Mal pro Runde.)",
+        "traits": "Komplott."
+    },
+    {
+        "code": "12051",
+        "flavor": "",
+        "name": "Geheimnisse des Konklaves",
+        "text": "<b>Reaktion:</b> Nachdem die Herausforderungsphase begonnen hat, sieh dir die obersten 5 Karten deines Decks an. Nimm 1 Karte auf deine Hand, lege 1 Karte ab und lege die anderen Karten in beliebiger Reihenfolge oben auf dein Deck.",
+        "traits": "Konklave. Königreich."
+    },
+    {
+        "code": "12052",
+        "flavor": "",
+        "name": "Die Ungläubigen zerschmettern",
+        "text": "<b>Erzwungene Reaktion:</b> Nachdem die Herausforderungsphase begonnen hat, wähle ein <i>Merkmal</i>. Töte jeden Charakter, den du kontrollierst, der nicht das gewählte Merkmal hat (kann nicht gerettet werden).",
+        "traits": "Erlass."
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "code": "06081",
+        "flavor": "Bran schloss die Augen und gab sich dem Wolfstraum mit seinen Gerüchen und den Geräuschen der Nacht hin.",
+        "name": "Bran Stark",
+        "text": "<b>Aktion:</b> Beuge Bran Stark, um einen <i>Schattenwolf</i>-Charakter zu wählen und aufzurichten. Bis zum Ende der Phase erhält der gewählte Charakter ein Herausforderungssymbol deiner Wahl.",
+        "traits": "Lord."
+    },
+    {
+        "code": "06082",
+        "flavor": "Das Schwarze Tor, hatte Sam gesagt, dabei war es gar nicht schwarz.",
+        "name": "Durch das Schwarze Tor",
+        "text": "<b>Aufmarschaktion:</b> Beuge deine Fraktionskarte, um die Kosten jedes [stark]-Charakters, den du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": ""
+    },
+    {
+        "code": "06083",
+        "flavor": "",
+        "name": "Ser Garlan Tyrell",
+        "text": "Investition (3). Ruhmreich.\nSer Garlan Tyrell bekommt +1 Stärke für jedes Gold, das er hat.\n<b>Aktion:</b> Lege 1 Gold von Ser Garlan Tyrell ab, um einen [tyrell]Charakter zu wählen. Bis zum Ende der Phase bekommt der gewählte Charakter +2 Stärke.",
+        "traits": "Ritter. Lord."
+    },
+    {
+        "code": "06084",
+        "flavor": "",
+        "name": "Olennas Machenschaften",
+        "text": "<b>Herausforderungsaktion:</b> In dieser Phase darfst du eine zusätzliche [power]-Herausforderung initiieren. (Maximal 1 pro Phase.)\n<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung um 5 oder mehr Stärke gewonnen hast, bezahle 1 Gold, um Olennas Machenschaften aus deinem Ablagestapel auf deine Hand zurückzuschicken.",
+        "traits": ""
+    },
+    {
+        "code": "06085",
+        "flavor": "Die Wildlinge hatten zwar hundertzwanzig Mann, doch vier Verteidiger würden genügen, um sie zurückzuschlagen, denn dazu reichten ein paar gut gezielte Pfeile und vielleicht einige Steine.",
+        "name": "Verteidiger der Mauer",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nSolange Verteidiger der Mauer verteidigt, bekommt er +2 Stärke.",
+        "traits": "Grenzer."
+    },
+    {
+        "code": "06086",
+        "flavor": "",
+        "name": "Meuterei in Crasters Bergfried",
+        "text": "<b>Herrschaftsaktion:</b> Wähle einen Charakter mit den höchsten aufgedruckten Kosten unter allen Charakteren, die du kontrollierst. Opfere den gewählten Charakter, um einen Charakter, den ein Gegner kontrolliert, zu wählen und aus dem Spiel abzulegen.",
+        "traits": ""
+    },
+    {
+        "code": "06087",
+        "flavor": "",
+        "name": "Stannis' Kavallerie",
+        "text": "Investition (8). Keine Verstärkungen.\nJeder von einem Gegner kontrollierte Charakter mit aufgedruckten Kosten von X kann während der Aufrichtphase nicht aufgerichtet werden. X ist die Anzahl des Goldes, das Stannis' Kavallerie hat.\n<b>Aufrichtaktion:</b> Verschiebe 1 Gold aus deiner Gold reserve auf Stannis' Kavallerie. (Nur zwei Mal pro Phase.)",
+        "traits": "Armee."
+    },
+    {
+        "code": "06088",
+        "flavor": "",
+        "name": "Heerlager im Norden",
+        "text": "Limitiert.\nHeerlager im Norden kann während der Aufrichtphase nicht aufgerichtet werden, es sei denn, du hast in dieser Runde die Herrschaft gewonnen.\n<b>Aufmarschaktion:</b> Beuge Heerlager im Norden, um 2 Gold zu erhalten.",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "06089",
+        "flavor": "",
+        "name": "Händlerin aus Kayss",
+        "text": "Investition (3). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 3 Gold aus deiner Goldreserve auf diese Karte.)</i>\n<b>Reaktion:</b> Nachdem du dein Einkommen kassiert hast, lege 1 Gold von Händlerin aus Kayss ab, um 2 Gold zu erhalten.",
+        "traits": "Händler."
+    },
+    {
+        "code": "06090",
+        "flavor": "\"Ich weiß, was ich dir gesagt habe. Aber die Schwarze Festung ist nicht Harrenhal. Die Nachtwache ist nicht der Rat des Königs. Für jede Arbeit gibt es das richtige Werkzeug, und für jedes Werkzeug die richtige Aufgabe.\" <cite>Tywin Lennister</cite>",
+        "name": "Für jedes Werkzeug die richtige Aufgabe",
+        "text": "<b>Herausforderungsaktion:</b> Bringe einen [lannister]-Charakter mit aufgedruckter Stärke von 2 oder weniger von deiner Hand ins Spiel.",
+        "traits": ""
+    },
+    {
+        "code": "06091",
+        "flavor": "\"Die Starken haben stets von den Schwachen genommen.\"",
+        "name": "Nut der Barbier",
+        "text": "Brandschatzen.\n<b>Reaktion:</b> Nachdem ein Charakter, den du kontrollierst, durch Brandschatzen eine Karte abgelegt hat, schicke eine Karte aus dem Ablagestapel des verlierenden Gegners auf die Hand ihres Besitzers zurück. Dann ziehe 1 Karte. (Nur drei Mal pro Phase.)",
+        "traits": "Eisenmann."
+    },
+    {
+        "code": "06092",
+        "flavor": "",
+        "name": "Eiserner Sieg",
+        "text": "Solange du Victarion Graufreud kontrollierst, bekommt er +1 Stärke für jede Macht, die er hat.\n<b>Reaktion:</b> Nachdem ein [greyjoy]-Charakter gerettet worden ist, erhält der gerettete Charakter 1 Macht. (Nur zwei Mal pro Phase.)",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "06093",
+        "flavor": "\"Es ist eine große Ehre, meiner Khaleesi Freude zu bereiten.\"",
+        "name": "Irri",
+        "text": "Investition (2). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 2 Gold aus deiner Goldreserve auf diese Karte.)</i>\n<b>Aktion:</b> Lege 1 Gold von Irri ab, um einen <i>Lord</i>- oder <i>Lady</i>-Charakter zu wählen und aufzurichten. (Nur ein Mal pro Phase.)",
+        "traits": "Gefährte. Dothraki."
+    },
+    {
+        "code": "06094",
+        "flavor": "",
+        "name": "Sturz der Sklavenhalter",
+        "text": "<b>Aktion:</b> Wähle während einer Herausforderung, in der du der angreifende Spieler bist, einen verteidigenden Charakter mit Stärke X oder weniger und entferne ihn aus der Herausforderung. X ist die Anzahl der Charaktere im Totenstapel des verteidigenden Spielers.",
+        "traits": ""
+    },
+    {
+        "code": "06095",
+        "flavor": "\"Denn ich bin blutrünstig, versteht Ihr.\"",
+        "name": "Die Rote Viper",
+        "text": "Ruhmreich.\nSolange Die Rote Viper angreift, steuert jeder verteidigende Charakter, der weniger als 2 Herausforderungssymbole hat, keine Stärke zur Herausforderung bei.",
+        "traits": "Lord."
+    },
+    {
+        "code": "06096",
+        "flavor": "",
+        "name": "Rache auf Dornisch",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung initiiert hast, wähle einen Charakter, der vom verteidigenden Spieler kontrolliert wird. Der gewählte Cha rak ter muss falls möglich bei dieser Herausforderung zum Verteidiger deklariert werden. Falls du diese Herausforderung um 5 oder mehr Stärke gewinnst, muss der verlierende Gegner einen verteidigenden Charakter wählen und töten.",
+        "traits": ""
+    },
+    {
+        "code": "06097",
+        "flavor": "",
+        "name": "Bettelbruder",
+        "text": "Investition (3). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 3 Gold aus deiner Goldreserve auf diese Karte.) </i>\n<b>Unterbrechung:</b> Sobald die Effekte einer ausgelösten Charakterfähigkeit initiiert werden würden, lege 1 Gold von Bettelbruder ab, um diese Effekte aufzuheben.",
+        "traits": "Die Sieben."
+    },
+    {
+        "code": "06098",
+        "designer": "Kartenentwurf von Greg Atkinson, Weltmeister 2004.",
+        "flavor": "",
+        "name": "Flohloch",
+        "text": "<b>Herausforderungsaktion:</b> Bezahle 1 Gold und beuge Flohloch, um einen Charakter mit aufgedruckten Kosten von 3 oder weniger aus deinem Ablagestapel ins Spiel zu bringen. Falls die Karte am Ende der Phase immer noch im Spiel ist, lege sie unter dein Deck.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "06099",
+        "designer": "Kartenentwurf von Ryan Jones, Weltmeister im Buhurt 2013.",
+        "flavor": "",
+        "name": "Die Eiserne Bank bekommt, was ihr zusteht",
+        "text": "<b>Aktion:</b> Falls es nicht Abgabephase ist, beuge deine Fraktionskarte und schicke einen Charakter auf deine Hand zurück, um Gold in Höhe der aufgedruckten Kosten dieses Charakters zu erhalten. Bis zum Ende der Runde kannst du keine Karten aufmarschieren lassen oder ins Spiel bringen, die denselben Kartentitel wie der zurückgeschickte Charakter haben.",
+        "traits": ""
+    },
+    {
+        "code": "06100",
+        "flavor": "",
+        "name": "Rädchen im Rädchen",
+        "text": "<b>Sobald aufgedeckt:</b> Suche in den obersten 10 Karten deines Decks nach beliebig vielen Ereignissen und decke sie auf. Nimm 1 auf deine Hand und lege die anderen auf deinen Ablagestapel. Mische dein Deck.",
+        "traits": "Komplott."
+    }
+]

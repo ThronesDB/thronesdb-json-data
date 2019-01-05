@@ -1,0 +1,143 @@
+[
+    {
+        "code": "11101",
+        "flavor": "",
+        "name": "Ser Jason Mallister",
+        "text": "Solange keine Karten in den Schatten sind, erhält Ser Jason Mallister Ruhmreich.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Ser Jason Mallister angreift, wähle eine Karte in den Schatten, die vom verlierenden Gegner kontrolliert wird, und lege sie ab.",
+        "traits": "Haus Tully. Ritter. Lord."
+    },
+    {
+        "code": "11102",
+        "flavor": "",
+        "name": "Der Brief des Bastards",
+        "text": "Schatten (3).\n<b>Reaktion:</b> Nachdem ein Gegner eine [military]-Herausforderung gegen dich initiiert hat, richte beliebig viele Charaktere auf, die du kontrollierst, die ein [military]-Symbol haben. Falls du die Herausforderung gewinnst, töte jeden angreifenden Charakter.",
+        "traits": "Haus Bolton."
+    },
+    {
+        "code": "11103",
+        "flavor": "",
+        "name": "Raffinierte Diplomatin",
+        "text": "Hinterhalt (5). Schatten (3).\n<b>Reaktion:</b> Nachdem Raffinierte Diplomatin während einer Herausforderung ins Spiel gekommen ist, wähle einen teilnehmenden Charakter. Richte den gewählten Charakter auf und entferne ihn aus der Herausforderung.",
+        "traits": "Verbündeter. Spion."
+    },
+    {
+        "code": "11104",
+        "flavor": "",
+        "name": "Marktplatz auf dem Arbor",
+        "text": "<b>Herausforderungsaktion:</b> Beuge Marktplatz auf dem Arbor, um einen teilnehmenden Charakter zu wählen. Bis zum Ende der Herausforderung bekommt der gewählte Charakter +1 Stärke.\nGoldwert +1.",
+        "traits": "Haus Rothweyn."
+    },
+    {
+        "code": "11105",
+        "flavor": "...Othell Yarwyck und seine Baumeister waren immer noch damit beschäftigt, die Nachtfeste wieder herzurichten.",
+        "name": "Baumeister der Nachtfeste",
+        "text": "<b>Reaktion:</b> Nachdem Baumeister der Nachtfeste gebeugt worden ist, decke die oberste Karte deines Decks auf. Falls es ein [thenightswatch]-Ort oder eine [thenightswatch]-Verstärkung ist, ziehe sie.",
+        "traits": "Baumeister."
+    },
+    {
+        "code": "11106",
+        "flavor": "",
+        "name": "Dolche im Dunkeln",
+        "text": "Schatten (2).\n<b>Reaktion:</b> Nachdem du als verteidigender Spieler eine Herausforderung gewonnen hast, wähle einen angreifenden Charakter und töte ihn. Der angreifende Spieler darf 2 Charaktere opfern, um diesen Effekt aufzuheben.",
+        "traits": ""
+    },
+    {
+        "code": "11107",
+        "flavor": "\"Ich bin kein Verräter.\"",
+        "name": "Der Rote Ronnet",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nSolange Der Rote Ronnet angreift, erhöhe den Schadenswert deiner aufgedeckten Strategiekarte um 1, falls der verteidigende Spieler eine Karte in den Schatten kontrolliert.",
+        "traits": "Haus Connington. Ritter."
+    },
+    {
+        "code": "11108",
+        "flavor": "",
+        "name": "Aus dem Licht verbannt",
+        "text": "Schatten (2).\n<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung gewonnen hast, wähle einen Charakter. Lege ihn in die Schatten und lege einen Schattenmarker auf ihn. Solange jene Karte in den Schatten ist, erhält sie Schatten (X), wobei X ihre aufgedruckten Kosten sind.",
+        "traits": ""
+    },
+    {
+        "code": "11109",
+        "flavor": "\"Wenn die Leute dir die Treue halten sollen, müssen sie vor dir mehr Angst haben als vor deinem Feind.\"",
+        "name": "Cersei Lennister",
+        "text": "Schatten (5).\n<b>Reaktion:</b> Nachdem eine Karte, die du kontrollierst, während der Herausforderungsphase aus den Schatten getreten ist, legt jeder Gegner 1 zufällige Karte von seiner Hand ab. (Nur drei Mal pro Phase.)",
+        "traits": "Lady."
+    },
+    {
+        "code": "11110",
+        "flavor": "",
+        "name": "Heimtückische Methoden",
+        "text": "Schatten (0).\nDer verstärkte Charakter bekommt +1 Stärke für jede Karte, die du in den Schatten kontrollierst.",
+        "traits": "Fertigkeit."
+    },
+    {
+        "code": "11111",
+        "flavor": "\"Es gibt keine Götter außer R'hllor und dem Anderen, dessen Name nicht ausgesprochen werden darf.\"",
+        "name": "Moqorro",
+        "text": "Schatten (5).\n<b>Reaktion:</b> Nachdem Moqorro aus den Schatten getreten ist, wähle einen verteidigenden Charakter und lege ihn oben auf das Deck seines Besitzers.",
+        "traits": "Verbündeter. R'hllor."
+    },
+    {
+        "code": "11112",
+        "flavor": "",
+        "name": "Klingt wie auf die Knie sinken",
+        "text": "Schatten (0).\n<b>Reaktion:</b> Nachdem du eine unverteidigte Herausforderung gewonnen hast, ziehe 2 Karten (falls du dieses Ereignis aus den Schatten gespielt hast, sind es stattdessen 3 Karten).",
+        "traits": ""
+    },
+    {
+        "code": "11113",
+        "flavor": "Sie zogen bei Tag und bei Nacht durch die Straßen und trugen dunkle Hauben und Masken aus Messing.",
+        "name": "Messingtier",
+        "text": "Keine Verstärkungen. Schatten (3).\n<b>Aufmarschaktion:</b> Bezahle 3 Gold, um Messingtier aus deinem Ablagestapel in die Schatten zu bringen.",
+        "traits": "Garde."
+    },
+    {
+        "code": "11114",
+        "flavor": "\"Handschuhe für meine armen, alten, runzligen Hände. Wie nett.\" <cite>Die Witwe vom Hafen</cite>",
+        "name": "Gaben für die Witwe",
+        "text": "<b>Aktion:</b> Suche in deinem Deck nach einer Verstärkung mit aufgedruckten Kosten von X oder weniger und bringe sie einen Charakter verstärkend, den du kontrollierst, ins Spiel. Mische dein Deck.",
+        "traits": ""
+    },
+    {
+        "code": "11115",
+        "flavor": "",
+        "name": "Spionin aus Sternfall",
+        "text": "Schatten (3).\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Spionin aus Sternfall teilnimmt, schicke sie in die Schatten zurück, um eine andere Karte, die du in den Schatten kontrollierst, zu wählen und ins Spiel zu bringen.",
+        "traits": "Haus Dayn. Spion."
+    },
+    {
+        "code": "11116",
+        "flavor": "",
+        "name": "Das Blut der  Viper",
+        "text": "Nur <i>Sandschlange</i>-Charaktere. Hinterhalt (2).\n<b>Reaktion:</b> Nachdem du eine Herausforderung verloren hast, an welcher der verstärkte Charakter teilnimmt, richte ihn auf.",
+        "traits": "Erbe."
+    },
+    {
+        "code": "11117",
+        "flavor": "Oh, saht Ihr meinen Knaben, Ser?\nSein Haar so rötlich braun,\nHeim zu uns wollte er\nHeim nach Wendischau'n.",
+        "name": "\"An einem nebligen Morgen\"",
+        "text": "<b>Aktion:</b> Wähle bis zu 2 nicht-einzigartige Charaktere in deinem Totenstapel und schicke sie auf deine Hand zurück.",
+        "traits": "Lied."
+    },
+    {
+        "code": "11118",
+        "designer": "Kartenentwurf von Jesús Valdés Gaspar, Europameister im Tjost 2015.",
+        "flavor": "",
+        "name": "Angriff aus den Schatten",
+        "text": "Reduziere den Goldwert deiner aufgedeckten Strategiekarte um 1.\n<b>Aufmarschaktion:</b> Beuge deine Fraktionskarte, um 1 Karte auf deiner Hand zu wählen und sie verdeckt mit einem Schattenmarker darauf in die Schatten zu legen. Solange jene Karte in den Schatten ist, erhält sie Schatten (X), falls sie das Schlüsselwort Schatten nicht aufgedruckt hat. X sind ihre aufgedruckten Kosten.",
+        "traits": ""
+    },
+    {
+        "code": "11119",
+        "flavor": "\"Dies ist keine Tat aus Bosheit. Es geschieht allein für das Reich. Für die Kinder.\"",
+        "name": "Varys",
+        "text": "Schatten (8). Heimlich.\nReduziere die Kosten, um Varys aus den Schatten zu holen, um 1 für jede andere Karte in den Schatten.\n<b>Reaktion:</b> Nachdem Varys aus den Schatten getreten ist, wähle einen Charakter mit Macht und töte ihn.",
+        "traits": "Verbündeter. Lord."
+    },
+    {
+        "code": "11120",
+        "flavor": "",
+        "name": "Verheerungen des Krieges",
+        "text": "<b>Sobald aufgedeckt:</b> Jeder Spieler opfert einen Charakter oder Ort, wählt 1 Karte auf seiner Hand und legt sie ab, und wählt 1 Karte in seinem Schattenbereich und legt sie ab, falls möglich.",
+        "traits": "Krieg."
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "code": "04061",
+        "flavor": "\"Mit zwei Augen siehst du mein Gesicht. Mit dreien könntest du mein Herz sehen.\"",
+        "name": "Jojen Reet",
+        "text": "Heimlich.\n<b>Reaktion:</b> Nachdem Jojen Reet aufgerichtet worden ist, decke die oberste Karte vom Deck jedes Spielers auf. Du darfst entweder jede dieser Karten ablegen oder jeden Spieler 1 Karte ziehen lassen.",
+        "traits": "Haus Reet."
+    },
+    {
+        "code": "04062",
+        "flavor": "Was sollte er fürchten? Er war der Junge Wolf, der König des Tridents und des Nordens.",
+        "name": "Der Wolfskönig",
+        "text": "Nur [stark]-Charaktere.\nDer verstärkte Charakter erhält das Merkmal <i>König</i> und wird nicht gebeugt, sobald er bei einer [military]-Herausforderung zum Angreifer deklariert wird.",
+        "traits": "Titel."
+    },
+    {
+        "code": "04063",
+        "flavor": "",
+        "name": "König Renlys Heerschar",
+        "text": "Einschüchternd. Keine Verstärkungen.\nSolange es eine aufgedeckte <i>Sommer</i>-Strategiekarte gibt, bekommt König Renlys Heerschar +4 Stärke.\nSolange es eine aufgedeckte <i>Winter</i>-Strategiekarte gibt, kann König Renlys Heerschar nicht zum Angreifer deklariert werden.",
+        "traits": "Armee."
+    },
+    {
+        "code": "04064",
+        "flavor": "Lord Caswells Bergfried war kaum hoch genug, um ihn einen Turm zu nennen, doch das Land war eben und flach, und Catelyn konnte meilenweit in jede Richtung schauen.",
+        "name": "Caswells Bergfried",
+        "text": "<b>Reaktion:</b> Nachdem du eine Strategiekarte aufgedeckt hast, wähle einen Spieler. Sieh dir die obersten 2 Karten seines Decks an. Lege 1 dieser Karten oben auf und die andere unter das Deck des gewählten Spielers.",
+        "traits": "Die Weite."
+    },
+    {
+        "code": "04065",
+        "flavor": "",
+        "name": "Steinmetz vom Schattenturm",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nSolange du 3 oder mehr [thenightswatch]-Orte und/oder -Verstärkungen kontrollierst, erhält Steinmetz vom Schattenturm ein [military]- und ein [intrigue]-Symbol.",
+        "traits": "Baumeister."
+    },
+    {
+        "code": "04066",
+        "flavor": "",
+        "name": "Der Verfluchte Wald",
+        "text": "Solange Der Verfluchte Wald aufrecht steht, steuert er während jeder Herausforderung, bei der du der verteidigende Spieler bist, 1 Stärke zur Gesamtstärke deiner Seite bei.\n<b>Erzwungene Reaktion:</b> Nachdem du eine Herausforderung verloren hast, beuge Der Verfluchte Wald.",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "04067",
+        "flavor": "\"Könige haben keine Freund.\"",
+        "name": "Stannis Baratheon",
+        "text": "Während [power]-Herausforderungen bekommt jeder teilnehmende Nicht-<i>König</i>-Charakter -1 Stärke.\n<b>Reaktion:</b> Nachdem du die Herrschaft gewonnen hast, wähle einen nicht-loyalen Charakter. Der gewählte Charakter kann während der Aufrichtenphase in dieser Runde nicht aufgerichtet werden.",
+        "traits": "König. Lord."
+    },
+    {
+        "code": "04068",
+        "flavor": "\"Azor Ahai ist auferstanden! Preiset den Krieger des Lichts! Preiset den Sohn des Feuers!\" <cite>Melisandre</cite>",
+        "name": "Segen des Roten Gottes",
+        "text": "Der verstärkte Charakter erhält das Merkmal <i>R'hllor</i> und bekommt +1 Stärke für jeden <i>R'hllor</i>-Charakter, den du kontrollierst.",
+        "traits": "Segen. R'hllor."
+    },
+    {
+        "code": "04069",
+        "flavor": "Seit dem Augenblick, als er im Roten Bergfried eingetroffen war, pirschte sich Lady Tanda, bewaffnet mit einem endlosen Arsenal von Neunaugenpasteten, Wildschweinen und köstlichen Sahnesuppen, an ihn heran.",
+        "name": "Tanda Schurwerth",
+        "text": "<b>Reaktion:</b> Nachdem du Tanda Schurwerth aufmarschieren lassen hast, erhält jeder Spieler 3 Gold.",
+        "traits": "Lady."
+    },
+    {
+        "code": "04070",
+        "flavor": "Ihn zu rasieren war das Grausamste, was Tyrion ihm antun konnte ...",
+        "name": "Ohne seinen Bart",
+        "text": "<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung gewonnen hast, lege bis zu 3 zufällige Karten von der Hand des verlierenden Gegners ab. Dann zieht jener Spieler 2 Karten.",
+        "traits": ""
+    },
+    {
+        "code": "04071",
+        "flavor": "\"Horcht! Hört auf die Wellen! Hör auf euren Gott!\"",
+        "name": "Aeron Feuchthaar",
+        "text": "<b>Reaktion:</b> Nachdem ein Charakter gerettet worden ist, richte ihn entweder auf oder beuge ihn.",
+        "traits": "Ertrunkener Gott. Eisenmann. Lord."
+    },
+    {
+        "code": "04072",
+        "flavor": "Im Solar war es so feucht und zugig wie immer.",
+        "name": "König Balons Solar",
+        "text": "<b>Reaktion:</b> Nachdem du die Initiative gewonnen hast, erhältst du 1 Gold.",
+        "traits": "Eiseninseln."
+    },
+    {
+        "code": "04073",
+        "flavor": "\"Begleitet mich zum Haus der Unsterblichen, und Ihr werdet Wahrheit und Weisheit trinken.\"",
+        "name": "Pyat Pree",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Pyat Pree teilnimmt, suche in den obersten X Karten deines Decks nach einer [targaryen]-Verstärkung oder einem [targaryen]-Ereignis, decke die Karte auf und nimm sie auf deine Hand. Mische dein Deck. X ist die Stärke, um die du die Herausforderung gewonnen hast.",
+        "traits": "Hexenmeister."
+    },
+    {
+        "code": "04074",
+        "flavor": "Sie nannten den Ort Vaes Tolorro, die Stadt der Knochen.",
+        "name": "Vaes Tolorro",
+        "text": "<b>Unterbrechung:</b> Sobald ein Charakter mit 1 oder mehr Macht getötet wird, beuge Vaes Tolorro, um 1 Macht von jenem Charakter nach Vaes Tolorro zu verschieben. (Falls die Stärke des Charakters 0 ist, ver schiebst du stattdessen bis zu 2 Macht.)",
+        "traits": "Essos."
+    },
+    {
+        "code": "04075",
+        "flavor": "",
+        "name": "Elia Sand",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung verloren hast, wähle einen Charakter. Bis zum Ende der Phase erhält der gewählte Charakter Heimlich. (Nur zwei Mal pro Phase.)",
+        "traits": "Bastard. Sandschlange."
+    },
+    {
+        "code": "04076",
+        "flavor": "",
+        "name": "Versengt vom Wüstensand",
+        "text": "<b>Reaktion:</b> Nachdem du eine unverteidigte Herausforderung verloren hast, lege den Schadenswert der aufgedeckten Strategiekarte des siegenden Gegners bis zum Ende der Herausforderung auf 0 fest.",
+        "traits": ""
+    },
+    {
+        "code": "04077",
+        "flavor": "",
+        "name": "Jaqen H'ghar",
+        "text": "<b>Reaktion:</b> Nachdem Jaqen H'ghar ins Spiel gekommen ist, lege einen Valar-Morghulis-Marker auf bis zu 3 verschiedene einzigartige Charaktere. Falls Jaqen H'ghar das Spiel verlässt, lege die Marker aus dem Spiel ab.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, bei der Jaqen H'ghar alleine angreift, wähle einen Charakter mit Valar-Morghulis-Marker und töte ihn.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "04078",
+        "flavor": "",
+        "name": "Rabeninsel",
+        "text": "<b>Aktion:</b> Beuge Rabeninsel, um eine Karte im Ablagestapel eines beliebigen Spielers zu wählen und sie ins Deck ihres Besitzers zurückzumischen.",
+        "traits": "Altsass."
+    },
+    {
+        "code": "04079",
+        "flavor": "",
+        "name": "König jenseits der Mauer",
+        "text": "Nur <i>Wildling</i>-Charaktere.\nDer verstärkte Charakter erhält das Merkmal <i>König</i>.\nSolange der verstärkte Charakter einen Spieler angreift, dessen Gesamtmacht höher ist als deine, erhöhe den Schadenswert deiner aufgedeckten Strategiekarte um 1.",
+        "traits": "Titel."
+    },
+    {
+        "code": "04080",
+        "flavor": "",
+        "name": "Valar Morghulis",
+        "text": "<b>Sobald aufgedeckt:</b> Töte jeden Charakter.",
+        "traits": "Omen."
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "code": "08001",
+        "flavor": "",
+        "name": "Der Schlüssel des Erzmaesters",
+        "text": "Nur <i>Maester</i>-Charaktere.\n<b>Aktion:</b> Beuge den verstärkten Charakter, um ein Ereignis im Ablagestapel eines Gegners zu wählen. Du darfst in dieser Phase das gewählte Ereignis ein Mal spielen, als ob es auf deiner Hand wäre. Falls du das tust, lege es unter das Deck seines Besitzers, anstatt es auf den Ablagestapel des jeweiligen Spielers zu legen.",
+        "traits": "Gegenstand. Zitadelle."
+    },
+    {
+        "code": "08002",
+        "flavor": "",
+        "name": "Maester von Grauenstein",
+        "text": "<b>Reaktion:</b> Nachdem du eine [military]- oder [intrigue]-Heraus forderung initiiert hast, opfere Maester von Grauenstein, um den Schadenswert deiner aufgedeckten Strategiekarte bis zum Ende der Herausforderung um 1 zu erhöhen.",
+        "traits": "Haus Bolton. Maester."
+    },
+    {
+        "code": "08003",
+        "flavor": "Er dachte daran, wie sich die Schattenwölfe aus der Dunkelheit über ihn hergemacht hatten, und plötzlich konnte er sie wieder sehen, knurrend und schnappend, die Zähne vor seinem Gesicht gefletscht.",
+        "name": "Sie heulen bei Nacht",
+        "text": "<b>Herausforderungsaktion:</b> Wähle beliebig viele <i>Schattenwolf</i>-Charaktere und Charaktere mit einer <i>Schattenwolf</i>-Verstärkung und richte sie auf.",
+        "traits": ""
+    },
+    {
+        "code": "08004",
+        "flavor": "Septa Nysterica hatte ein wenig anziehendes, pockennarbiges Gesicht, wirkte ansonsten jedoch sehr fröhlich.",
+        "name": "Septa Nysterica",
+        "text": "<b>Aktion:</b> Beuge Septa Nysterica, um einen angreifenden Charakter mit Stärke 4 oder weniger zu wählen. Richte den gewählten Charakter auf und entferne ihn aus der Herausforderung.",
+        "traits": "Die Sieben."
+    },
+    {
+        "code": "08005",
+        "flavor": "",
+        "name": "Eidwahrer",
+        "text": "Der verstärkte Charakter bekommt +2 Stärke.\n<b>Reaktion:</b> Nachdem du eine Herausforderung, an welcher der verstärkte Charakter teilnimmt, um 5 oder mehr Stärke gewonnen hast, opfere Eidwahrer, um in deinem Deck nach einem Nicht-[tyrell]-Charakter zu suchen, ihn aufzudecken und auf deine Hand zu nehmen. Mische dein Deck.",
+        "traits": "Valyrischer Stahl. Waffe."
+    },
+    {
+        "code": "08006",
+        "flavor": "",
+        "name": "Junger Baumeister",
+        "text": "Investition (3). Keine Verstärkungen außer <i>Waffe</i>.\n<b>Reaktion:</b> Nachdem ein [thenightswatch]-Ort oder eine [thenightswatch]-Verstärkung unter deiner Kontrolle ins Spiel gekommen ist, lege 1 Gold von Junger Baumeister ab, um 1 Karte zu ziehen.",
+        "traits": "Baumeister."
+    },
+    {
+        "code": "08007",
+        "flavor": "",
+        "name": "\"Der Rattenkoch\"",
+        "text": "<b>Aufmarschaktion:</b> Wähle einen Charakter mit aufgedruckten Kosten von X oder weniger. X ist die Anzahl der <i>Kämmerer</i>-Charaktere, die du kontrollierst. Übernimm bis zum Ende der Runde die Kontrolle über den gewählten Charakter und behandle sein aufgedrucktes Textfeld, als ob es leer wäre (mit Ausnahme von <i>Merkmalen</i>).",
+        "traits": "Lied."
+    },
+    {
+        "code": "08008",
+        "flavor": "\"Ein Reich, ein Gott, ein König!\"",
+        "name": "Die Männer der Königin",
+        "text": "<b>Reaktion:</b> Nachdem du Die Männer der Königin aufmarschieren lassen hast, wähle einen Gegner und sieh dir seine Hand an. Dann darfst du einen Nicht-[baratheon]-Charakter beugen, um 1 Nicht-Charakter-Karte von der Hand des gewählten Gegners zu wählen und abzulegen.",
+        "traits": "Verbündeter. R'hllor."
+    },
+    {
+        "code": "08009",
+        "flavor": "\"Lass den Verräter im Dunkeln zurück.\" <cite>Ser Axell Florent</cite>",
+        "name": "Verräter an der Krone",
+        "text": "Nur gegnerische Charaktere.\nDer verstärkte Charakter steuert keine Stärke zu [power]-Herausforderungen und zur Gesamtstärke seines kontrollierenden Spielers bei der Herrschaft bei.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "08010",
+        "flavor": "",
+        "name": "Maester von Casterlystein",
+        "text": "<b>Reaktion:</b> Nachdem du ein [lannister]-Ereignis gespielt hast, beuge Maester von Casterlystein, um das Ereignis von deinem Ablagestapel nach oben auf dein Deck zu verschieben.",
+        "traits": "Maester."
+    },
+    {
+        "code": "08011",
+        "flavor": "",
+        "name": "Aschmark",
+        "text": "Investition (3).\n<b>Reaktion:</b> Nachdem eine Phase begonnen hat, beuge und opfere Aschmark, um jeden Charakter mit aufgedruckten Kosten von X oder weniger auf die Hand seines Besitzers zurückzuschicken. X ist die Anzahl des Goldes auf Aschmark.",
+        "traits": "Die Westlande."
+    },
+    {
+        "code": "08012",
+        "flavor": "\"Der Gott holte mich tief unter die Wellen und ertränkte das wertlose Wesen, das ich war.\" <cite>Aeron Feuchthaar</cite>",
+        "name": "Jünger der Wellen",
+        "text": "<b>Unterbrechung:</b> Sobald Jünger der Wellen getötet wird, erhalte 1 Macht für deine Fraktion.",
+        "traits": "Ertrunkener Gott."
+    },
+    {
+        "code": "08013",
+        "flavor": "Nur Naggas Gebeine überdauerten, und sie erinnerten die Eisenmänner an die vergangenen Wunder.",
+        "name": "Naggas Rippen",
+        "text": "Für jeden Charakter in deinem Totenstapel steuert Naggas Rippen +2 Stärke zu deiner Gesamtstärke bei der Herrschaft bei. \n<b>Reaktion:</b> Nachdem ein Charakter auf deinen Ablagestapel gelegt worden ist, verschiebe ihn auf deinen Totenstapel.",
+        "traits": "Eiseninseln."
+    },
+    {
+        "code": "08014",
+        "flavor": "",
+        "name": "Daario Naharis",
+        "text": "Ruhmreich.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Daario Naharis angreift, wähle einen anderen <i>Verbündeter</i>-, <i>Gefährte</i>- oder <i>Söldner</i>-Charakter. Richte den gewählten Charakter auf und übernimm bis zum Ende der Phase die Kontrolle über ihn.",
+        "traits": "Gefährte. Söldner."
+    },
+    {
+        "code": "08015",
+        "flavor": "",
+        "name": "Blutiges Arakh",
+        "text": "Nur <i>Dothraki</i>-Charaktere.\n<b>Reaktion:</b> Nachdem du eine [military]-Herausforderung gewonnen hast, in welcher der verstärkte Cha rak ter angreift, opfere Blutiges Arakh. Dann darfst du in dieser Phase eine zusätzliche [military]-Her aus for der ung initiieren. (Maximal 1 pro Phase.)",
+        "traits": "Waffe."
+    },
+    {
+        "code": "08016",
+        "flavor": "\"Dorea läuft herum und schlägt Orangen mit ihrem Morgenstern von den Bäumen ...\" <cite>Doran Martell</cite>",
+        "name": "Dorea Sand",
+        "text": "<b>Reaktion:</b> Nachdem Dorea Sand ins Spiel gekommen ist, wähle einen anderen Charakter mit aufgedruckten Kosten von X oder weniger und schicke ihn auf die Hand seines Besitzers zurück. X ist die Anzahl der <i>Sandschlange</i>-Charaktere, die du kontrollierst.",
+        "traits": "Bastard. Sandschlange."
+    },
+    {
+        "code": "08017",
+        "flavor": "Dort tobten Kinder nackt in der Sonne, wurde in gefliesten Höfen Musik gespielt, und in der Luft hing der scharfe Duft von Zitronen und Blutorangen.",
+        "name": "Die Wassergärten",
+        "text": "<b>Aktion:</b> Beuge Die Wassergärten, um die Kosten der nächsten Nicht-Charakter-Karte, die du in dieser Phase spielst, aufmarschieren lässt oder mit Hinterhalt ins Spiel bringst, um X zu reduzieren. X ist die Anzahl der Strategiekarten in deinem Archiv.",
+        "traits": "Dorne."
+    },
+    {
+        "code": "08018",
+        "flavor": "",
+        "name": "Mag der Mächtige",
+        "text": "Ruhmreich. Keine Verstärkungen außer <i>Waffe</i>.\n<b>Erzwungene Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Mag der Mächtige teilnimmt, wähle einen Charakter, den du kontrollierst, und töte ihn. Dann wählt der verlierende Gegner einen Charakter, den er kontrolliert, und tötet ihn.",
+        "traits": "Riese. Wildling."
+    },
+    {
+        "code": "08019",
+        "flavor": "",
+        "name": "Die Eiserne Bank",
+        "text": "Investition (1).\nWährend der Aufmarschphase darfst du das Gold auf Die Eiserne Bank ausgeben, als ob es in deiner Goldreserve wäre.\n<b>Reaktion:</b> Nachdem du dein Einkommen kassiert hast, verschiebe X Gold aus der Schatz kammer auf Die Eiserne Bank. X ist die Anzahl des Goldes auf Die Eiserne Bank.",
+        "traits": "Braavos."
+    },
+    {
+        "code": "08020",
+        "flavor": "",
+        "name": "Valar Dohaeris",
+        "text": "<b>Sobald aufgedeckt:</b> Jeder Spieler wählt beliebig viele Charaktere, die er kontrolliert, mit aufgedruckten Gesamtkosten von 10 oder weniger.  Lege jeden nicht gewählten Charakter unter das Deck seines Besitzers (kann nicht gerettet werden).",
+        "traits": "Omen."
+    }
+]

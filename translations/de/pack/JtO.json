@@ -1,0 +1,143 @@
+[
+    {
+        "code": "08021",
+        "flavor": "\"Wir sind stärker, als es den Anschein erweckt, Mylady.\"",
+        "name": "Maegen Mormont",
+        "text": "Ruhmreich.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der du einen teilnehmenden <i>Haus Mormont</i>-Charakter kontrollierst, decke die oberste Karte deines Decks auf. Falls es eine [stark]-Karte ist, ziehe sie.",
+        "traits": "Haus Mormont. Lady."
+    },
+    {
+        "code": "08022",
+        "flavor": "",
+        "name": "Das Haus von Schwarz und Weiss",
+        "text": "Investition (10).\n<b>Herrschaftsaktion:</b> Beuge Das Haus von Schwarz und Weiß und lege X Gold von dieser Karte ab, um einen Charakter mit aufgedruckter Stärke von X oder weniger zu wählen und zu töten (X kann nicht 0 sein). Du darfst beliebig viel Gold aus deiner Goldreserve auf Das Haus von Schwarz und Weiß verschieben.",
+        "traits": "Braavos."
+    },
+    {
+        "code": "08023",
+        "flavor": "",
+        "name": "Ritter von Klarwasser",
+        "text": "Investition (3).\n<b>Aufmarschaktion:</b> Lege 1 Gold von Ritter von Klarwasser ab, um die Kosten des nächsten <i>Ritter</i>-Charakters, den du in dieser Phase aufmarschieren lässt, um 2 zu reduzieren. (Nur ein Mal pro Phase.)",
+        "traits": "Haus Florent. Ritter."
+    },
+    {
+        "code": "08024",
+        "flavor": "... Altsass stellte ein hübsches Labyrinth von Stadt dar, mit engen Gassen, verschlungenen Gängen und schmalen, krummen Straßen.",
+        "name": "Altsass",
+        "text": "<b>Aktion:</b> Beuge Altsass, um einen Kartentyp (Charakter, Ort, Verstärkung oder Ereignis) zu benennen. Dann decke die oberste Karte deines Decks auf. Falls die aufgedeckte Karte den benannten Kartentyp hat, ziehe sie und erhalte 1 Macht für deine Fraktion.",
+        "traits": "Altsass. Die Weite."
+    },
+    {
+        "code": "08025",
+        "flavor": "Mit seinem blonden Haar und den braunen Augen erinnerte der stattliche junge Sänger aus Ostwacht eher an einen düsteren Prinzen als an einen Schwarzen Bruder.",
+        "name": "Dareon",
+        "text": "<b>Reaktion:</b> Nachdem du ein <i>Lied</i>-Ereignis gespielt hast, wähle einen Gegner. Verschiebe 1 Gold aus der Goldreserve des gewählten Spielers in deine Goldreserve. (Nur ein Mal pro Phase.)",
+        "traits": "Minnesänger. Kämmerer."
+    },
+    {
+        "code": "08026",
+        "flavor": "\"Sam, die Nachtwache hat Hunderte von Männern, die mit Pfeil und Bogen umgehen können, aber nur eine Hand voll, die lesen oder schreiben kann. Ich brauche dich als meinen neuen Maester.\" <cite>Jon Schnee</cite>",
+        "name": "Reise nach Altsass",
+        "text": "<b>Reaktion:</b> Nachdem die Strategiephase begonnen hat, wähle einen Charakter, den du kontrollierst. Entferne ihn bis zum Beginn der nächsten Strategiephase aus dem Spiel.",
+        "traits": ""
+    },
+    {
+        "code": "08027",
+        "flavor": "",
+        "name": "Devan Seewert",
+        "text": "Investition (3).\n<b>Reaktion:</b> Nachdem du die Herrschaft gewonnen hast, lege X Gold von Devan Seewert ab, um in deinem Deck nach einem nicht-limitierten Ort mit aufgedruckten Kosten von X oder weniger zu suchen, ihn aufzudecken und ins Spiel zu bringen (X kann nicht 0 sein). Mische dein Deck.",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "08028",
+        "flavor": "\"Sagt, was Ihr wollt, aber beeilt euch.\" <cite>Stannis Baratheon</cite>",
+        "name": "Stannis' Zorn",
+        "text": "<b>Aktion:</b> Wähle einen Charakter ohne [power]-Symbol und beuge ihn.",
+        "traits": ""
+    },
+    {
+        "code": "08029",
+        "flavor": "Zu beiden Seiten ritten Schwarzohren mit ihren grausigen Ketten um den Hals ...",
+        "name": "Schwarzohren",
+        "text": "<b>Reaktion:</b> Nachdem ein Charakter getötet worden ist, bezahle 2 Gold, um Schwarzohren von deiner Hand ins Spiel zu bringen.",
+        "traits": "Clankrieger."
+    },
+    {
+        "code": "08030",
+        "flavor": "",
+        "name": "Königsmörder",
+        "text": "Nur <i>Königsgarde</i>-Charaktere. Vergänglich. \n<b>Aktion:</b> Beuge den verstärkten Charakter, um einen Charakter mit 2 oder mehr Macht zu wählen und zu töten. (Nur ein Mal pro Spiel.)\n<b>Erzwungene Unterbrechung:</b> Sobald der verstärkte Charakter das Spiel verlässt, erhält jeder Gegner 2 Macht für seine Fraktion.",
+        "traits": "Titel."
+    },
+    {
+        "code": "08031",
+        "flavor": "",
+        "name": "Tris Botlin",
+        "text": "Brandschatzen.\n<b>Aktion:</b> Wähle eine Karte im Ablagestapel eines Gegners und entferne sie aus dem Spiel. Bis Tris Botlin das Spiel verlässt, kann dieser Gegner keine Kopie der gewählten Karte spielen oder aufmarschieren lassen. (Nur ein Mal pro Runde.)",
+        "traits": "Haus Botlin. Lord."
+    },
+    {
+        "code": "08032",
+        "flavor": "",
+        "name": "Schwarzer Wind",
+        "text": "Solange du Asha Graufreud kontrollierst, erhält sie Ruhmreich.\n<b>Reaktion:</b> Nachdem ein Charakter, den du kontrollierst, durch Brandschatzen einen Ort oder eine Verstärkung abgelegt hat, ziehe 1 Karte. (Nur zwei Mal pro Phase.)",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "08033",
+        "flavor": "",
+        "name": "Sturmkrähen",
+        "text": "Investition (5).\n<b>Herausforderungsaktion:</b> Lege X Gold von Sturmkrähen ab, um X Charaktere zu wählen. Bis zum Ende der Phase bekommt jeder ge wählte Charakter -1 Stärke. (Nur ein Mal pro Phase.)",
+        "traits": "Söldner."
+    },
+    {
+        "code": "08034",
+        "flavor": "",
+        "name": "Allesverzehrende Flammen",
+        "text": "<b>Herausforderungsaktion:</b> Lege eine andere [targaryen]-Karte von deiner Hand ab, um einen teilnehmenden Charakter zu wählen. Bis zum Ende der Phase bekommt der gewählte Charakter -3 Stärke und wird getötet, falls seine Stärke 0 ist.",
+        "traits": ""
+    },
+    {
+        "code": "08035",
+        "flavor": "Ich will Sonnspeer und den Sitz meines Vaters. Ich will Dorne.",
+        "name": "Arianne Martell",
+        "text": "Einblick.\n<b>Herausforderungsaktion:</b> Schicke Arianne Martell auf deine Hand zurück, um einen Charakter zu wählen, der weniger Stärke hat als sie, und schicke ihn auf die Hand seines Besitzers zurück.",
+        "traits": "Lady."
+    },
+    {
+        "code": "08036",
+        "flavor": "",
+        "name": "Planänderung",
+        "text": "<b>Reaktion:</b> Nachdem du eine Heraus forderung verloren hast, verschiebe eine Karte aus deinem Strategiestapel unter dein Archiv, falls weniger als 5 Strategiekarten in deinem Archiv liegen.",
+        "traits": ""
+    },
+    {
+        "code": "08037",
+        "flavor": "",
+        "name": "Thoros von Myr",
+        "text": "Ruhmreich.\n<b>Unterbrechung:</b> Sobald ein anderer nicht-loyaler Charakter, den du kontrollierst, getötet werden würde, beuge Thoros von Myr und lege 1 Macht von ihm ab, um jenen Charakter zu retten.",
+        "traits": "Bruderschaft. R'hllor."
+    },
+    {
+        "code": "08038",
+        "flavor": "",
+        "name": "Mondtor",
+        "text": "Limitiert.\nErhöhe die Goldwerte der aufgedeckten Strategiekarten aller Gegner um 1.\nGoldwert +2",
+        "traits": "Umkämpft. Haus Arryn."
+    },
+    {
+        "code": "08039",
+        "designer": "Kartenentwurf von Corey Faherty, Gesamtweltmeister 2011.",
+        "flavor": "",
+        "name": "Das Haus mit der roten Tür",
+        "text": "Nachdem alle Agenden angekündigt worden sind, suche in deinem Deck nach einem nicht-limitierten einzigartigen Ort mit aufgedruckten Kosten von 3 oder weniger und bringe ihn ins Spiel. Dieser Ort kann nicht durch Karteneffkte aus dem Spiel abgelegt werden.\nWährend des Aufbaus kannst du nicht mehr als 4 Gold ausgeben.",
+        "traits": "Traum."
+    },
+    {
+        "code": "08040",
+        "flavor": "",
+        "name": "Fahrt über das Sommermeer",
+        "text": "Du darfst während der Herausforderungsphase eine zusätzliche [power]-Herausforderung initiieren. Du kannst keine [military]- oder [intrigue]-Herausforderungen initiieren.",
+        "traits": "Sommer."
+    }
+]

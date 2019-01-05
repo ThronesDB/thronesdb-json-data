@@ -1,0 +1,143 @@
+[
+    {
+        "code": "08061",
+        "flavor": "",
+        "name": "Nymeria",
+        "text": "Einschüchternd. Keine Verstärkungen.\n<b>Aktion:</b> Während einer Herausforderung, in der du einen teilnehmenden [stark]-Charakter kontrollierst, beuge Nymeria und beliebig viele andere <i>Schattenwolf</i>-Charaktere, um alle diese Charaktere auf deiner Seite an der Herausforderung teilnehmen zu lassen.",
+        "traits": "Schattenwolf."
+    },
+    {
+        "code": "08062",
+        "flavor": "",
+        "name": "Die Gunst der Alten Götter",
+        "text": "Der verstärkte Charakter erhält das Merkmal <i>Alte Götter</i>.\n<b>Aktion:</b> Falls jeder Charakter, jeder Ort und jede Verstärkung, die du kontrollierst, die [stark]-Fraktionszugehörigkeit hat, beuge Die Gunst der Alten Götter, um den verstärkten Charakter aufzurichten.",
+        "traits": "Segen. Alte Götter."
+    },
+    {
+        "code": "08063",
+        "flavor": "",
+        "name": "Spionin aus Hohenturm",
+        "text": "Hinterhalt (3).\n<b>Reaktion:</b> Nachdem Spionin aus Hohenturm ins Spiel gekommen ist, wähle einen Charakter und decke die oberste Karte deines Decks auf. Bis zum Ende der Phase bekommt der gewählte Charakter +X Stärke. X sind die aufgedruckten Kosten der aufgedeckten Karte.",
+        "traits": "Haus Hohenturm. Spion."
+    },
+    {
+        "code": "08064",
+        "flavor": "",
+        "name": "Von der Jungfrau gesegnet",
+        "text": "Nur Charaktere, die du kontrollierst.\nDer verstärkte Charakter erhält das Merkmal <i>Die Sieben</i> und \"Keine Verstärkungen außer <i>Segen.</i>\"",
+        "traits": "Segen. Die Sieben."
+    },
+    {
+        "code": "08065",
+        "flavor": "",
+        "name": "Besatzung auf der Mauer",
+        "text": "Keine Verstärkungen.\n<b>Reaktion:</b> Nachdem Besatzung auf der Mauer zum Verteidiger deklariert worden ist, beuge einen Nicht-[thenightswatch]-Charakter, um Besatzung auf der Mauer aufzurichten.",
+        "traits": "Armee."
+    },
+    {
+        "code": "08066",
+        "flavor": "",
+        "name": "Obsidianpfeile",
+        "text": "Investition (4).\n<b>Aktion:</b> Solange der verstärkte Charakter angreift, verschiebe 1 Gold von Obsidianpfeile auf einen verteidigenden Charakter, um ihm bis zum Ende der Herausforderung -3 Stärke zu geben. (Nur ein Mal pro Herausforderung.)",
+        "traits": "Waffe."
+    },
+    {
+        "code": "08067",
+        "flavor": "",
+        "name": "Selyse Baratheon",
+        "text": "<b>Erzwungene Reaktion:</b> Nachdem du Selyse Baratheon aufmarschieren lassen hast, beuge deine Fraktionskarte. Dann beuge jeden Nicht-<i>Lady</i>-Charakter.",
+        "traits": "Lady. Königin. R'hllor."
+    },
+    {
+        "code": "08068",
+        "flavor": "\"Schließlich war sie von den Valyrern errichtet worden, und all ihre Werke stanken nach Zauberei.\"",
+        "name": "Burg Drachenstein",
+        "text": "<b>Reaktion:</b> Nachdem eine Phase begonnen hat, beuge Burg Drachenstein, um einen Charakter zu wählen. Bis zum Ende der Phase kann der gewählte Charakter nicht aufgerichtet werden.",
+        "traits": "Drachenstein. Festung."
+    },
+    {
+        "code": "08069",
+        "flavor": "",
+        "name": "Ser Balon Swann",
+        "text": "Ruhmreich.\n<b>Reaktion:</b> Nachdem ein Nicht-[lannister]-<i>Ritter</i>-Charakter unter deiner Kontrolle ins Spiel gekommen ist, erhalte 2 Gold. (Nur ein Mal pro Phase.)",
+        "traits": "Königsgarde. Ritter."
+    },
+    {
+        "code": "08070",
+        "flavor": "",
+        "name": "Süße Cersei",
+        "text": "Während der Herausforderungsphase darfst du das Gold auf Süße Cersei ausgeben, als ob es in deiner Goldreserve wäre.\n<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung gewonnen hast, verschiebe 1 Gold aus der Schatzkammer auf Süße Cersei.",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "08071",
+        "flavor": "",
+        "name": "Küstenplünderer",
+        "text": "<b>Reaktion:</b> Nachdem Küstenplünderer ins Spiel gekommen ist, wähle einen Gegner. Der gewählte Spieler wählt eine Karte auf seiner Hand und legt sie oben auf sein Deck.",
+        "traits": "Plünderer."
+    },
+    {
+        "code": "08072",
+        "flavor": "\"Solange ich meinen Onkel von Zehntürmen habe, habe ich Harlau..\" <cite>Asha Graufreud</cite>",
+        "name": "Unterstützung von Harlau",
+        "text": "<b>Herausforderungsaktion:</b> Beuge einen <i>Kriegsschiff</i>-Ort, um den verstärkten Charakter bis zum Ende der Phase Brandschatzen, Ruhmreich oder Heimlich erhalten zu lassen (wähle 1).",
+        "traits": "Haus Harlau."
+    },
+    {
+        "code": "08073",
+        "flavor": "\"Wir werden ja sehen, wie weise sie sind.\" <cite>Daenerys Targaryen</cite>",
+        "name": "Weiser Herr",
+        "text": "Investition (3).\n<b>Aktion:</b> Lege 1 Gold von Weiser Herr ab, um eine nicht-fraktionszugehörige Verstärkungs- oder Ereigniskarte aus deinem Ablagestapel auf deine Hand zurückzuschicken. (Nur ein Mal pro Runde.)",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "08074",
+        "flavor": "",
+        "name": "Yunkai",
+        "text": "Investition (4).\n<b>Aktion:</b> Während einer Herausforderung, in der du der angreifende Spieler bist, beuge Yunkai und lege X Gold davon ab, um jeden Charakter mit Stärke X oder weniger aus der Herausforderung zu entfernen (X kann nicht 0 sein). Dann lege 2 Gold aus der Schatzkammer auf Yunkai, falls du die Herausforderung gewinnst.",
+        "traits": "Essos."
+    },
+    {
+        "code": "08075",
+        "flavor": "",
+        "name": "Händlerin aus der Plankenstadt",
+        "text": "Investition (5).\n<b>Unterbrechung:</b> Sobald Händlerin aus der Plankenstadt das Spiel verlässt, bringe einen Nicht-[martell]-Charakter mit aufgedruckten Kosten von X oder weniger von deiner Hand ins Spiel. X ist die Anzahl des Goldes auf Händlerin aus der Plankenstadt. Bis zum Ende der Phase kann jener Charakter das Spiel nicht verlassen.",
+        "traits": "Händler."
+    },
+    {
+        "code": "08076",
+        "flavor": "Der Brunnen bei Bronnstein war allerdings vor hundert Jahren versiegt ... die Sande waren herangekrochen, um zurückzuerobern, was ihnen gehörte.",
+        "name": "Bronnstein",
+        "text": "<b>Reaktion:</b> Nachdem du als verteidigender Spieler eine Herausforderung verloren hast, beuge Bronnstein, um einen Charakter, den du kontrollierst, zu wählen und aufzurichten.",
+        "traits": "Dorne. Festung."
+    },
+    {
+        "code": "08077",
+        "flavor": "",
+        "name": "Die Söhne des Kriegers",
+        "text": "Keine Verstärkungen.\n<b>Reaktion:</b> Nachdem ein Gegner während einer Herausforderung, an der Die Söhne des Kriegers teilnehmen, ein Ereignis gespielt hat, verschiebe 1 Macht von der Fraktionskarte dieses Gegners auf Die Söhne des Kriegers.",
+        "traits": "Armee. Die Sieben.."
+    },
+    {
+        "code": "08078",
+        "flavor": "",
+        "name": "Besetzt von der Garde",
+        "text": "Nur nicht-limitierte Orte. Investition (4). Vergänglich.\nBehandle den verstärkten Ort so, als ob sein aufgedrucktes Textfeld leer wäre (mit Ausnahme von <i>Merkmalen</i>).\n<b>Erzwungene Reaktion:</b> Nachdem die Aufmarschphase begonnen hat, opfere Besetzt von der Garde, es sei denn, du legst 1 Gold davon ab.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "08079",
+        "flavor": "\"Die Grünseher waren weitaus mehr. Sie ... konnten in den Leib jedes Tieres schlüpfen, das unter dem Himmel fliegt, schwimmt oder kriecht, durch die Augen der Wehrholzbäume sehen und die Wahrheit entdecken, die unter der Welt verborgen liegt.\" <cite>Jojen Reed</cite>",
+        "name": "Der Grüne Blick",
+        "text": "<b>Erzwungene Reaktion:</b> Nachdem die Nachziehphase begonnen hat, decke die oberste Karte vom Deck jedes Spielers auf. Du darfst deine Fraktionskarte beugen, um jene Karten abzulegen.",
+        "traits": ""
+    },
+    {
+        "code": "08080",
+        "designer": "Kartenentwurf von Jakob Hultman, Weltmeister im Tjost 2015.",
+        "flavor": "",
+        "name": "Der König im Norden",
+        "text": "Solange ein Spieler keinen <i>König</i>-Charakter kontrolliert, kann er die Fähigkeiten von Charakteren, Orten und Verstärkungen nicht auslösen.",
+        "traits": "Königreich."
+    }
+]

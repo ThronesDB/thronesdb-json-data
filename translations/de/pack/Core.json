@@ -1,0 +1,1479 @@
+[
+    {
+        "code": "01001",
+        "flavor": "",
+        "name": "Der Thron der Sieben Königreiche",
+        "text": "<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung gewonnen hast, verschiebe 1 Macht von der Fraktionskarte des verlierenden Gegners auf deine eigene.",
+        "traits": "Adlig."
+    },
+    {
+        "code": "01002",
+        "flavor": "",
+        "name": "Zeit der Krähen",
+        "text": "<b>Reaktion:</b> Nachdem du die Herrschaft gewonnen hast, erhältst du 2 Macht für deine Fraktion.",
+        "traits": "Erlass."
+    },
+    {
+        "code": "01003",
+        "flavor": "",
+        "name": "Spiel der Throne",
+        "text": "Ein Spieler kann keine [military]- oder [power]-Herausforderung initiieren, es sein denn, er hat in dieser Phase schon eine [intrigue]-Herausforderung gewonnen.",
+        "traits": "Komplott."
+    },
+    {
+        "code": "01004",
+        "flavor": "",
+        "name": "Ein hehres Ziel",
+        "text": "Reduziere die Kosten des ersten <i>Lord</i>- oder <i>Lady</i>-Charakters, den du in dieser Runde aufmarschieren lässt, um 2.",
+        "traits": "Königreich. Adlig."
+    },
+    {
+        "code": "01005",
+        "flavor": "",
+        "name": "Sturm der Schwerter",
+        "text": "In der Herausforderungsphase darfst du eine zusätzliche [military]-Herausforderung initiieren.",
+        "traits": "Krieg."
+    },
+    {
+        "code": "01006",
+        "flavor": "",
+        "name": "Baubefehl",
+        "text": "<b>Sobald aufgedeckt:</b> Suche in den obersten 10 Karten deines Decks nach einer Verstärkung oder einem Ort, decke die Karte auf und nimm sie auf die Hand. Mische dein Deck.",
+        "traits": "Königreich."
+    },
+    {
+        "code": "01007",
+        "flavor": "",
+        "name": "Ruft die Banner",
+        "text": "<b>Sobald aufgedeckt:</b> Wähle einen Gegner. Du erhältst 1 Gold für jeden Charakter, den der gewählte Spieler kontrolliert.",
+        "traits": "Königreich."
+    },
+    {
+        "code": "01008",
+        "flavor": "",
+        "name": "Frieden über Westeros",
+        "text": "<b>Sobald aufgedeckt:</b> Benenne eine Herausforderungsart. Bis du eine neue Strategiekarte aufdeckst, reduziere den Schadenswert auf der Strategiekarte des angreifenden Spielers um 1 während allen Herausforderungen der benannten Art, in denen du der verteidigende Spieler bist.",
+        "traits": "Sommer."
+    },
+    {
+        "code": "01009",
+        "flavor": "",
+        "name": "Enteignung",
+        "text": "<b>Sobald aufgedeckt:</b> Wähle eine Verstärkung und lege sie aus dem Spiel ab.",
+        "traits": "Erlass."
+    },
+    {
+        "code": "01010",
+        "flavor": "",
+        "name": "Kupfermünzen zählen",
+        "text": "<b>Sobald aufgedeckt:</b> Ziehe 3 Karten.",
+        "traits": "Königreich."
+    },
+    {
+        "code": "01011",
+        "flavor": "",
+        "name": "Üble Nachrede",
+        "text": "<b>Sobald aufgedeckt:</b> Wähle einen Charakter und beuge ihn.",
+        "traits": "Komplott."
+    },
+    {
+        "code": "01012",
+        "flavor": "",
+        "name": "Festungsmauern",
+        "text": "Behandle alle Charaktere so, als ob ihr aufgedrucktes Textfeld leer wäre (mit Ausnahme von <i>Merkmalen</i>).",
+        "traits": "Belagerung. Krieg."
+    },
+    {
+        "code": "01013",
+        "flavor": "",
+        "name": "Aufgespiesste Köpfe",
+        "text": "<b>Sobald aufgedeckt:</b> Wähle einen Gegner. Lege 1 zufällige Karte von der Hand des gewählten Spielers ab. Falls die abgelegte Karte ein Charakter ist, erhältst du 2 Macht für deine Fraktion und der abgelegte Charakter wird auf den Totenstapel seines Besitzers gelegt.",
+        "traits": "Erlass. Krieg."
+    },
+    {
+        "code": "01014",
+        "flavor": "",
+        "name": "Lanzenturnier",
+        "text": "Jeder Spieler kann in jeder Herausforderung nicht mehr als 1 Charakter zum Angreifer oder Verteidiger deklarieren.",
+        "traits": "Krieg."
+    },
+    {
+        "code": "01015",
+        "flavor": "",
+        "name": "Zur Mauer geschickt",
+        "text": "<b>Sobald aufgedeckt:</b> Jeder Spieler wählt einen Charakter, den er kontrolliert, (falls möglich) und legt ihn aus dem Spiel ab (kann nicht gerettet werden).",
+        "traits": "Erlass."
+    },
+    {
+        "code": "01016",
+        "flavor": "",
+        "name": "Marschbefehl",
+        "text": "Du kannst keine Orte und Verstärkungen aufmarschieren lassen und keine Ereignisse ausspielen.",
+        "traits": "Erlass. Krieg."
+    },
+    {
+        "code": "01017",
+        "flavor": "",
+        "name": "Seeherrschaft",
+        "text": "Behandle den Basisgoldwert jeder aufgedeckten Strategiekarte mit dem Merkmal <i>Königreich</i> und/oder <i>Erlass</i> als wäre er 0.",
+        "traits": "Belagerung. Krieg."
+    },
+    {
+        "code": "01018",
+        "flavor": "",
+        "name": "Die Macht hinter dem Thron",
+        "text": "<b>Sobald aufgedeckt:</b> Lege 1 Aufrichtenmarker auf Die Macht hinter dem Thron.\n<b>Aktion:</b> Lege 1 Aufrichtenmarker von Die Macht hinter dem Thron ab, um einen Charakter zu wählen und aufzurichten.",
+        "traits": "Adlig. Komplott."
+    },
+    {
+        "code": "01019",
+        "flavor": "",
+        "name": "Wiederaufbau",
+        "text": "<b>Sobald aufgedeckt:</b> Wähle bis zu 3 Karten in deinem Ablagestapel und mische sie in dein Deck.",
+        "traits": "Königreich."
+    },
+    {
+        "code": "01020",
+        "flavor": "",
+        "name": "Truppenverstärkung",
+        "text": "<b>Sobald aufgedeckt:</b> Wähle einen Charakter mit aufgedruckten Kosten von 5 oder weniger in deiner Hand oder deinem Ablagestapel und bringe ihn ins Spiel.",
+        "traits": "Königreich. Krieg."
+    },
+    {
+        "code": "01021",
+        "flavor": "",
+        "name": "Schleichangriff",
+        "text": "In der Herausforderungsphase kannst du nicht mehr als 1 Herausforderung initiieren.",
+        "traits": "Komplott."
+    },
+    {
+        "code": "01022",
+        "flavor": "",
+        "name": "Einberufung",
+        "text": "<b>Sobald aufgedeckt:</b> Suche in den obersten 10 Karten deines Decks nach einem Charakter, decke ihn auf und nimm ihn auf die Hand. Mische dein Deck.",
+        "traits": "Königreich."
+    },
+    {
+        "code": "01023",
+        "flavor": "",
+        "name": "Tempelabgaben",
+        "text": "<b>Erzwungene Reaktion:</b> Nachdem die Herausforderungsphase begonnen hat, legt jeder Spieler alles Gold aus seiner Goldreserve zurück in die Schatzkammer.",
+        "traits": "Erlass. Die Sieben."
+    },
+    {
+        "code": "01024",
+        "flavor": "",
+        "name": "Besteuerung",
+        "text": "In dieser Runde darfst du 1 zusätzliche Karte mit dem Schlüsselwort Limitiert ausspielen oder aufmarschieren lassen.",
+        "traits": "Erlass. Königreich."
+    },
+    {
+        "code": "01025",
+        "flavor": "Kalter Wind wehte von Norden her und ließ die Bäume rascheln, als wären sie lebendig. Den ganzen Tag schon schien es Will, als würden sie beobachtet, von etwas Kaltem, Unerbittlichem.",
+        "name": "Die Winde des Winters",
+        "text": "",
+        "traits": "Winter."
+    },
+    {
+        "code": "01026",
+        "flavor": "",
+        "name": "Seefeuerangriff",
+        "text": "<b>Sobald aufgedeckt:</b> Jeder Spieler wählt bis zu 3 Charaktere, die er kontrolliert. Töte jeden nicht-gewählten Charakter (kann nicht gerettet werden).",
+        "traits": "Komplott. Krieg."
+    },
+    {
+        "code": "01027",
+        "flavor": "",
+        "name": "Lehnstreue",
+        "text": "Dein Deck kann nicht mehr als 15 neutrale Karten enthalten.\n<b>Aktion:</b> Beuge deine Fraktionskarte, um die Kosten der nächsten loyalen Karte, die du in dieser Phase spielst oder aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": ""
+    },
+    {
+        "code": "01028",
+        "flavor": "\"Ich habe Euch gewarnt, mir nicht zu trauen, das wisst Ihr.\"",
+        "name": "Kleinfinger",
+        "text": "<b>Reaktion:</b> Nachdem du Kleinfinger aufmarschieren lassen hast, ziehe 2 Karten.\nGoldwert +1",
+        "traits": "Verbündeter. Lord. Kleiner Rat."
+    },
+    {
+        "code": "01029",
+        "flavor": "\"... warum sind es immer die Unschuldigen, die am meisten leiden, wenn Ihr hohen Herren Euer Spiel um Throne spielt?\"",
+        "name": "Varys",
+        "text": "Heimlich.\n<b>Unterbrechung:</b> Sobald die Herrschaftsphase endet, entferne Varys aus dem Spiel, um jeden Charakter aus dem Spiel abzulegen.",
+        "traits": "Lord. Kleiner Rat. Spion."
+    },
+    {
+        "code": "01030",
+        "flavor": "",
+        "name": "Rasselhemds Plünderer",
+        "text": "Keine Verstärkungen.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Rasselhemds Plünderer als Angreifer teilnehmen, wähle eine vom verlierenden Gegner kontrollierte Verstärkung und lege sie aus dem Spiel ab.",
+        "traits": "Plünderer. Wildling."
+    },
+    {
+        "code": "01031",
+        "flavor": "",
+        "name": "Wildlinghorde",
+        "text": "Keine Verstärkungen. Brandschatzen.\n<b>Herausforderungsaktion:</b> Beuge deine Fraktionskarte, um einen teilnehmenden <i>Wildling</i>-Charakter zu wählen, den du kontrollierst. Bis zum Ende der Herausforderung bekommt der gewählte Charakter +2 Stärke.",
+        "traits": "Armee. Wildling."
+    },
+    {
+        "code": "01032",
+        "flavor": "\"Der König speist, so sagen sie, und an der Rechten Hand bleibt die Scheiße kleben.\" <cite>Robert Baratheon</cite>",
+        "name": "Abzeichen der Hand",
+        "text": "Nur <i>Lord</i>- und <i>Lady</i>-Charaktere.\n<b>Aktion:</b> Beuge Abzeichen der Hand, um den verstärkten Charakter aufzurichten.",
+        "traits": "Gegenstand."
+    },
+    {
+        "code": "01033",
+        "flavor": "",
+        "name": "Leibwächter",
+        "text": "Nur <i>Lord</i>- und <i>Lady</i>-Charaktere.\n<b>Unterbrechung:</b> Sobald der verstärkte Charakter getötet oder aus dem Spiel abgelegt würde, opfere Leibwächter, um den verstärkten Charakter zu retten.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "01034",
+        "flavor": "\"Er hat seine Informanten überall. Seine kleinen Vögel nennt er sie.\" <cite>Kleinfinger</cite>",
+        "name": "Kleiner Vogel",
+        "text": "Der verstärkte Charakter erhält ein [intrigue]-Symbol.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "01035",
+        "flavor": "Als ihm der Maester den Trichter aus dem Mund zog, versank er bereits wieder in tiefen Schlaf.",
+        "name": "Mohnblumensaft",
+        "text": "Vergänglich. <i>(Falls die verstärkte Karte das Spiel verlässt, lege diese Verstärkung ab.)</i>\nBehandle das aufgedruckte Textfeld des verstärkten Charakters als ob es leer wäre (mit Ausnahme von <i>Merkmalen</i>).",
+        "traits": "Zustand."
+    },
+    {
+        "code": "01036",
+        "flavor": "Was hatte Jon Arryn von einem Bastard des Königs gewollt, und wieso war dies sein Leben wert gewesen?",
+        "name": "Von edler Abstammung",
+        "text": "Der verstärkte Charakter erhält ein [power]-Symbol.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "01037",
+        "flavor": "\"Jetzt beginnen wir mit dem Tanz.\" <cite>Syrio Forel</cite>",
+        "name": "Syrios Unterricht",
+        "text": "Der verstärkte Charakter erhält ein [military]-Symbol.",
+        "traits": "Zustand. Fertigkeit."
+    },
+    {
+        "code": "01038",
+        "flavor": "\"Es ist ein grauenvoll unbequemer Stuhl. In mehr als einer Hinsicht.\" <cite>Robert Baratheon</cite>",
+        "name": "Der Eiserne Thron",
+        "text": "Der Eiserne Thron steuert 8 Stärke zu deiner Gesamtstärke bei der Herrschaft bei.\nReservewert +1",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "01039",
+        "flavor": "",
+        "name": "Der Königsweg",
+        "text": "Limitiert.\n<b>Aufmarschaktion:</b> Beuge und opfere Der Königsweg, um die Kosten des nächsten Charakters, den du in dieser Phase aufmarschieren lässt, um 3 zu reduzieren.\nInitiativewert +1",
+        "traits": "Westeros."
+    },
+    {
+        "code": "01040",
+        "flavor": "",
+        "name": "Die Rosenstrasse",
+        "text": "Limitiert. <i>(Pro Runde darf jeder Spieler nur 1 limitierte arte spielen oder aufmarschieren lassen.)</i>\nGoldwert +1",
+        "traits": "Westeros."
+    },
+    {
+        "code": "01041",
+        "flavor": "",
+        "name": "Erschlagen",
+        "text": "<b>Reaktion:</b> Nachdem du als angreifender Spieler eine [military]-Herausforderung um 5 oder mehr Stärke gewonnen hast, wähle einen Charakter, der vom verlierenden Gegner kontrolliert wird, und töte ihn. (Maximal 1 pro Herausforderung.)",
+        "traits": ""
+    },
+    {
+        "code": "01042",
+        "flavor": "",
+        "name": "Niederbrennen",
+        "text": "<b>Reaktion:</b> Nachdem du als angreifender Spieler eine [military]-Herausforderung um 5 oder mehr Stärke gewonnen hast, wähle einen Ort, der vom verlierenden Gegner kontrolliert wird, und lege ihn aus dem Spiel ab. (Maximal 1 pro Herausforderung.)",
+        "traits": ""
+    },
+    {
+        "code": "01043",
+        "flavor": "",
+        "name": "Höherer Thronanspruch",
+        "text": "<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung um 5 oder mehr Stärke gewonnen hast, erhältst du 2 Macht für deine Fraktion. (Maximal 1 pro Herausforderung.)",
+        "traits": ""
+    },
+    {
+        "code": "01044",
+        "flavor": "",
+        "name": "Tränen von Lys",
+        "text": "<b>Reaktion:</b> Nachdem du als angreifender Spieler eine [intrigue]-Herausforderung gewonnen hast, lege einen Giftmarker auf einen Charakter ohne [intrigue]-Symbol, den der verlierende Gegner kontrolliert. Falls der Charakter den Giftmarker am Ende der Phase immer noch hat, entferne ihn und töte den Charakter. (Maximal 1 pro Herausforderung.)",
+        "traits": "Gift."
+    },
+    {
+        "code": "01045",
+        "flavor": "",
+        "name": "Das Urteil der Hand",
+        "text": "<b>Unterbrechung:</b> Sobald die Effekte eines Ereignisses eines Gegners initiiert werden würden, hebe diese Effekte auf. X sind die aufgedruckten Kosten des gegnerischen Ereignisses.",
+        "traits": ""
+    },
+    {
+        "code": "01046",
+        "flavor": "",
+        "name": "Maester Cressen",
+        "text": "<b>Aufmarschaktion:</b> Beuge Maester Cressen, um eine <i>Zustand</i>-Verstärkung zu wählen und lege sie aus dem Spiel ab.",
+        "traits": "Maester."
+    },
+    {
+        "code": "01047",
+        "flavor": "\"Es sind nicht die Feinde, die Euch offen ins Gesicht fluchen, die Ihr fürchten solltet, sondern die, die lächeln, wenn Ihr sie anseht, und ihre Messer wetzen, sobald Ihr ihnen den Rücken zukehrt.\"",
+        "name": "Melisandre",
+        "text": "<b>Reaktion:</b> Nachdem du eine <i>R'hllor</i>-Karte aufmarschieren lassen oder gespielt hast, wähle einen Charakter und beuge ihn. (Nur ein Mal pro Runde.)",
+        "traits": "Lady. R'hllor."
+    },
+    {
+        "code": "01048",
+        "flavor": "\"Fett? Fett? Spricht man so mit seinem König? Ach, verflucht sollst du sein, Ned, warum hast du nur immer Recht?\"",
+        "name": "Robert Baratheon",
+        "text": "Einschüchternd. Ruhmreich.\nRobert Baratheon bekommt +1 Stärke für jeden anderen gebeugten Charakter im Spiel.",
+        "traits": "König. Lord."
+    },
+    {
+        "code": "01049",
+        "flavor": "",
+        "name": "Selyse Baratheon",
+        "text": "<b>Herausforderungsaktion:</b> Bezahle 1 Gold, um einen [baratheon]-Charakter zu wählen. Bis zum Ende der Phase erhält der gewählte Charakter ein [intrigue]-Symbol.",
+        "traits": "Haus Florent. Lady. R'hllor."
+    },
+    {
+        "code": "01050",
+        "flavor": "\"König Stannis ist mein Gott. Er hat mich erschaffen und mit seinem Vertrauen gesegnet.\"",
+        "name": "Ser Davos Seewert",
+        "text": "Heimlich.\n<b>Unterbrechung:</b> Sobald Ser Davos Seewert getötet wird, schicke ihn auf deine Hand zurück, anstatt ihn auf deinen Totenstapel zu legen.",
+        "traits": "Ritter. Schmuggler."
+    },
+    {
+        "code": "01051",
+        "flavor": "\"Der Graue Tod schläft nur, um eines Tages wiederzuerwachen. Das Kind ist nicht rein!\" <cite>Val</cite>",
+        "name": "Shireen Baratheon",
+        "text": "<b>Unterbrechung:</b> Sobald Shireen Baratheon getötet wird, wähle einen Charakter und beuge ihn.",
+        "traits": "Lady."
+    },
+    {
+        "code": "01052",
+        "flavor": "\"Ich werde Westeros Gerechtigkeit bringen.\"",
+        "name": "Stannis Baratheon",
+        "text": "Jeder Spieler kann in der Aufrichtphase nicht mehr als 2 Charaktere aufrichten. <i>(Nicht-Charakterkarten werden durch diese Fähigkeit nicht am Aufrichten gehindert.)</i>",
+        "traits": "Lord. Kleiner Rat."
+    },
+    {
+        "code": "01053",
+        "flavor": "\"Die Saat ist stark, hat er zu mir gesagt. Seine letzten Worte. Immer wieder hat er Roberts Namen gesagt und meinen Arm so fest gepackt, dass er Spuren hinterließ.\" <cite>Lysa Arryn</cite>",
+        "name": "Versteckter Bastard",
+        "text": "",
+        "traits": "Bastard."
+    },
+    {
+        "code": "01054",
+        "flavor": "\"In Lys haben die Roten Priester einen großen Tempel. Sie verbrennen ständig dies und das und rufen ihren R'hllor an. Mit ihren Feuerchen langweilen sie mich. Und König Stannis wir ihrer auch bald überdrüssig sein, darf man hoffen.\" <cite>Salladhor Saan</cite>",
+        "name": "Glühende Anhänger",
+        "text": "<b>Reaktion:</b> Nachdem die Herrschaftsphase begonnen hat, richte Glühende Anhänger auf.",
+        "traits": "R'hllor."
+    },
+    {
+        "code": "01055",
+        "flavor": "\"Drei meiner Männer wurden wie Hunde niedergemacht, keine Wegstunde von hier. Und was macht Robert? Er geht auf die Jagd.\" <cite>Eddard Stark</cite>",
+        "name": "Königliche Jagdgesellschaft",
+        "text": "Keine Verstärkungen.\nSolange ein Gegner einen <i>König</i>-Charakter kontrolliert, erhält Königliche Jagdgesellschaft ein [intrigue]-Symbol.",
+        "traits": "Armee."
+    },
+    {
+        "code": "01056",
+        "flavor": "",
+        "name": "Gläubige von Drachenstein",
+        "text": "<b>Aufmarschaktion:</b> Beuge Gläubige von Drachenstein, um die Kosten des nächsten [baratheon]-Charakters, den du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "01057",
+        "flavor": "",
+        "name": "Lanzenreiter der Vorhut",
+        "text": "<b>Reaktion:</b> Nachdem Lanzenreiter der Vorhut ins Spiel gekommen ist, wähle einen Charakter oder eine Fraktionskarte eines Gegners und lege 1 Macht von der gewählten Karte ab.",
+        "traits": "Haus Florent. Ritter."
+    },
+    {
+        "code": "01058",
+        "flavor": "",
+        "name": "Lichtbringer",
+        "text": "Nur [baratheon]-Charaktere.\nFalls der verstärkte Charakter Stannis Baratheon ist, erhält er Ruhmreich.\n<b>Reaktion:</b> Nachdem der verstärkte Charakter 1 oder mehr Macht erhalten hat, richte ihn auf. (Nur ein Mal pro Phase.)",
+        "traits": "R'hllor. Waffe."
+    },
+    {
+        "code": "01059",
+        "flavor": "",
+        "name": "Hafen von Drachenstein",
+        "text": "Limitiert.\n<b>Aufmarschaktion:</b> Beuge Hafen von Drachenstein, um die Kosten der nächsten [baratheon]-Karte, die du in dieser Runde aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Drachenstein."
+    },
+    {
+        "code": "01060",
+        "flavor": "",
+        "name": "Saal mit der Bemalten Tafel",
+        "text": "<b>Reaktion:</b> Nachdem du die Herrschaft gewonnen hast, beuge Saal mit der Bemalten Tafel, um 1 Macht von der Fraktionskarte eines Gegners auf deine eigene zu verschieben.",
+        "traits": "Drachenstein."
+    },
+    {
+        "code": "01061",
+        "flavor": "",
+        "name": "Der Rote Bergfried",
+        "text": "Der Rote Bergfried steuert bei jeder [power]-Herausforderung, in der du einen teilneh menden Charakter kontrollierst, 2 Stärke zur Gesamtstärke deiner Seite bei.\n<b>Unterbrechung:</b> Sobald die Herausforderungsphase endet, beuge Der Rote Bergfried, um 2 Karten zu ziehen, falls du in dieser Runde keine [power]-Herausforderung verloren hast.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "01062",
+        "flavor": "",
+        "name": "Festigung der Macht",
+        "text": "<b>Aufmarschaktion:</b> Wähle Charaktere mit einer Gesamtstärke von bis zu 4, die alle vom selben Spieler kontrolliert werden, und beuge sie. Dann wähle einen dieser Charaktere und lasse ihn 1 Macht erhalten.",
+        "traits": ""
+    },
+    {
+        "code": "01063",
+        "flavor": "",
+        "name": "Unser ist der Zorn",
+        "text": "Kann nur während einer Herausforderung gespielt werden, in der du der verteidigende Spieler bist.\n<b>Aktion:</b> Wähle einen gebeugten [baratheon]-Charakter, den du kontrollierst. Jener Charakter nimmt jetzt als Verteidiger an der Herausforderung teil. Falls du diese Herausforderung gewinnst, richte jenen Charakter auf.",
+        "traits": ""
+    },
+    {
+        "code": "01064",
+        "flavor": "",
+        "name": "Visionen im Feuer",
+        "text": "Kann nur gespielt werden, falls du einen <i>R'hllor</i>-Charakter kontrollierst.\n<b>Herausforderungsaktion:</b> Wähle einen Gegner und sieh dir seine Hand an. Dann wähle 1 dieser Karten und lege sie aus der Hand ab.",
+        "traits": "R'hllor."
+    },
+    {
+        "code": "01065",
+        "flavor": "\"Was tot ist, kann niemals sterben, doch erhebt es sich von neuem, härter und stärker.\"",
+        "name": "Aeron Feuchthaar",
+        "text": "<b>Reaktion:</b> Nachdem du die Herrschaft gewonnen hast, bringe einen <i>Eisenmann</i>-Charakter aus deinem Totenstapel ins Spiel.",
+        "traits": "Ertrunkener Gott. Eisenmann. Lord."
+    },
+    {
+        "code": "01066",
+        "flavor": "\"Alannys Harlau war nie die Sorte Schönheit gewesen, welcher Sänger ihre Lieder widmen, doch ihre Tochter liebte das strenge, starke Gesicht und die lachenden Augen.\"",
+        "name": "Alannys Graufreud",
+        "text": "Solange du Startspieler bist, reduziere die Reservewerte der aufgedeckten Strategiekarten aller Gegner um 1.",
+        "traits": "Haus Harlau. Lady."
+    },
+    {
+        "code": "01067",
+        "flavor": "\"Ich bin Asha aus dem Hause Graufreud, ja. Die Meinungen darüber, ob ich eine Lady bin, gehen allerdings auseinander.\"",
+        "name": "Asha Graufreud",
+        "text": "Heimlich.\n<b>Reaktion:</b> Nachdem du eine unverteidigte Herausforderung gewonnen hast, an der Asha Graufreud teilnimmt, richte sie auf.",
+        "traits": "Eisenmann. Lady."
+    },
+    {
+        "code": "01068",
+        "flavor": "\"Ich bin der Graufreud, Lord Schnitter von Peik, König von Salz und Fels, Sohn des Seewinds, und kein Mann gesteht mir eine Krone zu. Ich zahle den eisernen Preis.\"",
+        "name": "Balon Graufreud",
+        "text": "Ruhmreich.\nSolange Balon Graufreud angreift, steuert jeder verteidigende Charakter, der weniger Stärke hat als er, keine Stärke zu dieser Herausforderung bei.",
+        "traits": "Eisenmann. Lord."
+    },
+    {
+        "code": "01069",
+        "flavor": "\"Krähenauge betet allein seinen eigenen Stolz an.\" <cite>Aeron Feuchthaar</cite>",
+        "name": "Euron Krähenauge",
+        "text": "Brandschatzen. Ruhmreich.\n<b>Reaktion:</b> Nachdem Euron Krähenauge eine Karte abgelegt hat, indem er Brandschatzen verwendet hat, bringe einen Ort aus dem Ablagestapel des verlierenden Gegners unter deiner Kontrolle ins Spiel.",
+        "traits": "Eisenmann. Lord. Plünderer."
+    },
+    {
+        "code": "01070",
+        "flavor": "Um den Hals trug er eine Kette aus vielen Metallen, die ihn als Maester der Zitadelle auswies.",
+        "name": "Maester Wendamyr",
+        "text": "Heimlich. <i>(Sobald du diesen Charakter zum Angreifer deklarierst, darfst du einen vom verteidigenden Gegner kontrollierten Charakter ohne Heimlich wählen. Der gewählte Charakter kann bei dieser Herausforderung nicht zum Verteidiger deklariert werden.)</i>",
+        "traits": "Maester."
+    },
+    {
+        "code": "01071",
+        "flavor": "\"Nur ein Narr demütigt sich selbst, wo es in der Welt von jenen wimmelt, die das für ihn tun möchten.\"",
+        "name": "Theon Graufreud",
+        "text": "Heimlich.\n<b>Reaktion:</b> Nachdem du eine unverteidigte Herausforderung gewonnen hast, an der Theon Graufreud teilnimmt, erhält er 1 Macht.",
+        "traits": "Verbündeter. Eisenmann. Lord."
+    },
+    {
+        "code": "01072",
+        "flavor": "",
+        "name": "Besatzung der Schwarzer Wind",
+        "text": "Brandschatzen. <i>(Nachdem du eine Herausforderung gewonnen hast, an der dieser Charakter teilnimmt, darfst du die oberste Karte vom Deck des Verlierers ablegen.)</i>",
+        "traits": "Eisenmann. Plünderer."
+    },
+    {
+        "code": "01073",
+        "flavor": "",
+        "name": "Ertrunkene",
+        "text": "Keine Verstärkungen.\nErtrunkene bekommt +1 Stärke für jeden <i>Kriegsschiff</i>-Ort, den du kontrollierst.",
+        "traits": "Armee. Ertrunkener Gott."
+    },
+    {
+        "code": "01074",
+        "flavor": "",
+        "name": "Fischweib von den Eiseninseln",
+        "text": "<b>Aufmarschaktion:</b> Beuge Fischweib von den Eiseninseln, um die Kosten des nächsten [greyjoy]-Charakters, den du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Verbündeter. Händler."
+    },
+    {
+        "code": "01075",
+        "flavor": "",
+        "name": "Schiffsbauer aus Herrenhort",
+        "text": "<b>Aufmarschaktion:</b> Beuge Schiffsbauer aus Herrenhort, um einen Ort mit aufgedruckten Kosten von 2 oder weniger zu wählen und zu beugen. (Falls du Startspieler bist, sind es stattdessen aufgedruckte Kosten von 3 oder weniger).",
+        "traits": "Verbündeter. Eisenmann."
+    },
+    {
+        "code": "01076",
+        "flavor": "\"Kein Mann weiß, wozu er in der Lage ist, so lange er den Sprung nicht wagt.\" <cite>Euron Krähenauge</cite>",
+        "name": "Navigator zur See",
+        "text": "Initiativewert +1",
+        "traits": "Eisenmann."
+    },
+    {
+        "code": "01077",
+        "flavor": "",
+        "name": "Wurfaxt",
+        "text": "Nur <i>Eisenmann</i>-Charaktere.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an welcher der verstärkte Charakter als Angreifer teilnimmt, opfere Wurfaxt, um einen verteidigenden Charakter zu wählen und zu töten.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "01078",
+        "flavor": "",
+        "name": "Grosser Krake",
+        "text": "Solange du Balon Graufreud kontrollierst, erhält er Heimlich.\n<b>Reaktion:</b> Nachdem du eine unverteidigte Herausforderung gewonnen hast, ziehe entweder 1 Karte oder erhalte 1 Macht für deine Fraktion. (Nur zwei Mal pro Runde.)",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "01079",
+        "flavor": "",
+        "name": "Spähschiff der Eisenflotte",
+        "text": "<b>Herausforderungsaktion:</b> Beuge Spähschiff der Eisenflotte, um einen teilnehmenden [greyjoy]-Charakter zu wählen. Bis zum Ende der Herausforderung bekommt der gewählte Charakter +1 Stärke. (Falls du Startspieler bist, bekommt er stattdessen +2 Stärke.)",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "01080",
+        "flavor": "",
+        "name": "Seeturm",
+        "text": "Limitiert.\n<b>Aufmarschaktion:</b> Beuge Seeturm, um die Kosten der nächsten [greyjoy]-Karte, die du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Eiseninseln."
+    },
+    {
+        "code": "01081",
+        "flavor": "",
+        "name": "Auferstanden aus dem Meer",
+        "text": "<b>Unterbrechung:</b> Sobald ein [greyjoy]-Charakter getötet werden würde, rette ihn. Dann verstärke den geretteten Charakter mit Auferstanden aus dem Meer als <i>Zustand</i>-Verstärkung mit dem Text: \"Vergänglich. Der verstärkte Charakter bekommt +1 Stärke.\"",
+        "traits": ""
+    },
+    {
+        "code": "01082",
+        "flavor": "",
+        "name": "Der Arm des Kraken",
+        "text": "Kann nur gespielt werden, falls du Startspieler bist.\n<b>Herausforderungsaktion:</b> Wähle einen verteidigenden Charakter mit Stärke 5 oder weniger. Der gewählte Charakter steuert keine Stärke zu dieser Herausforderung bei.",
+        "traits": ""
+    },
+    {
+        "code": "01083",
+        "flavor": "",
+        "name": "Wir säen nicht",
+        "text": "<b>Reaktion:</b> Nachdem du eine unverteidigte Herausforderung gewonnen hast, wähle eine Verstärkung oder einen Ort, die oder den der verlierende Gegner kontrolliert, und lege sie aus dem Spiel ab. (Maximal 1 pro Herausforderung.)",
+        "traits": ""
+    },
+    {
+        "code": "01084",
+        "flavor": "\"Liebe ist Gift. Ein süßes Gift, gewiss, aber umbringen wird es dich trotzdem.\"",
+        "name": "Cersei Lennister",
+        "text": "Solange Cersei Lennister während einer [intrigue]-Herausforderung angreift, erhöhe den Schadens wert deiner aufgedeckten Strategiekarte um 1.",
+        "traits": "Lady. Königin."
+    },
+    {
+        "code": "01085",
+        "flavor": "\"Was ich getan habe, geschah nur zum Wohle des Hauses Lennister.\"",
+        "name": "Grossmaester Pycelle",
+        "text": "Einblick. <i>(Nachdem du eine Herausforderung gewonnen hast, an der dieser Charakter teilnimmt, darfst du 1 arte ziehen.)</i>",
+        "traits": "Maester. Kleiner Rat."
+    },
+    {
+        "code": "01086",
+        "flavor": "\"Mein Sohn. Wie konnte ich einen solchen Sohn in die Welt setzen, Ned?\" <cite>Robert Baratheon</cite>",
+        "name": "Joffrey Baratheon",
+        "text": "<b>Reaktion:</b> Nachdem ein <i>Lord</i>- oder <i>Lady</i>-Charakter getötet worden ist, erhält Joffrey Baratheon 1 Macht. (Nur drei Mal pro Runde.)",
+        "traits": "Lord."
+    },
+    {
+        "code": "01087",
+        "flavor": "\"Es gibt keine Männer wie mich. Es gibt nur mich.\"",
+        "name": "Ser Jaime Lennister",
+        "text": "Ser Jaime Lennister wird nicht gebeugt, sobald er bei einer [military]-Herausforderung zum Angreifer deklariert wird, und erhält Ruhmreich, solange er an einer [military]-Herausforderung teilnimmt.",
+        "traits": "Ritter. Lord."
+    },
+    {
+        "code": "01088",
+        "flavor": "\"Kitzler lässt sie heulen, bis sie sich in die Hose pissen.\" <cite>Chiswyck</cite>",
+        "name": "Der Kitzler",
+        "text": "<b>Herrschaftsaktion:</b> Beuge Der Kitzler, um die oberste Karte vom Deck eines Gegners abzulegen. Dann darfst du 1 weitere Kopie der abgelegten Karte wählen und aus dem Spiel ablegen.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "01089",
+        "flavor": "\"Wenn Ihr einem Mann die Zunge herausreißt, straft Ihr seine Worte nicht lügen, sondern lasst nur die Welt wissen, dass Ihr sie fürchtet.\"",
+        "name": "Tyrion Lennister",
+        "text": "Heimlich.\n<b>Reaktion:</b> Nachdem eine [intrigue]-Herausforderung initiiert worden ist, erhalte 2 Gold. (Nur zwei Mal pro Runde.)",
+        "traits": "Lord."
+    },
+    {
+        "code": "01090",
+        "flavor": "",
+        "name": "Tywin Lennister",
+        "text": "Ruhmreich.\nTywin Lennister bekommt +1 Stärke für jeden Goldmarker in deiner Goldreserve.\nGoldwert +2",
+        "traits": "Lord."
+    },
+    {
+        "code": "01091",
+        "flavor": "Jeder Clan in den Bergen des Mondes fürchtete die Brandmänner, die ihre Haut mit Feuer brandig machten, um ihren Mut zu beweisen.",
+        "name": "Brandmänner",
+        "text": "Hinterhalt (2). <i>(In der Herausforderungsphase darfst du 2 Gold bezahlen, um diese Karte von deiner Hand ins Spiel zu bringen.)</i>",
+        "traits": "Clankrieger."
+    },
+    {
+        "code": "01092",
+        "flavor": "",
+        "name": "Goldröcke",
+        "text": "Hinterhalt (2).\n<b>Erzwungene Unterbrechung:</b> Sobald eine Phase endet, in der Goldröcke durch Hinterhalt ins Spiel gekommen sind, lege sie aus dem Spiel ab (können nicht gerettet werden).",
+        "traits": "Verbündeter. Armee."
+    },
+    {
+        "code": "01093",
+        "flavor": "",
+        "name": "Geldverleiher aus Lennishort",
+        "text": "Limitiert. <i>(Pro Runde darf jeder Spieler nur 1 limitierte Karte spielen oder aufmarschieren lassen.)</i>\nGoldwert +1",
+        "traits": "Händler."
+    },
+    {
+        "code": "01094",
+        "flavor": "",
+        "name": "Kaufmann aus Lennishort",
+        "text": "<b>Aufmarschaktion:</b> Beuge Kaufmann aus Lennishort, um die Kosten des nächsten [lannister]-Charakters, den du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Verbündeter. Kämmerer."
+    },
+    {
+        "code": "01095",
+        "flavor": "",
+        "name": "Meuchelmörder der Königin",
+        "text": "Hinterhalt (4).\n<b>Reaktion:</b> Nachdem Meuchelmörder der Königin durch Hinterhalt ins Spiel gekommen ist, wähle einen Gegner. Falls du mehr Handkarten hast als der gewählte Spieler, muss er einen von ihm kontrollierten Charakter wählen und töten.",
+        "traits": "Spion."
+    },
+    {
+        "code": "01096",
+        "flavor": "",
+        "name": "Witwenklage",
+        "text": "Hinterhalt (1).\nDer verstärkte Charakter bekommt +2 Stärke.\nFalls der verstärkte Charakter Joffrey Baratheon ist, erhält er ein [military]-Symbol.",
+        "traits": "Valyrischer Stahl. Waffe."
+    },
+    {
+        "code": "01097",
+        "flavor": "\"Man sagt, es gäbe nichts als Stein im Herzen von Casterlystein.\" <cite>Catelyn Stark</cite>",
+        "name": "Casterlystein",
+        "text": "In der Herausforderungsphase darfst du eine zusätzliche [intrigue]-Herausforderung initiieren.",
+        "traits": "Festung. Die Westlande."
+    },
+    {
+        "code": "01098",
+        "flavor": "",
+        "name": "Lennishort",
+        "text": "<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung gewonnen hast, ziehe 1 Karte.",
+        "traits": "Die Westlande."
+    },
+    {
+        "code": "01099",
+        "flavor": "",
+        "name": "Westliche Ländereien",
+        "text": "Limitiert.\n<b>Aufmarschaktion:</b> Beuge Westliche Ländereien, um die Kosten der nächsten [lannister]-Karte, die du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Die Westlande."
+    },
+    {
+        "code": "01100",
+        "flavor": "",
+        "name": "Hört mich brüllen!",
+        "text": "<b>Aktion:</b> Bringe einen [lannister]-Charakter von deiner Hand ins Spiel. Falls der Charakter am Ende der Phase immer noch im Spiel ist, lege ihn aus dem Spiel ab (kann nicht gerettet werden).",
+        "traits": ""
+    },
+    {
+        "code": "01101",
+        "flavor": "",
+        "name": "Was man nicht alles für die Liebe tut",
+        "text": "Kann nur gespielt werden, falls du einen [lannister]-<i>Lord</i>- oder -<i>Lady</i>-Charakter kontrollierst.\n<b>Herausforderungsaktion:</b> Beuge deine Fraktionskarte, um einen von einem Gegner kontrollierten Charakter mit aufgedruckten Kosten von X oder weniger zu wählen und schicke ihn auf die Hand seines Besitzers zurück.",
+        "traits": ""
+    },
+    {
+        "code": "01102",
+        "flavor": "",
+        "name": "Verrat",
+        "text": "Kann nur gespielt werden, falls du einen einzigartigen [lannister]-Charakter kontrollierst.\n<b>Unterbrechung:</b> Sobald die Effekte einer ausgelösten Charakter-, Orts- oder Verstärkungsfähigkeit initiiert werden würden, hebe diese Effekte auf.",
+        "traits": ""
+    },
+    {
+        "code": "01103",
+        "flavor": "\"Jemand hat geredet. Irgendwer redet immer.\"",
+        "name": "Areo Hotah",
+        "text": "Hinterhalt (5).\n<b>Reaktion:</b> Nachdem Areo Hotah während einer Herausforderung ins Spiel gekommen ist, wähle einen teilnehmenden Charakter und entferne ihn aus der Herausforderung.",
+        "traits": "Garde."
+    },
+    {
+        "code": "01104",
+        "flavor": "",
+        "name": "Arianne Martell",
+        "text": "<b>Aktion:</b> Bringe einen Charakter mit aufgedruckten Kosten von 5 oder weniger von deiner Hand ins Spiel. Dann schicke Arianne Martell auf deine Hand zurück (kann nicht gerettet werden). (Nur ein Mal pro Phase.)",
+        "traits": "Lady."
+    },
+    {
+        "code": "01105",
+        "flavor": "\"Wer hat schon Angst, über das Gras zu laufen? Doch es ist das Gras, das die Viper vor ihren Feinden verbirgt und ihr Schutz bietet, bis sie zuschlagen kann.\"",
+        "name": "Doran Martell",
+        "text": "Einblick.\nJeder andere [martell]-<i>Lord</i>- und -<i>Lady</i>-Charakter unter deiner Kontrolle bekommt +1 Stärke für jede Strategie karte in deinem Archiv.",
+        "traits": "Lord."
+    },
+    {
+        "code": "01106",
+        "flavor": "",
+        "name": "Edric Dayn",
+        "text": "Heimlich.\n<b>Aktion:</b> Bezahle 1 Gold, um Edric Dayn bis zum Ende der Phase ein Herausforderungssymbol deiner Wahl zu geben.",
+        "traits": "Bruderschaft. Haus Dayn. Lord."
+    },
+    {
+        "code": "01107",
+        "flavor": "",
+        "name": "Maester Caleotte",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung verloren hast, an der Maester Caleotte teilnimmt, wähle einen Charakter. Bis zum Ende der Phase verliert der gewählte Charakter ein Herausforderungssymbol deiner Wahl.",
+        "traits": "Maester."
+    },
+    {
+        "code": "01108",
+        "flavor": "\"Cersei hat uns einen Kopf geschickt. Wir sollten ihr einen ganzen Sack Köpfe zurückschicken.\"",
+        "name": "Obara Sand",
+        "text": "Obara Sand darf bei [power]-Herausforderungen, in denen du der verteidigende Spieler bist, auch dann zum Verteidiger deklariert werden, solange sie gebeugt ist.",
+        "traits": "Bastard. Sandschlange."
+    },
+    {
+        "code": "01109",
+        "flavor": "\"Oberyn war stets die Viper. Tödlich, gefährlich, undurchschaubar. Niemand hat es gewagt, auf ihn zu treten.\" <cite>Doran Martell</cite>",
+        "name": "Die Rote Viper",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Die Rote Viper als Angreifer teilnimmt, erhält sie 1 Macht für je 5 Stärke, um die du die Herausforderung gewonnen hast.",
+        "traits": "Lord."
+    },
+    {
+        "code": "01110",
+        "flavor": "",
+        "name": "Wüstenplünderer",
+        "text": "<b>Aufmarschaktion:</b> Beuge Wüstenplünderer, um die Kosten des nächsten [martell]-Charakters, den du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "01111",
+        "flavor": "",
+        "name": "Dornische Geliebte",
+        "text": "<b>Reaktion:</b> Nachdem Dornische Geliebte zum Angreifer deklariert worden ist, wähle einen vom verteidigenden Spieler kontrollierten Charakter. Der gewählte Charakter muss bei dieser Herausforderung zum Verteidiger deklariert werden, falls möglich.",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "01112",
+        "flavor": "",
+        "name": "Händlerin vom Grünblut-Fluss",
+        "text": "<b>Reaktion:</b> Nachdem Händlerin vom Grünblut-Fluss ins Spiel gekommen ist, sieh dir die obersten 2 Karten deines Decks an. Nimm bis zu 1 dieser Karten auf die Hand und lege die anderen in beliebiger Reihenfolge zurück unter dein Deck.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "01113",
+        "flavor": "Sie saßen auf roten und goldenen Pferden, einige wenige waren weiß wie Schnee...",
+        "name": "Ritter von Haus Dayn",
+        "text": "",
+        "traits": "Haus Dayn. Ritter."
+    },
+    {
+        "code": "01114",
+        "flavor": "",
+        "name": "Speerträger der Palastwache",
+        "text": "Keine Verstärkungen.\nSolange du nicht Startspieler bist, erhält Speerträger der Palastwache ein [intrigue]-Symbol.",
+        "traits": "Garde."
+    },
+    {
+        "code": "01115",
+        "flavor": "",
+        "name": "Dämmerung",
+        "text": "Der verstärkte Charakter bekommt +1 Stärke für jede Strategiekarte in deinem Archiv.\nSolange der verstärkte Charakter das Merkmal <i>Haus Dayn</i> hat, erhält er Einschüchternd.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "01116",
+        "flavor": "",
+        "name": "Grässlichgrau",
+        "text": "<b>Reaktion:</b> Nachdem du als verteidigender Spieler eine Herausforderung verloren hast, beuge und opfere Grässlichgrau, um einen angreifenden Charakter auf die Hand seines Besitzers zurückzuschicken (kann nicht gerettet werden).",
+        "traits": "Dorne."
+    },
+    {
+        "code": "01117",
+        "flavor": "",
+        "name": "Sonnspeer",
+        "text": "<b>Reaktion:</b> Nachdem du als verteidigender Spieler eine Herausforderung verloren hast, beuge Sonnspeer, um bis zum Ende der Phase den Schadenswert deiner aufgedeckten Strategiekarte bei Herausforderungen derselben Art um 1 zu erhöhen.",
+        "traits": "Dorne."
+    },
+    {
+        "code": "01118",
+        "flavor": "",
+        "name": "Blutorangenhain",
+        "text": "Limitiert.\n<b>Aufmarschaktion:</b> Beuge Blutorangenhain, um die Kosten der nächsten [martell]-Karte, die du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Dorne."
+    },
+    {
+        "code": "01119",
+        "flavor": "",
+        "name": "Dorans Spiel",
+        "text": "<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung um 5 oder mehr Stärke gewonnen hast, erhältst du X Macht für deine Fraktion. X ist die Anzahl der Strategiekarten in deinem Archiv. (Maximal 1 pro Herausforderung.)",
+        "traits": ""
+    },
+    {
+        "code": "01120",
+        "flavor": "",
+        "name": "Ungebeugt, Ungezähmt, Ungebrochen",
+        "text": "Kann nur gespielt werden, falls du nicht Startspieler bist.\n<b>Reaktion:</b> Nachdem du als verteidigender Spieler eine Herausforderung verloren hast, benenne eine Herausforderungsart. Bis zum Ende der Phase kann der Gewinner der Herausforderung keine Herausforderungen der benannten Art initiieren. (Maximal 1 pro Herausforderung.)",
+        "traits": ""
+    },
+    {
+        "code": "01121",
+        "flavor": "",
+        "name": "Gefangenschaft",
+        "text": "<b>Aktion:</b> Wähle einen Charakter mit Stärke 4 oder weniger. Bis zum Ende der Phase verliert der gewählte Charakter ein [military]-, ein [intrigue]- und ein [power]-Symbol.",
+        "traits": ""
+    },
+    {
+        "code": "01122",
+        "flavor": "",
+        "name": "Benjen Stark",
+        "text": "Jeder von dir kontrollierte <i>Grenzer</i>-Charakter kann nicht mit Heimlich umgangen werden.\n<b>Unterbrechung:</b> Sobald Benjen Stark getötet wird, erhältst du 2 Macht für deine Fraktion. Dann mischst du ihn in dein Deck zurück, anstatt ihn auf deinen Totenstapel zu legen.",
+        "traits": "Grenzer."
+    },
+    {
+        "code": "01123",
+        "flavor": "\"Er ist nicht wie die anderen. Er gibt nie auch nur einen Ton von sich. Deshalb habe ich ihn Geist genannt.\" <cite>Jon Schnee</cite>",
+        "name": "Geist",
+        "text": "Keine Verstärkungen. Heimlich.\n<b>Reaktion:</b> Nachdem Geist einen Charakter mit Heimlich umgangen hat, kann der umgangene Charakter bis zum Ende der Phase bei keiner Herausforderung zum Verteidiger deklariert werden.",
+        "traits": "Schattenwolf."
+    },
+    {
+        "code": "01124",
+        "flavor": "\"Verschiedene Straßen führen manchmal zur selben Burg.\"",
+        "name": "Jon Schnee",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nSolange Jon Schnee aufrecht steht, gilt er bei jeder Herausforderung, in der du einen anderen angreifenden [thenightswatch]-Charakter kontrollierst, als teilnehmend.",
+        "traits": "Bastard. Kämmerer."
+    },
+    {
+        "code": "01125",
+        "flavor": "\"Tötet den Jungen, Jon Schnee. Der Winter hat uns fast erreicht. Tötet den Jungen und bringt den Mann zur Welt.\"",
+        "name": "Maester Aemon",
+        "text": "Keine Verstärkungen.\n<b>Unterbrechung:</b> Sobald ein [thenightswatch]-Charakter getötet werden würde, beuge Maester Aemon, um ihn zu retten.",
+        "traits": "Maester. Kämmerer."
+    },
+    {
+        "code": "01126",
+        "flavor": "\"Die Dinge, die wir lieben, sind stets auch die, die uns zerstören.\"",
+        "name": "Alter Bär Mormont",
+        "text": "Solange du Die Mauer kontrollierst, wird Alter Bär Mormont nicht gebeugt, sobald er zum Verteidiger deklariert wird.\n<b>Unterbrechung:</b> Sobald die Herausforderungsphase endet, bringe eine [thenightswatch]-Karte von deiner Hand ins Spiel, falls du in dieser Phase keine Herausforderung als verteidigender Spieler verloren hast.",
+        "traits": "Kommandant. Lord."
+    },
+    {
+        "code": "01127",
+        "flavor": "Die Welt war voller Memmen, die vorgaben, Helden zu sein. Es war schon eine verquere Art von Mut nötig, um seine Feigheit einzugestehen, so wie Samwell Tarly es getan hatte.",
+        "name": "Samwell Tarly",
+        "text": "Einblick. <i>(Nachdem du eine Herausforderung gewonnen hast, an der dieser Charakter teilnimmt, darfst du 1 Karte ziehen.)</i>",
+        "traits": "Kämmerer."
+    },
+    {
+        "code": "01128",
+        "flavor": "\"Machen Euch die Toten Angst?\"",
+        "name": "Ser Waymar Rois",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Unterbrechung:</b> Sobald Ser Waymar Rois getötet wird, lege 1 zufällige Karte von der Hand jedes Gegners ab.",
+        "traits": "Ritter. Grenzer."
+    },
+    {
+        "code": "01129",
+        "flavor": "\"Diesmal habe ich dreißig Männer und Knaben, die für die Mauer bestimmt sind...\"",
+        "name": "Yoren",
+        "text": "<b>Reaktion:</b> Nachdem du Yoren aufmarschieren lassen hast, wähle einen Charakter mit aufgedruckten Kosten von 3 oder weniger im Ablagestapel eines Gegners und bringe ihn unter deiner Kontrolle ins Spiel.",
+        "traits": "Wanderkrähe."
+    },
+    {
+        "code": "01130",
+        "flavor": "",
+        "name": "Botenrabe",
+        "text": "Keine Verstärkungen.\n<b>Herrschaftsaktion:</b> Schicke Botenrabe auf deine Hand zurück, um 1 Karte zu ziehen.",
+        "traits": "Rabe."
+    },
+    {
+        "code": "01131",
+        "flavor": "",
+        "name": "Alter Waldjäger",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Aktion:</b> Lege 1 Karte von deiner Hand ab, um 1 Gold zu erhalten. (Nur ein Mal pro Phase.)",
+        "traits": "Grenzer."
+    },
+    {
+        "code": "01132",
+        "flavor": "\"Wir haben noch einen langen Ritt vor uns. Acht Tage, vielleicht neun. Und es wird Nacht.\" <cite>Gared von der Nachtwache</cite>",
+        "name": "Grenzertrupp",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.",
+        "traits": "Armee. Grenzer."
+    },
+    {
+        "code": "01133",
+        "flavor": "\"Wir jagen und ernten, kümmern uns um die Pferde, melken die Kühe, sammeln Feuerholz, kochen die Mahlzeiten. Was glaubst du, wer deine Kleider näht? Wer bringt Nachschub aus dem Süden? Die Kämmerer.\" <cite>Chett</cite>",
+        "name": "Kämmerer an der Mauer",
+        "text": "<b>Aufmarschaktion:</b> Beuge Kämmerer an der Mauer, um die Kosten des nächsten [thenightswatch]-Charakters, den du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Verbündeter. Kämmerer."
+    },
+    {
+        "code": "01134",
+        "flavor": "",
+        "name": "Erfahrener Baumeister",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Aktion:</b> Opfere Erfahrener Baumeister, um einen Ort zu wählen und aufzurichten.",
+        "traits": "Baumeister."
+    },
+    {
+        "code": "01135",
+        "flavor": "\"Ich ziehe Langklaue, wenn ich es muss, Ser.\" <cite>Jon Schnee</cite>",
+        "name": "Langklaue",
+        "text": "Nur [thenightswatch]-Charaktere.\nDer verstärkte Charakter bekommt +1 Stärke und erhält Ruhmreich.",
+        "traits": "Valyrischer Stahl. Waffe."
+    },
+    {
+        "code": "01136",
+        "flavor": "",
+        "name": "Die Schwarze Festung",
+        "text": "<b>Aktion:</b> Beuge Die Schwarze Festung, um einen verteidigenden [thenightswatch]-Charakter zu wählen und aufzurichten. Bis zum Ende der Herausforderung bekommt der gewählte Charakter +2 Stärke.",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "01137",
+        "flavor": "",
+        "name": "Die Mauer",
+        "text": "Jeder [thenightswatch]-Charakter, den du kontrollierst, bekommt +1 Stärke.\n<b>Erzwungene Reaktion:</b> Nachdem du eine unverteidigte Herausforderung verloren hast, beuge Die Mauer.\n<b>Unterbrechung:</b> Sobald die Herausforderungsphase endet, beuge Die Mauer, um 2 Macht für deine Fraktion zu erhalten.",
+        "traits": "Festung. Der Norden."
+    },
+    {
+        "code": "01138",
+        "flavor": "\"Die Nachtwache ist nicht eitel, wir nehmen, was man uns anbietet.\" <cite>Alter Bär Mormont</cite>",
+        "name": "Bescheidene Spende",
+        "text": "<b>Reaktion:</b> Nachdem ein Gegner sein Einkommen kassiert hat, verschiebe 1 Gold aus der Goldreserve dieses Spielers in deine Goldreserve. (Maximal 1 pro Runde.)",
+        "traits": ""
+    },
+    {
+        "code": "01139",
+        "flavor": "\"Ich widme mein Leben und meine Ehre der Nachtwache, in dieser Nacht und in allen Nächten, die da noch kommen werden.\" <cite>aus dem Eid der Nachtwache</cite>",
+        "name": "Das Schwarz anlegen",
+        "text": "<b>Herrschaftsaktion:</b> Wähle einen nicht-einzigartigen Charakter mit aufgedruckten Kosten von 6 oder weniger. Übernimm die Kontrolle über den gewählten Charakter. (Maximal 1 pro Runde.)",
+        "traits": ""
+    },
+    {
+        "code": "01140",
+        "flavor": "",
+        "name": "Das Schwert in der Dunkelheit",
+        "text": "Kann nur während einer Herausforderung gespielt werden, in der du einen teilnehmenden [thenightswatch]-Charakter kontrollierst.\n<b>Reaktion:</b> Nachdem du als verteidigender Spieler eine Herausforderung um 5 oder mehr Stärke gewonnen hast, kann der verlierende Gegner in dieser Runde keine Herausforderungen gegen dich initiieren.",
+        "traits": ""
+    },
+    {
+        "code": "01141",
+        "flavor": "",
+        "name": "Arya Stark",
+        "text": "Heimlich.\nSolange Arya Stark ein Duplikat hat, erhält sie ein [military]-Symbol.\n<b>Reaktion:</b> Nachdem Arya Stark ins Spiel gekommen ist, lege die oberste Karte deines Decks verdeckt als Duplikat an sie an.",
+        "traits": "Lady."
+    },
+    {
+        "code": "01142",
+        "flavor": "\"Kann ein Mann tapfer sein, auch wenn er sich fürchtet?\"",
+        "name": "Bran Stark",
+        "text": "<b>Unterbrechung:</b> Sobald die Effekte eines Ereignisses eines Gegners initiiert werden würden, opfere Bran Stark, um diese Effekte aufzuheben.",
+        "traits": "Lord."
+    },
+    {
+        "code": "01143",
+        "flavor": "Weder Met noch Fleisch bereiten mir Freude, und Lieder und Lachen sind mir verdächtig fremd geworden. Ich bin ein Geschöpf der Trauer und des Staubes und der bitteren Sehnsucht geworden. Der Platz, an dem sich einst mein Herz befand, ist leer.",
+        "name": "Catelyn Stark",
+        "text": "Solange Catelyn Stark an einer Herausforderung teilnimmt, können deine Gegner keine Kartenfähigkeiten auslösen.",
+        "traits": "Haus Tully. Lady. Die Sieben."
+    },
+    {
+        "code": "01144",
+        "flavor": "\"Der Winter ist hart. Doch die Starks halten durch. Wie wir es immer schon getan haben.\"",
+        "name": "Eddard Stark",
+        "text": "Ruhmreich. <i>(Nachdem du eine Herausforderung gewonnen hast, an der dieser Charakter teilnimmt, darf er 1 Macht erhalten.)</i>\n<b>Reaktion:</b> Nachdem eine Herausforderung gegen dich initiiert worden ist, richte Eddard Stark auf.",
+        "traits": "Lord. Kleiner Rat."
+    },
+    {
+        "code": "01145",
+        "flavor": "",
+        "name": "Grauwind",
+        "text": "Einschüchternd. Keine Verstärkungen.\n<b>Herausforderungsaktion:</b> Beuge Grauwind, um einen Charakter mit Stärke 1 oder weniger zu wählen und zu töten. (Falls du Robb Stark kontrollierst, stattdessen ein Charakter mit Stärke 2 oder weniger.)",
+        "traits": "Schattenwolf."
+    },
+    {
+        "code": "01146",
+        "flavor": "\"Ich habe jede Schlacht gewonnen, und trotzdem verliere ich irgendwie den Krieg.\"",
+        "name": "Robb Stark",
+        "text": "Ruhmreich.\n<b>Reaktion:</b> Nachdem ein [stark]-Charakter, den du kontrollierst, geopfert oder getötet worden ist, richte jeden Charakter auf, den du kontrollierst. (Nur ein Mal pro Runde.)",
+        "traits": "Lord."
+    },
+    {
+        "code": "01147",
+        "flavor": "\"Wieso willst du ein stinkendes, altes Pferd reiten und wund werden und schwitzen, wenn du dich auf Federkissen zurücklehnen und mit der Königin Zitronenkekse essen könntest?\"",
+        "name": "Sansa Stark",
+        "text": "Sansa Stark kommt gebeugt ins Spiel.\n<b>Reaktion:</b> Nachdem Sansa Stark aufgerichtet worden ist, erhältst du 1 Macht für deine Fraktion. (Nur ein Mal pro Runde.)",
+        "traits": "Lady."
+    },
+    {
+        "code": "01148",
+        "flavor": "",
+        "name": "Sommer",
+        "text": "Keine Verstärkungen.\nSolange du Bran Stark kontrollierst, erhält er Einblick.\n<b>Reaktion:</b> Nachdem Sommer ins Spiel gekommen ist, schicke einen [stark]-Charakter mit aufgedruckter Stärke von 2 oder weniger aus deinem Ablage- oder Totenstapel auf deine Hand zurück.",
+        "traits": "Schattenwolf."
+    },
+    {
+        "code": "01149",
+        "flavor": "",
+        "name": "Schattenwolfwelpe",
+        "text": "Keine Verstärkungen.\nSchattenwolfwelpe bekommt +1 Stärke für jede andere <i>Schattenwolf</i>-Karte unter deiner Kontrolle.",
+        "traits": "Schattenwolf."
+    },
+    {
+        "code": "01150",
+        "flavor": "Schnellwasser liegt am Ende der Landzunge, wo der Trommelstein in den Roten Arm des Tridents mündet.",
+        "name": "Ritter vom Trommelstein",
+        "text": "",
+        "traits": "Haus Tully. Ritter."
+    },
+    {
+        "code": "01151",
+        "flavor": "",
+        "name": "Vorhut des Nordens",
+        "text": "Keine Verstärkungen.\nSolange ein Spieler eine <i>Krieg</i>-Strategie aufgedeckt hat, wird Vorhut des Nordens nicht gebeugt, sobald sie bei einer [military]-Herausforderung zum Angreifer deklariert wird.",
+        "traits": "Armee."
+    },
+    {
+        "code": "01152",
+        "flavor": "",
+        "name": "Kämmerer von Winterfell",
+        "text": "<b>Aufmarschaktion:</b> Beuge Kämmerer von Winterfell, um die Kosten des nächsten [stark]-Charakters, den du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Verbündeter. Kämmerer."
+    },
+    {
+        "code": "01153",
+        "flavor": "",
+        "name": "Eis",
+        "text": "Nur [stark]-Charaktere.\nDer verstärkte Charakter bekommt +2 Stärke.\n<b>Reaktion:</b> Nachdem du eine [military]-Herausforderung gewonnen hast, an welcher der verstärkte Charakter teilnimmt, opfere Eis, um einen vom verlierenden Gegner kontrollierten Charakter zu wählen und zu töten.",
+        "traits": "Valyrischer Stahl. Waffe."
+    },
+    {
+        "code": "01154",
+        "flavor": "",
+        "name": "Die Tore von Winterfell",
+        "text": "<b>Herausforderungsaktion:</b> Beuge Die Tore von Winterfell, um die oberste Karte deines Decks aufzudecken. Falls es eine [stark]-Karte ist, ziehe sie. <i>(Andernfalls wird sie verdeckt auf dein Deck zurückgelegt.)</i>",
+        "traits": "Der Norden. Winterfell."
+    },
+    {
+        "code": "01155",
+        "flavor": "",
+        "name": "Der Wolfswald",
+        "text": "Jede <i>Schattenwolf</i>-Karte auf deiner Hand erhält Hinterhalt (X). X sind die aufgedruckten Kosten der Karte.",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "01156",
+        "flavor": "",
+        "name": "Herzbaumhain",
+        "text": "Limitiert.\n<b>Aufmarschaktion:</b> Beuge Herzbaumhain, um die Kosten der nächsten [stark]-Karte, die du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Alte Götter. Winterfell."
+    },
+    {
+        "code": "01157",
+        "flavor": "",
+        "name": "Für den Norden!",
+        "text": "Kann nur während einer [military]-Herausforderung gespielt werden.\n<b>Aktion:</b> Wähle einen teilnehmenden [stark]-Charakter. Bis zum Ende der Herausforderung bekommt der gewählte Charakter +2 Stärke. Falls du die Herausforderung gewinnst, ziehe 1 Karte.",
+        "traits": ""
+    },
+    {
+        "code": "01158",
+        "flavor": "Sein Blut fühlte sich wie warmer Regen an, als er über ihr Gesicht spritzte.",
+        "name": "Wie warmer Regen",
+        "text": "<b>Reaktion:</b> Nachdem du als verteidigender Spieler eine [intrigue]-Herausforderung verloren hast, beuge einen <i>Schattenwolf</i>-Charakter, um einen angreifenden Charakter zu wählen und zu töten. (Maximal 1 pro Herausforderung.)",
+        "traits": ""
+    },
+    {
+        "code": "01159",
+        "flavor": "",
+        "name": "Der Winter naht",
+        "text": "Kann nur während einer Herausforderung gespielt werden.\n<b>Aktion:</b> Erhöhe den Schadenswert deiner aufgedeckten Strategiekarte bis zum Ende der Herausforderung um 1. (Maximal 1 pro Herausforderung.)",
+        "traits": ""
+    },
+    {
+        "code": "01160",
+        "flavor": "\"Ich bin Daenerys Sturmtochter aus dem Hause Targaryen, die Unverbrannte, die Mutter der Drachen, Khaleesi von Drogos Reitern und Königin der Sieben Königslande von Westeros.\"",
+        "name": "Daenerys Targaryen",
+        "text": "Einblick.\nSolange Daenerys Targaryen aufrecht steht, bekommt jeder Charakter, der aufseiten eines Gegners an einer Herausforderung gegen dich teilnimmt, -1 Stärke.",
+        "traits": "Lady. Sturmtochter."
+    },
+    {
+        "code": "01161",
+        "flavor": "",
+        "name": "Drogon",
+        "text": "Keine Verstärkungen.\nJeder von dir kontrollierte <i>Sturmtochter</i>-Charakter erhält Ruhmreich.",
+        "traits": "Drache. Küken."
+    },
+    {
+        "code": "01162",
+        "flavor": "\"Wenn ein Dothraki im Kampf besiegt wird, schneidet man ihm zur Schmach den Zopf ab, damit die Welt um seine Schande weiß. Khal Drogo hat nie einen Kampf verloren.\" <cite>Viserys Targaryen</cite>",
+        "name": "Khal Drogo",
+        "text": "Ruhmreich.\nWährend der Herausforderungsphase darfst du eine zusätzliche [military]-Herausforderung initiieren.",
+        "traits": "Dothraki. Lord."
+    },
+    {
+        "code": "01163",
+        "flavor": "\"Illyrio glaubt an gar nichts, außer an sich selbst. Vielfraße sind gierige Männer, und Magister sind hinterhältig. Illyrio Mopatis ist beides.\" <cite>Ser Jorah Mormont</cite>",
+        "name": "Magister Illyrio",
+        "text": "<b>Aktion:</b> Bezahle 2 Gold, um einen Charakter zu wählen und aufzurichten. (Nur ein Mal pro Phase.)",
+        "traits": "Lord. Händler."
+    },
+    {
+        "code": "01164",
+        "flavor": "",
+        "name": "Rhaegal",
+        "text": "Keine Verstärkungen.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der ein von dir kontrollierter <i>Sturmtochter</i>-Charakter teilnimmt, wähle einen <i>Sturmtochter</i>-Charakter und richte ihn auf. (Nur ein Mal pro Phase.)",
+        "traits": "Drache. Küken."
+    },
+    {
+        "code": "01165",
+        "flavor": "",
+        "name": "Ser Jorah Mormont",
+        "text": "Ruhmreich.\nOpfere Ser Jorah Mormont, falls 3 oder mehr Verratsmarker auf ihm liegen.\n<b>Erzwungene Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Ser Jorah Mormont teilnimmt, lege 1 Verratsmarker auf ihn.",
+        "traits": "Gefährte. Ritter."
+    },
+    {
+        "code": "01166",
+        "flavor": "",
+        "name": "Viserion",
+        "text": "Keine Verstärkungen.\nJeder von dir kontrollierte <i>Sturmtochter</i>-Charakter erhält Heimlich.",
+        "traits": "Drache. Küken."
+    },
+    {
+        "code": "01167",
+        "flavor": "\"Wenn man die Geschichte meiner Herrschaft schreibt, süßes Schwesterchen, wird es heißen, sie habe in der heutigen Nacht begonnen.\"",
+        "name": "Viserys Targaryen",
+        "text": "<b>Unterbrechung:</b> Sobald Viserys Targaryen das Spiel verlässt, wähle eine Verstärkung und lege sie aus dem Spiel ab.",
+        "traits": "Lord."
+    },
+    {
+        "code": "01168",
+        "flavor": "Für die Dothraki war der Mann, der nicht ritt, kein Mann, der Niederste der Niederen, ohne Ehre oder Stolz.",
+        "name": "Krieger mit langen Zöpfen",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.",
+        "traits": "Dothraki."
+    },
+    {
+        "code": "01169",
+        "flavor": "Ihre Mägde hatten geholfen, sie für die Zeremonie vorzubereiten. Trotz des empfindlichen Magens, mit dem sie seit zwei Monaten geschlagen war, hatte Dany Schalen mit halb geronnenem Blut zu sich genommen, um sich an den Geschmack zu gewöhnen, und Irri hatte ihr Kaustreifen aus getrocknetem Pferdefleisch zu essen gegeben, bis ihr Unterkiefer schmerzte.",
+        "name": "Magd",
+        "text": "<b>Aktion:</b> Opfere Magd, um einen <i>Lady</i>-Charakter zu wählen und aufzurichten.",
+        "traits": "Verbündeter. Gefährte."
+    },
+    {
+        "code": "01170",
+        "flavor": "\"Auf Festungen überall im Reich erheben Männer heimlich ihre Gläser zu einem Trinkspruch auf Eure Gesundheit, während Frauen Drachenbanner nähen und sie für den Tag Eurer Rückkehr von jenseits des Meeres verstecken.\" <cite>Illyrio Mopatis</cite>",
+        "name": "Getreuer des Hauses Targaryen",
+        "text": "<b>Aufmarschaktion:</b> Beuge Getreuer des Hauses Targaryen, um die Kosten des nächsten [targaryen]-Charakters, den du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "01171",
+        "flavor": "",
+        "name": "Die Unbefleckten",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nSolange Die Unbefleckten angreifen, bekommt jeder verteidigende Charakter -1 Stärke.",
+        "traits": "Armee."
+    },
+    {
+        "code": "01172",
+        "flavor": "",
+        "name": "Drogos Arakh",
+        "text": "Nur <i>Dothraki</i>-Charaktere.\nDer verstärkte Charakter bekommt +2 Stärke.\nFalls der verstärkte Charakter Khal Drogo ist, wird er bei der ersten [military]-Herausforderung, die du in jeder Runde initiierst, nicht gebeugt, sobald er zum Angreifer deklariert wird.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "01173",
+        "flavor": "",
+        "name": "Platz der Strafe",
+        "text": "<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung gewonnen hast, beuge Platz der Strafe, um einen Charakter ohne Verstärkungen zu wählen. Bis zum Ende der Phase bekommt der gewählte Charakter -2 Stärke und wird getötet, falls seine Stärke 0 ist.",
+        "traits": "Astapor."
+    },
+    {
+        "code": "01174",
+        "flavor": "",
+        "name": "Dothrakisches Meer",
+        "text": "<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung gewonnen hast, opfere Dothrakisches Meer, um einen <i>Dothraki</i>-Charakter von deiner Hand ins Spiel zu bringen. Falls der Charakter am Ende der Phase immer noch im Spiel ist, schicke ihn auf deine Hand zurück (kann nicht gerettet werden).",
+        "traits": "Essos."
+    },
+    {
+        "code": "01175",
+        "flavor": "",
+        "name": "Illyrios Anwesen",
+        "text": "Limitiert.\n<b>Aufmarschaktion:</b> Beuge Illyrios Anwesen, um die Kosten der nächsten [targaryen]-Karte, die du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Pentos."
+    },
+    {
+        "code": "01176",
+        "flavor": "",
+        "name": "Dracarys!",
+        "text": "<b>Aktion:</b> Beuge einen <i>Drache</i>-Charakter oder Daenerys Targaryen, um einen teilnehmenden Charakter zu wählen. Bis zum Ende der Phase bekommt der gewählte Charakter -4 Stärke und wird getötet, falls seine Stärke 0 ist.",
+        "traits": ""
+    },
+    {
+        "code": "01177",
+        "flavor": "",
+        "name": "Feuer und Blut",
+        "text": "<b>Herausforderungsaktion:</b> Wähle einen einzigartigen [targaryen]-Charakter in deinem Totenstapel und mische ihn in deinen Deck zurück. Falls dieser Charakter ein <i>Küken</i> ist, darfst du ihn stattdessen ins Spiel bringen.",
+        "traits": ""
+    },
+    {
+        "code": "01178",
+        "flavor": "",
+        "name": "Den Drachen wecken",
+        "text": "<b>Aktion:</b> Wähle einen von dir kontrollierten, einzigartigen [targaryen]-Charakter und richte ihn auf. Falls der Charakter am Ende der Phase immer noch im Spiel ist, schicke ihn auf deine Hand zurück.",
+        "traits": ""
+    },
+    {
+        "code": "01179",
+        "flavor": "",
+        "name": "Links",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nSolange du Rechts kontrollierst, bekommt Links +1 Stärke, erhält ein [power]-Symbol und wird nicht gebeugt, sobald er zum Verteidiger deklariert wird.",
+        "traits": "Garde."
+    },
+    {
+        "code": "01180",
+        "flavor": "",
+        "name": "Maester Lomys",
+        "text": "<b>Reaktion:</b> Nachdem du als verteidigender Spieler eine [intrigue]-Herausforderung gewonnen hast, lege 1 zufällige Karte aus der Hand des angreifenden Spielers ab.",
+        "traits": "Maester."
+    },
+    {
+        "code": "01181",
+        "flavor": "\"Ich weiß, welche Bürde Ihr tragt. Ihr solltet die Last mit mir teilen. Es muss doch möglich sein, dass ich Euch helfen kann.\"",
+        "name": "Margaery Tyrell",
+        "text": "<b>Herausforderungsaktion:</b> Beuge Margaery Tyrell, um einen Charakter zu wählen. Bis zum Ende der Phase bekommt der gewählte Charakter +3 Stärke.",
+        "traits": "Lady."
+    },
+    {
+        "code": "01182",
+        "flavor": "",
+        "name": "Paxter Rothweyn",
+        "text": "Reduziere die Goldkosten des ersten Ereignisses, das du in jeder Runde spielst, um 1.\nGoldwert +1",
+        "traits": "Haus Rothweyn. Lord."
+    },
+    {
+        "code": "01183",
+        "flavor": "",
+        "name": "Randyll Tarly",
+        "text": "Ruhmreich.\n<b>Reaktion:</b> Nachdem die Stärke von Randyll Tarly durch einen Karteneffekt erhöht worden ist, richte ihn auf. (Nur zwei Mal pro Phase.)",
+        "traits": "Haus Tarly. Lord."
+    },
+    {
+        "code": "01184",
+        "flavor": "",
+        "name": "Rechts",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nSolange du Links kontrollierst, bekommt Rechts +1 Stärke, erhält ein [intrigue]-Symbol und wird nicht gebeugt, sobald er zum Verteidiger deklariert wird.",
+        "traits": "Garde."
+    },
+    {
+        "code": "01185",
+        "flavor": "",
+        "name": "Der Ritter der Blumen",
+        "text": "Ruhmreich.\nSolange Der Ritter der Blumen alleine angreift, kann der verteidigende Spieler nicht mehr als 1 Charakter zum Verteidiger deklarieren.",
+        "traits": "Ritter. Lord."
+    },
+    {
+        "code": "01186",
+        "flavor": "\"Alle Männer sind Narren, das ist wohl wahr, aber die im Narrenkleid sind lustiger als die mit den Kronen.\"",
+        "name": "Die Königin der Dornen",
+        "text": "<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung gewonnen hast, an der Die Königin der Dornen teilnimmt, bringe einen [tyrell]-Charakter mit aufgedruckten Kosten von 6 oder weniger von deiner Hand ins Spiel.",
+        "traits": "Lady."
+    },
+    {
+        "code": "01187",
+        "flavor": "Dem sagenhaften Reichtum Rosengartens hatte der Krieg noch nichts anhaben können.",
+        "name": "Kurtisane der Rose",
+        "text": "",
+        "traits": "Gefährte. Spion."
+    },
+    {
+        "code": "01188",
+        "flavor": "",
+        "name": "Gärtner",
+        "text": "<b>Aufmarschaktion:</b> Beuge Gärtner, um die Kosten des nächsten [tyrell]-Charakters, den du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "01189",
+        "flavor": "",
+        "name": "Olennas Informantin",
+        "text": "Hinterhalt (4).\n<b>Reaktion:</b> Nachdem Olennas Informantin während der Herausforderungsphase ins Spiel gekommen ist, benenne eine Herausforderungsart. In dieser Phase darfst du eine zusätzliche Herausforderung der benannten Art initiieren.",
+        "traits": "Verbündeter. Spion."
+    },
+    {
+        "code": "01190",
+        "flavor": "",
+        "name": "Wächter der Weite",
+        "text": "Keine Verstärkungen.\nWächter der Weite bekommt +1 Stärke für jeden <i>Die Weite</i>-Ort, den du kontrollierst.",
+        "traits": "Armee."
+    },
+    {
+        "code": "01191",
+        "flavor": "",
+        "name": "Herzbann",
+        "text": "Nur [tyrell]-Charaktere.\n<b>Aktion:</b> Solange der verstärkte Charakter an einer Herausforderung teilnimmt, beuge Herzbann, um dem verstärkten Charakter bis zum Ende der Herausforderung +3 Stärke zu geben.",
+        "traits": "Valyrischer Stahl. Waffe."
+    },
+    {
+        "code": "01192",
+        "flavor": "",
+        "name": "Rosengarten",
+        "text": "<b>Herausforderungsaktion:</b> Beuge Rosengarten und bezahle 1 Gold, um einen angreifenden Charakter zu wählen. Richte den gewählten Charakter auf und entferne ihn aus der Herausforderung.",
+        "traits": "Festung. Die Weite."
+    },
+    {
+        "code": "01193",
+        "flavor": "",
+        "name": "Der Mander",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung um 5 oder mehr Stärke gewonnen hast, beuge Der Mander, um 2 Karten zu ziehen.",
+        "traits": "Die Weite."
+    },
+    {
+        "code": "01194",
+        "flavor": "",
+        "name": "Rosenhain",
+        "text": "Limitiert.\n<b>Aufmarschaktion:</b> Beuge Rosenhain, um die Kosten der nächsten [tyrell]-Karte, die du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Die Weite."
+    },
+    {
+        "code": "01195",
+        "flavor": "",
+        "name": "Kräftig wachsen",
+        "text": "<b>Herausforderungsaktion:</b> Wähle bis zu 3 [tyrell]-Charaktere. Bis zum Ende der Phase bekommt jeder gewählte Charakter +2 Stärke.",
+        "traits": ""
+    },
+    {
+        "code": "01196",
+        "flavor": "",
+        "name": "Olennas List",
+        "text": "<b>Reaktion:</b> Nachdem du eine [intrigue]- oder [power]-Herausforderung gewonnen hast, benennt der verlierende Gegner einen Kartentyp (Charakter, Ort, Verstärkung oder Ereignis). Suche in deinem Deck nach einer Karte mit anderem Kartentyp, decke sie auf und nimm sie auf die Hand. Mische deinen Deck.",
+        "traits": ""
+    },
+    {
+        "code": "01197",
+        "flavor": "Und fort gehn sie, in die Kreuz und Quer,\nDer Bär, der Bär und die Jungfrau so hehr.",
+        "name": "\"Der Bär und die Jungfrau hehr\"",
+        "text": "<b>Aktion:</b> Wähle einen Spieler. Sieh dir die obersten 5 Karten seines Decks an. Lege bis zu 3 dieser Karten unter sein Deck und die anderen nach oben (in beliebiger Reihenfolge).",
+        "traits": "Lied."
+    },
+    {
+        "code": "01198",
+        "flavor": "\"Ich habe nie um Drachenstein gebeten. Ich wollte es gar nicht.\" <cite>Stannis Baratheon</cite>",
+        "name": "Hirschbanner",
+        "text": "Dein Deck darf nicht-loyale [baratheon]-Karten enthalten.\nDein Deck muss mindestens 12 [baratheon]-Karten enthalten.",
+        "traits": "Banner."
+    },
+    {
+        "code": "01199",
+        "flavor": "\"Graufreud verlangt das halbe Königreich als Preis für das Bündnis, und was bekommen wir?\" <cite>Tywin Lennister</cite>",
+        "name": "Krakenbanner",
+        "text": "Dein Deck darf nicht-loyale [greyjoy]-Karten enthalten.\nDein Deck muss mindestens 12 [greyjoy]-Karten enthalten.",
+        "traits": "Banner."
+    },
+    {
+        "code": "01200",
+        "flavor": "So hatte der Irre König seinen letzten irren Befehl gegeben. Er hatte seine Stadt den Löwen vor dem Tor geöffnet.",
+        "name": "Löwenbanner",
+        "text": "Dein Deck darf nicht-loyale [lannister]-Karten enthalten.\nDein Deck muss mindestens 12 [lannister]-Karten enthalten.",
+        "traits": "Banner."
+    },
+    {
+        "code": "01201",
+        "flavor": "\"Die Martells haben sogar guten Grund, uns zu hassen. Nichtsdestotrotz erwarte ich ihr Einverständnis.\" <cite>Tyrion Lennister</cite>",
+        "name": "Sonnenbanner",
+        "text": "Dein Deck darf nicht-loyale [martell]-Karten enthalten.\nDein Deck muss mindestens 12 [martell]-Karten enthalten.",
+        "traits": "Banner."
+    },
+    {
+        "code": "01202",
+        "flavor": "\"Je mehr man einem König gibt, desto mehr verlangt er... Es einem König recht zu machen, ist schwierig genug. Zwei zufriedenzustellen, ist so gut wie unmöglich.\" <cite>Jon Schnee</cite>",
+        "name": "Krähenbanner",
+        "text": "Dein Deck darf nicht-loyale [thenightswatch]-Karten enthalten.\nDein Deck muss mindestens 12 [thenightswatch]-Karten enthalten.",
+        "traits": "Banner."
+    },
+    {
+        "code": "01203",
+        "flavor": "\"Robert ist jetzt König, und Könige sind nicht wie andere Menschen. Wenn Ihr Euch weigert, ihm zu dienen, wird er sich fragen, warum...\" <cite>Catelyn Stark</cite>",
+        "name": "Wolfsbanner",
+        "text": "Dein Deck darf nicht-loyale [stark]-Karten enthalten\nDein Deck muss mindestens 12 [stark]-Karten enthalten.",
+        "traits": "Banner."
+    },
+    {
+        "code": "01204",
+        "flavor": "\"Wir Fürsten schmieden unsere Pläne mit Bedacht, und die Götter werfen sie über den Haufen.\" <cite>Doran Martell</cite>",
+        "name": "Drachenbanner",
+        "text": "Dein Deck darf nicht-loyale [targaryen]-Karten enthalten.\nDein Deck muss mindestens 12 [targaryen]-Karten enthalten.",
+        "traits": "Banner."
+    },
+    {
+        "code": "01205",
+        "flavor": "Renly umfasste die Feuer, die von Horizont zu Horizont aufflammten, mit einer weiten Geste. \"Nun, hier ist mein Recht. Es ist ebenso gut wie das Roberts.\"",
+        "name": "Rosenbanner",
+        "text": "Dein Deck darf nicht-loyale [tyrell]-Karten enthalten.\nDein Deck muss mindestens 12 [tyrell]-Karten enthalten.",
+        "traits": "Banner."
+    },
+    {
+        "code": "01206",
+        "flavor": "\"Ich könnte Euch Geschichten über diesen Eunuchen erzählen, dass Euch das Blut in den Adern gefrieren würde.\" <cite>Großmaester Pycelle</cite>",
+        "name": "Meister der Flüsterer",
+        "text": "Wird vom Meister der Schiffe unterstützt\n<b>Unterstützt:</b> Hand des Königs\n<b>Konkurriert mit:</b> Meister des Rechts, Meister der Münze\nDu darfst deinen [intrigue]-Schaden gegen beliebig viele Gegner deiner Wahl abhandeln.\n+1 Stärke [intrigue]",
+        "traits": ""
+    },
+    {
+        "code": "01207",
+        "flavor": "\"Wasser ist gut für dieses Amt geeignet. Er hat sein halbes Leben auf Schiffen verbracht.\" <cite>Cersei Lennister</cite>",
+        "name": "Meister der Schiffe",
+        "text": "Wird vom Meister der Münze unterstützt\n<b>Unterstützt:</b> Meister der Flüsterer\n<b>Konkurriert mit:</b> Meister des Rechts, Hand des Königs\nErhöhe den Schadenswert deiner aufgedeckten Strategiekarte um 1, während du einen konkurrierenden Spieler in einer [military]-Herausforderung angreifst.\n+1 Stärke [military]",
+        "traits": ""
+    },
+    {
+        "code": "01208",
+        "flavor": "Die Rechte Hand des Königs war der zweitmächtigste Mann in den Sieben Königslanden.",
+        "name": "Hand des Königs",
+        "text": "Wird vom Meister der Flüsterer unterstützt\n<b>Unterstützt:</b> Meister des Rechts\n<b>Konkurriert mit:</b> Meister der Münze, Meister der Schiffe\nIn der Herausforderungsphase darfst du eine zusätzliche [power]-Herausforderung gegen einen anderen Gegner initiieren.\n+1 Stärke [power]",
+        "traits": ""
+    },
+    {
+        "code": "01209",
+        "flavor": "Drei Jahre, nachdem er an den Hof geholt worden war, trug er den Titel Meister der Münze und war Mitglied des Kleinen Rates, und heute waren die Einnahmen der Krone zehn Mal so hoch wie unter seinem überlasteten Vorgänger... allerdings waren auch die Schulden der Krone enorm gewachsen.",
+        "name": "Meister der Münze",
+        "text": "Wird vom Meister des Rechts unterstützt\n<b>Unterstützt:</b> Meister der Schiffe\n<b>Konkurriert mit:</b> Hand des Königs, Meister der Flüsterer\n+2 Gold",
+        "traits": ""
+    },
+    {
+        "code": "01210",
+        "flavor": "\"Stannis ist immer noch der rechtmäßige Erbe des Throns, nach allen Gesetzen der Sieben Königslande.\" <cite>Ser Davos Seewert</cite>",
+        "name": "Meister des Rechts",
+        "text": "Wird von der Hand des Königs unterstützt\n<b>Unterstützt:</b> Meister der Münze\n<b>Konkurriert mit:</b> Meister der Flüsterer, Meister der Schiffe\nErhöhe die Anzahl der Karten, die du in der Nachziehphase ziehst, um 1.\n+1 Reserve",
+        "traits": ""
+    },
+    {
+        "code": "01211",
+        "flavor": "\"Die Hand dient\", teilte ihm der junge Ritter herablassend mit. \"Die Regentin herrscht, bis der König das rechte Alter erreicht hat.\" <cite>Ser Lancel Lennister</cite>",
+        "name": "Regent",
+        "text": "Wird von niemandem unterstützt\n<b>Unterstützt:</b> niemanden\n<b>Konkurriert mit:</b> niemandem\nDu darfst 1 Herausforderung in dieser Runde umlenken.\n+2 Stärke für die Herrschaft",
+        "traits": ""
+    }
+]

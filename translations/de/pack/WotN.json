@@ -1,0 +1,368 @@
+[
+    {
+        "code": "03001",
+        "flavor": "",
+        "name": "König Robbs Heerschar",
+        "text": "Keine Verstärkungen.\n<b>Reaktion:</b> Nachdem du eine [military]-Herausforderung gewonnen hast, an der König Robbs Heerschar teilnimmt, verschiebe 1 Macht von der Fraktionskarte des verlie renden Gegners auf einen angreifenden Charakter. (Falls es eine aufgedeckte <i>Krieg</i>-Strategiekarte gibt, verschiebst du stattdessen 2 Macht).",
+        "traits": "Armee."
+    },
+    {
+        "code": "03002",
+        "flavor": "\"Ich möchte dem Ganzen ein Ende machen. Ich möchte heimkehren, Mylords, und um meinen Gatten weinen.\"",
+        "name": "Catelyn Stark",
+        "text": "Catelyn Stark bekommt +1 Stärke für jede Macht, die sie hat.\n<b>Reaktion:</b> Nachdem ein [stark]-Charakter, den du kontrollierst, geopfert oder getötet worden ist, erhält Catelyn Stark 1 Macht. (Nur zwei Mal pro Runde.)",
+        "traits": "Haus Tully. Lady. Die Sieben."
+    },
+    {
+        "code": "03003",
+        "flavor": "\"Du musst die Männer kennen, die dir folgen, und sie dich. Verlange von deinen Leuten nicht, für einen Fremden zu sterben.\"",
+        "name": "Eddard Stark",
+        "text": "Ruhmreich.\n<b>Reaktion:</b> Nachdem Eddard Stark durch Ruhmreich Macht erhalten hat, wähle einen anderen teilnehmenden Charakter, den du kontrollierst. Der gewählte Charakter erhält 1 Macht.",
+        "traits": "Lord. Kleiner Rat."
+    },
+    {
+        "code": "03004",
+        "designer": "Kartenentwurf von Erick A. Butzlaff, Weltmeister 2009.",
+        "flavor": "",
+        "name": "Der Schwarzfisch",
+        "text": "Ruhmreich.\nSolange Der Schwarzfisch 4 oder mehr Macht hat, wird jeder <i>Haus Tully</i>-Charakter, den du kontrollierst, nicht gebeugt, sobald er zum Angreifer deklariert wird.\n<b>Reaktion:</b> Nachdem du als angreifender Spieler eine [military]-Herausforderung gewonnen hast, ziehe 1 Karte. (Nur ein Mal pro Phase.)",
+        "traits": "Haus Tully. Ritter. Lord."
+    },
+    {
+        "code": "03005",
+        "flavor": "\"Ich bin kein Stark, Vater.\"",
+        "name": "Jon Schnee",
+        "text": "<b>Aktion:</b> Opfere einen [stark]-Charakter, um einen einzigartigen [stark]-Charakter zu wählen und aufzurichten. (Nur ein Mal pro Runde.)",
+        "traits": "Bastard."
+    },
+    {
+        "code": "03006",
+        "flavor": "",
+        "name": "Wölfe des Nordens",
+        "text": "Keine Verstärkungen. Heimlich.\n<b>Reaktion:</b> Nachdem Wölfe des Nordens einen Charakter mit Heimlich umgangen haben, bekommt der umgangene Charakter bis zum Ende der Phase -X Stärke. X ist die Anzahl der <i>Schattenwolf</i>-Karten, die du kontrollierst.",
+        "traits": "Schattenwolf."
+    },
+    {
+        "code": "03007",
+        "flavor": "Ruhig wie stilles Wasser, sagte sie sich. Stark wie ein Bär. Wild wie eine Wölfin. Erneut schlug sie die Augen auf. Die Ungeheuer waren noch da, doch die Angst war verschwunden.",
+        "name": "Arya Stark",
+        "text": "<b>Reaktion:</b> Nachdem ein [stark]-Charakter, den du kontrollierst, getötet worden ist, opfere Arya Stark, um einen Charakter mit Stärke 3 oder weniger zu wählen und zu töten.",
+        "traits": "Lady."
+    },
+    {
+        "code": "03008",
+        "flavor": "",
+        "name": "Jory Cassel",
+        "text": "<b>Unterbrechung:</b> Sobald ein einzigartiger [stark]-Charakter, den du kontrollierst, getötet werden würde, opfere Jory Cassel, um ihn zu retten. Dann erhält der gerettete Charakter 1 Macht, falls es eine aufgedeckte <i>Winter</i>-Strategiekarte gibt.",
+        "traits": "Garde."
+    },
+    {
+        "code": "03009",
+        "flavor": "",
+        "name": "Minnesängerin aus Schnellwasser",
+        "text": "<b>Reaktion:</b> Nachdem Minnesängerin aus Schnellwasser ins Spiel gekommen ist, wähle einen <i>Haus Tully</i>-Charakter. Der gewählte Charakter erhält 1 Macht.",
+        "traits": "Haus Tully. Minnesänger."
+    },
+    {
+        "code": "03010",
+        "flavor": "\"Oh, mein süßes Sommerkind. Was weißt du schon von der Angst?\"",
+        "name": "Alte Nan",
+        "text": "<b>Unterbrechung:</b> Sobald eine Strategie karte aufgedeckt wird, beuge Alte Nan, um jene Strategiekarte bis zum Ende der Runde das Merkmal <i>Sommer</i> oder <i>Winter</i> erhalten zu lassen.",
+        "traits": "Geschichtenerzähler."
+    },
+    {
+        "code": "03011",
+        "flavor": "\"Sag ihm, er ist auf dem besten Wege, in die falsche Richtung zu marschieren. Nach Norden sollte er seine Schwerter richten. Norden, nicht Süden.\"",
+        "name": "Osha",
+        "text": "<b>Herausforderungsaktion:</b> Entferne Osha aus der Herausforderung. Dann richte sie auf. (Nur ein Mal pro Phase).",
+        "traits": "Wildling."
+    },
+    {
+        "code": "03012",
+        "flavor": "Die Mormonts von Bäreninsel waren ein altes Geschlecht, stolz und ehrenhaft, doch ihr Land war kalt und fern und arm.",
+        "name": "Getreuer von der Bäreninsel",
+        "text": "Solange Getreuer von der Bäreninsel an einer Heraus forderung teilnimmt, erhält jeder andere teilnehmende [stark]-Charakter, den du kontrollierst, \"immun gegen gegnerische Ereignisse\".",
+        "traits": "Haus Mormont."
+    },
+    {
+        "code": "03013",
+        "flavor": "Helft mir, betete sie, schickt mir einen Freund, einen wahren Ritter, der mich rettet ...",
+        "name": "Sansa Stark",
+        "text": "Sansa Stark bekommt -1 Stärke für jeden [stark]-Charakter in deinem Totenstapel.\nSolange Sansa Starks Stärke 0 ist, erhält sie Einblick.",
+        "traits": "Lady."
+    },
+    {
+        "code": "03014",
+        "flavor": "Der Wolf war fast so wild wie Rickon. Er hatte Gage in den Arm gebissen und aus Mikkens Schenkel ein Stück Fleisch herausgerissen.",
+        "name": "Struppel",
+        "text": "Keine Verstärkungen.\nSolange du Rickon Stark kontrollierst, bekommt er +2 Stärke und erhält ein [military]-Symbol.",
+        "traits": "Schattenwolf."
+    },
+    {
+        "code": "03015",
+        "flavor": "Götterdienst war ihr ein Septon, der Duft von Weihrauch, ein siebenseitiger Kristall, in dem das Licht spielte, Stimmen, die ein Lied sangen.",
+        "name": "Septon des Hauses Tully",
+        "text": "<b>Aufmarschaktion:</b> Lege 1 Macht von einem Charakter ab, den du kontrollierst, um die Kosten des nächsten <i>Haus Tully</i>- oder <i>Die Sieben</i>-Charakters, den du in dieser Phase aufmarschieren lässt, um 2 zu reduzieren. (Nur ein Mal pro Phase.)",
+        "traits": "Verbündeter. Haus Tully. Die Sieben."
+    },
+    {
+        "code": "03016",
+        "flavor": "\"Ich fürchte mich nicht. Ich muss auf Vater warten.\"",
+        "name": "Rickon Stark",
+        "text": "<b>Unterbrechung:</b> Sobald die Effekte einer ausgelösten Fähigkeit, die eine Form des Worts \"suchen\" enthält, initiiert werden würden, opfere Rickon Stark, um diese Effekte aufzuheben.",
+        "traits": "Lord."
+    },
+    {
+        "code": "03017",
+        "flavor": "",
+        "name": "Winterfell",
+        "text": "Jeder [stark]-Charakter, den du kontrollierst, bekommt +1 Stärke.\n<b>Reaktion:</b> Nachdem eine Herausforderung initiiert worden ist, beuge Winterfell. Dann kann jeder Spieler, der eine aufgedeckte Nicht-<i>Winter</i>-Strategie karte hat, bis zum Ende der Herausforderung keine Kartenfähigkeiten auslösen.",
+        "traits": "Der Norden. Winterfell."
+    },
+    {
+        "code": "03018",
+        "flavor": "",
+        "name": "Herzbaum von Winterfell",
+        "text": "<b>Reaktion:</b> Nachdem eine Phase begonnen hat, opfere Herzbaum von Winterfell, um eine [stark]-Karte, die du kontrollierst, zu wählen. Bis zum Ende der Phase erhält die gewählte Karte \"immun gegen gegnerische Strategiekarteneffekte\".",
+        "traits": "Alte Götter. Winterfell."
+    },
+    {
+        "code": "03019",
+        "flavor": "",
+        "name": "Nymeria",
+        "text": "Nur einzigartige [stark]-Charaktere.\nDer verstärkte Charakter erhält Ein schüchternd.\n<b>Aktion:</b> Bezahle 1 Gold, um einen anderen Charakter mit Nymeria zu verstärken. (Nur ein Mal pro Phase.)",
+        "traits": "Schattenwolf."
+    },
+    {
+        "code": "03020",
+        "flavor": "",
+        "name": "Nadel",
+        "text": "Nur [stark]-Charaktere.\nDer verstärkte Charakter bekommt +2 Stärke.\n<b>Unterbrechung:</b> Sobald der verstärkte Charakter geopfert wird, opfere Nadel, um den geopferten Charakter auf deine Hand zurückzuschicken, anstatt ihn auf deinen Ablagestapel zu legen.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "03021",
+        "flavor": "Unter ihm war nichts als Schnee und Kälte und Tod, eine erfrorene Einöde, in der gezackte, blauweiße Zapfen aus Eis darauf warteten, ihn zu empfangen.",
+        "name": "Festgefroren",
+        "text": "Nur nicht-limitierter Ort mit aufgedruckten Kosten von 3 oder weniger. Vergänglich.\nBehandle das aufgedruckte Textfeld des verstärkten Ortes, als ob es leer wäre (mit Ausnahme von <i>Merkmalen</i>).",
+        "traits": "Zustand."
+    },
+    {
+        "code": "03022",
+        "flavor": "",
+        "name": "Hart wie der Winter",
+        "text": "Spiele diese Karte nur, falls in deinem Archiv eine <i>Winter</i>-Strategiekarte liegt.\n<b>Reaktion:</b> Nachdem ein [stark]-Charakter, den du kontrollierst, geopfert oder getötet worden ist, bringe einen [stark]-Charakter mit gleichen oder niedrigeren aufgedruckten Kosten von deiner Hand ins Spiel.",
+        "traits": ""
+    },
+    {
+        "code": "03023",
+        "flavor": "\"Wenn der Schnee fällt und die weißen Winde wehen, stirbt der einsame Wolf, doch das Rudel überlebt.\" <cite>Eddard Stark</cite>",
+        "name": "Das Rudel überlebt",
+        "text": "<b>Unterbrechung:</b> Sobald die Effekte eines gegnerischen Ereignisses initiiert werden würden, opfere eine <i>Schattenwolf</i>-Karte oder beuge 2 [stark]-Charaktere, um diese Effekte aufzuheben.",
+        "traits": ""
+    },
+    {
+        "code": "03024",
+        "flavor": "\"Erste Lektion: Zustechen nur mit dem spitzen Ende.\" <cite>Jon Schnee</cite>",
+        "name": "Ein Geschenk für Arya",
+        "text": "<b>Aktion:</b> Verschiebe eine Verstärkung von einem [stark]-Charakter, den du kontrollierst, an einen anderen gültigen Charakter, den du kontrollierst.",
+        "traits": ""
+    },
+    {
+        "code": "03025",
+        "flavor": "",
+        "name": "Narrenkleid",
+        "text": "Nur gegnerische Charaktere.\nDer verstärkte Charakter erhält das Merkmal <i>Narr</i>.\n<b>Reaktion:</b> Nachdem der verstärkte Charakter zum Angreifer oder Verteidiger deklariert worden ist, lege 1 zufällige Karte von der Hand seines kontrollierenden Spielers ab.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "03026",
+        "flavor": "Der Hohe Septon sprach ein Gebet und bat den Vater darum, sie zur Gerechtigkeit zu führen.",
+        "name": "Die Waage der Gerechtigkeit",
+        "text": "<b>Aktion:</b> Wähle von jedem Spieler einen aufrechten Charakter, den dieser Spieler kontrolliert. Beuge alle gewählten Charaktere.",
+        "traits": ""
+    },
+    {
+        "code": "03027",
+        "flavor": "Fischbart und seine Söhne gehorchten rasch.",
+        "name": "Fischbart",
+        "text": "Solange Fischbart angreift, steuert jeder verteidigende Charakter seine Stärke nicht zur Herausforderung bei, falls es mehr aufgedeckte <i>Winter</i>- als <i>Sommer</i>-Strategiekarten gibt.",
+        "traits": "Haus Botlin. Eisenmann."
+    },
+    {
+        "code": "03028",
+        "flavor": "",
+        "name": "Den Gezeiten voraus",
+        "text": "<b>Unterbrechung:</b> Sobald die Initiative verglichen wird, bekommt deine aufgedeckte Strategiekarte bis zum Ende der Phase +3 Initiative. Falls du in dieser Phase die Initiative gewinnst, ziehe 1 Karte.",
+        "traits": ""
+    },
+    {
+        "code": "03029",
+        "flavor": "Söldner waren selten besonders ehrbare Männer, doch wenigstens besaßen sie ein gewisses Talent darin, ihr Leben mit der Waffe zu verteidigen.",
+        "name": "Söldner vom Kreuzweg",
+        "text": "<b>Unterbrechung:</b> Sobald Söldner vom Kreuzweg während der Herausforderungsphase getötet wird, erhältst du 2 Gold.",
+        "traits": "Söldner."
+    },
+    {
+        "code": "03030",
+        "flavor": "",
+        "name": "Turm der Hand",
+        "text": "<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung gewonnen hast, beuge Turm der Hand und schicke einen teilnehmenden [lannister]-Charakter auf deine Hand zurück, um einen Charakter mit niedrigeren aufgedruckten Kosten zu wählen, den der verlierende Gegner kontrolliert. Schicke den gewählten Charakter auf die Hand seines Besitzers zurück.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "03031",
+        "flavor": "Klein und untersetzt und mit einem schlichten Gesicht schien er ein anständiger Junge zu sein, nüchtern, einfühlsam und pflichtbewusst ... aber nicht gerade die Sorte Mann, bei der das Herz eines jungen Mädchens höher schlägt.",
+        "name": "Quentyn Martell",
+        "text": "Solange du nicht Startspieler bist, bekommt Quentyn Martell +1 Stärke und erhält Heimlich.\n<b>Unterbrechung:</b> Sobald Quentyn Martell getötet wird, wähle und töte einen Charakter, der weniger Stärke hat als er.",
+        "traits": "Ritter. Lord."
+    },
+    {
+        "code": "03032",
+        "flavor": "Alle Töchter von Prinz Oberyn haben seine Vipernaugen.",
+        "name": "Seine Vipernaugen",
+        "text": "<b>Reaktion:</b> Nachdem du als verteidigender Spieler eine [military]- oder [power]-Herausforderung verloren hast, sieh dir die Hand des siegenden Gegners an. Dann wähle 1 Karte von seiner Hand und lege sie ab.",
+        "traits": ""
+    },
+    {
+        "code": "03033",
+        "flavor": "",
+        "name": "Steinschlange",
+        "text": "Heimlich.\n<b>Reaktion:</b> Nachdem Steinschlange einen Charakter mit Heimlich umgangen hat, wähle ein Schlüsselwort des umgangenen Charakters. Bis zum Ende der Phase erhält Steinschlange das gewählte Schlüsselwort.",
+        "traits": "Grenzer."
+    },
+    {
+        "code": "03034",
+        "flavor": "",
+        "name": "Der Schattenturm",
+        "text": "<b>Reaktion:</b> Nachdem du als verteidigender Spieler eine Herausforderung gewonnen hast, beuge Der Schattenturm, um einen Charakter zu wählen, den der verlierende Gegner kontrolliert. Der gewählte Charakter kann in dieser Phase nicht zum Angreifer deklariert werden.",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "03035",
+        "flavor": "\"Ich ernenne dich zum Ko und bitte dich um deinen Eid, dass du als Blut von meinem Blut leben und sterben und an meiner Seite reiten willst, um allen Schaden von mir zu wenden.\" <cite>Daenerys Targaryen</cite>",
+        "name": "Aggo",
+        "text": "<b>Aktion:</b> Falls es eine aufgedeckte <i>Sommer</i>-Strategiekarte gibt, wähle einen <i>Blutreiter</i>-Charakter und richte ihn auf. (Nur ein Mal pro Runde.)",
+        "traits": "Blutreiter. Dothraki."
+    },
+    {
+        "code": "03036",
+        "flavor": "",
+        "name": "Drachensicht",
+        "text": "<b>Aktion:</b> Jeder teilnehmende Nicht-<i>Drache</i>-Charakter bekommt bis zum Ende der Herausforderung -1 Stärke.",
+        "traits": ""
+    },
+    {
+        "code": "03037",
+        "flavor": "",
+        "name": "Ritter des Hauses Florent",
+        "text": "<b>Erzwungene Reaktion:</b> Nachdem Ritter des Hauses Florent ins Spiel gekommen ist, wähle einen Charakter mit der niedrigsten Stärke im Spiel und lege ihn aus dem Spiel ab.",
+        "traits": "Haus Florent. Ritter."
+    },
+    {
+        "code": "03038",
+        "flavor": "",
+        "name": "Für das Rosenbanner!",
+        "text": "<b>Aufmarschaktion:</b> Wähle einen [tyrell]-Charakter, den du kontrollierst. Du erhältst X Gold, wobei X die Stärke des gewählten Charakters ist. Dann opfere den gewählten Charakter.",
+        "traits": ""
+    },
+    {
+        "code": "03039",
+        "flavor": "",
+        "name": "Manke Rayder",
+        "text": "Ruhmreich.\nJeder <i>Wildling</i>-Charakter auf deiner Hand erhält Hinterhalt (X). X sind die aufgedruckten Kosten der jeweiligen Karte.\nSolange es eine aufgedeckte <i>Winter</i>-Strategie karte gibt, reduziere die Kosten für Hinterhalt eines jeden deiner <i>Wildling</i>-Charaktere um 1.",
+        "traits": "König. Wildling."
+    },
+    {
+        "code": "03040",
+        "flavor": "Sie war unverheiratet, und ihre Lieblingswaffe war ein kurzer, krummer Bogen aus Horn und Wehrholz, doch \"Speerfrau\" passte trotzdem gut zu ihr.",
+        "name": "Junge Speerfrau",
+        "text": "Solange du weniger Macht als ein Gegner auf deiner Fraktions karte hast, erhält Junge Speerfrau Heimlich.",
+        "traits": "Wildling."
+    },
+    {
+        "code": "03041",
+        "flavor": "\"Hast du schon je daran gedacht, die Ordenskette eines Maesters anzulegen? Grenzen dessen, was sich lernen ließe, gibt es nicht.\" <cite>Maester Luwin</cite>",
+        "name": "Maester des Hauses",
+        "text": "",
+        "traits": "Maester."
+    },
+    {
+        "code": "03042",
+        "flavor": "Jenseits der Stadtmauern waren einhundert Zelte am Ufer des Flusses errichtet worden, und das einfache Volk kam zu Tausenden, um sich die Spiele anzusehen.",
+        "name": "Turnierplatz",
+        "text": "<b>Aktion:</b> Beuge Turnierplatz, um die Kosten des nächsten Ereignisses, das du in dieser Phase spielst, um 1 zu reduzieren.",
+        "traits": "Umkämpft. Westeros."
+    },
+    {
+        "code": "03043",
+        "flavor": "\"Mein Bruder hat den Grünen Blick. Er träumt Dinge, die noch nicht passiert sind, die jedoch manchmal wirklich geschehen.\" <cite>Meera Reet</cite>",
+        "name": "Grüne Träume",
+        "text": "Vergänglich.\n<b>Reaktion:</b> Nachdem der verstärkte Charakter gebeugt worden ist, sieh dir die oberste Karte deines Decks an. Du darfst die angesehene Karte unter dein Deck legen.",
+        "traits": "Traum."
+    },
+    {
+        "code": "03044",
+        "flavor": "",
+        "name": "Heilkunst",
+        "text": "<b>Unterbrechung:</b> Sobald ein Nicht-<i>Armee</i>-Charakter, den du kontrollierst, getötet werden würde, beuge einen <i>Maester</i>-Charakter, um ihn zu retten.",
+        "traits": "Zitadelle."
+    },
+    {
+        "code": "03045",
+        "flavor": "\"Eine angemessene Spende an den Glauben wird den Hohen Septon dazu bewegen ...\" <cite>Tywin Lennister</cite>",
+        "name": "Tempelsteuer",
+        "text": "<b>Aktion:</b> Beuge einen neutralen Charakter, um 2 Gold zu erhalten.",
+        "traits": ""
+    },
+    {
+        "code": "03046",
+        "designer": "Kartenentwurf von Dan Seefeldt, Nordamerikanischer Meister 2012.",
+        "flavor": "",
+        "name": "Zeit der Wölfe",
+        "text": "<b>Sobald aufgedeckt:</b> Suche in deinem Deck nach einer <i>Schattenwolf</i>-Karte, decke sie auf und nimm sie auf die Hand. Falls die aufgedruckten Kosten der Karte 3 oder niedriger sind, darfst du sie stattdessen ins Spiel bringen. Mische dein Deck.",
+        "traits": "Winter."
+    },
+    {
+        "code": "03047",
+        "flavor": "",
+        "name": "In Ungnade gefallen",
+        "text": "<b>Sobald aufgedeckt:</b> Opfere einen Charakter, den du kontrollierst.",
+        "traits": "Erlass."
+    },
+    {
+        "code": "03048",
+        "flavor": "",
+        "name": "Eingeschneit",
+        "text": "Behandle den Basisinitiativewert jeder aufgedeckten Strategiekarte als wäre er 0.",
+        "traits": "Winter."
+    },
+    {
+        "code": "03049",
+        "flavor": "",
+        "name": "Der lange Winter",
+        "text": "<b>Sobald aufgedeckt:</b> Jeder Spieler, der keine aufgedeckte <i>Sommer</i>-Strategiekarte hat, legt 1 Macht von einer Karte, die er kontrolliert, ab.",
+        "traits": "Winter."
+    },
+    {
+        "code": "03050",
+        "flavor": "",
+        "name": "Ein Sommerlied",
+        "text": "Solange es keine aufgedeckten <i>Winter</i>-Strategiekarten gibt, bekommt jeder Charakter, den du kontrollierst, +1 Stärke.",
+        "traits": "Sommer."
+    },
+    {
+        "code": "03051",
+        "flavor": "",
+        "name": "Waffen bleiben vor der Tür",
+        "text": "<b>Erzwungene Reaktion:</b> Nachdem die Herausforderungsphase begonnen hat, schicke jede Karte mit dem aufgedruckten Kartentyp Verstärkung auf die Hand ihres Besitzers zurück.",
+        "traits": "Erlass."
+    },
+    {
+        "code": "03052",
+        "flavor": "",
+        "name": "Geheimvorrat der Grenzer",
+        "text": "<b>Unterbrechung:</b> Sobald die Abgabephase endet, ziehe entweder 2 Karten oder erhalte 3 Gold.",
+        "traits": "Königreich. Winter."
+    }
+]

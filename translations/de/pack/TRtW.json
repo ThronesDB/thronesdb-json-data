@@ -1,0 +1,143 @@
+[
+    {
+        "code": "02021",
+        "flavor": "",
+        "name": "Hundeführer von Winterfell",
+        "text": "<b>Herausforderungsaktion:</b> Falls du einen teilnehmenden [stark]-Charakter kontrollierst, beuge einen <i>Schattenwolf</i>-Charakter oder einen Charakter mit einer <i>Schattenwolf</i>-Verstärkung, um ihn auf deiner Seite an der aktuellen Herausforderung teilnehmen zu lassen. (Nur ein Mal pro Phase.)",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "02022",
+        "flavor": "",
+        "name": "Burg Winterfell",
+        "text": "Während einer [military]- oder [power]-Herausforderung, in der du 2 oder mehr teilnehmende einzigartige [stark]-Charaktere kontrollierst, bekommt jeder dieser Charaktere +2 Stärke.",
+        "traits": "Festung. Winterfell."
+    },
+    {
+        "code": "02023",
+        "flavor": "",
+        "name": "Hofdame",
+        "text": "Hofdame darf <i>(kostenfrei)</i> als Duplikat eines <i>Lady</i>-Charakters, den du besitzt und kontrollierst, aufmarschieren.",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "02024",
+        "flavor": "",
+        "name": "Lady Sansas Rose",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der du einen <i>Ritter</i>-Charakter kontrollierst, der alleine angreift oder verteidigt, erhält dieser Charakter 1 Macht. (Falls du einen <i>Lady</i>-Charakter kontrollierst, sind es stattdessen 3 Macht.) (Maximal 1 pro Herausforderung.)",
+        "traits": ""
+    },
+    {
+        "code": "02025",
+        "flavor": "",
+        "name": "Unvereidigter Rekrut",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Herausforderungsaktion:</b> Bis zum Ende der Phase erhält Unvereidigter Rekrut ein Herausforderungssymbol deiner Wahl. (Nur ein Mal pro Phase.)",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "02026",
+        "flavor": "",
+        "name": "Brandons Schenkung",
+        "text": "<b>Reaktion:</b> Nachdem du einen <i>Baumeister</i>-Charakter aufmarschieren lassen hast, reduziere die Kosten der nächsten [thenightswatch]-Karte, die du in dieser Phase aufmarschieren lässt, um 1. (Nur drei Mal pro Phase.)",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "02027",
+        "flavor": "Wie ein reißender Fluss von Gold und Silber und poliertem Stahl strömten die Besucher durch die Tore der Burg, dreihundert Mann, eine Pracht von Vasallen und Rittern, von Gefolgsmännern und freien Rittersleuten.",
+        "name": "Königliches Gefolge",
+        "text": "<b>Erzwungene Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung verloren hast, beuge Königliches Gefolge.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "02028",
+        "flavor": "",
+        "name": "Im Namen Eures Königs!",
+        "text": "Kann nur während einer [military]-Herausforderung gespielt werden, in der du der verteidigende Spieler bist.\n<b>Aktion:</b> Beuge deine Fraktionskarte, um diese Herausforderung ohne Gewinner oder Verlierer zu beenden. Bis zum Ende der Phase kannst du keine [military]-Herausforderungen initiieren.",
+        "traits": ""
+    },
+    {
+        "code": "02029",
+        "flavor": "",
+        "name": "Bordellbetreiberin",
+        "text": "<b>Reaktion:</b> Nachdem die Herausforderungsphase begonnen hat, wähle einen Spieler. Der gewählte Spieler darf dir 1 Gold aus seiner Goldreserve geben. Falls er dir in dieser Phase kein Gold gegeben hat, kann er bis zum Ende der Phase keine [military]-Herausforderungen gegen dich initiieren.",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "02030",
+        "flavor": "",
+        "name": "Wächter des Westens",
+        "text": "<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung gewonnen hast, bezahle 2 Gold, um den verlierenden Gegner 2 Karten von seiner Hand wählen und ablegen zu lassen.",
+        "traits": "Komplott."
+    },
+    {
+        "code": "02031",
+        "designer": "Kartenentwurf von Martí Foz Hernandez, Europameister im Tjost 2011.",
+        "flavor": "",
+        "name": "Der Leser",
+        "text": "<b>Reaktion:</b> Nachdem du eine unverteidigte Herausforderung gewonnen hast, an der ein einzig artiger [greyjoy]-Charakter teilnimmt, ziehe entweder 1 Karte oder lege die obersten 3 Karten von den Decks aller Gegner ab. (Nur ein Mal pro Phase.)",
+        "traits": "Haus Harlau. Lord."
+    },
+    {
+        "code": "02032",
+        "flavor": "",
+        "name": "Plünderndes Langschiff",
+        "text": "<b>Herausforderungsaktion:</b> Falls du der Startspieler bist, beuge Plünderndes Langschiff, um einen verteidigenden Charakter ohne Verstärkungen zu wählen. Der gewählte Charakter steuert keine Stärke zu dieser Herausforderung bei.",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "02033",
+        "flavor": "\"So soll es sein, Blut von meinem Blut.\"",
+        "name": "Rakharo",
+        "text": "Solange du einen anderen <i>Blutreiter</i>-Charakter kontrollierst, erhält Rakharo Einschüchternd.\n<b>Reaktion:</b> Nachdem ein Charakter während einer von dir initiierten Herausforderung zur Erfüllung von Schadenseffekten getötet worden ist, erhält Rakharo 1 Macht.",
+        "traits": "Blutreiter. Dothraki."
+    },
+    {
+        "code": "02034",
+        "flavor": "",
+        "name": "Eine goldene Krone",
+        "text": "Vergänglich.\nDer verstärkte Charakter erhält das Merkmal <i>König</i>.\nDer verstärkte Charakter bekommt -4 Stärke und wird getötet, falls seine Stärke 0 ist.",
+        "traits": "Gegenstand."
+    },
+    {
+        "code": "02035",
+        "flavor": "",
+        "name": "Nymeria Sand",
+        "text": "<b>Herausforderungsaktion:</b> Wähle einen Charakter eines Gegners. Bis zum Ende der Phase verliert der gewählte Charakter ein Herausforderungssymbol deiner Wahl und jeder <i>Sandschlange</i>-Charakter, den du kontrollierst, erhält dieses Herausforderungssymbol. (Nur ein Mal pro Phase.)",
+        "traits": "Bastard. Sandschlange."
+    },
+    {
+        "code": "02036",
+        "flavor": "",
+        "name": "In Dorans Namen",
+        "text": "<b>Aktion:</b> Beuge deine Fraktionskarte, um X Gold zu erhalten. X ist die Anzahl der Strategiekarten in deinem Archiv.",
+        "traits": ""
+    },
+    {
+        "code": "02037",
+        "flavor": "\"Einfach so.\"",
+        "name": "Syrio Forel",
+        "text": "Heimlich.\n<b>Herausforderungsaktion:</b> Wähle einen Charakter. Bis zum Ende der Phase erhält der gewählte Charakter ein [military]-Symbol und Heimlich. (Nur ein Mal pro Phase.)",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "02038",
+        "flavor": "",
+        "name": "Schwarzschattengasse",
+        "text": "<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung gewonnen hast, beuge deine Fraktionskarte, um in den obersten 10 Karten deines Decks nach einem fraktionszugehörigen Ereignis zu suchen, es aufzudecken und auf deine Hand zu nehmen.\nMische dein Deck.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "02039",
+        "flavor": "",
+        "name": "Handel mit den Pentoshi",
+        "text": "<b>Sobald aufgedeckt:</b> Jeder Gegner erhält 3 Gold. (Kann nicht aufgehoben werden.)",
+        "traits": "Königreich."
+    },
+    {
+        "code": "02040",
+        "flavor": "",
+        "name": "Politisches Desaster",
+        "text": "<b>Sobald aufgedeckt:</b> Jeder Spieler wählt bis zu 2 Orte, die er kontrolliert. Jeder nicht gewählte Ort wird aus dem Spiel abgelegt.",
+        "traits": "Erlass."
+    }
+]

@@ -1,0 +1,368 @@
+[
+    {
+        "code": "09001",
+        "flavor": "",
+        "name": "Maes Tyrell",
+        "text": "<b>Reaktion:</b> Nachdem ein [tyrell]-Charakter unter deiner Kontrolle ins Spiel gekommen ist, bezahle 1 Gold, um Maes Tyrell 1 Macht erhalten zu lassen. (Nur ein Mal pro Phase.)\n<b>Aktion:</b> Beuge deine Fraktionskarte, um einen anderen [tyrell]-Charakter, den du kontrollierst, bis zum Beginn der nächsten Phase aus dem Spiel zu entfernen.",
+        "traits": "Lord."
+    },
+    {
+        "code": "09002",
+        "flavor": "",
+        "name": "Brienne von Tarth",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung ge wonnen hast, an der Brienne von Tarth teilnimmt, und falls ihre Stärke:\n- 6 oder höher ist, erhält sie 1 Macht.\n- 10 oder höher ist, wähle einen anderen Charakter. Bis zum Ende der Phase bekommt er +3 Stärke.\n- 15 oder höher ist, richte sie auf und ziehe 1 Karte.",
+        "traits": "Lady."
+    },
+    {
+        "code": "09003",
+        "flavor": "\"Eine kühne Tat, die nicht besungen wird, ist deshalb nicht weniger kühn.\"",
+        "name": "Ser Garlan Tyrell",
+        "text": "<b>Aktion:</b> Während einer Herausforderung, in der ein <i>Ritter</i>-Charakter, den du kontrollierst, alleine angreift, lege 1 Karte von deiner Hand ab, um den Schadenswert deiner aufgedeckten Strategiekarte bis zum Ende der Herausforderung um 1 zu erhöhen. (Nur ein Mal pro Herausforderung.)",
+        "traits": "Ritter. Lord."
+    },
+    {
+        "code": "09004",
+        "flavor": "\"All diese Könige würden gut daran tun, ihr Schwerter niederzulegen und auf ihre Mütter zu hören.\"",
+        "name": "Die Königin der Dornen",
+        "text": "Einblick.\n<b>Reaktion:</b> Nachdem Die Königin der Dornen gebeugt worden ist, lege ein Ereignis von deiner Hand ab, um in deinem Deck nach einem Ereignis zu suchen, es aufzudecken und es auf deine Hand zu nehmen. Mische dein Deck.",
+        "traits": "Lady."
+    },
+    {
+        "code": "09005",
+        "flavor": "",
+        "name": "Ehrengarde von Rosengarten",
+        "text": "Hinterhalt (6). Keine Verstärkungen.\nReduziere die Hinterhalt-Kosten für Ehrengarde von Rosengarten um 1 für jeden <i>Die Weite</i>-Ort, den du kontrollierst.",
+        "traits": "Armee. Garde."
+    },
+    {
+        "code": "09006",
+        "designer": "Kartenentwurf von Gregoire Lefebvre, Europameister im Buhurt 2011.",
+        "flavor": "",
+        "name": "Margaery Tyrell",
+        "text": "Solange Margaery Tyrell angreift, bekommt sie +1 Stärke für jeden verteidigenden Charakter.\n<b>Reaktion:</b> Nachdem Margaery Tyrell zum Angreifer deklariert worden ist, wähle einen Charakter, den der verteidigende Spieler kontrolliert, und beuge ihn. Der gewählte Charakter nimmt als Verteidiger an der Herausforderung teil.",
+        "traits": "Lady. Königin."
+    },
+    {
+        "code": "09007",
+        "flavor": "\"Die meisten verdienen nichts anderes, als vergessen zu werden. An die Helden wird man sich stets erinnern. An die Besten.\"",
+        "name": "Der Ritter der Blumen",
+        "text": "Ruhmreich.\n<b>Reaktion:</b> Nachdem du ein Ereignis gespielt hast, bekommt Der Ritter der Blumen bis zum Ende der Phase +2 Stärke.",
+        "traits": "Ritter. Lord."
+    },
+    {
+        "code": "09008",
+        "flavor": "",
+        "name": "Willas Tyrell",
+        "text": "<b>Aktion:</b> Beuge Willas Tyrell. Falls du dann:\n- Margaery Tyrell kontrollierst, richte sie auf.\n- Der Ritter der Blumen kontrollierst, erhält er bis zum Ende der Phase Einblick.\n- Ser Garlan Tyrell kontrollierst, erhält er bis zum Ende der Phase Ruhmreich.",
+        "traits": "Lord."
+    },
+    {
+        "code": "09009",
+        "flavor": "\"Garth hat mir gut als Lord Seneschall gedient, so wie vor mir meinem Vater.\" <cite>Maes Tyrell</cite>",
+        "name": "Garth der Grobe",
+        "text": "Solange du einen anderen [tyrell]-<i>Lord</i>-Charakter kontrollierst, erhält Garth der Grobe ein [military]-Symbol und Ruhmreich.\nSolange du einen [tyrell]-<i>Lady</i>-Charakter kontrollierst, erhält Garth der Grobe ein [intrigue]-Symbol und bekommt +2 Stärke.",
+        "traits": "Lord. Kämmerer."
+    },
+    {
+        "code": "09010",
+        "flavor": "\"Als Junge hieß ich Wat. Ein guter Name für einen Bauernburschen, doch weniger passend für einen Sänger.\"",
+        "name": "Der Blaue Barde",
+        "text": "<b>Unterbrechung:</b> Sobald Der Blaue Barde das Spiel verlässt, suche in den obersten 10 Karten deines Decks nach beliebig vielen <i>Lied</i>-Ereignissen, decke sie auf und nimm sie auf deine Hand. Mische dein Deck.",
+        "traits": "Minnesänger."
+    },
+    {
+        "code": "09011",
+        "flavor": "",
+        "name": "Gesandte vom Hohenturm",
+        "text": "Hinterhalt (4).\n<b>Reaktion:</b> Nachdem Gesandte vom Hohenturm ins Spiel gekommen ist, wähle ein Ereignis in deinem Ablagestapel. Bis zum Ende der Phase darfst du das gewählte Ereignis spielen, als ob es auf deiner Hand wäre. Falls du das tust, entferne es aus dem Spiel, anstatt es auf deinen Ablagestapel zu legen.",
+        "traits": "Haus Hohenturm."
+    },
+    {
+        "code": "09012",
+        "flavor": "",
+        "name": "Grünapfel-Ritter",
+        "text": "Grünapfel-Ritter bekommt +1 Stärke für jeden anderen <i>Ritter</i>-Charakter, den du kontrollierst.\nSolange du 2 oder mehr andere <i>Ritter</i>-Charaktere kontrollierst, wird Grünapfel-Ritter nicht gebeugt, sobald er zum Angreifer deklariert wird.",
+        "traits": "Ritter."
+    },
+    {
+        "code": "09013",
+        "flavor": "\"Rothweyn hat eine Tochter mit einer hübschen Mitgift ...\" <cite>Dawen Lennister</cite>",
+        "name": "Desmera Rothweyn",
+        "text": "<b>Reaktion:</b> Nachdem ein Charakter aus einer Herausforderung entfernt worden ist, bezahle 1 Gold, um jenem Charakter bis zum Ende der Phase +2 Stärke oder -1 Stärke zu geben.",
+        "traits": "Haus Rothweyn. Lady."
+    },
+    {
+        "code": "09014",
+        "flavor": "",
+        "name": "Maester Ballabar",
+        "text": "<b>Aktion:</b> Während einer Herausforderung, in der du einen teilnehmenden Charakter kontrollierst, beuge Maester Ballabar, um einen Charakter mit der niedrigsten Stärke unter den teilnehmenden Charakteren zu wählen. Richte den gewählten Charakter auf und entferne ihn aus der Herausforderung.",
+        "traits": "Maester."
+    },
+    {
+        "code": "09015",
+        "flavor": "",
+        "name": "Hofdame aus Rosengarten",
+        "text": "<b>Reaktion:</b> Nachdem die Stärke eines anderen Charakters durch einen Karteneffekt erhöht worden ist, beuge Hofdame aus Rosengarten, um jenen Charakter aufzurichten. (Nur ein Mal pro Phase.)",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "09016",
+        "flavor": "Andere Reiter kannte Sansa nicht. Unbedeutende Ritter von den Vier Fingern, aus Rosengarten und den Bergen von Dorne, unbesungene Reiter und frisch ernannte Knappen ...",
+        "name": "Turnierritter",
+        "text": "Turnierritter steuert keine Stärke zu einer Herausforderung bei, es sei denn, er greift alleine an oder verteidigt alleine.",
+        "traits": "Ritter."
+    },
+    {
+        "code": "09017",
+        "flavor": "Von seinem Standort auf den Felsen der Schlachtinsel aus durchschnitt sein Schatten die Stadt wie ein Schwert.",
+        "name": "Der Hohenturm",
+        "text": "<b>Reaktion:</b> Nachdem ein [tyrell]-Charakter unter deiner Kontrolle ins Spiel gekommen ist, erhalte 1 Gold und ziehe 1 Karte. (Nur ein Mal pro Phase.)",
+        "traits": "Haus Hohenturm. Altsass."
+    },
+    {
+        "code": "09018",
+        "flavor": "",
+        "name": "Rothweynstrasse",
+        "text": "Limitiert. <i>(Pro Runde darf jeder Spieler nur 1 limitierte Karte spielen oder aufmarschieren lassen.)</i>\nGoldwert +2",
+        "traits": "Haus Rothweyn."
+    },
+    {
+        "code": "09019",
+        "flavor": "Die Kämpfe dauerten den ganzen Tag bis in die Dämmerung, und die Hufe der großen Streitrösser stampften die Bahnen entlang, bis der Platz nur noch eine zerfurchte Ödnis aus aufgerissener Erde war.",
+        "name": "Turnierpavillon",
+        "text": "Jeder <i>Ritter</i>-Charakter, den du kontrollierst, bekommt +1 Stärke, solange er alleine angreift oder verteidigt.",
+        "traits": "Die Weite."
+    },
+    {
+        "code": "09020",
+        "flavor": "",
+        "name": "Königin der Sieben Königslande",
+        "text": "Nur <i>Lady</i>-Charaktere.\nDer verstärkte Charakter erhält das Merkmal <i>Königin</i>.\n<b>Aktion:</b> Richte den verstärkten Charakter auf und entferne ihn aus einer Herausforderung, um einen teilnehmenden Charakter zu wählen. Richte den gewählten Charakter auf und entferne ihn aus der Herausforderung. (Nur ein Mal pro Phase.)",
+        "traits": "Titel."
+    },
+    {
+        "code": "09021",
+        "flavor": "",
+        "name": "Turnierlanze",
+        "text": "Nur <i>Ritter</i>-Charaktere.\nDer verstärkte Charakter bekommt +1 Stärke.\nSolange der verstärkte Charakter alleine an greift, kann der verteidigende Spieler nicht mehr als 1 Charakter zum Verteidiger deklarieren.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "09022",
+        "flavor": "",
+        "name": "Buhurt bei Bitterbrück",
+        "text": "<b>Aktion:</b> Wähle X teilnehmende Charaktere. Jeder Charakter mit der höchsten Stärke unter den gewählten Charakteren erhält bis zum Ende der Herausforderung Ruhmreich. Jeder andere gewählte Charakter steuert keine Stärke zu der Herausforderung bei.",
+        "traits": ""
+    },
+    {
+        "code": "09023",
+        "flavor": "Sechs Jungfern baden in einem Quellenteich ...",
+        "name": "\"Sechs Jungfern baden in einem Quellenteich\"",
+        "text": "<b>Aktion:</b> Ziehe 1 Karte für jeden <i>Lady</i>-Charakter, den du kontrollierst.",
+        "traits": "Lied."
+    },
+    {
+        "code": "09024",
+        "flavor": "",
+        "name": "Verborgene Dornen",
+        "text": "<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung um 5 oder mehr Stärke gewonnen hast, wählt der verlierende Gegner 2 Karten von seiner Hand und legt sie ab. Dann schicke Verborgene Dornen auf deine Hand zurück, anstatt sie auf deinen Ablagestapel zu legen, falls du Die Königin der Dornen kontrollierst. (Maximal 1 pro Herausforderung.)",
+        "traits": ""
+    },
+    {
+        "code": "09025",
+        "flavor": "\"Benutzt Eure alten Schliche, setzt schwarze Segel und lauft versteckte Buchten an. Tut, was immer Ihr tun müsst.\" <cite>Stannis Baratheon</cite>",
+        "name": "Fluss-Schmuggler",
+        "text": "Solange Fluss-Schmuggler angreift, kann jeder Charakter mit Macht nicht zum Verteidiger deklariert werden.",
+        "traits": "Verbündeter. Schmuggler."
+    },
+    {
+        "code": "09026",
+        "flavor": "\"Es hat noch keinen umgebracht, das Knie zu beugen.\" <cite>Balon Graufreud</cite>",
+        "name": "Das Knie beugen",
+        "text": "Kann nur gespielt werden, falls du einen aufrechten <i>König</i>-Charakter kontrollierst.\n<b>Aktion:</b> Wähle einen <i>Lord</i>- oder <i>Lady</i>-Charakter und beuge ihn.",
+        "traits": ""
+    },
+    {
+        "code": "09027",
+        "flavor": "",
+        "name": "Apostel des Ertrunkenen Gottes",
+        "text": "<b>Reaktion:</b> Nachdem du die Herrschaft ge wonnen hast, töte Apostel des Ertrunkenen Gottes, um einen nicht-einzigartigen [greyjoy]-Charakter mit aufgedruckten Kosten von 3 oder weniger aus deinem Totenstapel ins Spiel zu bringen.",
+        "traits": "Ertrunkener Gott. Eisenmann."
+    },
+    {
+        "code": "09028",
+        "flavor": "",
+        "name": "Leichensee",
+        "text": "<b>Reaktion:</b> Nachdem ein Charakter vom Deck eines Gegners abgelegt worden ist, erhält Leichensee 1 Macht. (Nur drei Mal pro Runde.)",
+        "traits": "Eiseninseln."
+    },
+    {
+        "code": "09029",
+        "flavor": "\"Ich bin kein Ritter. Ich spucke auf die und deren Schwüre.\"",
+        "name": "Der Bluthund",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Reaktion:</b> Nachdem Der Bluthund ins Spiel gekommen ist, wähle einen <i>Ritter</i>-Charakter ohne Verstärkungen und schicke ihn auf die Hand seines Besitzers zurück.",
+        "traits": "Haus Clegane. Königsgarde."
+    },
+    {
+        "code": "09030",
+        "flavor": "",
+        "name": "Löwenfang",
+        "text": "Nur einzigartige [lannister]-Charaktere. Hinterhalt (2). \nDer verstärkte Charakter bekommt +1 Stärke.\n<b>Aktion:</b> Während einer Herausforderung, an welcher der verstärkte Charakter teilnimmt, opfere Löwenfang, um einen teilnehmenden Charakter mit aufgedruckten Kosten von 3 oder weniger zu wählen und auf die Hand seines Besitzers zurückzuschicken.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "09031",
+        "flavor": "",
+        "name": "Der Bastard von Göttergnad",
+        "text": "Ruhmreich.\n<b>Herausforderungsaktion:</b> Lege 1 Macht von Der Bastard von Göttergnad ab, um die Kosten der nächsten Karte, die du in dieser Phase spielst oder durch Hinterhalt ins Spiel bringst, um 2 zu reduzieren.",
+        "traits": "Bastard. Ritter."
+    },
+    {
+        "code": "09032",
+        "flavor": "Die Hälfte der Ullers ist halb verrückt, ging der Spruch, und die andere ist noch schlimmer.",
+        "name": "Höllhain",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung um 5 oder mehr Stärke verloren hast, erhält Höllhain 1 Macht.",
+        "traits": "Dorne. Haus Uller. Festung."
+    },
+    {
+        "code": "09033",
+        "flavor": "",
+        "name": "Kleiner Paul",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Unterbrechung:</b> Sobald Kleiner Paul getötet wird, suche in den obersten X Karten deines Decks nach beliebig vielen <i>Kämmerer</i>-Charakteren, decke sie auf und nimm sie auf deine Hand. X ist dein Reservewert. Mische dein Deck.",
+        "traits": "Kämmerer."
+    },
+    {
+        "code": "09034",
+        "flavor": "",
+        "name": "Eidbruch",
+        "text": "<b>Aufmarschaktion:</b> Gib einem Gegner die Kontrolle über einen [thenightswatch]-Charakter, den du kontrollierst. Dann übernimm die Kontrolle über einen nicht-loyalen Charakter mit niedrigeren aufgedruckten Kosten, den jener Gegner kontrolliert.",
+        "traits": ""
+    },
+    {
+        "code": "09035",
+        "flavor": "\"... in den vielen Jahren meiner Ritterschaft war ich doch in Wirklichkeit stets ein Narr, und nun, da ich ein Narr bin, glaube ich ... glaube ich in mir wieder etwas Ritterliches zu entdecken ...\"",
+        "name": "Ser Dontos Hollard",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Unterbrechung:</b> Sobald ein <i>Lady</i>-Charakter getötet oder aus dem Spiel abgelegt werden würde, richte Ser Dontos Hollard auf, um jenen Charakter zu retten.",
+        "traits": "Narr. Ritter."
+    },
+    {
+        "code": "09036",
+        "flavor": "",
+        "name": "Letzter Herd",
+        "text": "<b>Aktion:</b> Beuge Letzter Herd, um einem teilnehmenden [stark]-Charakter bis zum Ende der Herausforderung +2 Stärke zu geben. (Falls weniger als 3 Strategiekarten in deinem Archiv sind, gib ihm stattdessen +3 Stärke.)",
+        "traits": "Haus Umber. Der Norden."
+    },
+    {
+        "code": "09037",
+        "flavor": "Qotho war der grausamste unter den Blutreitern.",
+        "name": "Qotho",
+        "text": "<b>Aktion:</b> Lege 2 [targaryen]-Karten von deiner Hand ab, um Qotho von deiner Hand ins Spiel zu bringen.",
+        "traits": "Blutreiter. Dothraki."
+    },
+    {
+        "code": "09038",
+        "flavor": "",
+        "name": "Tokar",
+        "text": "Nur [targaryen]-Charaktere.\nDer verstärkte Charakter bekommt +1 Stärke für jede Verstärkung, die er hat.\nSolange der verstärkte Charakter an einer Herausforderung teilnimmt, kann jeder Charakter ohne Verstärkungen keine Macht erhalten.",
+        "traits": "Gegenstand."
+    },
+    {
+        "code": "09039",
+        "flavor": "\"Der Morgen dämmert früher, als uns recht ist, und Erzmaester Ebros wird über die Eigenschaften des Urins sprechen. Wer beabsichtigt, sich ein silbernes Glied zu schmieden, sollte seinen Vortrag nicht verpassen.\" <cite>Armen der Akolyth</cite>",
+        "name": "Erzmaester Ebros",
+        "text": "<b>Aktion:</b> Beuge einen <i>Maester</i>-Charakter, um einen anderen <i>Maester</i>-Charakter zu wählen und aufzurichten. (Nur ein Mal pro Phase.)",
+        "traits": "Maester."
+    },
+    {
+        "code": "09040",
+        "designer": "Kartenentwurf von Ryan Jones, Gesamtweltmeister 2013.",
+        "flavor": "",
+        "name": "Mann ohne Gesicht",
+        "text": "Hinterhalt (4).\n<b>Herausforderungsaktion:</b> Wähle einen Charakter in einem Totenstapel. Bis zum Ende der Phase erhält Mann ohne Gesicht alle aufgedruckten Herausforderungssymbole, Schlüsselwörter, Fraktionszugehörigkeiten und <i>Merkmale</i> des gewählten Charakters. (Nur ein Mal pro Phase.)",
+        "traits": ""
+    },
+    {
+        "code": "09041",
+        "flavor": "Obwohl er erst seit einem Jahr auf der Citadel war, hatte er bereits drei Glieder seiner Maesterkette geschmiedet.",
+        "name": "Novize der Citadel",
+        "text": "<b>Reaktion:</b> Nachdem Novize der Citadel gebeugt worden ist, decke die oberste Karte deines Decks auf. Falls es eine Verstärkung oder ein <i>Maester</i>-Charakter ist, ziehe sie. (Nur ein Mal pro Runde.)",
+        "traits": "Maester."
+    },
+    {
+        "code": "09042",
+        "flavor": "\"In der Citadel gibt es so viele Bücher, dass niemand sich erträumen kann, sie alle zu lesen.\" <cite>Jon Schnee</cite>",
+        "name": "Die Citadel",
+        "text": "<b>Aktion:</b> Beuge Die Citadel, um in den obersten 10 Karten deines Decks nach einem <i>Maester</i>-Charakter zu suchen, ihn aufzudecken und ihn auf deine Hand zu nehmen. Mische dein Deck.",
+        "traits": "Citadel. Altsass."
+    },
+    {
+        "code": "09043",
+        "flavor": "Man löste ihn in Wein auf, und die Wirkung bestand darin, dass er die Halsmuskeln enger zusammenzog, als jede fremde Hand es vermocht hätte ...",
+        "name": "Würger",
+        "text": "Vergänglich.\nSolange der verstärkte Charakter an einer Herausforderung teilnimmt, lege seine Stärke auf 1 fest. <i>(Andere Modifikatoren können seine Stärke nicht erhöhen oder senken.)</i>",
+        "traits": "Zustand. Gift."
+    },
+    {
+        "code": "09044",
+        "flavor": "\"Ich vertraue mehr auf Taten.\" <cite>Daenerys Targaryen</cite>",
+        "name": "Worte sind Wind",
+        "text": "<b>Unterbrechung:</b> Sobald die Effekte eines Ereignisses eines Gegners initiiert werden würden, muss dieser Gegner wählen: Jene Effekte werden entweder auf ge ho ben oder du ziehst 2 Karten.",
+        "traits": ""
+    },
+    {
+        "code": "09045",
+        "flavor": "",
+        "name": "Das Konklave",
+        "text": "Dein Deck darf nicht-loyale <i>Maester</i>-Charaktere von beliebigen Fraktionen enthalten. Dein Deck muss mindestens 12 <i>Maester</i>-Charaktere enthalten. Bevor die Startkarten platziert werden, lege die obersten 7 Karten deines Decks verdeckt unter diese Agenda.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der du einen teilnehmenden <i>Maester</i>-Charakter kontrollierst, wähle 1 Karte unter dieser Agenda und tausche sie gegen die oberste Karte deines Decks aus.",
+        "traits": "Citadel. Konklave."
+    },
+    {
+        "code": "09046",
+        "flavor": "",
+        "name": "Wächter des Südens",
+        "text": "<b>Reaktion:</b> Nachdem ein [tyrell]-Charakter, den du kontrollierst, zum Angreifer oder Verteidiger deklariert worden ist, bekommt er bis zum Ende der Herausforderung +2 Stärke.",
+        "traits": "Sommer."
+    },
+    {
+        "code": "09047",
+        "flavor": "",
+        "name": "Belagert",
+        "text": "In jeder Herausforderung muss mindestens 1 Charakter zum Verteidiger deklariert werden, falls möglich.",
+        "traits": "Belagerung. Krieg."
+    },
+    {
+        "code": "09048",
+        "flavor": "",
+        "name": "Auf Befehl Eures Königs",
+        "text": "Jeder Nicht-<i>König</i>- und Nicht-<i>Königin</i>-Charakter kann keine Macht erhalten.",
+        "traits": "Erlass. Adlig."
+    },
+    {
+        "code": "09049",
+        "flavor": "",
+        "name": "Das Netz der Spinne",
+        "text": "<b>Reaktion:</b> Nachdem der Schaden einer [intrigue]-Herausforderung, die du gewonnen hast, angewandt worden ist, darfst du in dieser Phase eine zusätzliche [intrigue]-Herausforderung initiieren. Erhöhe bis zum Ende der Phase den Schadenswert deiner aufgedeckten Strategiekarte während [intrigue]-Herausforderungen um 1. (Nur ein Mal pro Phase.)",
+        "traits": "Komplott."
+    },
+    {
+        "code": "09050",
+        "flavor": "",
+        "name": "Jetzt heisst es Krieg",
+        "text": "<b>Erzwungene Unterbrechung:</b> Sobald der Schaden einer [intrigue]- oder [power]-Herausforderung angewandt wird, darf der angreifende Spieler wählen, stattdessen [military]-Schaden anzuwenden.",
+        "traits": "Krieg."
+    },
+    {
+        "code": "09051",
+        "flavor": "",
+        "name": "Handelsrouten",
+        "text": "<b>Sobald aufgedeckt:</b> Wähle einen Gegner. Du erhältst 1 Gold für jeden Ort, den du kontrollierst, und für jeden Ort, den der gewählte Gegner kontrolliert.",
+        "traits": "Königreich. Sommer."
+    },
+    {
+        "code": "09052",
+        "flavor": "",
+        "name": "Nichts brennt wie die Kälte",
+        "text": "<b>Sobald aufgedeckt:</b> Jeder Spieler wählt falls möglich 1 Verstärkung, die er kontrolliert, und 1 nicht-limitierten Ort, den er kontrolliert, und legt die gewählten Karten aus dem Spiel ab (können nicht gerettet werden).",
+        "traits": "Winter."
+    }
+]

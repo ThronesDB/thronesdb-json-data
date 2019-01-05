@@ -1,0 +1,142 @@
+[
+    {
+        "code": "02101",
+        "flavor": "",
+        "name": "Septa Mordane",
+        "text": "Solange du:\n- Sansa Stark kontrollierst, bekommt sie +2 Stärke und erhält Ruhmreich\n- Arya Stark kontrollierst, erhält sie ein [intrigue]-Symbol und \"immun gegen gegnerische Strategiekarteneffekte.\"",
+        "traits": "Die Sieben."
+    },
+    {
+        "code": "02102",
+        "flavor": "",
+        "name": "Mündel",
+        "text": "Nur Charaktere mit aufgedruckten Kosten von 4 oder weniger. Vergänglich.\nÜbernimm die Kontrolle über den verstärkten Charakter.\nDer verstärkte Charakter erhält die [stark]-Fraktionszugehörigkeit.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "02103",
+        "flavor": "",
+        "name": "Butterstampfer",
+        "text": "Einblick.\n<b>Erzwungene Reaktion:</b> Nachdem du eine Herausforderung verloren hast, an der Butterstampfer teilnimmt, lege 1 zufällige Karte von deiner Hand ab.",
+        "traits": "Narr."
+    },
+    {
+        "code": "02104",
+        "flavor": "",
+        "name": "Eine Flasche Arborgold",
+        "text": "<b>Aktion:</b> Beuge deine Fraktionskarte, um jeden Spieler die obersten 4 Karten seines Decks aufdecken zu lassen. Wähle für jeden Spieler 1 seiner aufgedeckten Karten, die er auf seine Hand nimmt. Mische die anderen Karten in die Decks ihrer jeweiligen Besitzer zurück.",
+        "traits": "Haus Rothweyn."
+    },
+    {
+        "code": "02105",
+        "flavor": "",
+        "name": "Geschworener Bruder",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nReduziere die Kosten des ersten Ortes, den du in jeder Runde aufmarschieren lässt, um 1.",
+        "traits": "Baumeister."
+    },
+    {
+        "code": "02106",
+        "flavor": "\"Korn, Korn, Korn.\"",
+        "name": "Rabe des Alten Bären",
+        "text": "Der verstärkte Charakter erhält Heimlich.\nFalls der verstärkte Charakter Alter Bär Mormont ist, erhält er ein [intrigue]-Symbol.",
+        "traits": "Gefährte. Rabe."
+    },
+    {
+        "code": "02107",
+        "flavor": "\"Majestät, es ist ehrenwert, sich einem Feind auf dem Schlachtfeld zu stellen, doch nicht, ihn im Mutterbauch zu töten. Verzeiht mir, aber ich muss mich auf Lord Eddards Seite stellen.\"",
+        "name": "Ser Barristan Selmy",
+        "text": "Ruhmreich.\n<b>Unterbrechung:</b> Sobald ein <i>Lord</i>- oder <i>Lady</i>-Charakter, den du kontrollierst, getötet werden würde, richte Ser Barristan Selmy auf, um den Charakter zu retten.",
+        "traits": "Königsgarde. Ritter. Kleiner Rat."
+    },
+    {
+        "code": "02108",
+        "flavor": "\"Die Stadtwache ist zweitausend Mann stark, darauf vereidigt, die Burg zu verteidigen und den königlichen Frieden.\" <cite>Eddard Stark</cite>",
+        "name": "Stadtwache",
+        "text": "Hinterhalt (6). Keine Verstärkungen außer <i>Waffe</i>.\nSolange du mehr Macht auf deiner Fraktionskarte hast als ein Gegner, reduziere die Hinterhalt-Kosten für Stadtwache um 2.",
+        "traits": "Armee."
+    },
+    {
+        "code": "02109",
+        "flavor": "Jedes Mal, wenn sie Ser Ilyn Payn sah, lief es ihr kalt über den Rücken. Dann war ihr, als glitte etwas Totes über ihre nackte Haut.",
+        "name": "Ser Ilyn Payn",
+        "text": "<b>Aufmarschaktion:</b> Beuge Ser Ilyn Payn, um einen Charakter mit aufgedruckten Kosten von 3 oder weniger zu wählen und zu töten.",
+        "traits": "Ritter."
+    },
+    {
+        "code": "02110",
+        "flavor": "Die Kammer war reich möbliert. An Stelle von Binsen lagen myrische Teppiche am Boden, und in einer Ecke prangten hundert Fabeltiere in grellen Farben auf einem geschnitzten Schirm von den Sommerinseln.",
+        "name": "Kammer des Kleinen Rats",
+        "text": "Immun gegen Ereignisse.\n<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung gewonnen hast, erhält Kammer des Kleinen Rats 1 Macht.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "02111",
+        "flavor": "",
+        "name": "Dagmer Spaltkinn",
+        "text": "Ruhmreich.\n<b>Unterbrechung:</b> Sobald der Schaden einer Herausforderung, in der Dagmer Spaltkinn alleine angreift, angewandt wird, wähle einen nicht-limitierten Ort mit aufgedruckten Kosten von 3 oder weniger, der vom verlierenden Gegner kontrolliert wird. Anstatt der normalen Schadenseffekte übernimm die Kontrolle über den gewählten Ort.",
+        "traits": "Kapitän. Eisenmann."
+    },
+    {
+        "code": "02112",
+        "flavor": "",
+        "name": "Segen des Ertrunkenen Gottes",
+        "text": "Nur [greyjoy]-Charaktere.\nDer verstärkte Charakter erhält das Merkmal <i>Ertrunkener Gott</i> und kann nicht als einziges Ziel von gegnerischen Ereignissen gewählt werden.\nInitiativewert +1",
+        "traits": "Segen."
+    },
+    {
+        "code": "02113",
+        "flavor": "",
+        "name": "Jhogo",
+        "text": "Solange du einen anderen <i>Blutreiter</i>-Charakter kontrollierst, erhält Jhogo Heimlich.\nSolange Jhogo angreift, bekommt er +X Stärke. X ist die Anzahl der Charaktere im Totenstapel des verteidigenden Spielers.",
+        "traits": "Blutreiter. Dothraki."
+    },
+    {
+        "code": "02114",
+        "flavor": "Mit einem Stoß von Rauch und Flammen, der dreißig Meter in den Himmel reichte, fiel der Scheiterhaufen zusammen und stürzte um sie. Furchtlos trat Dany in den Feuersturm und rief nach ihren Kindern.",
+        "name": "Scheiterhaufen",
+        "text": "<b>Reaktion:</b> Nachdem ein <i>Lord</i>- oder <i>Lady</i>-Charakter getötet worden ist, beuge deine Fraktionskarte, um 3 Karten zu ziehen.",
+        "traits": ""
+    },
+    {
+        "code": "02115",
+        "flavor": "",
+        "name": "Tyene Sand",
+        "text": "<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung gewonnen hast, an der Tyene Sand als Angreifer teilnimmt, lege einen Giftmarker auf einen Charakter ohne [intrigue]-Symbol. Falls der Charakter am Ende der Phase den Giftmarker immer noch hat, entferne den Marker und töte den Charakter.",
+        "traits": "Bastard. Sandschlange."
+    },
+    {
+        "code": "02116",
+        "flavor": "Anfangs hatte er sich damit getröstet, dass diese Gefangenschaft nicht lange dauern konnte.",
+        "name": "Eingesperrt",
+        "text": "Nur gegnerische Charaktere.\nDer verstärkte Charakter verliert ein [military]-Symbol.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "02117",
+        "flavor": "\"Eine Kette braucht die unterschiedlichsten Metalle, und ein Land braucht die unterschiedlichsten Menschen.\" <cite>Jon Schnee</cite>",
+        "name": "Maesterkette",
+        "text": "Nur <i>Maester</i>-Charaktere.\n<b>Herrschaftsaktion:</b> Beuge Maesterkette, um eine <i>Zustand</i>-Verstärkung zu wählen und aus dem Spiel abzulegen.",
+        "traits": "Gegenstand."
+    },
+    {
+        "code": "02118",
+        "flavor": "",
+        "name": "Seidenstrasse",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der du einen teilnehmenden <i>Lord</i>- oder <i>Lady</i>-Charakter kontrollierst, beuge deine Fraktionskarte, um in den obersten 5 Karten deines Decks nach einer <i>Verbündeter</i>- oder <i>Gefährte</i>-Karte zu suchen, sie aufzudecken und auf deine Hand zu nehmen. Mische dein Deck.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "02119",
+        "flavor": "",
+        "name": "Vergessene Pläne",
+        "text": "Solange nicht Strategiephase ist, werden die Textfelder aller aufgedeckten Nicht-<i>Komplott</i>-Strategiekarten behandelt, als wären sie leer (außer <i>Merkmale</i>).",
+        "traits": "Komplott."
+    },
+    {
+        "code": "02120",
+        "flavor": "",
+        "name": "Um Haaresbreite",
+        "text": "<b>Sobald aufgedeckt:</b> Verschiebe einen Charakter aus deinem Totenstapel auf deinen Ablagestapel. Dann ziehe 1 Karte, falls keine <i>Winter</i>-Strategiekarte im Spiel ist.",
+        "traits": "Sommer."
+    }
+]

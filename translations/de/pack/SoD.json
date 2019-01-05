@@ -1,0 +1,368 @@
+[
+    {
+        "code": "10001",
+        "flavor": "",
+        "name": "Doran Martell",
+        "text": "<b>Aktion:</b> Beuge deine Fraktionskarte, um einen teilnehmenden Charakter mit weniger als 2 Herausforderungssymbolen zu wählen und ihn aus der Herausforderung zu entfernen.\n<b>Reaktion:</b> Nachdem du eine Herausforderung verloren hast, wähle einen Charakter. Bis zum Ende der Phase erhält oder verliert der gewählte Charakter ein Herausforderungssymbol deiner Wahl.",
+        "traits": "Lord."
+    },
+    {
+        "code": "10002",
+        "flavor": "\"Geht es so weiter, immer weiter und weiter? Ich frage abermals: Wo endet es?\"",
+        "name": "Ellaria Sand",
+        "text": "<b>Reaktion:</b> Nachdem Ellaria Sand zum Angreifer deklariert worden ist, wähle bis zu 3 Charaktere, die der verteidigende Spieler kontrolliert. Jeder gewählte Charakter muss bei dieser Herausforderung zum Verteidiger deklariert werden, falls möglich.",
+        "traits": "Bastard. Gefährte."
+    },
+    {
+        "code": "10003",
+        "flavor": "",
+        "name": "Die Rote Viper",
+        "text": "Einschüchternd.\nDie Rote Viper bekommt +1 Stärke für jede Macht, die er hat.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der du einen angreifenden <i>Bastard</i>-Charakter kontrollierst, erhält Die Rote Viper 1 Macht.",
+        "traits": "Lord."
+    },
+    {
+        "code": "10004",
+        "flavor": "\"Man nennt mich Dunkelstern, und ich gehöre der Nacht.\"",
+        "name": "Dunkelstern",
+        "text": "Einschüchternd.\n<b>Aktion:</b> Während einer Herausforderung, in der Dunkelstern angreift, opfere ihn, um jeden teilnehmenden Charakter auf die Hand seines Besitzers zurückzuschicken.",
+        "traits": "Haus Dayn. Ritter."
+    },
+    {
+        "code": "10005",
+        "flavor": "\"Er hat auf den Speer gezeigt, dann auf die Tränen meiner Mutter, und ich habe den Speer genommen.\"",
+        "name": "Obara Sand",
+        "text": "<b>Herausforderungsaktion:</b> Schicke einen <i>Sandschlange</i>-Charakter auf deine Hand zurück, um einen [martell]-Charakter mit niedrigeren aufgedruckten Kosten von deiner Hand ins Spiel zu bringen. (Nur ein Mal pro Phase.)",
+        "traits": "Bastard. Sandschlange."
+    },
+    {
+        "code": "10006",
+        "flavor": "",
+        "name": "Areo Hotah",
+        "text": "Hinterhalt (6).\nReduziere die Hinterhalt-Kosten für Areo Hotah für jede Strategiekarte in deinem Archiv um 1. \n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Areo Hotah verteidigt, schicke ihn auf deine Hand zurück, um bis zum Ende der Phase den Schadenswert deiner aufgedeckten Strategiekarte um 1 zu erhöhen.",
+        "traits": "Garde."
+    },
+    {
+        "code": "10007",
+        "flavor": "\"Und an etwas anderem solltet Ihr auch nicht zweifeln, mein Fürst - meine Schwestern und ich werden nicht siebzehn Jahre auf unsere Rache warten.\"",
+        "name": "Nymeria Sand",
+        "text": "<b>Reaktion:</b> Nachdem du die Herrschaft verloren hast, lege 1 zufällige Karte von der Hand des siegenden Gegners ab und ziehe 1 Karte.",
+        "traits": "Bastard. Sandschlange."
+    },
+    {
+        "code": "10008",
+        "flavor": "Ihre sanften, bleichen Hände waren genauso tödlich wie Obaras schwielige, wenn nicht sogar noch tödlicher.",
+        "name": "Tyene Sand",
+        "text": "Heimlich.\n<b>Reaktion:</b> Nachdem du als verteidigender Spieler eine Herausforderung verloren hast, beuge einen <i>Sandschlange</i>-Charakter, um Tyene Sand von deiner Hand ins Spiel zu bringen.",
+        "traits": "Bastard. Sandschlange."
+    },
+    {
+        "code": "10009",
+        "flavor": "",
+        "name": "Nymerias Leibgarde",
+        "text": "Keine Verstärkungen.\n<b>Herausforderungsaktion:</b> Bezahle 4 Gold und richte einen <i>Sandschlange</i>-Charakter auf, um Nymerias Leibgarde von deiner Hand ins Spiel zu bringen.",
+        "traits": "Armee. Garde."
+    },
+    {
+        "code": "10010",
+        "flavor": "",
+        "name": "Obella Sand",
+        "text": "<b>Reaktion:</b> Nachdem Obella Sand aufgrund von [intrigue]-Schaden abgelegt oder aufgrund von [military]-Schaden getötet worden ist, verschiebe 1 Macht von der Fraktionskarte des siegenden Gegners auf deine eigene. Mische Obella Sand aus deinem Ablage- oder Totenstapel in dein Deck.",
+        "traits": "Bastard. Sandschlange."
+    },
+    {
+        "code": "10011",
+        "flavor": "\"Dein Bruder Quentyn hat einen härteren Weg vor sich.\" <cite>Doran Martell</cite>",
+        "name": "Quentyn Martell",
+        "text": "Ruhmreich.\n<b>Erzwungene Reaktion:</b> Nachdem die Herausforderungsphase begonnen hat, beuge Quentyn Martell, falls weniger als 3 Strategiekarten in deinem Archiv sind.",
+        "traits": "Ritter. Lord."
+    },
+    {
+        "code": "10012",
+        "flavor": "\"Gib deiner Braut einen Kuss von mir.\"",
+        "name": "Ser Cletus Isenwald",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nErhöhe den Initiativewert deiner aufgedeckten Strategiekarte für jede Strategiekarte in deinem Archiv um 1.",
+        "traits": "Haus Isenwald. Ritter."
+    },
+    {
+        "code": "10013",
+        "flavor": "\"Loreza ist sechs. Dorea acht. Zu was für Kriegen könnten sie aufstacheln?\" <cite>Arianne Martell</cite>",
+        "name": "Loreza Sand",
+        "text": "<b>Unterbrechung:</b> Sobald ein einzigartiger [martell]-Charakter, den du kontrollierst, getötet wird, ziehe 1 Karte. (Nur ein Mal pro Phase.)",
+        "traits": "Bastard. Sandschlange."
+    },
+    {
+        "code": "10014",
+        "flavor": "\"Höre auf seinen Rat. Er hat sein halbes Leben dem Studium der Neun Freien Städte gewidmet.\" <cite>Doran Martell</cite>",
+        "name": "Maester Kedry",
+        "text": "<b>Aktion:</b> Beuge Maester Kedry, um die Goldkosten des nächsten Ereignisses, das du in dieser Phase spielst, um 2 zu reduzieren.",
+        "traits": "Maester."
+    },
+    {
+        "code": "10015",
+        "flavor": "",
+        "name": "Eskorte des Hauses Dayn",
+        "text": "Solange 3 oder mehr Strategiekarten in deinem Archiv sind, darfst du Eskorte des Hauses Dayn aus deinem Ablagestapel aufmarschieren lassen, als wäre sie auf deiner Hand.",
+        "traits": "Verbündeter. Haus Dayn."
+    },
+    {
+        "code": "10016",
+        "flavor": "",
+        "name": "Bastard aus der Schattenstadt",
+        "text": "Hinterhalt (3).\n<b>Herausforderungsaktion:</b> Opfere Bastard aus der Schattenstadt, um einen Charakter mit aufgedruckten Kosten von 5 oder weniger zu wählen. Bis zum Ende der Phase verliert der gewählte Charakter ein [military], ein [intrigue]und ein [power]Symbol.",
+        "traits": "Bastard."
+    },
+    {
+        "code": "10017",
+        "flavor": "",
+        "name": "Dorne",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung verloren hast, sieh dir die obersten 2 Karten deines Decks an. Nimm 1 auf deine Hand und lege die andere unter dein Deck.\nReservewert +1",
+        "traits": "Dorne."
+    },
+    {
+        "code": "10018",
+        "flavor": "",
+        "name": "Sternfall",
+        "text": "<b>Herausforderungsaktion:</b> Beuge Sternfall, um einen Charakter zu wählen. Bis zum Ende der Phase verliert der gewählte Charakter ein Herausforderungssymbol deiner Wahl.",
+        "traits": "Dorne. Haus Dayn."
+    },
+    {
+        "code": "10019",
+        "flavor": "",
+        "name": "Hotahs Axt",
+        "text": "Der verstärkte Charakter bekommt +3 Stärke.\n<b>Reaktion:</b> Nachdem ein [martell]-Charakter während der Herausforderungsphase ins Spiel gekommen ist, bringe Hotahs Axt von deiner Hand ins Spiel; sie verstärkt den ins Spiel gekommenen Charakter.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "10020",
+        "flavor": "\"Du verwechselst Geduld mit Nachsicht. Ich habe seit dem Tag, an dem ich von Elia und den Kindern erfuhr, auf Tywin Lennisters Untergang hingearbeitet.\" <cite>Doran Martell</cite>",
+        "name": "Geduld",
+        "text": "Nur Charaktere, die du kontrollierst.\n<b>Herausforderungsaktion:</b> Schicke den verstärkten Charakter auf die Hand seines Besitzers zurück.",
+        "traits": "Fertigkeit."
+    },
+    {
+        "code": "10021",
+        "flavor": "",
+        "name": "Bezirzt",
+        "text": "Vergänglich.\n<b>Herausforderungsaktion:</b> Beuge Bezirzt, um den verstärkten Charakter bis zum Ende der Phase ein Herausforderungssymbol deiner Wahl verlieren zu lassen.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "10022",
+        "flavor": "",
+        "name": "Für Gram nichts übrig",
+        "text": "Kann nur gespielt werden, falls in dieser Runde ein [martell]-Charakter unter deiner Kontrolle getötet worden ist.\n<b>Aktion:</b> Suche in deinem Deck nach einem <i>Sandschlange</i>-Charakter mit aufgedruckten Kosten von 3 oder weniger, bringe ihn ins Spiel und mische dein Deck. (Falls Die Rote Viper in deinem Totenstapel ist, sind es stattdessen aufgedruckte Kosten von 6 oder weniger.)",
+        "traits": ""
+    },
+    {
+        "code": "10023",
+        "flavor": "",
+        "name": "Gefälschte Pläne",
+        "text": "<b>Herausforderungsaktion:</b> Wähle einen Gegner. Der gewählte Spieler legt 1 zufällige Karte von seiner Hand ab.\n<b>Reaktion:</b> Nachdem Gefälschte Pläne aufgrund von [intrigue]-Schaden abgelegt worden ist, legt der siegende Gegner 2 zufällige Karten von seiner Hand ab.",
+        "traits": ""
+    },
+    {
+        "code": "10024",
+        "flavor": "",
+        "name": "Zu den Speeren!",
+        "text": "Kann nur gespielt werden, falls 3 oder mehr Strategiekarten in deinem Archiv sind.\n<b>Herausforderungsaktion:</b> Jeder [martell]-Charakter, den du kontrollierst, wird nicht gebeugt, sobald er in der nächsten Herausforderung, die du in dieser Phase initiierst, zum Angreifer deklariert wird.",
+        "traits": ""
+    },
+    {
+        "code": "10025",
+        "flavor": "\"Ist es die Gerechtigkeit Eurer Sache, die Ihr anzweifelt, Mylord, oder die Stärke Eures Arms? Fürchtet Ihr Euch davor, dass ich auf Euer brennendes Schwert pisse und es zum Erlöschen bringe.\"",
+        "name": "Ser Cortnay Fünfrosen",
+        "text": "<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung gewonnen hast, an der Ser Cortnay Fünfrosen teil nimmt, richte ihn auf.",
+        "traits": "Ritter."
+    },
+    {
+        "code": "10026",
+        "flavor": "",
+        "name": "Meerdrachenturm",
+        "text": "<b>Herausforderungsaktion:</b> Beuge Meerdrach enturm, um einen Charakter zu wählen. Bis zum Ende der Phase erhält der gewählte Charakter ein [power]-Symbol.",
+        "traits": "Drachenstein."
+    },
+    {
+        "code": "10027",
+        "flavor": "",
+        "name": "Flotte aus Peik",
+        "text": "Keine Verstärkungen. Brandschatzen.\n<b>Reaktion:</b> Nachdem ein Charakter, den du kontrollierst, einen Ort oder eine Verstärkung durch Brandschatzen abgelegt hat, erhält Flotte aus Peik bis zum Ende der Phase ein Herausforderungssymbol deiner Wahl.",
+        "traits": "Armee."
+    },
+    {
+        "code": "10028",
+        "flavor": "",
+        "name": "Ausgeplündert",
+        "text": "Nur gegnerische Orte. Vergänglich.\n<b>Reaktion:</b> Nachdem der Spieler, der den verstärkten Ort kontrolliert, als verteidigen der Spieler eine Herausforderung verloren hat, beuge den verstärkten Ort. Dann darfst du Ausgeplündert opfern, um 3 Gold zu erhalten.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "10029",
+        "flavor": "\"Ist sie nicht wunderschön? Ich wünschte, ich hätte solche Locken. Sie wurde geboren, um eine Königin zu werden, so wie ihre Mutter.\" <cite>Tyene Sand</cite>",
+        "name": "Myrcella Baratheon",
+        "text": "Myrcella Baratheon wird nicht gebeugt, sobald sie zum Angreifer gegen einen Gegner deklariert wird, der weniger Karten auf seiner Hand hat als du.",
+        "traits": "Lady."
+    },
+    {
+        "code": "10030",
+        "flavor": "",
+        "name": "Erpressung",
+        "text": "<b>Reaktion:</b> Nachdem du als angreifender Spieler eine [intrigue]-Herausforderung gewonnen hast, erhältst du 3 Gold und schicke bis zu 3 Gold aus der Goldreserve des verlierenden Gegners in die Schatzkammer zurück.",
+        "traits": ""
+    },
+    {
+        "code": "10031",
+        "flavor": "\"Die verdammten Scheißkerle haben mein Bein erwischt ... das hölzerne!\"",
+        "name": "Leerer Stiefel",
+        "text": "<b>Herausforderungsaktion:</b> Wähle eine Verstärkung, die einen Charakter verstärkt, den du kontrollierst. Richte die gewählte Verstärkung auf und verschiebe sie an Leerer Stiefel. (Nur ein Mal pro Phase.)",
+        "traits": "Baumeister."
+    },
+    {
+        "code": "10032",
+        "flavor": "",
+        "name": "Abtrünnig",
+        "text": "Nur nicht-loyale Charaktere. Vergänglich. \n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an wel cher der verstärkte Charakter teilnimmt, über nimm die Kontrolle über den verstärkten Charakter. (Jeder Spieler darf diese Fähigkeit initiieren.)",
+        "traits": "Zustand."
+    },
+    {
+        "code": "10033",
+        "flavor": "\"Grauwind hat ihm zwei Finger abgebissen, und er hat darüber gelacht.\" <cite>Robb Stark</cite>",
+        "name": "Grossjon Umber",
+        "text": "Einschüchternd.\n<b>Reaktion:</b> Nachdem du eine [military]-Herausforderung gewonnen hast, in der Großjon Umber angreift, richte ihn auf, falls weniger als 3 Strategiekarten in deinem Archiv sind.",
+        "traits": "Haus Umber. Lord."
+    },
+    {
+        "code": "10034",
+        "flavor": "",
+        "name": "Heisshunger auf Fleisch",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der du einen angreifenden <i>Schattenwolf</i>-Charakter oder einen angreifenden Charakter mit einer <i>Schattenwolf</i>-Verstärkung kontrollierst, wähle einen verteidigenden Charakter und töte ihn.",
+        "traits": ""
+    },
+    {
+        "code": "10035",
+        "flavor": "Die kleine Schreiberin mit den großen goldenen Augen war sehr viel weiser, als man es von einem Mädchen ihres Alters erwartet hätte.",
+        "name": "Missandei",
+        "text": "<b>Unterbrechung:</b> Sobald Missandei von deiner Hand oder von deinem Deck abgelegt wird, bringe sie ins Spiel, anstatt sie auf deinen Ablagestapel zu legen.",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "10036",
+        "flavor": "\"Qarth ist die größte Stadt, die es je gab und jemals geben wird.\" <cite>Pyat Pree</cite>",
+        "name": "Qarth",
+        "text": "<b>Aktion:</b> Beuge Qarth und bezahle 1 Gold, um eine Verstärkung zu wählen, die eine Karte verstärkt, die du kontrollierst, und sie aus dem Spiel abzulegen.",
+        "traits": "Essos. Qarth."
+    },
+    {
+        "code": "10037",
+        "flavor": "Vielleicht war Lord Leyton deshalb seit über einem Jahrzehnt nicht mehr heruntergestiegen, sondern zog es vor, seine Stadt aus den Wolken zu regieren.",
+        "name": "Leyton Hohenturm",
+        "text": "<b>Aktion:</b> Beuge Leyton Hohenturm, um eine nicht-limitierte [tyrell]-Karte mit aufgedruckten Kosten von 4 oder weniger von deiner Hand gebeugt ins Spiel zu bringen.",
+        "traits": "Haus Hohenturm. Lord."
+    },
+    {
+        "code": "10038",
+        "flavor": "",
+        "name": "Leuchtfeuer des Südens",
+        "text": "Nur [tyrell]-Charaktere.\n<b>Reaktion:</b> Nachdem du eine Herausforderung, in welcher der verstärkte Charakter angreift, um 5 oder mehr Stärke gewonnen hast, erhält er 1 Macht.",
+        "traits": "Titel."
+    },
+    {
+        "code": "10039",
+        "flavor": "\"Deshalb kenne ich den Wald besser als all Eure Grenzer in ihren schwarzen Mänteln. Für mich gibt es dort keine Geister.\"",
+        "name": "Val",
+        "text": "<b>Reaktion:</b> Nachdem Val zum Angreifer deklariert worden ist, bringe einen <i>Wildling</i>-Charakter mit aufgedruckten Kosten von 4 oder weniger von deiner Hand als Angreifer an der Herausforderung teilnehmend gebeugt ins Spiel.",
+        "traits": "Wildling."
+    },
+    {
+        "code": "10040",
+        "flavor": "Meribald war ein Septon ohne Septe, er stand in der Hierarchie des Glaubens nur eine Stufe über einem Bettelbruder.",
+        "name": "Septon Meribald",
+        "text": "<b>Aktion:</b> Beuge Septon Meribald, um bis zu 3 Charaktere mit einer aufgedruckten Stärke von 1 oder weniger zu wählen und aufzurichten. (Nur ein Mal pro Runde.)",
+        "traits": "Die Sieben."
+    },
+    {
+        "code": "10041",
+        "flavor": "Weise Männer werden in ihrer Weisheit vielleicht arrogant, ein Maester jedoch muss stets Demut bewahren. <cite>Armen der Akolyth</cite>",
+        "name": "Gelehrter aus Altsass",
+        "text": "<b>Reaktion:</b> Nachdem ein Gegner 1 oder mehr Karten gezogen hat, beuge Gelehrter aus Altsass, um genauso viele Karten zu ziehen, falls es nicht Nachziehphase ist.",
+        "traits": "Maester."
+    },
+    {
+        "code": "10042",
+        "flavor": "",
+        "name": "Jadesee-Dromone",
+        "text": "Limitiert.\n<b>Herrschaftsaktion:</b> Beuge und opfere Jadesee-Dromone, um einen nicht-limitierten Ort mit aufgedruckten Kosten von 3 oder weniger zu wählen und aus dem Spiel abzulegen.\nGoldwert +1",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "10043",
+        "flavor": "",
+        "name": "Kutte eines Bruders",
+        "text": "Nur <i>Die Sieben</i>-Charaktere.\n<b>Reaktion:</b> Nachdem der verstärkte Charakter gebeugt worden ist, wähle einen Ort oder eine Verstärkung. Behandle die gewählte Karte bis zum Ende der Phase, als ob ihr aufgedrucktes Textfeld leer wäre (mit Ausnahme von <i>Merkmalen</i>).",
+        "traits": "Die Sieben."
+    },
+    {
+        "code": "10044",
+        "flavor": "",
+        "name": "Nach Möwenstadt geht's",
+        "text": "<b>Herausforderungsaktion:</b> Wähle einen Charakter. Bis zum Ende der Phase erhält der gewählte Charakter ein [military]-, ein [intrigue]- und ein [power]-Symbol. Ziehe 1 Karte.",
+        "traits": "Lied."
+    },
+    {
+        "code": "10045",
+        "designer": "Kartenentwurf von Donovan van Beek, Europameister im Tjost 2014.",
+        "flavor": "",
+        "name": "Die Kriege, die da kommen",
+        "text": "Dein Strategiestapel muss genau 10 Karten enthalten. Du darfst eine zweite Kopie von bis zu 2 verschiedenen Karten in deinen Strategiestapel aufnehmen.",
+        "traits": "Omen."
+    },
+    {
+        "code": "10046",
+        "flavor": "",
+        "name": "Auf Fürst Dorans Geheiss",
+        "text": "<b>Sobald aufgedeckt:</b> Wähle eine neue Strategiekarte und decke sie auf. (Kann nicht aufgehoben werden.)",
+        "traits": "Erlass."
+    },
+    {
+        "code": "10047",
+        "flavor": "",
+        "name": "Frieden und Wohlstand",
+        "text": "Reduziere die Kosten des ersten Charakters, den du in dieser Runde aufmarschieren lässt, um 3, die Kosten des ersten Ortes, den du in dieser Runde aufmarschieren lässt, um 2, und die Kosten der ersten Verstärkung, die du in dieser Runde aufmarschieren lässt, um 1.",
+        "traits": "Königreich."
+    },
+    {
+        "code": "10048",
+        "flavor": "",
+        "name": "Gewaltmarsch",
+        "text": "<b>Sobald aufgedeckt:</b> Jeder Gegner beugt 1 Charakter mit einem [military]-Symbol, den er kontrolliert. Dann darfst du einen Charakter mit einem [military]-Symbol beugen, um diesen Effekt erneut zu initiieren.",
+        "traits": "Erlass. Krieg."
+    },
+    {
+        "code": "10049",
+        "flavor": "",
+        "name": "Über jeden Tadel erhaben",
+        "text": "<b>Sobald aufgedeckt:</b> Jeder Spieler opfert jede Verstärkung, die Charaktere verstärkt, die er nicht kontrolliert.",
+        "traits": "Die Sieben."
+    },
+    {
+        "code": "10050",
+        "designer": "Kartenentwurf von Luiz Gustavo Bretas, Europameister im Buhurt 2016.",
+        "flavor": "",
+        "name": "Die Bande brechen",
+        "text": "<b>Aktion:</b> Opfere einen loyalen Charakter, um einen nicht-loyalen Charakter oder Ort zu wählen und auf die Hand seines Besitzers zurückzuschicken. (Nur zwei Mal pro Runde.)",
+        "traits": "Haus Frey. Komplott."
+    },
+    {
+        "code": "10051",
+        "flavor": "",
+        "name": "Der Grosse Buhurt",
+        "text": "Jeder Charakter, der alleine angreift oder verteidigt, steuert keine Stärke zur Herausforderung bei.",
+        "traits": "Sommer."
+    },
+    {
+        "code": "10052",
+        "flavor": "",
+        "name": "Falscher Frühling",
+        "text": "<b>Sobald aufgedeckt:</b> Jeder Gegner wählt 3 Karten von seiner Hand und deckt sie auf, falls möglich. Du darfst je 1 aufgedeckte Karte von beliebig vielen jener Hände wählen und ablegen.",
+        "traits": "Winter."
+    }
+]

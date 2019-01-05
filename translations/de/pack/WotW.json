@@ -1,0 +1,366 @@
+[
+    {
+        "code": "07001",
+        "flavor": "\"Der Angst braucht man sich nicht zu schämen, hat mein Vater mich gelehrt, was zählt, ist, wie wir ihr entgegentreten.\"",
+        "name": "Jon Schnee",
+        "text": "Heimlich.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Jon Schnee teilnimmt, richte entweder jeden angreifenden <i>Wildling</i>-Charakter auf oder richte jeden verteidigenden [thenightswatch]-Charakter auf. (Nur ein Mal pro Phase.)",
+        "traits": "Bastard. Kämmerer. Wildling."
+    },
+    {
+        "code": "07002",
+        "flavor": "\"Bowen Marsch? Der Mann zählt doch nur Löffel.\" <cite>Cotter Peik</cite>",
+        "name": "Bowen Marsch",
+        "text": "Während [intrigue]-Herausforderungen erhält jeder <i>Kämmerer</i>-Charakter, den du kontrollierst, Einblick.\nInitiativewert +1",
+        "traits": "Lord. Kämmerer."
+    },
+    {
+        "code": "07003",
+        "flavor": "\"Wenn tote Menschen einen bei Nacht verfolgen, glaubst du, dass es da noch wichtig ist, wer auf dem Eisernen Thron sitzt?\"",
+        "name": "Alter Bär Mormont",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Alter Bär Mormont teilnimmt, wähle einen nicht-einzigartigen Charakter im Ablagestapel des verlierenden Gegners und bringe ihn unter deiner Kontrolle ins Spiel.",
+        "traits": "Kommandant. Lord."
+    },
+    {
+        "code": "07004",
+        "flavor": "",
+        "name": "Cotter Peik",
+        "text": "Heimlich. \n<b>Reaktion:</b> Nachdem Cotter Peik einen Charakter mit Heimlich umgangen hat, wähle einen [thenightswatch]-Charakter und lasse ihn bis zum Ende der Phase Heimlich erhalten, falls es eine aufgedeckte <i>Winter</i>-Strategiekarte gibt.",
+        "traits": "Bastard. Kommandant. Eisenmann."
+    },
+    {
+        "code": "07005",
+        "flavor": "",
+        "name": "Maester Aemon",
+        "text": "Keine Verstärkungen außer <i>Gegenstand</i>.\n<b>Unterbrechung:</b> Sobald die Herausforderungsphase endet, wähle einen Gegner und eine Herausforderungsart, die in dieser Phase nicht gegen dich initiiert worden ist. Der gewählte Spieler muss den Schadenseffekt der gewählten Herausforderungsart erfüllen, als ob du der siegende Gegner wärst.",
+        "traits": "Maester. Kämmerer."
+    },
+    {
+        "code": "07006",
+        "flavor": "",
+        "name": "Grimmiger Bergmann",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nReduziere die Kosten, um Grimmiger Bergmann aufmarschieren zu lassen, um 1 für jede [thenightswatch]-Verstärkung und jeden [thenightswatch]-Ort, die du kontrollierst (bis zu einem Minimum von 1).",
+        "traits": "Baumeister."
+    },
+    {
+        "code": "07007",
+        "flavor": "\"Solange die Nachtwache in guten Händen bleibt, bin ich zufrieden.\"",
+        "name": "Ser Denys Mallister",
+        "text": "Solange Ser Denys Mallister verteidigt, erhält er Ruhmreich.",
+        "traits": "Kommandant. Ritter."
+    },
+    {
+        "code": "07008",
+        "flavor": "\"Es wurde kein Horn geblasen, Mylord, sonst hätten meine Grenzer es gehört. Ich habe nicht genügend Männer, um so viele Patrouillen auszusenden, wie ich gern würde ...\"",
+        "name": "Ser Jaremy Rykker",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nJeder andere <i>Grenzer</i>-Charakter, den du kontrollierst, erhält ein [power]-Symbol.",
+        "traits": "Ritter. Grenzer."
+    },
+    {
+        "code": "07009",
+        "flavor": "",
+        "name": "Maurer der Schwarzen Festung",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Aktion:</b> Beuge 2 <i>Baumeister</i>-Charaktere, um in den obersten 10 Karten deines Decks nach einem Ort oder einer Verstärkung zu suchen, sie aufzudecken und auf deine Hand zu nehmen. Mische dein Deck. (Nur zwei Mal pro Runde.)",
+        "traits": "Baumeister."
+    },
+    {
+        "code": "07010",
+        "flavor": "",
+        "name": "Grenn",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Grenn angreift, verschiebe 1 Macht von der Fraktionskarte des verlierenden Gegners auf einen anderen angreifenden [thenightswatch]-Charakter. (Falls jener Charakter aufrecht steht, verschiebst du stattdessen bis zu 2 Macht.)",
+        "traits": "Grenzer."
+    },
+    {
+        "code": "07011",
+        "flavor": "",
+        "name": "Pyp",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Pyp angreift, wähle einen anderen angreifenden [thenightswatch]-Charakter. Der gewählte Charakter erhält bis zum Ende der Phase Einblick.",
+        "traits": "Grenzer."
+    },
+    {
+        "code": "07012",
+        "flavor": "\"Das Schlimmste haben wir noch nicht hinter uns. Das Schlimmste fängt gerade erst an, und nichts endet jemals gut.\"",
+        "name": "Samwell Tarly",
+        "text": "Solange Samwell Tarly an einer Herausforderung teilnimmt, behandle jeden anderen teilnehmenden Nicht-<i>Kämmerer</i>-Charakter so, als ob sein aufgedrucktes Textfeld leer wäre (mit Ausnahme von <i>Merkmalen</i>).",
+        "traits": "Kämmerer."
+    },
+    {
+        "code": "07013",
+        "flavor": "\"Die anderen Rekruten haben ihn zu Beginn verhöhnt, aber er hat sie für sich gewonnen und sich alle zu Freunden gemacht.\" <cite>Jon Schnee</cite>",
+        "name": "Satin",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Reaktion:</b> Nachdem Satin gebeugt worden ist, wähle einen anderen <i>Kämmerer</i>-Charakter und richte ihn auf. (Nur zwei Mal pro Phase.)",
+        "traits": "Kämmerer."
+    },
+    {
+        "code": "07014",
+        "flavor": "",
+        "name": "Verirrter Grenzer",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Erzwungene Unterbrechung:</b> Sobald die Herausforderungsphase endet, opfere Verirrter Grenzer, falls du keinen anderen <i>Grenzer</i>-Charakter kontrollierst.",
+        "traits": "Grenzer."
+    },
+    {
+        "code": "07015",
+        "flavor": "",
+        "name": "Erfahrener Forstarbeiter",
+        "text": "<b>Reaktion:</b> Nachdem du Erfahrener Forstarbeiter mit einer Verstärkung verstärkt hast, erhalte entweder 1 Gold oder ziehe 1 Karte. (Nur zwei Mal pro Phase.)",
+        "traits": "Baumeister."
+    },
+    {
+        "code": "07016",
+        "flavor": "Man würde viele Maurer und Zimmerleute zur Reparatur von Festungen und Türmen brauchen, Bergleute zum Tunnelgraben und zum Zertrümmern der Steine für Straßen und Wege, Forstarbeiter zum Entfernen von nachgewachsenem Unterholz, wo der Wald zu nahe an die Mauer kam.",
+        "name": "Baumeister an der Mauer",
+        "text": "<b>Aufmarschaktion:</b> Beuge Baumeister an der Mauer, um die Kosten der nächsten [thenightswatch]-Verstärkung oder des nächsten [thenightswatch]-Ortes, die oder den du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Baumeister."
+    },
+    {
+        "code": "07017",
+        "flavor": "",
+        "name": "Die Neue Schenkung",
+        "text": "Limitiert.\n<b>Aufmarschaktion:</b> Beuge einen <i>Kämmerer</i>-Charakter, um 1 Gold zu erhalten. (Nur zwei Mal pro Phase.)\n<b>Herausforderungsaktion:</b> Beuge einen <i>Kämmerer</i>-Charakter, um 1 Karte zu ziehen. (Nur zwei Mal pro Phase.)",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "07018",
+        "flavor": "",
+        "name": "Verlassene Festung",
+        "text": "<b>Aktion:</b> Beuge Verlassene Festung, um einen verteidigenden Charakter zu wählen. Der gewählte Charakter bekommt bis zum Ende der Herausforderung +X Stärke. X ist die Anzahl der <i>Baumeister</i>-Charaktere, die du kontrollierst.",
+        "traits": "Festung. Der Norden."
+    },
+    {
+        "code": "07019",
+        "flavor": "",
+        "name": "Königinkron",
+        "text": "<b>Aktion:</b> Beuge Königinkron, um die obersten 3 Karten vom Deck eines Gegners aufzudecken. Wähle bis zu 1 Charakter, der auf diese Weise aufgedeckt worden ist, und lege ihn auf den Ablagestapel des Gegners. Lege die anderen Karten in beliebiger Reihenfolge unter das Deck des Gegners.",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "07020",
+        "flavor": "",
+        "name": "Katapult auf der Mauer",
+        "text": "<b>Aktion:</b> Beuge Katapult auf der Mauer und den verstärkten Charakter, um einen angreifenden Charakter mit Stärke 4 oder weniger zu wählen und zu töten. Der verstärkte Charakter kann während der Aufrichtphase in dieser Runde nicht aufgerichtet werden.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "07021",
+        "flavor": "",
+        "name": "Geist",
+        "text": "Nur [thenightswatch]- oder [stark]-Charaktere.\n<b>Unterbrechung:</b> Sobald der verstärkte Charakter getötet werden würde, schicke Geist auf deine Hand zurück, um den verstärkten Charakter zu retten.",
+        "traits": "Schattenwolf."
+    },
+    {
+        "code": "07022",
+        "flavor": "",
+        "name": "Waffenbruder der Nachtwache",
+        "text": "Der verstärkte Charakter erhält die [thenightswatch]-Fraktionszugehörigkeit.\nSolange der verstärkte Charakter ...\n- ... ein [military]-Symbol hat, erhält er das Merkmal <i>Grenzer</i>.\n- ... ein [intrigue]-Symbol hat, erhält er das Merkmal <i>Kämmerer</i>.\n- ... ein [power]-Symbol hat, erhält er das Merkmal <i>Baumeister</i>.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "07023",
+        "flavor": "",
+        "name": "Meine Wacht beginnt",
+        "text": "<b>Reaktion:</b> Nachdem ein Charakter mit aufgedruckten Kosten von 5 oder weniger auf den Ablagestapel eines Gegners gelegt worden ist, bringe diesen Charakter unter deiner Kontrolle ins Spiel.",
+        "traits": ""
+    },
+    {
+        "code": "07024",
+        "flavor": "",
+        "name": "Ich will keinen Ruhm begehren",
+        "text": "<b>Reaktion:</b> Nachdem eine Herausforderung gegen dich initiiert worden ist, beuge 3 <i>Baumeister</i>-Charaktere, 3 <i>Grenzer</i>-Charaktere oder 3 <i>Kämmerer</i>-Charaktere, um die Herausforderung sofort ohne Gewinner oder Verlierer zu beenden.",
+        "traits": ""
+    },
+    {
+        "code": "07025",
+        "flavor": "... er hatte seine eigene Marya vor Augen, eine gutmütige rundliche Frau mit hängenden Brüsten und einem gütigen Lächeln. Die beste Frau der Welt.",
+        "name": "Marya Seewert",
+        "text": "<b>Reaktion:</b> Nachdem ein Charakter mit Heimlich umgangen worden ist, bezahle 1 Gold, um diesen Charakter zu beugen. (Nur zwei Mal pro Phase.)",
+        "traits": "Gefährte. Lady."
+    },
+    {
+        "code": "07026",
+        "flavor": "",
+        "name": "Schwarze Betha",
+        "text": "Solange du Ser Davos Seewert kontrollierst, erhält er Ruhmreich.\n<b>Aktion:</b> Beuge Schwarze Betha, um einen angreifenden Charakter zu wählen. Der gewählte Charakter bekommt bis zum Ende der Herausforderung +X Stärke. X ist die Anzahl der gebeugten Charaktere, die der verteidigende Spieler kontrolliert.",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "07027",
+        "flavor": "\"Diejenigen, die ihren Kapitänen Freude bereiten, werden vielleicht sogar zu Salzweibern genommen, was ein ehrenwerter Stand ist.\" <cite>Victarion Graufreud</cite>",
+        "name": "Salzweib",
+        "text": "<b>Herausforderungsaktion:</b> Opfere Salzweib, um einen Charakter zu wählen. Bis zum Ende der Phase kann der gewählte Charakter nicht zum Verteidiger deklariert werden.",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "07028",
+        "flavor": "",
+        "name": "Überfall auf die Eisige Bucht",
+        "text": "<b>Reaktion:</b> Nachdem du als angreifender Spieler eine Herausforderung gewonnen hast, beuge einen <i>Kriegsschiff</i>-Ort, um einen nicht-limitierten Ort, der vom verlierenden Gegner kontrolliert wird, zu wählen und ihn oben auf das Deck seines Besitzers zu legen.",
+        "traits": ""
+    },
+    {
+        "code": "07029",
+        "flavor": "",
+        "name": "Ulf, Sohn des Umar",
+        "text": "<b>Reaktion:</b> Nachdem ein <i>Clankrieger</i>-Charakter unter deiner Kontrolle ins Spiel gekommen ist, bekommt Ulf, Sohn des Umar bis zum Ende der Phase +X Stärke. X ist die aufgedruckte Stärke des ins Spiel gekommenen Charakters. (Nur drei Mal pro Phase.)",
+        "traits": "Clankrieger."
+    },
+    {
+        "code": "07030",
+        "flavor": "\"Es gibt nur mich.\" <cite>Ser Jaime Lennister</cite>",
+        "name": "Es gibt keine Menschen wie mich",
+        "text": "<b>Aktion:</b> Wähle einen <i>Ritter</i>-Charakter. Bis zum Ende der Phase wird der gewählte Charakter nicht gebeugt, sobald er bei einer [military]-Herausforderung zum Angreifer oder Verteidiger deklariert wird.",
+        "traits": ""
+    },
+    {
+        "code": "07031",
+        "flavor": "",
+        "name": "Südländischer Bote",
+        "text": "Hinterhalt (5).\n<b>Reaktion:</b> Nachdem Südländischer Bote während einer Herausforderung ins Spiel gekommen ist, wähle einen teilnehmenden Charakter mit weniger als 2 Herausforderungssymbolen und schicke den gewählten Charakter auf die Hand seines Besitzers zurück.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "07032",
+        "flavor": "",
+        "name": "Langanhaltendes Venenum",
+        "text": "Vergänglich.\n<b>Reaktion:</b> Nachdem du eine Herausforderung verloren hast, lege einen Venenummarker auf Langanhaltendes Venenum. Falls dann die Stärke des verstärkten Charakters gleich oder niedriger als die Anzahl der Venenummarker auf Langanhaltendes Venenum ist, töte ihn.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "07033",
+        "flavor": "Ein Dutzend Mal hatten Jeyne und Sansa gemeinsam aufgeschrien, als Reiter zusammenprallten, die Lanzen splitterten, während das gemeine Volk seinen Favoriten bejubelte.",
+        "name": "Jeyne Pool",
+        "text": "<b>Aufmarschaktion:</b> Opfere Jeyne Pool, um einen <i>Lady</i>-Charakter aus deinem Ablagestapel auf deine Hand zurückzuschicken.",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "07034",
+        "flavor": "",
+        "name": "Sommer",
+        "text": "Nur einzigartige [stark]-Charaktere.\n<b>Aktion:</b> Beuge den verstärkten Charakter, um ihn auf deiner Seite an einer [military]-Herausforderung teilnehmen zu lassen. (Nur ein Mal pro Herausforderung.)\n<b>Aktion:</b> Bezahle 1 Gold, um einen anderen Charakter mit Sommer zu verstärken. (Nur ein Mal pro Phase.)",
+        "traits": "Schattenwolf."
+    },
+    {
+        "code": "07035",
+        "flavor": "",
+        "name": "Ehrengarde der Dothraki",
+        "text": "Keine Verstärkungen.\nEhrengarde der Dothraki bekommt -1 Stärke für jede Karte auf deiner Hand.",
+        "traits": "Armee. Dothraki. Garde."
+    },
+    {
+        "code": "07036",
+        "flavor": "",
+        "name": "Platz des Stolzes",
+        "text": "<b>Aktion:</b> Beuge Platz des Stolzes und lege eine Karte von deiner Hand ab, um einen Charakter mit aufgedruckten Kosten von X oder weniger zu wählen und aufzurichten. X ist um 3 höher als die aufgedruckten Kosten der abgelegten Karte.",
+        "traits": "Astapor."
+    },
+    {
+        "code": "07037",
+        "flavor": "\"Ich würde diese Herausforderung liebend gern persönlich annehmen, obwohl ich nicht halb so gut fechten kann wie Lord Caron oder Ser Guyard.\"",
+        "name": "Ser Jon Fossowey",
+        "text": "Solange Ser Jon Fossoweys Stärke 5 oder höher ist, erhält er Ruhmreich.",
+        "traits": "Ritter."
+    },
+    {
+        "code": "07038",
+        "flavor": "",
+        "name": "Der Honigwein",
+        "text": "<b>Reaktion:</b> Nachdem du als angreifender Spieler eine Herausforderung um 5 oder mehr Stärke gewonnen hast, erhält Der Honigwein 1 Macht.",
+        "traits": "Die Weite."
+    },
+    {
+        "code": "07039",
+        "flavor": "\"Ich werde sie auskochen und mir eine Halsberge aus deinen Rippen machen. Deine Zähne werde ich zum Runenwerfen beschnitzen, und meine Hafergrütze werde ich aus deinem Schädel essen.\"",
+        "name": "Rasselhemd",
+        "text": "Solange Rasselhemd alleine angreift, kann jeder Charakter ohne Verstärkungen nicht zum Verteidiger deklariert werden.",
+        "traits": "Wildling."
+    },
+    {
+        "code": "07040",
+        "flavor": "\"Wir vom freien Volk wissen Dinge, die ihr Knienden längst vergessen habt.\"",
+        "name": "Dalla",
+        "text": "<b>Reaktion:</b> Nachdem ein <i>Wildling</i>-Charakter unter deiner Kontrolle ins Spiel gekommen ist, ziehe 1 Karte. (Nur ein Mal pro Phase.)",
+        "traits": "Wildling."
+    },
+    {
+        "code": "07041",
+        "flavor": "",
+        "name": "Krähentöter",
+        "text": "Krähentöter werden nicht gebeugt, sobald sie zum Angreifer gegen einen Gegner deklariert werden, dessen Reservewert höher ist als deiner.",
+        "traits": "Wildling."
+    },
+    {
+        "code": "07042",
+        "flavor": "",
+        "name": "Die Eisige Küste",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, beuge Die Eisige Küste, um für jede aufgedeckte <i>Winter</i>-Strategiekarte 1 angreifenden <i>Wildling</i>-Charakter zu wählen und aufzurichten.",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "07043",
+        "flavor": "",
+        "name": "Wehrholzbogen",
+        "text": "Nur [thenightswatch]- oder <i>Wildling</i>-Charaktere.\n<b>Aktion:</b> Beuge Wehrholzbogen, um einen verteidigenden Charakter zu wählen. Der gewählte Charakter bekommt bis zum Ende der Herausforderung -2 Stärke.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "07044",
+        "flavor": "",
+        "name": "Die Mauer erklimmen",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der du einen angreifenden <i>Wildling</i>-Charakter kontrollierst, wähle einen nicht-limitierten Ort, der vom verlierenden Gegner kontrolliert wird. Schicke den gewählten Ort auf die Hand seines Besitzers zurück.",
+        "traits": ""
+    },
+    {
+        "code": "07045",
+        "flavor": "",
+        "name": "\"Der Letzte der Riesen\"",
+        "text": "<b>Aktion:</b> Bringe einen neutralen Charakter von deiner Hand ins Spiel. Bis zum Ende der Phase erhält der Charakter Einschüchternd. Falls der Charakter am Ende der Phase immer noch im Spiel ist, töte ihn (kann nicht gerettet werden).",
+        "traits": "Lied."
+    },
+    {
+        "code": "07046",
+        "flavor": "",
+        "name": "Das Feuer, das gegen die Kälte brennt",
+        "text": "Jeder [thenightswatch]-Charakter, den du kontrollierst, wird nicht gebeugt, sobald er zum Verteidiger deklariert wird.",
+        "traits": "Winter."
+    },
+    {
+        "code": "07047",
+        "flavor": "",
+        "name": "Vergeltung",
+        "text": "Falls du die Initiative gewinnst, musst du einen Gegner wählen, um ihn zum Startspieler zu machen.",
+        "traits": "Krieg."
+    },
+    {
+        "code": "07048",
+        "flavor": "",
+        "name": "Flüsterkampagne",
+        "text": "<b>Erzwungene Reaktion:</b> Nachdem ein Charakter ohne [intrigue]-Symbol ins Spiel gekommen ist, beuge ihn.",
+        "traits": "Komplott."
+    },
+    {
+        "code": "07049",
+        "flavor": "",
+        "name": "Zum Dienst einberufen",
+        "text": "<b>Sobald aufgedeckt:</b> Decke die oberste Karte deines Decks auf. Falls es ein Charakter ist, bringe ihn ins Spiel. Falls es eine Nicht-Charakter-Karte ist, ziehe sie und erhalte 2 Gold.",
+        "traits": "Königreich."
+    },
+    {
+        "code": "07050",
+        "flavor": "",
+        "name": "Die weissen Schatten",
+        "text": "<b>Reaktion:</b> Nachdem ein Charakter, der von einem Gegner kontrolliert wird, getötet worden ist, bringe ihn unter deiner Kontrolle ins Spiel. Solange der Charakter im Spiel ist, behandle sein aufgedrucktes Textfeld, als ob es leer wäre. Falls die Karte am Ende der Phase immer noch im Spiel ist, lege sie auf den Totenstapel ihres Besitzers (kann nicht gerettet werden).",
+        "traits": "Omen."
+    },
+    {
+        "code": "07051",
+        "flavor": "",
+        "name": "Turnier zum Namenstag",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der ein <i>Ritter</i>-Charakter, den du kontrollierst, alleine angreift oder verteidigt, wähle einen <i>Lord</i>- oder <i>Lady</i>-Charakter, den du kontrollierst, und lasse ihn 1 Macht erhalten.",
+        "traits": "Sommer."
+    },
+    {
+        "code": "07052",
+        "flavor": "",
+        "name": "Eiswüste",
+        "text": "Jeder Charakter mit Stärke 2 oder weniger kann nicht aufgerichtet werden.",
+        "traits": "Winter."
+    }
+]

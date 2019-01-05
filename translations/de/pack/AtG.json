@@ -1,0 +1,58 @@
+[
+    {
+        "code": "13001",
+        "flavor": "\"Mormont women are skinchangers. We turn into bears and find mates in the woods. Everyone knows.\"",
+        "name": "Alysane Mormont",
+        "text": "No attachments except <i>Weapon</i>.\nWhile each character you control has the [stark] affiliation, Alysane Mormont gains stealth during [military] challenges and does not kneel when declared as an attacker in a [military] challenge.",
+        "traits": "House Mormont. Lady."
+    },
+    {
+        "code": "13002",
+        "flavor": "",
+        "name": "Old Gate",
+        "text": "Limited.\n<b>Challenges Action:</b> If each character you control has the [stark] affiliation, sacrifice Old Gate to draw 2 cards.\n+1 Income.",
+        "traits": "King's Landing."
+    },
+    {
+        "code": "13003",
+        "flavor": "\"When the sun has set, no candle can replace it.\"",
+        "name": "The Knight of Flowers",
+        "text": "Shadow (5). Renown.\n<b>Reaction:</b> After a card you control comes out of shadows, choose and stand a <i>Kingsguard</i> character. (Limit twice per round.)",
+        "traits": "Kingsguard. Knight."
+    },
+    {
+        "code": "13004",
+        "flavor": "",
+        "name": "Gate of the Gods",
+        "text": "Limited.\n<b>Challenges Action:</b> If you control a character with the highest STR in play, sacrifice Gate of the Gods to draw 2 cards.\n+1 Income.",
+        "traits": "King's Landing. The Seven."
+    },
+    {
+        "code": "13008",
+        "flavor": "",
+        "name": "King's Gate",
+        "text": "Limited.\n<b>Challenges Action:</b> If you have 5 or more power on your faction card, sacrifice King's Gate to draw 2 cards.\n+1 Income.",
+        "traits": "King's Landing."
+    },
+    {
+        "code": "13013",
+        "flavor": "",
+        "name": "Viserion",
+        "text": "Ambush (5). No attachments.\n<b>Reaction:</b> After you win a challenge in which Viserion is attacking, discard 1 card from your hand to have Viserion gain intimidate until the end of the challenge.",
+        "traits": "Dragon."
+    },
+    {
+        "code": "13017",
+        "flavor": "",
+        "name": "Littlefinger",
+        "text": "Shadow (6). Stealth.\n<b>Reaction:</b> After a character you control comes out of shadows, place up to 3 cards from your hand on the bottom of your deck in any order. Then, draw that many cards. (Limit once per round.)",
+        "traits": "Ally. Lord. Small Council."
+    },
+    {
+        "code": "13020",
+        "flavor": "",
+        "name": "At the Gates",
+        "text": "<b>When Revealed:</b> Search your deck for a limited location with printed cost 1 or lower, reveal it, and add it to your hand (put it into play instead if there are no <i>City</i> plot cards in your used pile). Shuffle your deck.",
+        "traits": "City. Kingdom."
+    }
+]

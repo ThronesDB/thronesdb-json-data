@@ -1,0 +1,142 @@
+[
+    {
+        "code": "02001",
+        "flavor": "\"Meine Mutter hat mich gelehrt, dass Tote keine Lieder singen.\"",
+        "name": "Will",
+        "text": "Heimlich. Einblick.\n<b>Erzwungene Reaktion:</b> Nachdem du eine unverteidigte Herausforderung verloren hast, opfere einen <i>Grenzer</i>-Charakter, den du kontrollierst.",
+        "traits": "Grenzer."
+    },
+    {
+        "code": "02002",
+        "flavor": "",
+        "name": "Die Wache braucht jeden Mann",
+        "text": "<b>Aktion:</b> Benenne ein Merkmal: <i>Baumeister</i>, <i>Grenzer</i> oder <i>Kämmerer</i>. Suche in den obersten X Karten deines Decks nach beliebig vielen Charakteren mit diesem Merkmal, decke sie auf und nimm sie auf deine Hand. Mische die anderen Karten in dein Deck zurück. X ist dein Reservewert.",
+        "traits": ""
+    },
+    {
+        "code": "02003",
+        "flavor": "",
+        "name": "Maester Luwin",
+        "text": "Solange du:\n- Robb Stark kontrollierst, erhält er Einblick.\n- Jon Schnee kontrollierst, erhält er Heimlich.\n- Bran Stark kontrollierst, erhält er \"immun gegen gegnerische Strategiekarteneffekte.\"\n- Rickon Stark kontrollierst, erhält er Brandschatzen.",
+        "traits": "Maester."
+    },
+    {
+        "code": "02004",
+        "flavor": "",
+        "name": "Lady",
+        "text": "Nur [stark]-Charaktere. Vergänglich.\nDer verstärkte Charakter bekommt +2 Stärke.\n<b>Aktion:</b> Bezahle 1 Gold, um einen anderen Charakter mit Lady zu verstärken. Dann richte den verstärkten Charakter auf, falls es Sansa Stark ist. (Nur ein Mal pro Phase.)",
+        "traits": "Schattenwolf."
+    },
+    {
+        "code": "02005",
+        "flavor": "",
+        "name": "Ritter vom Arbor",
+        "text": "<b>Herausforderungsaktion:</b> Bezahle 1 Gold, um einen teilnehmenden <i>Haus Rothweyn</i>-Charakter zu wählen. Bis zum Ende der Herausforderung bekommt der gewählte Charakter +1 Stärke. (Nur drei Mal pro Phase).",
+        "traits": "Haus Rothweyn. Ritter."
+    },
+    {
+        "code": "02006",
+        "flavor": "",
+        "name": "Vergnügungsbarke",
+        "text": "Immun gegen Karteneffekte.\n<b>Reaktion:</b> Nachdem du Vergnügungsbarke aufmarschieren lassen hast, ziehe 3 Karten, falls du in dieser Phase noch keine Karten gezogen hast.\nGoldwert -1",
+        "traits": "Barke."
+    },
+    {
+        "code": "02007",
+        "flavor": "\"Wenn Ihr den Frieden des Königs nicht erhalten könnt, Janos, sollte vielleicht ein anderer die Stadtwache führen, der dazu in der Lage ist.\"",
+        "name": "Renly Baratheon",
+        "text": "Reduziere die Kosten des ersten Nicht-[baratheon]-Charakters, den du in jeder Runde aufmarschieren lässt, um 1.",
+        "traits": "Lord. Kleiner Rat."
+    },
+    {
+        "code": "02008",
+        "flavor": "",
+        "name": "König Roberts Streithammer",
+        "text": "Der verstärkte Charakter bekommt +1 Stärke.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an welcher der verstärkte Charakter als Angreifer teilnimmt, wähle und beuge beliebig viele Charaktere mit einer Gesamtstärke von bis zu X, wobei X die Stärke des verstärkten Charakters ist. Dann opfere König Roberts Streithammer.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "02009",
+        "flavor": "",
+        "name": "Der Bluthund",
+        "text": "Hinterhalt (4).\n<b>Erzwungene Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an welcher Der Bluthund teilnimmt, darfst du 1 zufällige Karte von deiner Hand ablegen. Falls du das nicht tust, schicke Der Bluthund auf deine Hand zurück.",
+        "traits": "Haus Clegane."
+    },
+    {
+        "code": "02010",
+        "flavor": "",
+        "name": "Cerseis Karosse",
+        "text": "<b>Reaktion:</b> Nachdem du zum Startspieler geworden bist, erhalte entweder 1 Gold oder ziehe 1 Karte.\nReservewert -1",
+        "traits": "Fahrzeug."
+    },
+    {
+        "code": "02011",
+        "flavor": "",
+        "name": "Der Meersteinstuhl",
+        "text": "<b>Unterbrechung:</b> Sobald der Schaden einer unverteidigten [military]-Herausforderung, in der du der angreifende Spieler bist, angewandt wird, beuge deine Fraktionskarte, um einen Charakter ohne Verstärkungen zu wählen, den der verlierende Gegner kontrolliert. Anstatt der normalen Schadenseffekte töte jenen Charakter.",
+        "traits": "Eiseninseln."
+    },
+    {
+        "code": "02012",
+        "flavor": "",
+        "name": "Der Krake erhebt sich",
+        "text": "<b>Unterbrechung:</b> Sobald du für das Gewinnen einer unverteidigten Herausforderung Macht erhältst, erhältst du stattdessen 2 Macht.",
+        "traits": "Krieg."
+    },
+    {
+        "code": "02013",
+        "flavor": "Anfangs hießen die Magister, Archonten und Handelsherren die letzten der Targaryen in ihren Häusern und an ihren Tafeln gern willkommen...",
+        "name": "Handelsherr",
+        "text": "Solange Handelsherr eine Verstärkung hat, bekommt er +1 Stärke und erhält ein [military]-Symbol.",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "02014",
+        "flavor": "...dass es verboten sei, in Vaes Dothrak eine Waffe zu tragen oder das Blut eines freien Mannes zu vergießen.",
+        "name": "Vaes Dothrak",
+        "text": "<b>Reaktion:</b> Nachdem du eine Strategiekarte aufgedeckt hast, lege eine Verstärkung von deiner Hand ab, um eine Verstärkung mit gleichen oder niedrigeren aufgedruckten Kosten zu wählen und aus dem Spiel abzulegen.",
+        "traits": "Essos."
+    },
+    {
+        "code": "02015",
+        "flavor": "",
+        "name": "Bastardtochter",
+        "text": "<b>Unterbrechung:</b> Sobald Bastardtochter oder Die Rote Viper getötet wird, lege 1 zufällige Karte von der Hand jedes Gegners ab.",
+        "traits": "Bastard. Sandschlange."
+    },
+    {
+        "code": "02016",
+        "flavor": "",
+        "name": "Langfristige Pläne",
+        "text": "Während der Abgabenphase legst du dein nicht ausgegebenes Gold nicht in die Schatzkammer zurück.\n<b>Reaktion:</b> Nachdem du eine Herausforderung verloren hast, erhältst du 1 Gold.",
+        "traits": "Komplott."
+    },
+    {
+        "code": "02017",
+        "flavor": "",
+        "name": "Rückhalt in der Bevölkerung",
+        "text": "<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung um 5 oder mehr Stärke gewonnen hast, suche in deinem Deck nach einem Ort mit aufgedruckten Kosten von 3 oder weniger und bringe ihn ins Spiel. Mische dein Deck. (Maximal 1 pro Herausforderung).",
+        "traits": ""
+    },
+    {
+        "code": "02018",
+        "flavor": "",
+        "name": "Strasse der Schwestern",
+        "text": "<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung um 5 oder mehr Stärke gewonnen hast, beuge deine Fraktionskarte, um 1 Macht für deine Fraktion zu erhalten.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "02019",
+        "flavor": "",
+        "name": "Heerschau des Reiches",
+        "text": "Erhöhe den Schadenswert von Heerschau des Reiches um 1 während einer Herausforderung, in der du einen angreifenden <i>Armee</i>-Charakter kontrollierst.",
+        "traits": "Erlass."
+    },
+    {
+        "code": "02020",
+        "flavor": "",
+        "name": "Bereit zu dienen",
+        "text": "<b>Sobald aufgedeckt:</b> Suche in deinem Deck nach einem <i>Maester</i>-Charakter mit aufgedruckten Kosten von 3 oder weniger und bringe ihn ins Spiel. Mische dein Deck.",
+        "traits": "Konklave. Königreich."
+    }
+]

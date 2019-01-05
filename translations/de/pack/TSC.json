@@ -1,0 +1,142 @@
+[
+    {
+        "code": "11001",
+        "flavor": "",
+        "name": "Varamyr Sechsleib",
+        "text": "<b>Reaktion:</b> Nachdem die Herausforderungsphase begonnen hat, erhält Varamyr Sechsleib bis zum Ende der Phase (wähle 1):\n- das Merkmal <i>Bär</i> und er bekommt +5 Stärke.\n- das Merkmal <i>Adler</i>, ein [intrigue]-Symbol und Einblick.\n- das Merkmal <i>Katze</i>, ein [power]-Symbol und Heimlich.\n- das Merkmal <i>Wolf</i> und Einschüchternd und er bekommt +2 Stärke.",
+        "traits": "Wildling."
+    },
+    {
+        "code": "11002",
+        "flavor": "",
+        "name": "Schinder von Haus Bolton",
+        "text": "Schatten (2).\n<b>Erzwungene Unterbrechung:</b> Sobald die Herausforderungsphase endet, wähle einen Charakter mit den niedrigsten aufgedruckten Kosten und töte ihn (kann nicht gerettet werden).",
+        "traits": "Verbündeter. Haus Bolton."
+    },
+    {
+        "code": "11003",
+        "flavor": "",
+        "name": "Rüstkammer des Nordens",
+        "text": "Rüstkammer des Nordens kann nicht aufgerichtet werden.\n<b>Aktion:</b> Beuge Rüstkammer des Nordens, um einen [stark]-Charakter zu wählen und aufzurichten.\nGoldwert +1.",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "11004",
+        "flavor": "",
+        "name": "Intriganter Septon",
+        "text": "Schatten (2).\n<b>Herausforderungsaktion:</b> Ziehe 1 Karte und erhalte 2 Gold. Dann lege Intriganter Septon oben auf dein Deck. (Nur ein Mal pro Phase.)",
+        "traits": "Die Sieben."
+    },
+    {
+        "code": "11005",
+        "flavor": "",
+        "name": "Margaerys Einfluss",
+        "text": "Vergänglich.\n<b>Aktion:</b> Solange der verstärkte Charakter an einer Herausforderung teilnimmt, beuge Margaerys Einfluss und bezahle 1 Gold, um den verstärkten Charakter aufzurichten und aus der Herausforderung zu entfernen.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "11006",
+        "flavor": "\"Ich werde mich nicht kleinlaut von dir wegschicken lassen, um zu frieren und zu sterben. Der Bastard eines Verräters erteilt Janos Slynt keine Befehle!\"",
+        "name": "Janos Slynt",
+        "text": "Schatten (0).\n<b>Erzwungene Reaktion:</b> Nachdem Janos Slynt aus den Schatten getreten ist, opfere einen [thenightswatch]-Charakter.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "11007",
+        "flavor": "",
+        "name": "Neue Rekruten",
+        "text": "<b>Aktion:</b> Suche in deinem Deck nach einem <i>Grenzer</i>-Charakter, einem <i>Baumeister</i>-Charakter und einem <i>Kämmerer</i>-Charakter, decke sie auf und nimm sie auf deine Hand. Mische dein Deck.",
+        "traits": ""
+    },
+    {
+        "code": "11008",
+        "flavor": "",
+        "name": "Schattenpriesterin",
+        "text": "Schatten (3).\n<b>Reaktion:</b> Nachdem Schattenpriesterin aus den Schatten getreten ist, wähle einen Charakter ohne Verstärkungen und beuge ihn.",
+        "traits": "Verbündeter. R'hllor."
+    },
+    {
+        "code": "11009",
+        "flavor": "",
+        "name": "Ländereien in den Sturmlanden",
+        "text": "<b>Aktion:</b> Beuge Ländereien in den Sturmlanden, um 1 Macht von einem Charakter oder Ort auf die Fraktionskarte seines Besitzers zu verschieben.\nGoldwert +1.",
+        "traits": "Westeros."
+    },
+    {
+        "code": "11010",
+        "flavor": "",
+        "name": "Ser Robert Kraft",
+        "text": "Schatten (5).\n<b>Reaktion:</b> Nachdem Ser Robert Kraft aus den Schatten getreten ist, wähle einen gebeugten Charakter mit aufgedruckten Kosten von 5 oder weniger und töte ihn.",
+        "traits": "Königsgarde. Ritter."
+    },
+    {
+        "code": "11011",
+        "flavor": "",
+        "name": "Unter der Brücke der Träume",
+        "text": "Schatten (0).\n<b>Unterbrechung:</b> Sobald du in der Strategiephase eine Strategiekarte wählst, um sie aufzudecken, mische stattdessen dein Archiv in deinen Strategiestapel und wähle eine zufällige Strategiekarte, um sie aufzudecken. Erhöhe bis zum Ende der Runde den Goldwert deiner aufgedeckten Strategiekarte um 2.",
+        "traits": ""
+    },
+    {
+        "code": "11012",
+        "flavor": "",
+        "name": "Nächtliche Räuber",
+        "text": "Brandschatzen. Schatten (3).\n<b>Reaktion:</b> Nachdem Nächtliche Räuber aus den Schatten getreten sind, wähle eine Karte im Ablagestapel eines Gegners. Jener Spieler deckt seine Hand auf und legt jede Karte davon ab, deren aufgedruckte Kosten denen der gewählten Karte entsprechen.",
+        "traits": "Plünderer."
+    },
+    {
+        "code": "11013",
+        "flavor": "",
+        "name": "Initiative ergreifen",
+        "text": "X ist die Anzahl der Gegner, die du hast.\n<b>Unterbrechung:</b> Sobald die Aufmarschphase endet, wirst du zum Startspieler.",
+        "traits": ""
+    },
+    {
+        "code": "11014",
+        "flavor": "",
+        "name": "Aegon Targaryen",
+        "text": "Schatten (3).\n<b>Reaktion:</b> Nachdem Aegon Targaryen ins Spiel gekommen ist, suche in deinem Deck nach einem <i>Armee</i>- oder <i>Söldner</i>-Charakter, bringe ihn ins Spiel und mische dein Deck. Falls jene Karte am Ende der Phase immer noch im Spiel ist, schicke sie auf deine Hand zurück.",
+        "traits": "Lord."
+    },
+    {
+        "code": "11015",
+        "flavor": "\"Er ist hier. Aegon wurde schon auf die Herrschaft vorbereitet, ehe er laufen konnte.\" <cite>Varys</cite>",
+        "name": "Unerwartete Rückkehr",
+        "text": "<b>Herausforderungsaktion:</b> Wähle einen Charakter in deinem Ablagestapel und bringe ihn ins Spiel.",
+        "traits": ""
+    },
+    {
+        "code": "11016",
+        "flavor": "",
+        "name": "Ser Gerris Trinkwasser",
+        "text": "Ruhmreich. Schatten (5).\n<b>Reaktion:</b> Nachdem Ser Gerris Trinkwasser aus den Schatten getreten ist, wähle eine Karte in deinem Strategiestapel und tausche sie gegen eine Karte in deinem Archiv aus.",
+        "traits": "Ritter."
+    },
+    {
+        "code": "11017",
+        "flavor": "",
+        "name": "Die Schattenstadt",
+        "text": "Schatten (2).\nReduziere die Kosten jeder deiner Karten, um sie in den Schatten aufmarschieren zu lassen, um 1.\n<b>Herausforderungsaktion:</b> Beuge Die Schattenstadt und lege 1 Karte aus den Schatten ab, um 2 Karten zu ziehen.",
+        "traits": "Dorne."
+    },
+    {
+        "code": "11018",
+        "flavor": "",
+        "name": "Niederträchtiger Akolyth",
+        "text": "Schatten (2).\n<b>Aktion:</b>Beuge Niederträchtiger Akolyth und bezahle 1 Gold, um eine Strategiekarte zu wählen. Behandle sie bis zum Ende der Phase, als ob ihr aufgedrucktes Textfeld leer wäre (mit Ausnahme von <i>Merkmalen</i>).",
+        "traits": "Maester."
+    },
+    {
+        "code": "11019",
+        "flavor": "Noch vor Mittag brannten ein Dutzend Feuer. Öliger schwarzer Rauch stieg hinauf und befleckte den gnadenlos blauen Himmel.",
+        "name": "Einäscherung der Toten",
+        "text": "<b>Aktion:</b> Entferne jeden nicht-einzigartigen Charakter in den Totenstapeln aller Spieler aus dem Spiel. Ziehe 1 Karte.",
+        "traits": ""
+    },
+    {
+        "code": "11020",
+        "flavor": "",
+        "name": "Informationsaustausch",
+        "text": "<b>Sobald aufgedeckt:</b> Wähle einen Gegner und decke die obersten 10 Karten deines Decks auf. Der gewählte Gegner wählt falls möglich 1 Charakter, 1 Ort, 1 Verstärkung und 1 Ereignis, die auf diese Weise aufgedeckt worden sind, und fügt sie deiner Hand hinzu. Mische dein Deck.",
+        "traits": "Königreich. Sommer."
+    }
+]
