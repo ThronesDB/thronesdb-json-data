@@ -1,0 +1,142 @@
+[
+    {
+        "code": "02081",
+        "flavor": "",
+        "name": "Grossjons Vorhut",
+        "text": "Keine Verstärkungen.\nSolange weniger als 3 Strategiekarten in deinem Archiv sind, bekommt Großjons Vorhut +2 Stärke und erhält Ruhmreich.",
+        "traits": "Armee. Haus Umber."
+    },
+    {
+        "code": "02082",
+        "flavor": "",
+        "name": "Krypta von Winterfell",
+        "text": "<b>Reaktion:</b> Nachdem ein von dir kontrollierter einzigartiger [stark]-Charakter während der Herausforderungsphase getötet oder geopfert worden ist, opfere Krypta von Winterfell, um einen Charakter mit gleicher oder niedrigerer aufgedruckter Stärke zu wählen. Falls der gewählte Charakter am Ende der Phase immer noch im Spiel ist, mische ihn ins Deck seines Besitzers zurück.",
+        "traits": "Winterfell."
+    },
+    {
+        "code": "02083",
+        "flavor": "",
+        "name": "Patrouille auf der Rosenstrasse",
+        "text": "Keine Verstärkungen.\nSolange du einen der Charaktere mit der höchsten Stärke im Spiel kontrollierst, erhält Patrouille auf der Rosenstraße Heimlich.",
+        "traits": "Armee."
+    },
+    {
+        "code": "02084",
+        "flavor": "",
+        "name": "Die Fäden ziehen",
+        "text": "<b>Sobald aufgedeckt:</b> Wähle eine <i>Erlass</i>-, <i>Königreich</i>- oder <i>Komplott</i>-Strategiekarte im Archiv eines Gegners. Initiiere die Sobald aufgedeckt-Fähigkeit der gewählten Karte, so als ob du sie gerade aufgedeckt hättest.",
+        "traits": "Komplott."
+    },
+    {
+        "code": "02085",
+        "flavor": "",
+        "name": "Chett",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Herrschaftsaktion:</b> Beuge einen <i>Kämmerer</i>-Charakter, um eine <i>Schattenwolf</i>- oder <i>Rabe</i>-Karte aus deinem Ablagestapel auf deine Hand zurückzuschicken. (Nur ein Mal pro Phase.)",
+        "traits": "Kämmerer."
+    },
+    {
+        "code": "02086",
+        "flavor": "",
+        "name": "Rabenschlag des Nordens",
+        "text": "<b>Reaktion:</b> Nachdem du Rabenschlag des Nordens aufmarschieren lassen hast, ziehe 1 Karte.\nReservewert + 1",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "02087",
+        "flavor": "",
+        "name": "Königswald",
+        "text": "Während [power]-Herausforderungen, in denen du der verteidigende Spieler bist, bekommt jeder angreifende Charakter -1 Stärke.\n<b>Erzwungene Reaktion:</b> Nachdem du eine [power]-Herausforderung verloren hast, opfere Königswald.",
+        "traits": "Westeros."
+    },
+    {
+        "code": "02088",
+        "flavor": "",
+        "name": "Sturzbetrunken",
+        "text": "Nur gegnerische Charaktere.\n<b>Reaktion:</b> Nachdem der verstärkte Charakter aufgerichtet worden ist, opfere Sturzbetrunken, um den verstärkten Charakter zu beugen.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "02089",
+        "flavor": "",
+        "name": "Bronn",
+        "text": "Während einer Herausforderung, in der du der verteidigende Spieler bist, erhält Bronn ein [military]-, ein [intrigue]- und ein [power]-Symbol.\n<b>Aufmarschaktion:</b> Bezahle 1 Gold, um die Kontrolle über Bronn zu übernehmen. (Jeder Spieler darf diese Fähigkeit initiieren.)",
+        "traits": "Söldner."
+    },
+    {
+        "code": "02090",
+        "flavor": "\"Die Götter wissen um meine Unschuld. Ihr Urteil werde ich anerkennen, nicht das Urteil der Menschen.\" <cite>Tyrion Lennister</cite>",
+        "name": "Schiedsspruch durch einen Kampf",
+        "text": "<b>Unterbrechung:</b> Sobald der Schaden einer [intrigue]-Herausforderung angewandt wird, wende stattdessen [military]-Schaden an.",
+        "traits": ""
+    },
+    {
+        "code": "02091",
+        "flavor": "",
+        "name": "Seeräuber von Peik",
+        "text": "Jede <i>Waffe</i>-Karte auf deiner Hand erhält Hinterhalt (X). X sind die aufgedruckten Kosten der jeweiligen Karte.",
+        "traits": "Plünderer."
+    },
+    {
+        "code": "02092",
+        "flavor": "In jenen Tagen hatten die Männer von den Inseln nicht in Minen geschuftet; das war Arbeit für Gefangene, ...",
+        "name": "Eisenminen",
+        "text": "<b>Unterbrechung:</b> Sobald ein Charakter getötet werden würde, opfere Eisenminen, um den Charakter zu retten.",
+        "traits": "Eiseninseln."
+    },
+    {
+        "code": "02093",
+        "flavor": "\"Der Große Hirte hat mich auf die Erde gesandt, um seine Lämmer zu heilen, wo immer ich sie finde.\"",
+        "name": "Mirri Maz Duur",
+        "text": "<b>Unterbrechung:</b> Sobald der Schaden einer Herausforderung, in der Mirri Maz Duur allein angreift, angewandt wird, wähle einen vom verlierenden Gegner kontrollierten Charakter. Anstatt der normalen Schadenseffekte töte den gewählten Charakter.",
+        "traits": "Lhazareen. Maegi."
+    },
+    {
+        "code": "02094",
+        "flavor": "",
+        "name": "Blutmagie-Ritual",
+        "text": "<b>Unterbrechung:</b> Sobald ein Nicht-<i>Armee</i>-Charakter getötet werden würde, rette ihn. Dann verstärke den geretteten Charakter mit Blutmagie-Ritual als <i>Zustand</i>-Verstärkung mit dem Text: \"Vergänglich. Behandle das aufgedruckte Textfeld des verstärkten Charakters, als ob es leer wäre (mit Ausnahme von <i>Merkmalen</i>).\"",
+        "traits": ""
+    },
+    {
+        "code": "02095",
+        "flavor": "",
+        "name": "Sonnenritter",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nSolange 3 oder mehr Strategiekarten in deinem Archiv sind, erhält Sonnenritter Ruhmreich.",
+        "traits": "Armee. Ritter."
+    },
+    {
+        "code": "02096",
+        "flavor": "",
+        "name": "Rache für Elia",
+        "text": "<b>Unterbrechung:</b> Sobald der Schaden einer Herausforderung, in der du der verteidigende Spieler bist, angewandt wird, wähle einen Gegner. Der gewählte Spieler muss den normalen Schadenseffekt statt deiner erfüllen, so als ob er der verteidigende Spieler wäre.",
+        "traits": ""
+    },
+    {
+        "code": "02097",
+        "flavor": "",
+        "name": "Strasse des Stahls",
+        "text": "<b>Reaktion:</b> Nachdem du eine [military]-Herausforderung gewonnen hast, beuge deine Fraktionskarte, um in den obersten 10 Karten deines Decks nach einer <i>Waffe</i>- oder <i>Gegenstand</i>-Verstärkung zu suchen, sie aufzudecken und auf deine Hand zu nehmen. Mische dein Deck.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "02098",
+        "flavor": "",
+        "name": "Hohenehr",
+        "text": "<b>Reaktion:</b> Nachdem eine Phase begonnen hat, beuge Hohenehr, um einen Cha rakter zu wählen. Bis zum Ende der Phase kann der gewählte Charakter nicht getötet werden.",
+        "traits": "Haus Arryn. Festung."
+    },
+    {
+        "code": "02099",
+        "flavor": "Doch in seinem Albtraum sah er sich dem Wesen wieder gegenüber ...",
+        "name": "Albträume",
+        "text": "<b>Aktion:</b> Wähle einen Charakter oder Ort. Behandle bis zum Ende der Phase das aufgedruckte Textfeld der gewählten Karte, als ob es leer wäre (mit Ausnahme von <i>Merkmalen</i>).",
+        "traits": "Traum."
+    },
+    {
+        "code": "02100",
+        "flavor": "",
+        "name": "Hungersnot",
+        "text": "Erhöhe für jeden Gegner die Kosten, um einen Charakter aufmarschieren zu lassen, um 1.",
+        "traits": "Winter."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "code": "agenda",
+        "name": "Agenda"
+    },
+    {
+        "code": "attachment",
+        "name": "Verstärkung"
+    },
+    {
+        "code": "character",
+        "name": "Charakter"
+    },
+    {
+        "code": "event",
+        "name": "Ereignis"
+    },
+    {
+        "code": "location",
+        "name": "Ort"
+    },
+    {
+        "code": "plot",
+        "name": "Strategiekarte"
+    },
+    {
+        "code": "title",
+        "name": "Titel"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "code": "04081",
+        "flavor": "\"Furcht ist es, was einen Mann in dieser Welt des Verrats und des Betrugs am Leben erhält.\"",
+        "name": "Roose Bolton",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Roose Bolton angreift, wähle Charaktere, die der verlierende Gegner kontrolliert, mit einer Gesamtstärke von bis zu X. X ist die Stärke von Roose Bolton. Opfere Roose Bolton, um jeden gewählten Charakter zu töten.",
+        "traits": "Verbündeter. Haus Bolton. Lord."
+    },
+    {
+        "code": "04082",
+        "flavor": "Harrenhal hatte in den dreihundert Jahren seiner Existenz mehr Schrecken gesehen als Casterlystein in dreitausend Jahren.",
+        "name": "Harrenhal",
+        "text": "<b>Reaktion:</b> Nachdem ein Charakter ins Spiel gekommen ist, beuge deine Fraktions karte und opfere Harrenhal, um ihn zu töten.",
+        "traits": "Umkämpft. Festung."
+    },
+    {
+        "code": "04083",
+        "flavor": "\"Er hat gesagt, all seine anderen Ritter würden etwas von ihm wollen, Burgen oder Ehrentitel oder Reichtümer, aber Brienne wollte nur für ihn sterben.\" <cite>Der Ritter der Blumen</cite>",
+        "name": "Brienne von Tarth",
+        "text": "Ruhmreich.\nSolange du einen <i>König</i>-Charakter oder Catelyn Stark kontrollierst, wird Brienne von Tarth nicht gebeugt, sobald sie zum Verteidiger deklariert wird.",
+        "traits": "Lady."
+    },
+    {
+        "code": "04084",
+        "flavor": "\"Nur Renly konnte mich mit einem Stück Obst so rasend machen.\" <cite>Stannis Baratheon</cite>",
+        "name": "Einen Pfirsich anbieten",
+        "text": "Kann nur gespielt werden, falls du Renly Baratheon oder einen <i>Lady</i>-Charakter kontrollierst.\n<b>Herausforderungsaktion:</b> Wähle einen angrei fenden Charakter. Richte den gewählten Charakter auf und entferne ihn aus der Herausforderung.",
+        "traits": ""
+    },
+    {
+        "code": "04085",
+        "flavor": "\"Trotzdem hat er noch keinen Grenzer von seinem Herd gewiesen ...\" <cite>Thoren Kleinwald</cite>",
+        "name": "Craster",
+        "text": "Immun gegen <i>Omen</i>-Karten-Effekte.\n<b>Aktion:</b> Opfere Craster, um jeden Charakter, der in dieser Phase getötet worden ist, aus dem Totenstapel seines Besitzers ins Spiel zu bringen.",
+        "traits": "Verbündeter. Wildling."
+    },
+    {
+        "code": "04086",
+        "flavor": "Drachenglas. Die Maester nennen es Obsidian.",
+        "name": "Dolch aus Drachenglas",
+        "text": "Nur [thenightswatch]-Charaktere.\nSolange der verstärkte Charakter an einer Herausforderung teilnimmt, bekommt er +2 Stärke und ist immun gegen die Fähigkeiten gegnerischer Charaktere.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "04087",
+        "flavor": "\"Ja, ich habe Gesetze gebrochen, aber vor heute Nacht habe ich mich niemals als schlechter Mensch gefühlt.\"",
+        "name": "Ser Davos Seewert",
+        "text": "Heimlich.\n<b>Reaktion:</b> Nachdem Ser Davos Seewert einen nicht-loyalen Charakter mit Heimlich umgangen hat, ziehe entweder 1 Karte oder erhalte 1 Gold.",
+        "traits": "Ritter. Lord. Schmuggler."
+    },
+    {
+        "code": "04088",
+        "flavor": "In der Morgenluft hing der schwarze Rauch brennender Götter.",
+        "name": "Ritual des R'hllor",
+        "text": "<b>Reaktion:</b> Nachdem du die Herrschaft gewonnen hast, wähle X aufrecht stehende <i>R'hllor</i>-Charaktere. Jeder gewählte Charakter erhält 1 Macht.",
+        "traits": "R'hllor."
+    },
+    {
+        "code": "04089",
+        "flavor": "\"Man kann einen König zum Wasser führen, aber bei Joff musste man damit herumspritzen, ehe er begriffen hat, dass man es trinken kann.\" <cite>Kleinfinger</cite>",
+        "name": "Joffrey Baratheon",
+        "text": "<b>Reaktion:</b> Nachdem du einen loyalen Charakter aufmarschieren lassen hast, beuge jenen Charakter und deine Fraktionskarte, um einen Nicht-<i>König</i>-Charakter mit niedrigeren aufgedruckten Kosten zu wählen und zu töten.",
+        "traits": "König. Lord."
+    },
+    {
+        "code": "04090",
+        "flavor": "In Chatayas Bordell würde Shae so viel Seide und Edelsteine bekommen, wie sie sich wünschte, und dazu die edelsten hochgeborenen Kunden.",
+        "name": "Chatayas Bordell",
+        "text": "<b>Aufmarschaktion:</b> Beuge einen Charakter mit einem [intrigue]-Symbol, um 1 Gold zu erhalten. (Nur zwei Mal pro Phase.)",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "04091",
+        "flavor": "\"M'lord, ich soll Euch Eure Gemächer zeigen.\"",
+        "name": "Helya",
+        "text": "Jede Verstärkung erhält Vergänglich.",
+        "traits": "Eisenmann. Kämmerer."
+    },
+    {
+        "code": "04092",
+        "flavor": "Die ersten drei Männer hatten ihr Leben dem Ertrunkenen Gott ohne Furcht dargeboten ...",
+        "name": "Segne ihn mit Salz",
+        "text": "Kann nur während einer [power]-Herausforderung gespielt werden.\n<b>Aktion:</b> Wähle einen teilnehmenden <i>Ertrunkener Gott</i>- oder <i>Eisenmann</i>-Charakter. Bis zum Ende der Herausforderung bekommt der gewählte Charakter +3 Stärke. Falls du die Herausforderung gewinnst, ziehe 1 Karte.",
+        "traits": "Segen."
+    },
+    {
+        "code": "04093",
+        "flavor": "Xaro Xhoan Daxos sorgte dafür, dass die Mächtigen und die Geringen gleichermaßen der Mutter der Drachen Geschenke entboten.",
+        "name": "Xaro Xhoan Daxos",
+        "text": "<b>Reaktion:</b> Nachdem du eine einzigartige Verstärkung aufmarschieren lassen hast, erhältst du 2 Gold. (Nur ein Mal pro Phase.)",
+        "traits": "Händler."
+    },
+    {
+        "code": "04094",
+        "flavor": "",
+        "name": "Mutter der Drachen",
+        "text": "Nur <i>Sturmtochter</i>-Charaktere, die du kontrollierst.\n<b>Herausforderungsaktion:</b> Während einer Heraus forderung, in der du einen teilneh men den <i>Drache</i>-Charakter kontrollierst, beuge Mutter der Drachen, um den verstär kten Charakter auf deiner Seite an der Herausforderung teilnehmen zu lassen.",
+        "traits": "Titel."
+    },
+    {
+        "code": "04095",
+        "flavor": "Das Mädchen vergoss keine einzige Träne. Mochte sie noch so jung sein, Myrcella Baratheon war als Prinzessin geboren.",
+        "name": "Myrcella Baratheon",
+        "text": "Solange kein <i>König</i>-Charakter im Spiel ist, erhält Myrcella Baratheon Ruhmreich und wird nicht gebeugt, sobald sie bei einer [power]-Herausforderung zum Verteidiger deklariert wird.",
+        "traits": "Lady."
+    },
+    {
+        "code": "04096",
+        "flavor": "",
+        "name": "Der Fürstenpass",
+        "text": "<b>Reaktion:</b> Nachdem du als verteidigender Spieler eine Herausforderung verloren hast, beuge Der Fürstenpass, um einen angreifenden Charakter zu wählen. Der gewählte Charakter verliert bis zum Ende der Phase ein Heraus forderungssymbol deiner Wahl. Dann darfst du, falls er keine Herausforderungssymbole hat, Der Fürstenpass opfern, um den Charakter aus dem Spiel abzulegen.",
+        "traits": "Dorne."
+    },
+    {
+        "code": "04097",
+        "flavor": "Die Schweigenden Schwestern bereiteten die Menschen für das Grab vor, und es brachte Unglück, dem Tod ins Gesichte zu schauen.",
+        "name": "Schweigende Schwestern",
+        "text": "Schweigende Schwestern bekommen +1 Stärke für jeden Charakter in deinem Totenstapel.",
+        "traits": "Verbündeter. Die Sieben."
+    },
+    {
+        "code": "04098",
+        "flavor": "Die Frostfänge sind schon im Sommer kein Vergnügen, aber jetzt ... wenn uns dort ein Sturm überrascht ...",
+        "name": "Die Frostfänge",
+        "text": "<b>Reaktion:</b> Nachdem Die Frostfänge ins Spiel gekommen ist, gib einem Gegner die Kontrolle darüber.\nInitiativewert -1",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "04099",
+        "flavor": "",
+        "name": "Leise wie ein Schatten",
+        "text": "<b>Aktion:</b> Wähle einen einzigartigen Charakter mit aufgedruckten Kosten von 3 oder niedriger. Der gewählte Charakter erhält bis zum Ende der Phase Heimlich.",
+        "traits": ""
+    },
+    {
+        "code": "04100",
+        "flavor": "",
+        "name": "Die Geister von Harrenhal",
+        "text": "<b>Sobald aufgedeckt:</b> Bringe den obersten Charakter aus dem Totenstapel jedes Spielers ins Spiel.",
+        "traits": "Omen."
+    }
+]

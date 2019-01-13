@@ -1,0 +1,38 @@
+[
+    {
+        "code": "baratheon",
+        "name": "Haus Baratheon"
+    },
+    {
+        "code": "greyjoy",
+        "name": "Haus Graufreud"
+    },
+    {
+        "code": "lannister",
+        "name": "Haus Lennister"
+    },
+    {
+        "code": "martell",
+        "name": "Haus Martell"
+    },
+    {
+        "code": "neutral",
+        "name": "Neutral"
+    },
+    {
+        "code": "stark",
+        "name": "Haus Stark"
+    },
+    {
+        "code": "targaryen",
+        "name": "Haus Targaryen"
+    },
+    {
+        "code": "thenightswatch",
+        "name": "Die Nachtwache"
+    },
+    {
+        "code": "tyrell",
+        "name": "Haus Tyrell"
+    }
+]

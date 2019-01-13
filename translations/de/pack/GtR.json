@@ -1,0 +1,143 @@
+[
+    {
+        "code": "06021",
+        "flavor": "",
+        "name": "Streitmacht der Bäreninsel",
+        "text": "Investition (3). Keine Verstärkungen.\n<b>Aktion:</b> Lege 1 Gold von Streitmacht der Bäreninsel ab, um einen <i>Haus Mormont</i>-Charakter zu wählen. Bis zum Ende der Phase wird der gewählte Charakter nicht gebeugt, sobald er zum Angreifer in einer [military]-Herausforderung deklariert wird.",
+        "traits": "Armee. Haus Mormont."
+    },
+    {
+        "code": "06022",
+        "flavor": "",
+        "name": "Ehebündnis",
+        "text": "Vergänglich.\nDer verstärkte Charakter kann nicht an Herausforderungen gegen dich teilnehmen.\n<b>Erzwungene Unterbrechung:</b> Sobald der verstärkte Charakter das Spiel verlässt, opfere einen Charakter, den du kontrollierst.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "06023",
+        "flavor": "",
+        "name": "Ritter der Weite",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Ritter der Weite alleine angreift oder verteidigt, wähle einen <i>Lady</i>-Charakter. Der gewählte Charakter erhält 1 Macht.",
+        "traits": "Ritter."
+    },
+    {
+        "code": "06024",
+        "flavor": "Von seinem Thron aus Gebeinen sah der Herr des Todes auf den ermordeten Lord herab ...",
+        "name": "\"Lord Renlys Ritt\"",
+        "text": "<b>Aktion:</b> Wähle einen Charakter. Bis zum Ende der Phase bekommt der gewählte Charakter +X Stärke und erhält Einschüchternd. X ist die aufgedruckte Stärke des obersten Charakters in deinem Totenstapel.",
+        "traits": "Lied."
+    },
+    {
+        "code": "06025",
+        "flavor": "\"Nennt mich nicht so. Ich bin eine Mutter, keine Lady.\"",
+        "name": "Goldy",
+        "text": "Investition (3). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 3 Gold aus deiner Goldreserve auf diese Karte.)</i>\n<b>Aktion:</b> Lege 1 Gold von Goldy ab, um einen <i>Kämmerer</i>-Charakter, den du kontrollierst, zu wählen. Bis zum Ende der Phase erhält der gewählte Charakter Heimlich.",
+        "traits": "Wildling."
+    },
+    {
+        "code": "06026",
+        "flavor": "",
+        "name": "Das Reich bewachen",
+        "text": "<b>Aufmarschaktion:</b> Wähle einen Charakter mit aufgedruckten Kosten von 3 oder weniger im Ablagestapel eines Gegners und bringe ihn unter deiner Kontrolle ins Spiel.\n<b>Reaktion:</b> Nachdem du als verteidigender Spieler eine Herausforderung gewonnen hast, bezahle 1 Gold, um Das Reich bewachen aus deinem Ablagestapel auf deine Hand zurückzuschicken.",
+        "traits": ""
+    },
+    {
+        "code": "06027",
+        "flavor": "\"Wir wählen das Licht oder die Dunkelheit. Wir wählen das Gute oder das Böse. Wir wählen den wahren Gott oder den falschen.\"",
+        "name": "Melisandre",
+        "text": "Einblick.\n<b>Reaktion:</b> Nachdem du die Herrschaft gewonnen hast, wähle einen Gegner und sieh dir seine Hand an. Dann wähle 1 dieser Karten und lege sie von der Hand ab. Falls die abgelegte Karte ein Charakter ist, lege sie auf den Totenstapel ihres Besitzers.",
+        "traits": "Lady. R'hllor."
+    },
+    {
+        "code": "06028",
+        "flavor": "\"Führe uns aus der Dunkelheit, o mein Herr. Erfülle unsere Herzen mit Feuer, damit wir deinem leuchtenden Pfad folgen können.\"",
+        "name": "Das Licht des Herrn",
+        "text": "Nur [baratheon]- oder <i>R'hllor</i>-Charaktere.\n<b>Reaktion:</b> Nachdem die Herrschaftsphase begonnen hat, richte den verstärkten Charakter auf und erhalte 1 Gold.",
+        "traits": "Segen. R'hllor."
+    },
+    {
+        "code": "06029",
+        "flavor": "\"Sucht Ihr Euren Bruder, Sandor?\"",
+        "name": "Polliver",
+        "text": "Brandschatzen.\n<b>Reaktion:</b> Nachdem Polliver einen Charakter durch Brandschatzen abgelegt hat, schicke 2 Gold aus der Goldreserve des verlierenden Gegners in die Schatzkammer zurück.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "06030",
+        "flavor": "Obwohl die Fensterläden wegen der nächtlichen Kälte geschlossen waren, konnte man die Kühle im Raum spüren.",
+        "name": "Das Solar der Hand",
+        "text": "<b>Aktion:</b> Beuge Das Solar der Hand, um einen Charakter zu wählen. Bis zum Ende der Phase erhält der gewählte Charakter ein [intrigue]-Symbol.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "06031",
+        "flavor": "",
+        "name": "Wex Peik",
+        "text": "Investition (8).\nSolange Wex Peik angreift, kann jeder Charakter mit aufgedruckten Kosten von X nicht zum Verteidiger deklariert werden. X ist die Anzahl des Goldes, das Wex Peik hat.\n<b>Herrschaftsaktion:</b> Verschiebe 1 Gold aus deiner Goldreserve auf Wex Peik. (Nur zwei Mal pro Phase.)",
+        "traits": "Bastard. Haus Botlin."
+    },
+    {
+        "code": "06032",
+        "flavor": "",
+        "name": "Markt auf den Eiseninseln",
+        "text": "Limitiert.\n<b>Aufmarschaktion:</b> Beuge Markt auf den Eiseninseln, um 1 Gold zu erhalten. (Falls ein Gegner 8 oder mehr Karten in seinem Ablagestapel hat, erhältst du stattdessen 2 Gold.)",
+        "traits": "Eiseninseln."
+    },
+    {
+        "code": "06033",
+        "flavor": "",
+        "name": "Die Zweitgeborenen",
+        "text": "Investition (3). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 3 Gold aus deiner Goldreserve auf diese Karte.)</i>\n<b>Erzwungene Unterbrechung:</b> Sobald die Herausforderungsphase endet, opfere Die Zweit geborenen, es sei denn, du legst 1 Gold von dieser Karte ab.",
+        "traits": "Söldner."
+    },
+    {
+        "code": "06034",
+        "flavor": "",
+        "name": "Ein Drache ist kein Sklave",
+        "text": "<b>Herausforderungsaktion:</b> Wähle einen Charakter ohne Verstärkungen. Bis zum Ende der Phase bekommt der gewählte Charakter -2 Stärke.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der du einen teilnehmenden <i>Drache</i>-Charakter oder Daenerys Targaryen kontrollierst, bezahle 1 Gold, um Ein Drache ist kein Sklave aus deinem Ablagestapel auf deine Hand zurückzuschicken.",
+        "traits": ""
+    },
+    {
+        "code": "06035",
+        "flavor": "",
+        "name": "Waise des Grünbluts",
+        "text": "Investition (3). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 3 Gold aus deiner Goldreserve auf diese Karte.)</i>\n<b>Aktion:</b> Lege 1 Gold von Waise des Grünbluts ab, um einen anderen Charakter, den du kontrollierst, auf die Hand seines Besitzers zurückzuschicken.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "06036",
+        "flavor": "",
+        "name": "Glühendheisse Wüste",
+        "text": "<b>Reaktion:</b> Nachdem ein Charakter mit weniger als 2 Herausforderungssymbolen zum Angreifer oder Verteidiger deklariert worden ist, beuge und opfere Glühendheiße Wüste, um diesen Charakter aus der Herausforderung zu entfernen.",
+        "traits": "Dorne."
+    },
+    {
+        "code": "06037",
+        "flavor": "Der schwarze Walder war ein Mann, der sich nahm, was er wollte, sogar die Frau seines Bruders.",
+        "name": "Der Schwarze Walder",
+        "text": "Investition (3).\nWährend der dritten Herausforderung, die du in jeder Phase initiierst, erhält Der Schwarze Walder Ruhmreich und bekommt +2 Stärke für jedes Gold, das er hat.",
+        "traits": "Haus Frey."
+    },
+    {
+        "code": "06038",
+        "flavor": "",
+        "name": "Grosse Halle",
+        "text": "Limitiert.\n<b>Aufmarschaktion:</b> Beuge Große Halle, um die Kosten des nächsten einzigartigen Charakters, den du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren. (Falls die aufgedruckten Kosten des Charakters 6 oder höher sind, reduzierst du sie stattdessen um 2.)",
+        "traits": "Westeros."
+    },
+    {
+        "code": "06039",
+        "flavor": "",
+        "name": "\"Das Dornische Weib\"",
+        "text": "<b>Aktion:</b> Wähle einen Gegner. Falls der gewählte Spieler eine höhere Gesamtmacht hat als du, erhalte 2 Gold. Falls der gewählte Spieler mehr Karten auf seiner Hand hat als du, erhalte 1 Macht für deine Fraktion. Falls der gewählte Spieler mehr Charaktere kontrolliert als du, ziehe 1 Karte.",
+        "traits": "Lied."
+    },
+    {
+        "code": "06040",
+        "designer": "Kartenentwurf von Alexander Hynes, Gesamtweltmeister 2014.",
+        "flavor": "",
+        "name": "Die Annalen der Schwarzen Festung",
+        "text": "Jeder Spieler darf Ereignisse aus seinem Ablagestapel spielen, als ob er sie auf seiner Hand hätte.\n<b>Erzwungene Reaktion:</b> Nachdem ein Ereignis auf einen Ablagestapel gelegt worden ist, entferne es aus dem Spiel.",
+        "traits": "Erbe."
+    }
+]

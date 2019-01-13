@@ -1,0 +1,142 @@
+[
+    {
+        "code": "06001",
+        "flavor": "Ihr Vater wurde mit jedem Tag schwächer und verwirrter; er wachte nur noch auf, um \"Alraune\" zu murmeln und um Verzeihung zu flehen.",
+        "name": "Hoster Tully",
+        "text": "Solange Hoster Tully an einer Herausforderung teilnimmt, erhält jeder andere teilnehmende <i>Haus Tully</i>-Charakter, den du kontrollierst, Ruhmreich.",
+        "traits": "Haus Tully. Lord."
+    },
+    {
+        "code": "06002",
+        "flavor": "",
+        "name": "Der Trommelstein",
+        "text": "Investition (3). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 3 Gold aus deiner Goldreserve auf diese Karte.)</i>\n<b>Reaktion:</b> Nachdem ein <i>Haus Tully</i>-Charakter Macht erhalten hat, lege 1 Gold von Der Trommelstein ab, um den Charakter aufzurichten.",
+        "traits": "Die Flusslande."
+    },
+    {
+        "code": "06003",
+        "flavor": "Margaerys Freundlichkeit hatte nicht nachgelassen, und wenn sie da war, war alles anders.",
+        "name": "Margaery Tyrell",
+        "text": "Ruhmreich.\n<b>Reaktion:</b> Nachdem ein einzigartiger <i>König</i>- oder <i>Lord</i>-Charakter, den du kontrollierst, getötet worden ist, suche in deinem Deck nach einem einzigartigen <i>König</i>- oder <i>Lord</i>-Charakter und bringe ihn ins Spiel. Mische dein Deck. (Nur ein Mal pro Runde.)",
+        "traits": "Lady. Königin."
+    },
+    {
+        "code": "06004",
+        "flavor": "\"... aber die im Narrenkleid sind lustiger als die mit den Kronen.\" <cite>Die Dornenkönigin</cite>",
+        "name": "Alle Männer sind Narren",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung um 5 oder mehr Stärke gewonnen hast, erhält jeder <i>Lady</i>-Charakter, den du kontrollierst, 1 Macht. (Maximal 1 pro Herausforderung.)",
+        "traits": ""
+    },
+    {
+        "code": "06005",
+        "flavor": "Ostwacht war ein besserer Ort zum Handeln als die Schwarze Feste; dort landeten die Schiffe an, die beladen waren mit den Waren aus den sagenhaften Ländern jenseits des Meeres.",
+        "name": "Zimmermann der Ostwacht",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Reaktion:</b> Nachdem du dein Einkommen kassiert hast, erhalte 1 Gold für je zwei [thenightswatch]-Orte, die du kontrollierst.",
+        "traits": "Baumeister."
+    },
+    {
+        "code": "06006",
+        "flavor": "",
+        "name": "Ostwacht an der See",
+        "text": "<b>Reaktion:</b> Nachdem die Herrschaftsphase begonnen hat, ziehe 1 Karte, falls du einen höheren Reservewert als ein Gegner hast.\nReservewert +1",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "06007",
+        "flavor": "",
+        "name": "Wankelmütiger Vasall",
+        "text": "Investition (2). Ruhmreich.\n<b>Erzwungene Reaktion:</b> Nachdem du eine [power]-Herausforderung verloren hast, übernimmt der siegende Gegner die Kontrolle über Wankelmütiger Vasall, es sei denn, du legst 1 Gold von dieser Karte ab.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "06008",
+        "flavor": "\"In die Steine sind Zauber gewirkt. Dunkle Mauern, die kein Schatten passieren kann - uralt sind sie und vergessen, und doch noch immer vorhanden.\" <cite>Melisandre</cite>",
+        "name": "Sturmkap",
+        "text": "<b>Reaktion:</b> Nachdem du die Herrschaft gewonnen hast, lege 1 Macht von deiner Fraktionskarte ab, um 2 Charaktere zu wählen. Jeder gewählte Charakter erhält 1 Macht.",
+        "traits": "Festung."
+    },
+    {
+        "code": "06009",
+        "flavor": "",
+        "name": "Felsenkrähen",
+        "text": "Hinterhalt (3). Investition (2). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 2 Gold aus deiner Goldreserve auf diese Karte.)</i>\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Felsenkrähen angreifen, lege 1 Gold von dieser Karte ab, um den verlierenden Gegner einen verteidigenden Charakter wählen und töten zu lassen.",
+        "traits": "Clankrieger."
+    },
+    {
+        "code": "06010",
+        "flavor": "\"Unser Onkel war mein Ritter des Tores, und seit er uns allein gelassen hat, werden die Bergstämme immer unverschämter.\" <cite>Lysa Arryn</cite>",
+        "name": "Überfall aus den Bergen",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der du einen angreifenden <i>Clankrieger</i>-Charakter kontrollierst, bringe einen <i>Clankrieger</i>- Charakter von deiner Hand ins Spiel.",
+        "traits": ""
+    },
+    {
+        "code": "06011",
+        "flavor": "\"Bequemlichkeit werde ich in den Wasserhallen des Ertrunkenen Gottes unter den Wellen vorfinden.\" <cite>Aeron Feuchthaar</cite>",
+        "name": "Jünger des Ertrunkenen Gottes",
+        "text": "<b>Reaktion:</b> Nachdem ein Charakter aus deinem Totenstapel ins Spiel gekommen ist, wähle einen <i>Ertrunkener Gott</i>-Charakter und lasse ihn 1 Macht erhalten. (Nur zwei Mal pro Phase.)",
+        "traits": "Ertrunkener Gott."
+    },
+    {
+        "code": "06012",
+        "flavor": "",
+        "name": "Maidengraben",
+        "text": "Solange es mehr aufgedeckte <i>Winter</i>-Strategiekarten als aufgedeckte <i>Sommer</i>-Strategiekarten gibt, reduziere die Initiativewerte der aufgedeckten Strategiekarten jedes Gegners um 3 und die Reservewerte der aufgedeckten Strategiekarten jedes Gegners um 1.",
+        "traits": "Umkämpft. Der Norden."
+    },
+    {
+        "code": "06013",
+        "flavor": "\"In uns fließt das Blut des alten Ghis, dessen Imperium schon viele Jahre zählte, als Valyria noch ein schreiendes Kleinkind war.\" <cite>Grazdan mo Eraz</cite>",
+        "name": "Elite der Ghiscari",
+        "text": "<b>Reaktion:</b> Nachdem Elite der Ghiscari gebeugt worden ist, wähle eine Verstärkung oder ein Ereignis in deinem Ablagestapel und lege die gewählte Karte unter dein Deck.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "06014",
+        "flavor": "",
+        "name": "Hafen der Sklavenbucht",
+        "text": "Limitiert.\n<b>Aufmarschaktion:</b> Beuge Hafen der Sklavenbucht, um 1 Gold zu erhalten. (Falls ein Gegner 4 oder mehr Charaktere in seinem Totenstapel hat, erhältst du stattdessen 2 Gold.)",
+        "traits": "Essos."
+    },
+    {
+        "code": "06015",
+        "flavor": "",
+        "name": "Ricasso",
+        "text": "Investition (2). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 2 Gold aus deiner Goldreserve auf diese Karte.)</i>\nDu giltst, als hättest du X zusätzliche Strategiekarten in deinem Archiv. X ist die Anzahl des Goldes, das Ricasso hat.",
+        "traits": "Verbündeter. Kämmerer."
+    },
+    {
+        "code": "06016",
+        "flavor": "",
+        "name": "Der Plan des Fürsten",
+        "text": "<b>Aktion:</b> Wähle einen Charakter. Bis zum Ende der Phase bekommt der gewählte Charakter +1 Stärke für jede Strategiekarte in deinem Archiv und erhält ein Herausforderungssymbol deiner Wahl.\n<b>Reaktion:</b> Nachdem du eine Herausforderung verloren hast, bezahle 1 Gold, um Der Plan des Fürsten aus deinem Ablagestapel auf deine Hand zurückzuschicken.",
+        "traits": ""
+    },
+    {
+        "code": "06017",
+        "flavor": "\"Du weißt gar nichts, Jon Schnee.\"",
+        "name": "Ygritte",
+        "text": "Ygritte kann nicht durch Karteneffekte gebeugt werden.\nSolange du einen anderen <i>Wildling</i>-Charakter kontrollierst, erhält Ygritte Heimlich.",
+        "traits": "Wildling."
+    },
+    {
+        "code": "06018",
+        "flavor": "",
+        "name": "Bündnis",
+        "text": "Dein Deck muss mindestens 75 Karten enthalten.\nDu darfst zusätzlich zu dieser Agenda 2 <i>Banner</i>-Agenden führen.",
+        "traits": ""
+    },
+    {
+        "code": "06019",
+        "flavor": "",
+        "name": "Verbarrikadiert die Tore",
+        "text": "Kartenfähigkeiten können nicht dazu führen, dass Charaktere ins Spiel kommen.",
+        "traits": "Erlass. Winter."
+    },
+    {
+        "code": "06020",
+        "flavor": "",
+        "name": "Das letzte Bankett des Sommers",
+        "text": "<b>Erzwungene Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, darf der verlierende Gegner 1 Karte ziehen.",
+        "traits": "Königreich. Sommer."
+    }
+]

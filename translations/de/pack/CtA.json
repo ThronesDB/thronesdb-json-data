@@ -1,0 +1,142 @@
+[
+    {
+        "code": "04021",
+        "flavor": "Die bleiche Lady Hornwald saß mit versteinerter Miene neben ihm, während sie lustlos im Essen herumstocherte.",
+        "name": "Donella Hornwald",
+        "text": "Reduziere die Kosten der ersten loyalen Karte, die du in jeder Runde spielst oder aufmarschieren lässt, um 1.",
+        "traits": "Haus Hornwald. Lady."
+    },
+    {
+        "code": "04022",
+        "flavor": "Stark wie ein Bär. Wild wie eine Wölfin. Angst schneidet tiefer als Schwerter.",
+        "name": "Angst schneidet tiefer als Schwerter",
+        "text": "<b>Unterbrechung:</b> Sobald die Effekte einer Fähigkeit, die einen [stark]-Charakter als einziges Ziel wählt, initiiert werden würden, hebe diese Effekte auf und richte den gewählten Charakter auf.",
+        "traits": ""
+    },
+    {
+        "code": "04023",
+        "flavor": "\"Weil sie Ritter des Sommers sind und der Winter naht.\" <cite>Catelyn Stark</cite>",
+        "name": "Ritter des Sommers",
+        "text": "Solange es mehr aufgedeckte <i>Sommer</i>-Strategiekarten als aufgedeckte <i>Winter</i>-Strategiekarten gibt, bekommt Ritter des Sommers +2 Stärke und erhält Ruhmreich.",
+        "traits": "Ritter."
+    },
+    {
+        "code": "04024",
+        "flavor": "",
+        "name": "Hier ist mein Recht",
+        "text": "Kann nur während einer Herausforderung gespielt werden.\n<b>Herausforderungsaktion:</b> Decke 4 [tyrell]-Charaktere von deiner Hand auf, um den Schadens wert deiner aufgedeckten Strategiekarte bis zum Ende der Herausforderung um 1 zu erhöhen. (Maximal 1 pro Herausforderung.)",
+        "traits": ""
+    },
+    {
+        "code": "04025",
+        "flavor": "\"Nie wollte ich auch nur die Hälfte der Dinge sehen, die ich sehen musste, und ich habe nicht einmal die Hälfte der Dinge gesehen, die ich gerne sehen wollte.\"",
+        "name": "Schwermütiger Edd",
+        "text": "<b>Aktion:</b> Während einer [intrigue]-Herausforderung, in der du der verteidigende Spieler bist, beuge deine Fraktionskarte, um Schwermütiger Edd gebeugt und als Verteidiger an der Herausforderung teilnehmend von deiner Hand ins Spiel zu bringen. Falls du die Herausforderung gewinnst, darfst du ihn auf deine Hand zurückschicken.",
+        "traits": "Kämmerer."
+    },
+    {
+        "code": "04026",
+        "flavor": "\"Ein Feigling kann so mutig wie jeder andere sein, wenn es nichts zu fürchten gibt.\" <cite>Maester Aemon</cite>",
+        "name": "Feigling",
+        "text": "Vergänglich.\nDer verstärkte Charakter kann nicht zum Angreifer deklariert werden.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "04027",
+        "flavor": "Pylos wirkte durchaus klug und eifrig und wohlmeinend, doch er war so jung, und der König vertraute ihm keineswegs so sehr wie Cressen.",
+        "name": "Maester Pylos",
+        "text": "Heimlich.",
+        "traits": "Maester."
+    },
+    {
+        "code": "04028",
+        "flavor": "... dem zentralen Bergfried, der seinen Namen trug, weil seine uralten Mauern bei Stürmen dröhnten und grollten.",
+        "name": "Die Steintrommel",
+        "text": "Solange es eine aufgedeckte <i>Königreich</i>-Strategiekarte gibt, erhöhe den Goldwert deiner aufgedeckten Strategiekarte um 1.",
+        "traits": "Drachenstein."
+    },
+    {
+        "code": "04029",
+        "flavor": "\"Habt Ihr mich vermisst?\"",
+        "name": "Shae",
+        "text": "<b>Herausforderungsaktion:</b> Bezahle 1 Gold, um Shae aufzurichen. (Nur zwei Mal pro Phase.)",
+        "traits": "Verbündeter. Gefährte."
+    },
+    {
+        "code": "04030",
+        "flavor": "",
+        "name": "Der Knabenkönig",
+        "text": "Nur <i>Lord</i>-Charaktere.\nDer verstärkte Charakter erhält das Merkmal <i>König</i>.\n<b>Reaktion:</b> Nachdem ein Charakter mit aufgedruckten Kosten von 3 oder weniger getötet worden ist, beuge Der Knabenkönig, um den verstärkten Charakter 1 Macht erhalten zu lassen.",
+        "traits": "Titel."
+    },
+    {
+        "code": "04031",
+        "flavor": "",
+        "name": "Balon Graufreud",
+        "text": "Ruhmreich.\nBalon Graufreud wird nicht gebeugt, sobald er bei einer [military]-Herausforderung gegen einen Gegner, der keinen <i>König</i>-Charakter kontrolliert, zum Angreifer deklariert wird.\n<b>Aktion:</b> Beuge einen [greyjoy]-Ort, um jedem loyalen Charakter, den du kontrollierst, bis zum Ende der Herausforderung +1 Stärke zu geben. (Nur ein Mal pro Herausforderung.)",
+        "traits": "Eisenmann. König. Lord."
+    },
+    {
+        "code": "04032",
+        "flavor": "",
+        "name": "Unser ist der Alte Weg",
+        "text": "<b>Herausforderungsaktion:</b> Bis zum Ende der Phase erhält entweder jeder [greyjoy]-Charakter, den du kontrollierst, Heimlich oder jeder Nicht-[greyjoy]-Charakter verliert Heimlich.",
+        "traits": ""
+    },
+    {
+        "code": "04033",
+        "flavor": "\"Einst habe es zwei Monde am Himmel gegeben, doch einer sei der Sonne zu nah gekommen und von der Hitze geborsten. Tausende von Drachen strömten herbei und tranken die Flammen der Sonne. Deshalb speien Drachen Feuer.\"",
+        "name": "Doreah",
+        "text": "Während einer Herausforderung, bei der du einen teilnehmenden <i>Lord</i>- oder <i>Lady</i>-Charakter kontrollierst, erhält Doreah Einblick.",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "04034",
+        "flavor": "",
+        "name": "Bettelkönig",
+        "text": "Nur [targaryen]-Charaktere.\nDer verstärkte Charakter erhält das Merkmal <i>König</i>.\n<b>Reaktion:</b> Nachdem ein Gegner eine Strategiekarte aufgedeckt hat, deren aufgedruckter Goldwert höher ist als deiner, beuge Bettelkönig, um 1 Gold zu erhalten. (Falls kein Gegner einen <i>König</i>-Charakter kontrolliert, sind es statt dessen 2 Gold.)",
+        "traits": "Titel."
+    },
+    {
+        "code": "04035",
+        "flavor": "",
+        "name": "Kavallerie von Sternfall",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Reaktion:</b> Nachdem Kavallerie von Sternfall ins Spiel gekommen ist, ziehe 1 Karte. (Falls 3 oder mehr Strategiekarten in deinem Archiv liegen, ziehe stattdessen 3 Karten.)",
+        "traits": "Armee. Haus Dayn."
+    },
+    {
+        "code": "04036",
+        "flavor": "",
+        "name": "Vergiftete Speerspitze",
+        "text": "Nur [martell]-Charaktere, die du kontrollierst. Hinterhalt (3).\nDer verstärkte Charakter bekommt +1 Stärke.\n<b>Reaktion:</b> Nachdem Vergiftete Speerspitze ins Spiel gekommen ist, lege einen Giftmarker auf einen Charak ter mit aufgedruckter Stärke von 2 oder weniger. Falls der Charakter den Giftmarker am Ende der Phase immer noch hat, entferne ihn und töte den Charakter.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "04037",
+        "flavor": "",
+        "name": "Könige des Sommers",
+        "text": "Du kannst keine <i>Winter</i>-Strategiekarten in deinen Strategiestapel aufnehmen.\nErhöhe den Reservewert der aufgedeckten Strategiekarten jedes Spielers um 1. Solange es keine aufgedeckte <i>Winter</i>-Strategiekarte gibt, erhöhe den Goldwert deiner aufgedeckten <i>Sommer</i>-Strategiekarte um 1.",
+        "traits": "Sommer."
+    },
+    {
+        "code": "04038",
+        "flavor": "",
+        "name": "Könige des Winters",
+        "text": "Du kannst keine <i>Sommer</i>-Strategiekarten in deinen Strategiestapel aufnehmen.Reduziere den Reservewert der aufgedeckten Strategiekarten jedes Spielers um 1. Solange du eine <i>Winter</i>-Strategiekarte aufgedeckt hast, reduziere die Goldwerte der aufgedeckten Nicht-<i>Sommer</i>-Strategiekarten jedes Gegners um 1.",
+        "traits": "Winter."
+    },
+    {
+        "code": "04039",
+        "flavor": "",
+        "name": "Sommerernte",
+        "text": "<b>Sobald aufgedeckt:</b> Wähle einen Gegner. X ist um 2 höher als der aufgedruckte Goldwert der aufgedeckten Strategiekarte des gewählten Spielers.",
+        "traits": "Sommer."
+    },
+    {
+        "code": "04040",
+        "flavor": "",
+        "name": "Winterfeier",
+        "text": "<b>Unterbrechung:</b> Sobald die Herausforderungsphase endet, erhältst du 2 Macht für deine Fraktion, falls es keine aufgedeckte <i>Sommer</i>-Strategiekarte gibt.",
+        "traits": "Winter."
+    }
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "code": "04101",
+        "flavor": "Vorreiter hatten die Banner der Manderlys erspäht - den weißen Wassergeist mit einem Dreizack in der Hand, der aus blaugrüner See auftauchte - und grüßten sie herzlich.",
+        "name": "Ritter von Haus Manderly",
+        "text": "Solange es eine aufgedeckte <i>Winter</i>-Strategiekarte gibt, bekommt Ritter von Haus Manderly +2 Stärke.",
+        "traits": "Haus Manderly. Ritter."
+    },
+    {
+        "code": "04102",
+        "flavor": "Und die Sterne in der Nacht waren die Augen seiner Wölfe, und der Wind selbst war ihr Lied.",
+        "name": "\"Wolf in der Nacht\"",
+        "text": "<b>Aktion:</b> Wähle einen [stark]-Charakter, der alleine angreift. Bis zum Ende der Heraus forderung bekommt der gewählte Cha rakter +3 Stärke und erhält Ruhmreich.",
+        "traits": "Lied."
+    },
+    {
+        "code": "04103",
+        "flavor": "",
+        "name": "Ser Robar Rois",
+        "text": "<b>Reaktion:</b> Nachdem eine <i>Sommer</i>-Strategiekarte aufgedeckt worden ist, erhält Ser Robar Rois 1 Macht. (Nur ein Mal pro Phase.)\n<b>Erzwungene Reaktion:</b> Nachdem eine <i>Winter</i>-Strategiekarte aufgedeckt worden ist, beuge Ser Robar Rois.",
+        "traits": "Ritter."
+    },
+    {
+        "code": "04104",
+        "flavor": "Die Kerzen in Renlys Pavillion ließen die schimmernden Seidenwände glühen und verwandelten das große Zelt in eine magische Burg aus smaragdgrünem Licht.",
+        "name": "Renlys Pavillon",
+        "text": "<b>Aktion:</b> Beuge Renlys Pavillon, um 2 Charaktere zu wählen. Bis zum Ende der Phase bekommt einer dieser Charaktere -1 Stärke und der andere +1 Stärke.",
+        "traits": "Westeros."
+    },
+    {
+        "code": "04105",
+        "designer": "Kartenentwurf von Jonathan Benton, Weltmeister im Buhurt 2009.",
+        "flavor": "",
+        "name": "Qhorin Halbhand",
+        "text": "Ruhmreich. Keine Verstärkungen außer <i>Waffe</i>.\n<b>Reaktion:</b> Nachdem du eine [military]-Herausforderung gewonnen hast, an der Qhorin Halbhand teilnimmt, wähle einen nicht-einzigartigen Charakter, den der verlierende Gegner kontrolliert, dessen Stärke niedriger ist als die von Qhorin Halbhand, und töte ihn.",
+        "traits": "Grenzer."
+    },
+    {
+        "code": "04106",
+        "flavor": "",
+        "name": "Faust der Ersten Menschen",
+        "text": "Solange dein Reservewert höher ist als der eines Gegners, bekommt jeder <i>Grenzer</i>-Charakter, den du kontrollierst, +1 Stärke und kann nicht mit Heimlich umgangen werden.",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "04107",
+        "flavor": "",
+        "name": "Salladhor Saan",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Salladhor Saan teilnimmt, bringe einen <i>Kriegsschiff</i>-Ort oder eine <i>Waffe</i>-Verstärkung von deiner Hand ins Spiel.",
+        "traits": "Söldner. Plünderer. Schmuggler."
+    },
+    {
+        "code": "04108",
+        "flavor": "",
+        "name": "Die Valyria",
+        "text": "Hinterhalt (2).\n<b>Aktion:</b> Beuge Die Valyria, um einem angreifenden Charakter bis zum Ende der Herausforderung +X Stärke zu geben.\nX ist die Anzahl der Goldmarker in der Goldreserve des verteidigenden Spielers.",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "04109",
+        "flavor": "Tyrion wurde den Verdacht nicht los, sein Vater habe ihm den Knaben anvertraut, um sich über ihn lustig zu machen.",
+        "name": "Podrick Payn",
+        "text": "<b>Unterbrechung:</b> Sobald ein Charakter aufgrund von [military]-Schaden getötet werden würde, bezahle 2 Gold und bringe Podrick Payn von deiner Hand ins Spiel, um jenen Charakter zu retten. Dann darfst du, falls der gerettete Charakter Tyrion Lennister war, 2 Gold bezahlen, um einen angreifenden Charakter zu wählen und zu töten.",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "04110",
+        "flavor": "Die Götter mögen uns retten. Sie haben die Kette hochgezogen.",
+        "name": "Tyrions Kette",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der du einen teilnehmenden, einzigartigen [lannister]-Charakter kontrollierst, wähle eine aufgedeckte <i>Krieg</i>-Strategiekarte. Initiiere die \"Sobald aufgedeckt\"-Fähigkeit der gewählten Strategiekarte, als ob du sie gerade aufgedeckt hättest. (Maximal 1 pro Phase.)",
+        "traits": ""
+    },
+    {
+        "code": "04111",
+        "flavor": "",
+        "name": "Esgred",
+        "text": "Heimlich.\nFalls du Asha Graufreud kontrollierst, opfere Esgred und lasse deine Asha Graufreud 1 Macht erhalten.\nEsgred darf einen zusätzlichen Charakter mit Heimlich umgehen.",
+        "traits": "Eisenmann."
+    },
+    {
+        "code": "04112",
+        "flavor": "\"Und Ihr wolltet sie nach mir benennen.\" <cite>Asha Graufreud</cite>",
+        "name": "Seehure",
+        "text": "<b>Aktion:</b> Opfere Seehure, um einen nichtlimitierten Ort zu wählen. Übernimm bis zum Ende der Phase die Kontrolle über den gewählten Ort.",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "04113",
+        "flavor": "\"Um nach Norden zu gelangen, müsst Ihr nach Süden ziehen. Um nach Westen zu kommen, geht nach Osten. Um vorwärts zu gelangen, geht rückwärts, und um das Licht zu berühren, müsste Ihr unter dem Schatten hindurchziehen.\"",
+        "name": "Quaithe vom Schatten",
+        "text": "Hinterhalt (3).\n<b>Reaktion:</b> Nachdem Quaithe vom Schatten während einer Herausforderung ins Spiel gekommen ist, entferne jeden Charakter mit Stärke 2 oder weniger aus der Herausforderung.",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "04114",
+        "flavor": "",
+        "name": "Haus der Unsterblichen",
+        "text": "<b>Herausforderungsaktion:</b> Entferne Haus der Unsterblichen aus dem Spiel, um einen Gegner zu wählen. Bringe jeden Charakter im Totenstapel des gewählten Spielers unter deiner Kontrolle ins Spiel. Schicke jede dieser Karten am Ende der Phase in den Totenstapel ihres Besitzers zurück (können nicht gerettet werden).",
+        "traits": "Qarth."
+    },
+    {
+        "code": "04115",
+        "flavor": "\"Es gab stets Männer, denen es leichter gefallen ist, ein Gelübde abzulegen, als es einzuhalten.\"",
+        "name": "Ser Arys Eichenherz",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Reaktion:</b> Nachdem Ser Arys Eichenherz ins Spiel gekommen ist, bezahle 2 Gold, um einen <i>Verbündeter</i>-Charakter zu wählen und aus dem Spiel abzulegen.",
+        "traits": "Königsgarde. Ritter."
+    },
+    {
+        "code": "04116",
+        "flavor": "Den Namen bezog er vom dunklen Grün des träge fließenden Wassers; aber als sie jetzt näher kamen, schien das Sonnenlicht die Oberfläche in glänzendes Gold zu verwandeln.",
+        "name": "Der Grünblut",
+        "text": "Jeder [martell]-Charakter, den du kontrollierst, bekommt +1 Stärke für jede aufgedeckte <i>Sommer</i>-Strategiekarte.",
+        "traits": "Dorne."
+    },
+    {
+        "code": "04117",
+        "flavor": "",
+        "name": "Flüchtling aus dem Norden",
+        "text": "Solange es eine aufgedeckte <i>Winter</i>-Strategiekarte gibt, reduziere die Kosten für das Aufmarschieren von Flüchtling aus dem Norden um 1.",
+        "traits": "Verbündeter. Wildling."
+    },
+    {
+        "code": "04118",
+        "flavor": "",
+        "name": "Unerbittlicher Angriff",
+        "text": "<b>Reaktion:</b> Nachdem du als angreifender Spieler eine Herausforderung um 5 oder mehr Stärke gewonnen hast, beuge deine Fraktionskarte. Dann darfst du in dieser Phase eine zusätzliche Herausforderung derselben Art initiieren.",
+        "traits": ""
+    },
+    {
+        "code": "04119",
+        "flavor": "",
+        "name": "Geteerte Köpfe",
+        "text": "<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung gewonnen hast, lege 1 zufällige Karte von der Hand des verlierenden Gegners ab. Falls die Karte ein Charakter ist, lege sie auf den Totenstapel ihres Besitzers.",
+        "traits": ""
+    },
+    {
+        "code": "04120",
+        "flavor": "",
+        "name": "Die Schlacht am Schwarzwasser",
+        "text": "<b>Sobald aufgedeckt:</b> Wähle einen Gegner. Lege jedes Duplikat, das du kontrollierst, und jedes vom gewählten Gegner kontrollierte Duplikat aus dem Spiel ab.",
+        "traits": "Belagerung. Krieg."
+    }
+]

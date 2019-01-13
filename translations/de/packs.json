@@ -1,0 +1,162 @@
+[
+    {
+        "code": "AMAF",
+        "name": "Alle Männer sind Narren"
+    },
+    {
+        "code": "AtG",
+        "name": "Vor den Toren"
+    },
+    {
+        "code": "AtSK",
+        "name": "Die Sieben Königslande"
+    },
+    {
+        "code": "CoS",
+        "name": "City of Secrets"
+    },
+    {
+        "code": "CoW",
+        "name": "Ruhe über Westeros"
+    },
+    {
+        "code": "Core",
+        "name": "Grundspiel"
+    },
+    {
+        "code": "CtA",
+        "name": "Zu den Waffen!"
+    },
+    {
+        "code": "DitD",
+        "name": "Dolche im Dunkeln"
+    },
+    {
+        "code": "FFH",
+        "name": "Familienehre"
+    },
+    {
+        "code": "FotOG",
+        "name": "Die Gunst der Alten Götter"
+    },
+    {
+        "code": "GoH",
+        "name": "Die Geister von Harrenhal"
+    },
+    {
+        "code": "GtR",
+        "name": "Das Reich bewachen"
+    },
+    {
+        "code": "HoT",
+        "name": "Haus der Dornen"
+    },
+    {
+        "code": "IDP",
+        "name": "In Daznaks Arena"
+    },
+    {
+        "code": "JtO",
+        "name": "Reise nach Altsass"
+    },
+    {
+        "code": "Km",
+        "name": "Königsthing"
+    },
+    {
+        "code": "KotI",
+        "name": "Könige der Inseln"
+    },
+    {
+        "code": "LoCR",
+        "name": "Löwen von Casterlystein"
+    },
+    {
+        "code": "MoD",
+        "name": "Musik der Drachen"
+    },
+    {
+        "code": "NMG",
+        "name": "Dazwischen gibt es Nichts"
+    },
+    {
+        "code": "OR",
+        "name": "Oberyns Rache"
+    },
+    {
+        "code": "SAT",
+        "name": "Irgendwer redet immer"
+    },
+    {
+        "code": "SoD",
+        "name": "Dornischer Sand"
+    },
+    {
+        "code": "SoKL",
+        "name": "In den Straßen von Königsmund"
+    },
+    {
+        "code": "TAK",
+        "name": "Der Schlüssel des Erzmaesters"
+    },
+    {
+        "code": "TBWB",
+        "name": "Die Bruderschaft ohne Banner"
+    },
+    {
+        "code": "TC",
+        "name": "Tyrions Kette"
+    },
+    {
+        "code": "TFM",
+        "name": "Glaubenskrieger"
+    },
+    {
+        "code": "TFoA",
+        "name": "Der Fall von Astapor"
+    },
+    {
+        "code": "TIMC",
+        "name": "Thronanspruch"
+    },
+    {
+        "code": "TKP",
+        "name": "Der Frieden des Königs"
+    },
+    {
+        "code": "TMoW",
+        "name": "Der Marsch auf Winterfell"
+    },
+    {
+        "code": "TRW",
+        "name": "Die Rote Hochzeit"
+    },
+    {
+        "code": "TRtW",
+        "name": "Der Weg nach Winterfell"
+    },
+    {
+        "code": "TS",
+        "name": "Echter Stahl"
+    },
+    {
+        "code": "TSC",
+        "name": "Die Schattenstadt"
+    },
+    {
+        "code": "TtB",
+        "name": "Das Schwarz anlegen"
+    },
+    {
+        "code": "VDS",
+        "name": "Valyrischer Stahl"
+    },
+    {
+        "code": "WotN",
+        "name": "Wölfe des Nordens"
+    },
+    {
+        "code": "WotW",
+        "name": "Wächter auf der Mauer"
+    }
+]

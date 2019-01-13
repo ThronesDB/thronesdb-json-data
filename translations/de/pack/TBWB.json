@@ -1,0 +1,143 @@
+[
+    {
+        "code": "06101",
+        "flavor": "",
+        "name": "Sansas Magd",
+        "text": "Investition (3). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 3 Gold aus deiner Goldreserve auf diese Karte.)</i>\nJeder <i>Lady</i>-Charakter, den du kontrollierst, bekommt +1 Stärke für jedes Gold, das Sansas Magd hat.",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "06102",
+        "flavor": "",
+        "name": "Burg im Norden",
+        "text": "Limitiert.\n<b>Aufmarschaktion:</b> Beuge Burg im Norden, um 1 Gold zu erhalten. (Falls es mehr aufgedeckte <i>Winter</i>-Strategiekarten als aufgedeckte <i>Sommer</i>-Strategiekarten gibt, erhältst du stattdessen 2 Gold.)",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "06103",
+        "flavor": "\"Mein Hoher Vater hält sich stets Sänger am Hofe, die süßer singen als Butterstampfer, dazu Flöten-, Geigen- und Harfenspieler.\" <cite>Margaery Tyrell</cite>",
+        "name": "Minnesängerin aus Rosengarten",
+        "text": "<b>Reaktion:</b> Nachdem du ein <i>Lied</i>-Ereignis gespielt hast, erhalte 1 Gold. (Nur drei Mal pro Runde.)",
+        "traits": "Minnesänger."
+    },
+    {
+        "code": "06104",
+        "flavor": "",
+        "name": "Hornberg",
+        "text": "Investition (3). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 3 Gold aus deiner Goldreserve auf diese Karte.)</i>\n<b>Herausforderungsaktion:</b> Beuge Hornberg, um jedem teilnehmenden [tyrell]-Charakter, den du kontrollierst, bis zum Ende der Herausforderung +X Stärke zu geben. X ist die Anzahl des Goldes, das Hornberg hat.",
+        "traits": "Die Weite."
+    },
+    {
+        "code": "06105",
+        "flavor": "\"Die Wache ist nicht mehr das, was sie einmal war. Zu wenige ehrliche Männer, um die Schurken unter Kontrolle zu halten.\"",
+        "name": "Donal Noye",
+        "text": "Investition (3). Keine Verstärkungen außer <i>Waffe</i>.\n<b>Aktion:</b> Lege 1 Gold von Donal Noye ab, um eine <i>Waffe</i>-Verstärkung von deiner Hand ins Spiel zu bringen.",
+        "traits": "Kämmerer."
+    },
+    {
+        "code": "06106",
+        "flavor": "",
+        "name": "Grenzerbogen",
+        "text": "Nur [thenightswatch]-Charaktere.\nDer verstärkte Charakter bekommt +1 Stärke.\n<b>Herausforderungsaktion:</b> Beuge Grenzer bogen, um einen verteidigenden [thenightswatch]-Charakter zu wählen. Bis zum Ende der Herausforderung bekommt der gewählte Charakter +2 Stärke.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "06107",
+        "flavor": "\"Unter dem Meer frisst der Fisch uns. Ich weiß es, ich weiß es, oh, oh, oh.\"",
+        "name": "Flickenfratz",
+        "text": "Solange ein anderer <i>Narr</i>-Charakter ein Schlüsselwort hat, erhält Flickenfratz dasselbe Schlüsselwort.\nSolange ein anderer <i>Narr</i>-Charakter ein Herausforderungssymbol hat, erhält Flickenfratz dasselbe Herausforderungssymbol.",
+        "traits": "Narr."
+    },
+    {
+        "code": "06108",
+        "flavor": "",
+        "name": "Königliches Blut",
+        "text": "Nur <i>Bastard</i>- oder <i>König</i>-Charaktere, die du kontrollierst. Investition (3). \n<b>Strategieaktion:</b> Beuge den verstärkten Charakter und opfere Königliches Blut, um X Macht von jeder gegnerischen Fraktionskarte abzulegen. X ist die Anzahl des Goldes, das Königliches Blut hat.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "06109",
+        "flavor": "",
+        "name": "Genna Frey",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Genna Frey angreift, und falls es die dritte Herausforderung war, die du in dieser Phase initiiert hast, legt der verlierende Gegner 1 zufällige Karte von seiner Hand ab. (Falls du einen anderen angreifenden <i>Haus Frey</i>-Charakter kontrollierst, legt er stattdessen 2 Karten ab.)",
+        "traits": "Haus Frey. Lady."
+    },
+    {
+        "code": "06110",
+        "flavor": "",
+        "name": "Der Goldweg",
+        "text": "Limitiert.\n<b>Herausforderungsaktion:</b> Beuge Der Goldweg, um 1 Gold zu erhalten.\nGoldwert +1",
+        "traits": "Westeros."
+    },
+    {
+        "code": "06111",
+        "flavor": "",
+        "name": "Seeräuberin der Steinigen Küste",
+        "text": "Investition (3). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 3 Gold aus deiner Goldreserve auf diese Karte.)</i>\n<b>Aktion:</b> Lege 1 Gold von Seeräuberin der Steinigen Küste ab, um einen Ort mit aufgedruckten Kosten von 3 oder weniger zu wählen und zu beugen. (Nur ein Mal pro Runde.)",
+        "traits": "Eisenmann. Plünderer."
+    },
+    {
+        "code": "06112",
+        "flavor": "",
+        "name": "Den Eisernen Preis bezahlen",
+        "text": "<b>Herausforderungsaktion:</b> Wähle eine Verstärkung im Ablagestapel eines Gegners und bringe sie unter deiner Kontrolle ins Spiel.\n<b>Reaktion:</b> Nachdem du eine unverteidigte Herausforderung gewonnen hast, bezahle 1 Gold, um Den Eisernen Preis bezahlen aus deinem Ablagestapel auf deine Hand zurückzuschicken.",
+        "traits": ""
+    },
+    {
+        "code": "06113",
+        "flavor": "",
+        "name": "Die Befreiten",
+        "text": "<b>Reaktion:</b> Nachdem du als angreifender Spieler eine Herausforderung um 5 oder mehr Stärke gewonnen hast, bringe Die Befreiten aus deinem Ablagestapel ins Spiel.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "06114",
+        "flavor": "",
+        "name": "Kriegerzopf",
+        "text": "Nur [targaryen]-Charaktere.\nDer verstärkte Charakter erhält Ruhmreich und bekommt +1 Stärke für jeden Glöckchenmarker auf Kriegerzopf.\n<b>Reaktion:</b> Nachdem du eine [military]-Herausforderung gewonnen hast, in welcher der verstärkte Charakter angreift, lege einen Glöckchenmarker auf Kriegerzopf.",
+        "traits": "Gegenstand."
+    },
+    {
+        "code": "06115",
+        "flavor": "",
+        "name": "Dornische Spionin",
+        "text": "Hinterhalt (4).\n<b>Reaktion:</b> Nachdem Dornische Spionin ins Spiel gekommen ist, wähle einen Charakter. Bis zum Ende der Phase verliert der gewählte Charakter ein Herausforderungssymbol deiner Wahl.",
+        "traits": "Spion."
+    },
+    {
+        "code": "06116",
+        "flavor": "Ihr Gefängnis war ein angenehmes.",
+        "name": "Weggesperrt",
+        "text": "Vergänglich.\n<b>Reaktion:</b> Nachdem die Aufmarschphase begonnen hat, schicke den verstärkten Charakter auf die Hand seines Besitzers zurück (kann nicht gerettet werden).",
+        "traits": "Zustand."
+    },
+    {
+        "code": "06117",
+        "designer": "Kartenentwurf von Jakob Hultman, Europameister im Buhurt 2014.",
+        "flavor": "",
+        "name": "Beric Dondarrion",
+        "text": "Ruhmreich.\nX ist die Anzahl der Kussmarker, die Beric Dondarrion hat.\n<b>Erzwungene Reaktion:</b> Nachdem du Beric Dondarrion aufmarschieren lassen hast, lege 6 Kussmarker auf ihn. (Kann nicht aufgehoben werden.)\n<b>Unterbrechung:</b> Sobald Beric Dondarrion getötet werden würde, lege einen Kussmarker von ihm ab, um ihn zu retten.",
+        "traits": "Ritter. Lord. R'hllor."
+    },
+    {
+        "code": "06118",
+        "flavor": "Wohin auch immer sie ging, scharwenzelte das gemeine Volk um sie herum, und Lady Margaery tat alles, um die Glut ihrer Begeisterung immer wieder anzufachen.",
+        "name": "Grenzenlose Freigiebigkeit",
+        "text": "<b>Aktion:</b> Wähle bis zu 3 Karten. Verschiebe je 1 Gold aus der Schatzkammer auf jede gewählte Karte.",
+        "traits": ""
+    },
+    {
+        "code": "06119",
+        "flavor": "",
+        "name": "Die Bruderschaft ohne Banner",
+        "text": "Dein Deck darf keine loyalen Charaktere enthalten.\n<b>Reaktion:</b> Nachdem die Herausforderungsphase begonnen hat, beuge deine Fraktionskarte, um einen neutralen Charakter, den du kontrollierst, zu wählen. Bis zum Ende der Phase erhält der gewählte Charakter Einblick, Einschüchternd, Ruhmreich oder Heimlich (wähle 1).",
+        "traits": ""
+    },
+    {
+        "code": "06120",
+        "flavor": "",
+        "name": "Die Gunst der Krone",
+        "text": "<b>Reaktion:</b> Nachdem eine Karte mit Investition ins Spiel gekommen ist, lege 1 Gold aus der Schatzkammer darauf. (Falls auf der Karte bereits 3 oder mehr Gold liegen, legst du stattdessen 2 Gold darauf.)",
+        "traits": "Königreich."
+    }
+]

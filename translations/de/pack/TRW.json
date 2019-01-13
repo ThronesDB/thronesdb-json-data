@@ -1,0 +1,143 @@
+[
+    {
+        "code": "06061",
+        "flavor": "\"Ich habe in jeder Schlacht an der Seite des Jungen Wolfs gekämpft ... Bisher hat er nie verloren.\"",
+        "name": "Derya Mormont",
+        "text": "Ruhmreich.\nX ist die Anzahl der [stark]-Charaktere, die du kontrollierst.",
+        "traits": "Haus Mormont. Lady."
+    },
+    {
+        "code": "06062",
+        "designer": "Kartenentwurf von Brian Aurelio, Nordamerikameister im Buhurt 2015.",
+        "flavor": "",
+        "name": "Schießstand von Winterfell",
+        "text": "<b>Aktion:</b> Beuge während einer [military]-Herausforderung Schießstand von Winterfell, um einen teilnehmenden Charakter mit Stärke 3 oder weniger zu wählen und aus der Herausforderung zu entfernen.",
+        "traits": "Winterfell."
+    },
+    {
+        "code": "06063",
+        "flavor": "",
+        "name": "Informantin aus Altsass",
+        "text": "Hinterhalt (2). Investition (3). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 3 Gold aus deiner Goldreserve auf diese Karte.)</i>\n<b>Reaktion:</b> Nachdem eine Karte während der Herausforderungsphase ins Spiel gekommen ist, ziehe X Karten. Dann lege X Karten ab. X ist die Anzahl des Goldes, das Informantin aus Altsass hat.",
+        "traits": "Verbündeter. Spion."
+    },
+    {
+        "code": "06064",
+        "flavor": "",
+        "name": "Weinberg vom Arbor",
+        "text": "Limitiert.\n<b>Aufmarschaktion:</b> Beuge Weinberg vom Arbor, um 1 Gold zu erhalten. (Falls es mehr aufgedeckte <i>Sommer</i>-Strategiekarten als aufgedeckte <i>Winter</i>-Strategiekarten gibt, erhältst du stattdessen 2 Gold.)",
+        "traits": "Haus Rothweyn."
+    },
+    {
+        "code": "06065",
+        "flavor": "\"Wählt, wen ihr wollt, jedenfalls nicht mich.\"",
+        "name": "Othell Yarwyck",
+        "text": "<b>Aktion:</b> Beuge einen [thenightswatch]-Ort, um einen [thenightswatch]-Charakter zu wählen. Bis zum Ende der Phase erhält der gewählte Charakter ein Herausforderungssymbol deiner Wahl.",
+        "traits": "Baumeister."
+    },
+    {
+        "code": "06066",
+        "flavor": "Und so hatte die Schwarze Festung am Ende doch eine Art Mauer ...",
+        "name": "Verstärkte Mauern",
+        "text": "Nur Orte.\n<b>Unterbrechung:</b> Sobald der verstärkte Ort das Spiel verlassen würde, opfere Verstärkte Mauern, um ihn zu retten.",
+        "traits": "Befestigung."
+    },
+    {
+        "code": "06067",
+        "flavor": "",
+        "name": "Ser Axell Florent",
+        "text": "Investition (3). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 3 Gold aus deiner Goldreserve auf diese Karte.)</i>\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Ser Axell Florent teilnimmt, lege 1 Gold von dieser Karte ab, um einen Charakter ohne Verstärkungen zu wählen und zu beugen.",
+        "traits": "Haus Florent. Ritter."
+    },
+    {
+        "code": "06068",
+        "flavor": "",
+        "name": "Das Königreich retten",
+        "text": "<b>Herausforderungsaktion:</b> Wähle und beuge einen Charakter mit Stärke 3 oder weniger. Der gewählte Charakter kann während der Aufrichtphase in dieser Runde nicht aufgerichtet werden.\n<b>Reaktion:</b> Nachdem du die Herrschaft gewonnen hast, bezahle 1 Gold, um Das Königreich retten aus deinem Ablagestapel auf deine Hand zurückzuschicken.",
+        "traits": ""
+    },
+    {
+        "code": "06069",
+        "flavor": "",
+        "name": "Ser Osmund Schwarzkessel",
+        "text": "Investition (3).\n<b>Herausforderungsaktion:</b> Lege 1 Gold von Ser Osmund Schwarzkessel ab, um einen <i>Ritter</i>-Charakter von deiner Hand ins Spiel zu bringen. Falls der Charakter am Ende der Phase immer noch im Spiel ist, lege ihn aus dem Spiel ab (kann nicht gerettet werden). (Nur ein Mal pro Phase.)",
+        "traits": "Königsgarde. Ritter."
+    },
+    {
+        "code": "06070",
+        "flavor": "",
+        "name": "Tywins Ränkespiel",
+        "text": "<b>Herausforderungsaktion:</b> Wähle von jedem Spieler einen Charakter mit aufgedruckten Kosten von 2 oder weniger, den der jeweilige Spieler kontrolliert. Schicke jeden gewählten Charakter auf die Hand seines Besitzers zurück.\n<b>Reaktion:</b> Nachdem ein Charakter von der Hand oder dem Deck eines Gegners abgelegt worden ist, bezahle 1 Gold, um Tywins Ränkespiel aus deinem Ablagestapel auf deine Hand zurückzuschicken.",
+        "traits": ""
+    },
+    {
+        "code": "06071",
+        "flavor": "",
+        "name": "Besatzung der Stille",
+        "text": "Investition (3). Keine Verstärkungen. Brandschatzen.\nBesatzung der Stille bekommt +2 Stärke für jedes Gold, das sie hat.\n<b>Reaktion:</b> Nachdem Besatzung der Stille durch Brandschatzen einen Ort oder eine Verstärkung abgelegt hat, lege 1 Gold aus der Schatzkammer auf Besatzung der Stille.",
+        "traits": "Plünderer."
+    },
+    {
+        "code": "06072",
+        "flavor": "Des Eisenmanns Handwerk war der Krieg.",
+        "name": "Plünderung",
+        "text": "<b>Aktion:</b> Beuge deine Fraktionskarte, um einen Gegner zu wählen. Erhalte 1 Gold für jeden Ort und jede Verstärkung im Ablagestapel des gewählten Spielers.",
+        "traits": ""
+    },
+    {
+        "code": "06073",
+        "flavor": "\"Töten macht den Starken Belwas hungrig.\"",
+        "name": "Der Starke Belwas",
+        "text": "Investition (2). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 2 Gold aus deiner Goldreserve auf diese Karte.)</i>\n<b>Unterbrechung:</b> Sobald ein anderer einzigartiger [targaryen]-Charakter getötet werden würde, lege 1 Gold von Der Starke Belwas ab, um ihn zu retten. (Nur ein Mal pro Phase.)",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "06074",
+        "flavor": "",
+        "name": "Sprengerin der Ketten",
+        "text": "Nur einzigartige [targaryen]-Charaktere.\nDer verstärkte Charakter bekommt +1 Stärke für jeden Charakter mit aufgedruckten Kosten von 2 oder weniger, den du kontrollierst.\n<b>Reaktion:</b> Nachdem der verstärkte Charakter zum Angreifer deklariert worden ist, bringe einen Charakter mit aufgedruckten Kosten von 2 oder weniger von deiner Hand ins Spiel.",
+        "traits": "Titel."
+    },
+    {
+        "code": "06075",
+        "flavor": "",
+        "name": "Ellaria Sand",
+        "text": "Investition (3). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 3 Gold aus deiner Goldreserve auf diese Karte.)</i>\n<b>Reaktion:</b> Nachdem du eine Herausforderung verloren hast, an der Ellaria Sand teilnimmt, lege 1 Gold von dieser Karte ab, um jeden <i>Bastard</i>-Charakter, den du kontrollierst, aufzurichten.",
+        "traits": "Bastard. Gefährte."
+    },
+    {
+        "code": "06076",
+        "flavor": "",
+        "name": "Heimliche Komplotte",
+        "text": "<b>Aktion:</b> Beuge deine Fraktionskarte, um X Karten zu ziehen. X ist die Anzahl der Strategiekarten in deinem Archiv.",
+        "traits": ""
+    },
+    {
+        "code": "06077",
+        "flavor": "\"Meine geehrten Gäste. Seid willkommen unter meinem Dach und an meinem Tisch.\"",
+        "name": "Walder Frey",
+        "text": "Ruhmreich.\nSolange Walder Frey angreift, gilt jeder andere <i>Haus Frey</i>-Charakter, den du kontrollierst, ebenfalls als angreifend.",
+        "traits": "Haus Frey. Lord."
+    },
+    {
+        "code": "06078",
+        "flavor": "",
+        "name": "Bastardtochter der Freys",
+        "text": "Investition (2). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 2 Gold aus deiner Goldreserve auf diese Karte.)</i>\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der du 2 oder mehr angreifende <i>Haus Frey</i>-Charaktere kontrollierst, lege 1 Gold von Bastardtochter der Freys ab, um 1 Macht für deine Fraktion zu erhalten.",
+        "traits": "Bastard. Haus Frey."
+    },
+    {
+        "code": "06079",
+        "flavor": "",
+        "name": "Die Gastfreundschaft der Freys",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der du einen angreifenden <i>Haus Frey</i>-Charakter kontrollierst, und falls es die dritte Herausforderung war, die du in dieser Phase initiiert hast, wähle einen Charakter, der vom verlierenden Gegner kontrolliert wird, und töte ihn. (Falls du um 20 oder mehr Stärke ge wonnen hast, wählst du stattdessen 3 Charaktere und tötest sie.)",
+        "traits": "Haus Frey."
+    },
+    {
+        "code": "06080",
+        "flavor": "",
+        "name": "Die Rote Hochzeit",
+        "text": "<b>Unterbrechung:</b> Sobald du als angreifender Spieler eine Herausforderung gewinnst, wähle einen <i>Lord</i>- oder <i>Lady</i>-Charakter, der vom verlierenden Gegner kontrolliert wird, und töte ihn. (Jeder Spieler darf diese Fähigkeit initiieren.)",
+        "traits": "Haus Frey. Komplott."
+    }
+]

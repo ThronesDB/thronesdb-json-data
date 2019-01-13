@@ -1,0 +1,143 @@
+[
+    {
+        "code": "02041",
+        "flavor": "",
+        "name": "Ser Rodrik Cassel",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nSolange Ser Rodrik Cassel in einer [military]-Herausforderung angreift, erhält jeder einzigartige [stark]-Charakter, den du kontrollierst, Einblick.",
+        "traits": "Ritter."
+    },
+    {
+        "code": "02042",
+        "flavor": "In seinen Wolfsträumen rannte er über Berghänge und zerklüftete, schneebedeckte Gebirge, die höher, viel höher waren als jeder Turm, und stand am Ende auf dem Gipfel, so wie früher, während die Welt im Licht des Vollmonds unter ihm lag.",
+        "name": "Wolfsträume",
+        "text": "<b>Aktion:</b> Beuge deine Fraktionskarte, um in deinem Deck nach einer <i>Schattenwolf</i>-Karte zu suchen, sie aufzudecken und auf deine Hand zu nehmen. Mische dein Deck.",
+        "traits": "Traum."
+    },
+    {
+        "code": "02043",
+        "flavor": "Sansa und Jeyne Pool hatten sie stets Ser Horror und Ser Schlabber genannt und jedes Mal gekichert, wenn sie ihnen begegneten. Jetzt sahen sie keineswegs komisch aus.",
+        "name": "Ser Hobber Rothweyn",
+        "text": "<b>Reaktion:</b> Nachdem du Ser Hobber Rothweyn aufmarschieren lassen hast, suche in deinem Deck nach einem <i>Lady</i>-Charakter, decke ihn auf und nimm ihn auf deine Hand. Mische dein Deck.",
+        "traits": "Haus Rothweyn.Ritter."
+    },
+    {
+        "code": "02044",
+        "flavor": "",
+        "name": "Rossige Stute",
+        "text": "Nur <i>Ritter</i>-Charaktere.\nSolange der verstärkte Charakter allein angreift oder verteidigt, erhält Rossige Stute: \"<b>Aktion:</b> Beuge Rossige Stute, um einen teilnehmenden Charakter zu wählen, dessen Stärke höher ist als die des verstärkten Charakters, und entferne den gewählten Charakter aus der Herausforderung.\"",
+        "traits": "Streitross."
+    },
+    {
+        "code": "02045",
+        "flavor": "",
+        "name": "Ser Allisar Thorn",
+        "text": "Solange du der verteidigende Spieler bist, erhält jeder [thenightswatch]-Charakter, den du kontrollierst ein [military]-Symbol.\n<b>Reaktion:</b> Nachdem eine [military]-Herausforderung gegen dich initiiert worden ist, beuge deine Fraktionskarte und bezahle 4 Gold, um Ser Allisar  Thorn von deiner Hand ins Spiel zu bringen.",
+        "traits": "Ritter. Grenzer."
+    },
+    {
+        "code": "02046",
+        "flavor": "\"Das ist ein Langschwert, kein Stock für einen alten Mann.\" <cite>Ser Allisar Thorn</cite>",
+        "name": "Übungsschwert",
+        "text": "Nur [thenightswatch]-Charaktere. Hinterhalt (2).\nDer verstärkte Charakter bekommt +1 Stärke und erhält ein [military]-Symbol.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "02047",
+        "flavor": "Der Narr des Königs, ein pfannkuchengesichtiger Einfaltspinsel names Mondbub, tanzte im Narrenkleid auf Stelzen und verhöhnte jedermann mit derart gewandter Grausamkeit, dass Sansa sich schon fragte, ob er tatsächlich einfältig war.",
+        "name": "Mondbub",
+        "text": "Einblick.\n<b>Erzwungene Reaktion:</b> Nachdem du eine Herausforderung verloren hast, an der Mondbub teilnimmt, lege 1 zufällige Karte von deiner Hand ab.",
+        "traits": "Narr."
+    },
+    {
+        "code": "02048",
+        "flavor": "",
+        "name": "Der Frieden des Königs",
+        "text": "<b>Reaktion:</b> Nachdem eine [military]- oder [power]-Herausforderung gegen dich initiiert worden ist, darf der angreifende Spieler entweder seine Fraktionskarte beugen oder 1 Macht von seiner Fraktionskarte auf deine verschieben. Falls er das nicht tut, endet die Herausforderung sofort ohne Gewinner oder Verlierer.",
+        "traits": "Erlass. Komplott."
+    },
+    {
+        "code": "02049",
+        "flavor": "",
+        "name": "Ser Gregor Clegane",
+        "text": "Brandschatzen. Ruhmreich.\n<b>Reaktion:</b> Nachdem Ser Gregor Clegane einen Charakter durch Brandschatzen abgelegt hat, lege die Karte auf den Totenstapel ihres Besitzers. Dann darfst du einen Charakter wählen und töten, dessen aufgedruckte Kosten den aufgedruckten Kosten der abgelegten Karte entsprechen.",
+        "traits": "Haus Clegane. Ritter. Lord."
+    },
+    {
+        "code": "02050",
+        "flavor": "",
+        "name": "Ich wette niemals gegen meine Familie",
+        "text": "<b>Herausforderungsaktion:</b> Beuge deine Fraktionskarte, um die untersten 5 Karten deines Decks aufzudecken. Du darfst 1 einzigartigen [lannister]-Charakter, der durch diesen E ekt aufgedeckt wurde, ins Spiel bringen; die anderen Karten legst du in beliebiger Reihenfolge nach unten in dein Deck zurück. Falls die Karte am Ende der Phase immer noch im Spiel ist, lege sie aus dem Spiel ab (kann nicht gerettet werden).",
+        "traits": ""
+    },
+    {
+        "code": "02051",
+        "designer": "Kartenentwurf von Casey Galvan, Weltmeister 2003.",
+        "flavor": "",
+        "name": "Frischgebackener Lord",
+        "text": "<b>Reaktion:</b> Nachdem du Frischgebackener Lord aufmarschieren lassen hast, wähle einen nicht-limitierten Ort mit aufgedruckten Kosten von 3 oder weniger und lege ihn aus dem Spiel ab.",
+        "traits": "Lord."
+    },
+    {
+        "code": "02052",
+        "flavor": "",
+        "name": "Fischernetz",
+        "text": "Nur gegnerische Charaktere.\nDer verstärkte Charakter kann nicht zum Verteidiger deklariert werden.",
+        "traits": "Zustand. Gegenstand. Waffe."
+    },
+    {
+        "code": "02053",
+        "flavor": "Noch der mächtigste Khal verneigte sich vor der Weisheit und Autorität der Dosh Khaleen.",
+        "name": "Altes Weib aus Vaes Dothrak",
+        "text": "<b>Reaktion:</b> Nachdem ein Charakter von der Hand oder vom Deck eines Gegners abgelegt worden ist, beuge einen <i>Dothraki</i>-Charakter, um die abgelegte Karte auf den Totenstapel ihres Besitzers zu legen.",
+        "traits": "Dothraki."
+    },
+    {
+        "code": "02054",
+        "flavor": "",
+        "name": "Die Silberne",
+        "text": "Nur <i>Dothraki</i>-Charaktere oder Daenerys Targaryen.\nSolange der verstärkte Charakter an einer [power]-Herausforderung teilnimmt, erhält er Ruhmreich.\n<b>Reaktion:</b> Nachdem der verstärkte Charakter Macht durch Ruhmreich erhalten hat, opfere Die Silberne. Du darfst in dieser Phase eine zusätzliche [power]-Herausforderung initiieren.",
+        "traits": "Streitross."
+    },
+    {
+        "code": "02055",
+        "flavor": "Falls Fürst Doran sie nicht ihrer Rechte enthoben hatte, blieb sie die rechtmäßige Erbin von Sonnspeer; der Mann, der sie ehelichte, würde eines Tages an ihrer Seite Dorne regieren.",
+        "name": "Entrechtet",
+        "text": "Nur gegnerische Charaktere.\nDer verstärkte Charakter verliert ein [intrigue]-Symbol.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "02056",
+        "flavor": "",
+        "name": "Der Knochenweg",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung verloren hast, lege 1 Vergeltungsmarker auf Der Knochenweg.\n<b>Herrschaftsaktion:</b> Beuge Der Knochenweg und lege 6 Vergeltungsmarker davon ab, um 3 Macht für deine Fraktion zu erhalten.",
+        "traits": "Dorne."
+    },
+    {
+        "code": "02057",
+        "flavor": "",
+        "name": "Heckenritter",
+        "text": "Solange du einen anderen <i>Ritter</i>-Charakter kontrollierst, bekommt Heckenritter +1 Stärke und erhält ein [power]-Symbol.",
+        "traits": "Ritter."
+    },
+    {
+        "code": "02058",
+        "flavor": "\"Jeder Ritter kann einen Mann zum Ritter schlagen.\"",
+        "name": "Ritterschlag",
+        "text": "Der verstärkte Charakter bekommt +1 Stärke und erhält das Merkmal <i>Ritter</i>.",
+        "traits": "Titel."
+    },
+    {
+        "code": "02059",
+        "flavor": "",
+        "name": "Ein Turnier für den König",
+        "text": "Jeder <i>Ritter</i>-Charakter, den du kontrollierst, erhält Ruhmreich und \"immun gegen gegnerische Ereignisse\".",
+        "traits": "Sommer."
+    },
+    {
+        "code": "02060",
+        "flavor": "",
+        "name": "Lord vom Kreuzweg",
+        "text": "Während der ersten Herausforderung, die du in jeder Phase initiierst, bekommt jeder deiner teilnehmenden Charaktere -1 Stärke.\nWährend der dritten Herausforderung, die du in jeder Phase initiierst, bekommt jeder deiner teilnehmenden Charaktere +2 Stärke. Falls du diese Herausforderung gewinnst, erhältst du 1 Macht für deine Fraktion.",
+        "traits": "Haus Frey."
+    }
+]

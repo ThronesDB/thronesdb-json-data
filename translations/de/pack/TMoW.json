@@ -1,0 +1,143 @@
+[
+    {
+        "code": "11021",
+        "flavor": "\"Das ist die beste Pastete, die Ihr je gegessen habt, Mylords... Spült sie mit Arborgold hinunter und genießt jeden Bissen. Ich weiß, dass ich das tun werde.\"",
+        "name": "Wyman Manderly",
+        "text": "<b>Aktion:</b> Opfere einen Charakter.\n<b>Reaktion:</b> Nachdem 1 oder mehr Charaktere, die du kontrollierst, geopfert oder getötet worden sind, richte Wyman Manderly auf und ziehe 1 Karte. (Nur drei Mal pro Runde.)",
+        "traits": "Haus Manderly. Lord."
+    },
+    {
+        "code": "11022",
+        "flavor": "",
+        "name": "Der Ehre verpflichtet",
+        "text": "Während [military]-Herausforderungen bekommt der verstärkte Charakter +2 Stärke.\n Bei [intrigue]-Herausforderungen kann der verstärkte Charakter nicht zum Angreifer oder Verteidiger deklariert werden.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "11023",
+        "flavor": "\"In Rosengarten sitzen viele Spinnen zwischen den Blumen. Solange sie sich um ihre eigenen Belange kümmern, lassen wir sie ihre kleinen Netze spinnen, doch wenn sie uns in den Weg geraten, zertreten wir sie.\"",
+        "name": "Die Königin der Dornen",
+        "text": "Schatten (4). Heimlich.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Die Königin der Dornen teilnimmt, wähle eine Karte, die du in den Schatten kontrollierst, und bringe sie ins Spiel.",
+        "traits": "Lady."
+    },
+    {
+        "code": "11024",
+        "flavor": "",
+        "name": "Unterstadt von Altsass",
+        "text": "Schatten (2).\n<b>Reaktion:</b> Nachdem eine Karte, die du kontrollierst, aus den Schatten getreten ist, sieh dir die obersten 3 Karten deines Decks an. Nimm 1 auf deine Hand, lege 1 unter dein Deck und lege die andere oben auf dein Deck. (Nur ein Mal pro Phase.)",
+        "traits": "Altsass."
+    },
+    {
+        "code": "11025",
+        "flavor": "",
+        "name": "Listiger Kämmerer",
+        "text": "Schatten (3).\n Solange du der verteidigende Spieler bist, erhält Listiger Kämmerer ein [military]- und ein [power]-Symbol.",
+        "traits": "Kämmerer."
+    },
+    {
+        "code": "11026",
+        "flavor": "",
+        "name": "Die Mauer",
+        "text": "Jeder Charakter, den du kontrollierst, erhält die [thenightswatch]-Fraktionszugehörigkeit und verliert alle anderen Fraktionszugehörigkeiten.\n<b>Aktion:</b> Beuge Die Mauer, um einen Gegner zu wählen. Bringe einen gültigen Charakter nach Wahl des gewählten Spielers aus dessen Ablagestapel unter deiner Kontrolle ins Spiel.",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "11027",
+        "flavor": "\"Ihr dürft gern sterben, Umfried... Ich persönlich würde lieber noch bis zum nächsten Frühling leben.\"",
+        "name": "Ser Justin Massie",
+        "text": "Solange du einen <i>König</i>-Charakter kontrollierst, erhält Ser Justin Massie Ruhmreich.\n<b>Reaktion:</b> Nachdem ein [baratheon]-Charakter Macht erhalten hat, richte ihn auf. (Nur ein Mal pro Phase.)",
+        "traits": "Ritter."
+    },
+    {
+        "code": "11028",
+        "flavor": "Hinter ihnen blieb eine Spur aus zerbrochenen Karren und steifgefrorenen Leichen zurück, die vom Schneetreiben begraben wurden.",
+        "name": "Marsch auf Winterfell",
+        "text": "Kann nur während einer Herausforderung gespielt werden, die du initiiert hast.\n<b>Aktion:</b> Beende die Herausforderung ohne Gewinner oder Verlierer. Du darfst in dieser Phase eine zusätzliche [power]-Herausforderung intiieren.",
+        "traits": ""
+    },
+    {
+        "code": "11029",
+        "flavor": "",
+        "name": "Hella",
+        "text": "Schatten (1).\nSolange du mehr Karten in den Schatten kontrollierst als jeder Gegner, erhält Hella ein [intrigue]-Symbol und Heimlich.",
+        "traits": "Narr."
+    },
+    {
+        "code": "11030",
+        "flavor": "\"Man sagt, es gäbe nichts als Stein im Herzen von Casterlystein.\" <cite>Catelyn Stark</cite>",
+        "name": "Die Tiefen von Casterlystein",
+        "text": "<b>Reaktion:</b> Nachdem eine von dir kontrollierte Karte aus den Schatten getreten ist, erhalte entweder 2 Gold oder ziehe 1 Karte. (Nur ein Mal pro Phase.)",
+        "traits": "Die Westlande."
+    },
+    {
+        "code": "11031",
+        "flavor": "Als er fiel, sank Hagens Tochter auf die Knie, schnappte sich sein Schwert, erstach den zweiten Mann, sprang wieder auf, verschmiert mit Blut und Schlamm, das lange rote Haar offen, und stürzte sich in den Kampf.",
+        "name": "Hagens Tochter",
+        "text": "Schatten (2).\n<b>Unterbrechung:</b> Sobald Hagens Tochter getötet werden würde, rette sie und schicke sie in die Schatten zurück.",
+        "traits": "Eisenmann."
+    },
+    {
+        "code": "11032",
+        "flavor": "",
+        "name": "\"Regen aus Stahl\"",
+        "text": "Schatten (2).\n<b>Aktion:</b> Opfere beliebig viele [greyjoy]-Orte. Suche für jeden geopferten Ort in deinem Deck nach einem anderen [greyjoy]-Ort mit gleichen oder niedrigeren aufgedruckten Kosten und bringe ihn ins Spiel. Mische dein Deck.",
+        "traits": "Lied."
+    },
+    {
+        "code": "11033",
+        "flavor": "\"Eines Tages müssen alle Menschen sterben, aber es nutzt nichts, sich über den Tod Gedanken zu machen. Ich bevorzuge es, jeden Tag so zu nehmen, wie er kommt.\"",
+        "name": "Hizdahr zo Loraq",
+        "text": "<b>Aktion:</b> Lege 1 Karte von deiner Hand ab, um die Kosten der nächsten Karte, die du in dieser Phase aufmarschieren lässt, mit Hinterhalt ins Spiel bringst oder aus den Schatten holst, um 3 zu reduzieren. (Nur ein Mal pro Phase.)",
+        "traits": "König."
+    },
+    {
+        "code": "11034",
+        "flavor": "Meereen würde immer die Stadt der Harpyie bleiben...",
+        "name": "Meereen",
+        "text": "<b>Aktion:</b> Beuge Meereen, um jede Karte auf deiner Hand verdeckt unter Meereen zu legen und 3 Karten zu ziehen. Am Ende der Phase oder falls Meereen das Spiel verlässt, lege deine Hand ab und schicke jede Karte, die du unter Meereen gelegt hast, auf deine Hand zurück.",
+        "traits": "Meereen."
+    },
+    {
+        "code": "11035",
+        "flavor": "",
+        "name": "Giftmischerin",
+        "text": "Schatten (2).\n<b>Reaktion:</b> Nachdem du eine Herausforderung verloren hast, an der Giftmischerin teilnimmt, opfere sie, um einen teilnehmenden Charakter mit weniger als 2 Herausforderungssymbolen zu wählen und ihn auf die Hand seines Besitzers zurückzuschicken.",
+        "traits": "Bastard. Sandschlange."
+    },
+    {
+        "code": "11036",
+        "flavor": "",
+        "name": "Diene. Gehorche. Beschütze.",
+        "text": "Kann nur gespielt werden, falls du in dieser Phase als verteidigender Spieler eine Herausforderung verloren hast.\n<b>Reaktion:</b> Nachdem ein Gegner eine Herausforderung gegen dich initiiert hat, schicke einen [martell]-Charakter auf deine Hand zurück, um einen anderen [martell]-Charakter mit aufgedruckten Kosten von 5 oder weniger von deiner Hand ins Spiel zu bringen.",
+        "traits": ""
+    },
+    {
+        "code": "11037",
+        "flavor": "",
+        "name": "Tycho Nestoris",
+        "text": "Du kannst das Spiel nicht gewinnen.\n<b>Aktion:</b> Bezahle 6 Gold, um Tycho Nestoris' aufgedrucktes Textfeld bis zum Ende der Phase zu behandeln, als ob es leer wäre (mit Ausnahme von <i>Merkmalen</i>).\nGoldwert +3.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "11038",
+        "flavor": "",
+        "name": "Stadttore",
+        "text": "Limitiert.\n<b>Aktion:</b> Bezahle 1 Gold und lege Stadttore von deiner Hand ab, um 1 Karte zu ziehen.\nGoldwert +1.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "11039",
+        "designer": "Kartenentwurf von Florian Maas, Europameister im Tjost 2016.",
+        "flavor": "",
+        "name": "Handel mit Qohor",
+        "text": "Solange du keine Verstärkungen kontrollierst, erhöht jeder Gegner den Goldwert seiner aufgedeckten Strategiekarte um 1.\n<b>Reaktion:</b> Nachdem der Schaden einer Herausforderung, die du gewonnen hast, angewandt worden ist, opfere eine Verstärkung, um in deinem Deck eine andere Verstärkung mit gleichen oder niedrigeren aufgedruckten Kosten zu suchen und sie ins Spiel zu bringen.",
+        "traits": "Banner."
+    },
+    {
+        "code": "11040",
+        "flavor": "",
+        "name": "Die Rote Ruhr",
+        "text": "Charaktere können nicht gerettet werden.",
+        "traits": "Omen."
+    }
+]

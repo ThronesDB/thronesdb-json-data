@@ -1,0 +1,142 @@
+[
+    {
+        "code": "04001",
+        "flavor": "Der Kometenschweif zog sich, einer blutroten Wunde gleich, durch den purpur- und rosafarbenen Morgenhimmel über den zerklüfteten Felsen von Drachenstein.",
+        "name": "Der Drachenschweif",
+        "text": "<b>Aktion:</b> Wähle einen Gegner. Du und der gewählte Spieler ziehen je 2 Karten.",
+        "traits": "Omen."
+    },
+    {
+        "code": "04002",
+        "flavor": "",
+        "name": "Robb Stark",
+        "text": "Ruhmreich.\nWährend [military]-Herausforderungen bekommt Robb Stark +1 Stärke für jeden loyalen Charakter, den du kontrollierst.\n<b>Aktion:</b> Solange Robb Stark an einer [military]-Herausforderung teilnimmt, wähle einen teilnehmenden Nicht-<i>König</i>-Charakter. Richte den gewählten Charakter auf und entferne ihn aus der Herausforderung. (Nur ein Mal pro Herausforderung.)",
+        "traits": "König. Lord."
+    },
+    {
+        "code": "04003",
+        "flavor": "",
+        "name": "Schnellwasser",
+        "text": "<b>Reaktion:</b> Nachdem ein <i>Haus Tully</i>-Charakter Macht erhalten hat oder Macht auf ihn verschoben worden ist, beuge Schnellwasser, um den Charakter 1 Macht erhalten zu lassen.",
+        "traits": "Haus Tully. Die Flusslande."
+    },
+    {
+        "code": "04004",
+        "flavor": "\"Ihr reist durch ein gefährliches Gebiet.\"",
+        "name": "Ser Kolja von Grünteichen",
+        "text": "Während [power]-Herausforderungen bekommt Ser Kolja von Grünteichen +3 Stärke.",
+        "traits": "Ritter."
+    },
+    {
+        "code": "04005",
+        "flavor": "",
+        "name": "Das Lager bei Bitterbrück",
+        "text": "<b>Reaktion:</b> Nachdem eine <i>Sommer</i>-Strategiekarte aufgedeckt worden ist, beuge Das Lager bei Bitterbrück. Dann darf jeder Spieler einen Charakter von seiner Hand ins Spiel bringen.",
+        "traits": "Die Weite."
+    },
+    {
+        "code": "04006",
+        "flavor": "Auf Winterfell war sie \"Arya Pferdegesicht\" genannt worden, und etwas Schlimmeres hatte sie sich kaum vorstellen können ...",
+        "name": "Arry",
+        "text": "Hinterhalt (4).\nFalls du Arya Stark kontrollierst, opfere Arry.\n<b>Aktion:</b> Schicke Arry auf deine Hand zurück, um 1 Karte zu ziehen.",
+        "traits": "Rekrut."
+    },
+    {
+        "code": "04007",
+        "flavor": "Hier war das Ende der Welt. Und wir schreiten darüber hinaus.",
+        "name": "Weisser Baum",
+        "text": "<b>Reaktion:</b> Nachdem ein Gegner sein Einkommen kassiert hat, beuge Weißer Baum, um 1 Gold aus der Goldreserve dieses Spielers in deine Gold reserve zu verschieben.",
+        "traits": "Umkämpft. Der Norden."
+    },
+    {
+        "code": "04008",
+        "flavor": "",
+        "name": "Weisser Rabe",
+        "text": "<b>Erzwungene Reaktion:</b> Nachdem du eine [power]-Herausforderung verloren hast, opfere Weißer Rabe.\n<b>Reaktion:</b> Nachdem du die Herrschaft gewonnen hast, erhältst du 1 Macht für deine Fraktion, falls es eine aufgedeckte <i>Sommer</i>- oder <i>Winter</i>-Strategiekarte gibt.",
+        "traits": "Rabe."
+    },
+    {
+        "code": "04009",
+        "flavor": "",
+        "name": "Rubin von R'hllor",
+        "text": "Nur <i>R'hllor</i>-Charaktere.\n<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung gewonnen hast, in welcher der verstärkte Charakter angreift, benenne eine Karte. Der verlierende Gegner deckt seine Hand auf und legt jede Karte mit dem benannten Namen ab.",
+        "traits": "Gegenstand. R'hllor."
+    },
+    {
+        "code": "04010",
+        "flavor": "\"Und dieser so genannte Lord von Harrenhal ist ein Metzgerswelpe, der unter den Lennisters aufgestiegen ist. Kein Wunder, dass er käuflich und bestechlich ist.\" <cite>Ser Denys Mallister</cite>",
+        "name": "Janos Slynt",
+        "text": "Einschüchternd.\n<b>Aktion:</b> Bezahle 1 Gold, um Janos Slynt bis zum Ende der Phase +2 Stärke zu geben.",
+        "traits": "Söldner."
+    },
+    {
+        "code": "04011",
+        "flavor": "",
+        "name": "Abgaben an Casterlystein",
+        "text": "<b>Reaktion:</b> Nachdem ein Spieler eine Herausforderung gegen dich initiiert hat, verschiebe bis zu X Gold aus der Goldreserve dieses Spielers in deine Goldreserve. X ist die Anzahl der angreifenden Charaktere.",
+        "traits": ""
+    },
+    {
+        "code": "04012",
+        "flavor": "Ihr Vater hatte ihr verboten, an Land zu gehen, aber wann immer Theon nach Herrenhort kam, sah er sie einsam auf dem Deck umherwandern.",
+        "name": "Die Tochter des Kapitäns",
+        "text": "<b>Reaktion:</b> Nachdem ein nicht-loyaler Charakter ins Spiel gekommen ist, beuge deine Fraktionskarte und opfere Die Tochter des Kapitäns, um jenen Charakter auf das Deck seines Besitzers zu legen.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "04013",
+        "flavor": "Die Landspitze, auf der die Graufreuds ihre Festung errichtet hatten, hatte einst wie ein Schwert ins Meer geragt, allerdings hatten die Wellen, die hier Tag und Nacht anbrandeten, das Land bereits vor Tausenden von Jahren aufgebrochen und zerschmettert.",
+        "name": "Peik",
+        "text": "<b>Aktion:</b> Beuge Peik, um einen Charakter zu wählen. Bis zum Ende der Phase erhält der gewählte Charakter Heimlich.",
+        "traits": "Eiseninseln."
+    },
+    {
+        "code": "04014",
+        "flavor": "",
+        "name": "Viserys Targaryen",
+        "text": "Solange Viserys Targaryen angreift, muss jeder <i>König</i>-Charakter zum Verteidiger deklariert werden, falls möglich.\n<b>Unterbrechung:</b> Sobald die Herrschaftsphase endet, erhält Viserys Targaryen 1 Macht, falls kein Gegner einen <i>König</i>-Charakter kontrolliert.",
+        "traits": "König. Lord."
+    },
+    {
+        "code": "04015",
+        "flavor": "Die Dothraki nannten den Kometen Shierak Qiya, den Blutenden Stern.",
+        "name": "Shierak Qiya",
+        "text": "<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung um 5 oder mehr Stärke gewonnen hast, beuge deine Fraktionskarte, um einen teilnehmenden Charakter zu wählen und aufzurichten.",
+        "traits": "Omen."
+    },
+    {
+        "code": "04016",
+        "flavor": "",
+        "name": "Harmen Uller",
+        "text": "Ruhmreich.\nJeder <i>Sandschlange</i>-Charakter auf deiner Hand erhält Hinterhalt (X). X ist 1 weniger als die aufgedruckten Kosten der jeweiligen Karte.",
+        "traits": "Haus Uller. Lord."
+    },
+    {
+        "code": "04017",
+        "flavor": "... wo das letzte Licht des Tages schräg durch die dicken Fenster aus buntem Glas fiel und den hellen Marmorboden mit Rauten in einem halben Hundert Farben sprenkelte.",
+        "name": "Sonnenturm",
+        "text": "<b>Reaktion:</b> Nachdem ein Ereignis gespielt worden ist, erhältst du 1 Gold. (Nur ein Mal pro Phase.)",
+        "traits": "Dorne."
+    },
+    {
+        "code": "04018",
+        "flavor": "Die Pyromantiker behaupteten, nur drei Dinge würden heißer brennen als ihre Substanz: Drachenflammen, die Feuer unter der Erde und die Sommersonne.",
+        "name": "Pyromantiker",
+        "text": "<b>Herrschaftsaktion:</b> Beuge Pyromantiker und lege 1 Macht von deiner Fraktionskarte ab, um einen nicht-limitierten Ort zu wählen und aus dem Spiel abzulegen.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "04019",
+        "flavor": "",
+        "name": "Herbstregen",
+        "text": "Charaktere und Orte gewähren keine positiven Goldmodifikatoren.",
+        "traits": "Omen."
+    },
+    {
+        "code": "04020",
+        "flavor": "\"In einem Raum sitzen drei große Männer, ein König, ein Priester und ein reicher Mann mit seinem Gold. Zwischen ihnen steht ein Söldner ...\" <cite>Varys</cite>",
+        "name": "Varys' Rätsel",
+        "text": "<b>Sobald aufgedeckt:</b> Initiiere die \"Sobald aufgedeckt\"-Fähigkeit einer aufgedeckten Nicht-<i>Rätsel</i>-Strategiekarte, als ob du sie gerade aufgedeckt hättest.",
+        "traits": "Rätsel. Komplott."
+    }
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "code": "06041",
+        "flavor": "Sie war stark und schnell und wild, und ihr Rudel war bei ihr, ihre Brüder und Schwestern.",
+        "name": "Umherstreifendes Rudel",
+        "text": "Einschüchternd. Keine Verstärkungen.\nSolange Umherstreifendes Rudel angreift, bekommt jeder angreifende <i>Schattenwolf</i>-Charakter +2 Stärke.",
+        "traits": "Schattenwolf."
+    },
+    {
+        "code": "06042",
+        "flavor": "",
+        "name": "Der Norden vergisst nicht",
+        "text": "<b>Herausforderungsaktion:</b> Jeder Spieler opfert einen Charakter oder Ort.\n<b>Reaktion:</b> Nachdem ein Charakter, den du kontrollierst, getötet worden ist, bezahle 1 Gold, um Der Norden vergisst nicht aus deinem Ablagestapel auf deine Hand zurückzuschicken.",
+        "traits": ""
+    },
+    {
+        "code": "06043",
+        "flavor": "Megga war rund und laut, Alla schüchtern und hübsch, aber Elinor lag vorn, wenn es um Weiblichkeit ging ...",
+        "name": "Elinor Tyrell",
+        "text": "In jeder Runde darfst du 1 zusätzliche Karte mit dem Schlüsselwort Limitiert spielen oder aufmarschieren lassen.",
+        "traits": "Lady."
+    },
+    {
+        "code": "06044",
+        "flavor": "",
+        "name": "Silbernes Haarnetz",
+        "text": "Nur <i>Lady</i>-Charaktere.\nDer verstärkte Charakter erhält Heimlich.\nSolange der verstärkte Charakter an einer Herausforderung teilnimmt, reduziere die Kosten jedes Ereignisses, das du spielst, um 1.",
+        "traits": "Gegenstand."
+    },
+    {
+        "code": "06045",
+        "flavor": "",
+        "name": "Anwerber der Nachtwache",
+        "text": "Während der Aufrichtphase darfst du wählen Anwerber der Nachtwache nicht aufzurichten.\n<b>Aufmarschaktion:</b> Beuge Anwerber der Nachtwache, um einen Charakter mit aufgedruckten Kosten von 2 oder weniger zu wählen. Übernimm die Kontrolle über den gewählten Charakter, bis Anwerber der Nachtwache aufgerichtet wird oder das Spiel verlässt.",
+        "traits": "Wanderkrähe."
+    },
+    {
+        "code": "06046",
+        "flavor": "",
+        "name": "Kellergewölbe",
+        "text": "Limitiert.\n<b>Aufmarschaktion:</b> Beuge Kellergewölbe, um 1 Gold zu erhalten. (Falls der Goldwert der aufgedeckten Strategiekarte eines Gegners 5 oder höher ist, erhältst du stattdessen 2 Gold.)",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "06047",
+        "flavor": "Das Loch hatte einen Gestank an sich, einen Gestank nach Schweinestall und Pferdestall und Gerberhütte, vermischt mit dem säuerlichen Geruch von Weinstuben und billigen Hurenhäusern.",
+        "name": "Bastard aus Flohloch",
+        "text": "Während der Herrschaftsphase bekommt Bastard aus Flohloch +3 Stärke.",
+        "traits": "Bastard."
+    },
+    {
+        "code": "06048",
+        "flavor": "Sie wussten, dass für jede sichtbare Spitze ein Dutzend weitere dicht unter der Wasseroberfläche lauerten. Jeder Kapitän mit ein wenig Verstand hielt sich aus diesen Gewässern fern.",
+        "name": "Die Speere des Königs der Meerjungfrauen",
+        "text": "<b>Unterbrechung:</b> Sobald ein Charakter, den du kontrollierst, getötet wird, opfere Die Speere des Königs der Meerjungfrauen, um diesen Charakter auf deine Hand zurückzuschicken, anstatt ihn auf deinen Totenstapel zu legen.",
+        "traits": "Westeros."
+    },
+    {
+        "code": "06049",
+        "flavor": "",
+        "name": "Cerseis Zofe",
+        "text": "Solange Cerseis Zofe an einer Herausforderung gegen einen Gegner, der keine Karten auf seiner Hand hat, teilnimmt, erhält Cerseis Zofe Einblick.",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "06050",
+        "flavor": "",
+        "name": "Fieberträume",
+        "text": "Nur gegnerische Charaktere. Investition (3). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 3 Gold aus deiner Goldreserve auf diese Karte.)</i>\n<b>Reaktion:</b> Nachdem der verstärkte Charakter gebeugt worden ist, lege 1 Gold von Fieberträume ab, um 2 Karten zu ziehen.",
+        "traits": "Traum."
+    },
+    {
+        "code": "06051",
+        "flavor": "\"Ein toter Feind ist eine Schönheit.\"",
+        "name": "Theon Graufreud",
+        "text": "Solange Theon Graufreud alleine angreift, steuert jeder Charakter, der mehr Stärke hat als er, keine Stärke zu dieser Herausforderung bei.",
+        "traits": "Eisenmann. Lord."
+    },
+    {
+        "code": "06052",
+        "flavor": "",
+        "name": "Korsarendolch",
+        "text": "Nur <i>Eisenmann</i>-Charaktere.\nDer verstärkte Charakter bekommt +2 Stärke.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in welcher der verstärkte Charakter angreift, verschiebe 1 Gold aus der Goldreserve des verlierenden Gegners in deine Goldreserve.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "06053",
+        "flavor": "",
+        "name": "Grauer Wurm",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\n<b>Aktion:</b> Während einer Herausforderung, in der Grauer Wurm angreift, wähle einen verteidigenden Charakter. Bis zum Ende der Herausforderung bekommt der gewählte Charakter -3 Stärke. (Nur ein Mal pro Herausforderung.)",
+        "traits": "Gefährte."
+    },
+    {
+        "code": "06054",
+        "flavor": "",
+        "name": "Astapor",
+        "text": "Investition (4). <i>(Sobald diese Karte ins Spiel kommt, verschiebe bis zu 4 Gold aus deiner Goldreserve auf diese Karte.)</i>\n<b>Aktion:</b> Beuge Astapor, um einen teilnehmenden Charakter zu wählen. Bis zum Ende der Herausforderung bekommt der gewählte Charakter -X Stärke. X ist die Anzahl des Goldes, das Astapor hat.",
+        "traits": "Astapor. Umkämpft."
+    },
+    {
+        "code": "06055",
+        "flavor": "",
+        "name": "Maester von Sonnspeer",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung verloren hast, an der Maester von Sonnspeer teilnimmt, wähle eine Verstärkung und schicke sie auf die Hand ihres Besitzers zurück.",
+        "traits": "Maester."
+    },
+    {
+        "code": "06056",
+        "flavor": "",
+        "name": "Dornische Ländereien",
+        "text": "Limitiert.\n<b>Aufmarschaktion:</b> Beuge Dornische Ländereien, um 1 Gold zu erhalten. (Falls du nicht Startspieler bist, erhältst du stattdessen 2 Gold.)",
+        "traits": "Dorne."
+    },
+    {
+        "code": "06057",
+        "flavor": "Ihr Vater hatte einst von Walder Frey gesagt, er sei der einzige Lord der Sieben Königslande, der eine ganze Armee in seinen Hosen hatte.",
+        "name": "Lord der Freys",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung initiiert hast, bekommt Lord der Freys bis zum Ende der Phase +1 Stärke.",
+        "traits": "Haus Frey. Lord."
+    },
+    {
+        "code": "06058",
+        "flavor": "",
+        "name": "Die Zwillinge",
+        "text": "Während der dritten Herausforderung, die du in jeder Phase initiierst, erhöhe den Schadenswert deiner aufgedeckten Strategiekarte um 1, falls du einen angreifenden <i>Haus Frey</i>-Charakter kontrollierst.",
+        "traits": "Haus Frey. Die Flusslande."
+    },
+    {
+        "code": "06059",
+        "flavor": "",
+        "name": "Belagern",
+        "text": "<b>Aktion:</b> Wähle und beuge einen Ort.\nDann lege den gewählten Ort aus dem Spiel ab, falls er <i>Umkämpft</i> ist.",
+        "traits": "Belagerung."
+    },
+    {
+        "code": "06060",
+        "designer": "Kartenentwurf von Jonathan Andrews, Nordamerikameister 2014.",
+        "flavor": "",
+        "name": "Duell",
+        "text": "<b>Sobald aufgedeckt:</b> Wähle einen Gegner. Der gewählte Spieler wählt 2 Nicht-<i>Armee</i>-Charaktere, jeweils mit aufgedruckten Kosten von 6 oder höher. Dann wählt und beugt er 1 der gewählten Charaktere. Töte den anderen gewählten Charakter (kann nicht gerettet werden).",
+        "traits": "Krieg."
+    }
+]

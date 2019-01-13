@@ -1,0 +1,143 @@
+[
+    {
+        "code": "11041",
+        "flavor": "",
+        "name": "Getreuer des Hauses Umber",
+        "text": "<b>Reaktion:</b> Nachdem Getreuer des Hauses Umber ins Spiel gekommen ist, ziehe 2 Karten.\n<b>Erzwungene Unterbrechung:</b> Sobald Getreuer des Hauses Umber das Spiel verlässt, wähle 2 Karten von deiner Hand und lege sie ab.",
+        "traits": "Haus Umber."
+    },
+    {
+        "code": "11042",
+        "flavor": "Wenn Winterfell das Herz des Nordens war, so musste man Weißwasserhafen als seinen Mund betrachten.",
+        "name": "Weißwasserhafen",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, decke die obersten 2 Karten deines Decks auf. Der verlierende Gegner wählt 1 jener Karten. Nimm die gewählte Karte auf die Hand und lege die andere unter dein Deck.",
+        "traits": "Haus Manderly. Der Norden."
+    },
+    {
+        "code": "11043",
+        "flavor": "",
+        "name": "Fauler Leo",
+        "text": "Schatten (2).\n<b>Reaktion:</b> Nachdem Fauler Leo aus den Schatten getreten ist, wähle einen Spieler. Mische beliebig viele Ereignisse aus dem Ablagestapel des gewählten Spielers in sein Deck.",
+        "traits": "Maester."
+    },
+    {
+        "code": "11044",
+        "flavor": "",
+        "name": "Wachsender Ehrgeiz",
+        "text": "Schatten (X).\n<b>Herausforderungsaktion:</b> Suche in deinem Deck nach X verschiedenen Karten und lege sie auf deinen Ablagestapel. Mische dein Deck. Dann wähle einen Gegner. Schicke X Karten nach Wahl des gewählten Gegners aus deinem Ablagestapel auf deine Hand zurück.",
+        "traits": ""
+    },
+    {
+        "code": "11045",
+        "flavor": "",
+        "name": "Einfältiger Späher",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nSolange es eine Karte in den Schatten gibt, kann Einfältiger Späher nicht zum Verteidiger deklariert werden.",
+        "traits": "Verbündeter. Grenzer."
+    },
+    {
+        "code": "11046",
+        "flavor": "",
+        "name": "Grubenpickel",
+        "text": "Nur <i>Baumeister-</i> oder <i>Kämmerer</i>-Charakter.\nDer verstärke Charakter erhält +1 Stärke.\nGoldwert +1.",
+        "traits": "Gegenstand. Waffe."
+    },
+    {
+        "code": "11047",
+        "flavor": "",
+        "name": "Besatzung der Valyria",
+        "text": "Heimlich.\nDu darfst verdeckte Karten, die Besatzung der Valyria verstärken, spielen oder aufmarschieren lassen, als wären sie auf deiner Hand.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Besatzung der Valyria angreift, lege die oberste Karte vom Deck des verlierenden Gegners verdeckt und unter deiner Kontrolle als Verstärkung mit dem Schlüsselwort Vergänglich an Besatzung der Valyria an.",
+        "traits": "Söldner. Schmuggler."
+    },
+    {
+        "code": "11048",
+        "flavor": "Die Schwarzwasser-Bucht war rau und aufgewühlt, überall sah man weiße Wellenkämme.",
+        "name": "Schwarzwasser-Bucht",
+        "text": "<b>Reaktion:</b> Nachdem die Herausforderungsphase begonnen hat, beuge Schwarzwasser-Bucht, um einen Gegner zu wählen. Ziehe 1 Karte für jeden gebeugten Charakter, den der gewählte Spieler kontrolliert.",
+        "traits": "Westeros."
+    },
+    {
+        "code": "11049",
+        "flavor": "",
+        "name": "Handlanger",
+        "text": "Schatten (2).\n<b>Reaktion:</b> Nachdem Handlanger aus den Schatten getreten ist, bezahle X Gold, um einen anderen Charakter mit aufgedruckten Kosten von X oder weniger zu wählen und ihn auf die Hand seines Besitzers zurückzuschicken.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "11050",
+        "flavor": "",
+        "name": "Goldmine",
+        "text": "<b>Aktion:</b> Beuge Goldmine und lege 1 Karte von deiner Hand ab, um 1 Karte zu ziehen.\nGoldwert +1.",
+        "traits": "Die Westlande."
+    },
+    {
+        "code": "11051",
+        "designer": "Kartenentwurf von Vincent Teulé, Europameister im Buhurt 2013",
+        "flavor": "",
+        "name": "Fanatiker des Ertrunkenen Gottes",
+        "text": "<b>Aktion:</b> Töte einen Charakter, um Fanatiker des Ertrunkenen Gottes aus deinem Totenstapel ins Spiel zu bringen. (Maximal 1 pro Runde.)\n<b>Unterbrechung:</b> Sobald die Effekte einer gegnerischen ausgelösten Charakterfähigkeit initiiert werden würden, lege Fanatiker des Ertrunkenen Gottes von deiner Hand auf deinen Totenstapel, um diese Effekte aufzuheben.",
+        "traits": "Ertrunkener Gott."
+    },
+    {
+        "code": "11052",
+        "flavor": "",
+        "name": "Drachenbinder",
+        "text": "Nur Charaktere, die du kontrollierst.\nDer verstärkte Charakter erhält Einschüchternd.\n<b>Reaktion:</b> Nachdem du die Herrschaft gewonnen hast, töte den verstärkten Charakter, um entweder einen <i>Drachen</i>-Charakter zu wählen und die Kontrolle über ihn zu übernehmen oder in den obersten 10 Karten deines Decks nach einem [greyjoy]-Charakter zu suchen, ihn ins Spiel zu bringen und dein Deck zu mischen.",
+        "traits": "Gegenstand."
+    },
+    {
+        "code": "11053",
+        "flavor": "",
+        "name": "Gedungener Meuchelmörder",
+        "text": "Schatten (2).\n<b>Reaktion:</b> Nachdem Gedungener Meuchelmörder aus den Schatten getreten ist, sieh dir eine Karte in den Schatten an. Falls es ein Charakter ist, darfst du ihn auf den Totenstapel seines Besitzers legen.",
+        "traits": "Söldner."
+    },
+    {
+        "code": "11054",
+        "flavor": "Ser Barristan würde sich vielleicht auf die Suche nach ihr machen; er war der Erste ihrer Königinnengarde, und er hatte geschworen, ihr Leben mit seinem eigenen zu schützen.",
+        "name": "Königinnengarde",
+        "text": "Nur Nicht-<i>Lady</i>-Charaktere. Schatten (2).\n<b>Aktion:</b> Lege 1 Karte von deiner Hand ab, um den verstärkten Charakter aufzurichten. (Nur drei Mal pro Runde.)",
+        "traits": "Titel."
+    },
+    {
+        "code": "11055",
+        "flavor": "\"Ich bin immer zum Kampf bereit.\"",
+        "name": "Ser Archibald Isenwald",
+        "text": "Schatten (4). Keine Verstärkungen außer <i>Waffe</i>.\n<b>Reaktion:</b> Nachdem du die Herrschaft verloren hast, muss der siegende Gegner einen Charakter, den er kontrolliert, wählen und töten.",
+        "traits": "Haus Isenwald. Ritter."
+    },
+    {
+        "code": "11056",
+        "flavor": "... an der Mündung des Grünbluts, wo die Waisen des Flusses mit den Karacken, Koggen und Galeeren von jenseits des Meeres Handel treiben.",
+        "name": "Sommermeerhafen",
+        "text": "Goldwert +1. Reservewert +1.",
+        "traits": "Dorne."
+    },
+    {
+        "code": "11057",
+        "flavor": "Das zerlumpte Heer des Hohen Spatzen.",
+        "name": "Arme Gefährten",
+        "text": "Keine Verstärkungen.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Arme Gefährten angreifen, wählt der verlierende Gegner: entweder erhalten Arme Gefährten 1 Macht oder ziehe 1 Karte.",
+        "traits": "Armee. Die Sieben."
+    },
+    {
+        "code": "11058",
+        "flavor": "",
+        "name": "Königsmund",
+        "text": "Ein Mal pro Phase darfst du einen Ort aus deinem Ablagestapel aufmarschieren lassen, als wäre er auf deiner Hand.\n<b>Herausforderungsaktion:</b> Beuge Königsmund und lege 1 Ort von deiner Hand ab, um 1 Karte zu ziehen.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "11059",
+        "flavor": "",
+        "name": "Glaskerze",
+        "text": "Nur Charaktere, die du kontrollierst.\nFalls der verstärkte Charakter das Merkmal <i>Maester</i> hat, erhält er Einblick.\n<b>Herausforderungsaktion:</b> Beuge Glaskerze, um die oberste Karte vom Deck eines beliebigen Spielers anzusehen. Du darfst jene Karte ablegen.",
+        "traits": "Gegenstand. Citadel."
+    },
+    {
+        "code": "11060",
+        "flavor": "",
+        "name": "Trügerische Waffenruhe",
+        "text": "Jeder Spieler kann keine Macht für seine Fraktion erhalten außer während Herausforderungen.\n<b>Erzwungene Reaktion:</b> Nachdem eine Herausforderung initiiert worden ist, verschiebe 1 Macht von der Fraktionskarte des angreifenden Spielers auf die Fraktionskarte des verteidigenden Spielers.",
+        "traits": "Erlass."
+    }
+]
