@@ -82,5 +82,11 @@
         "name": "King's Landing",
         "position": 13,
         "size": 6
+    },
+    {
+        "code": "storm",
+        "name": "Fury of the Storm",
+        "position": 14,
+        "size": 1
     }
 ]

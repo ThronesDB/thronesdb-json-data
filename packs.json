@@ -358,5 +358,14 @@
         "name": "City of Secrets",
         "position": 2,
         "size": 20
+    },
+    {
+        "cgdb_id": 52,
+        "code": "FotS",
+        "cycle_code": "storm",
+        "date_release": "2018-12-27",
+        "name": "Fury of the Storm",
+        "position": 1,
+        "size": 52
     }
 ]
