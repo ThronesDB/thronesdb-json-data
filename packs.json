@@ -360,6 +360,15 @@
         "size": 20
     },
     {
+        "cgdb_id": 48,
+        "code": "PoS",
+        "cycle_code": "landing",
+        "date_release": null,
+        "name": "Pit of Snakes",
+        "position": 3,
+        "size": 20
+    },
+    {
         "cgdb_id": 52,
         "code": "FotS",
         "cycle_code": "storm",
