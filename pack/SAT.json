@@ -60,7 +60,7 @@
         "position": 103,
         "quantity": 3,
         "strength": 4,
-        "text": "<b>Reaction:</b> After Mace Tyrell is knelt, draw 2 cards. Then, choose a card in your hand and place it on top of your deck.",
+        "text": "<b>Reaction:</b> After Mace Tyrell is knelt, draw 2 cards. Then, choose a card in your hand and place it on top of your deck.\n+1 Income.",
         "traits": "Lord. Small Council.",
         "type_code": "character"
     },
