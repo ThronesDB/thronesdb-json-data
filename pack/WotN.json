@@ -631,7 +631,7 @@
         "flavor": "",
         "illustrator": "Ryan Barger",
         "is_loyal": false,
-        "is_multiple": false,
+        "is_multiple": true,
         "is_unique": true,
         "name": "Tower of the Hand",
         "octgn_id": "886841da-3649-44e3-a00c-82c2a882bd5c",

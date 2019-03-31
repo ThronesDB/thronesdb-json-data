@@ -369,6 +369,15 @@
         "size": 20
     },
     {
+        "cgdb_id": 49,
+        "code": "BtRK",
+        "cycle_code": "landing",
+        "date_release": null,
+        "name": "Beneath the Red Keep",
+        "position": 4,
+        "size": 20
+    },
+    {
         "cgdb_id": 52,
         "code": "FotS",
         "cycle_code": "storm",
