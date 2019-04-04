@@ -33,7 +33,7 @@
         "pack_code": "BtRK",
         "position": 64,
         "quantity": 3,
-        "text": "Shadow (1).\n<b>Reaction:</b> After The Maidenvault comes out of Shadows, choose a participating <i>Lady</i> character. Stand it and remove it from the challenge.\n<b>Interrupt:</b> When the challenges phase ends, kneel the Maidenvault to return it to the shadows.",
+        "text": "Shadow (1).\n<b>Reaction:</b> After The Maidenvault comes out of shadows, choose a participating <i>Lady</i> character. Stand it and remove it from the challenge.\n<b>Interrupt:</b> When the challenges phase ends, kneel the Maidenvault to return it to the shadows.",
         "traits": "King's Landing.",
         "type_code": "location"
     },
