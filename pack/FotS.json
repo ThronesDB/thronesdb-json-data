@@ -200,7 +200,7 @@
         "quantity": 3,
         "text": "Unique character you control only. Terminal.\nAttached character is considered to be participating in each challenge in which you control an attacking <i>R'hllor</i> character.",
         "traits": "Legacy. R'hllor.",
-        "type_code": "event"
+        "type_code": "attachment"
     },
     {
         "code": "14024",
