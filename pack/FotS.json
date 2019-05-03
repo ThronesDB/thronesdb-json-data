@@ -192,7 +192,7 @@
         "illustrator": "Tim Durning",
         "is_loyal": true,
         "is_multiple": false,
-        "is_unique": false,
+        "is_unique": true,
         "name": "Azor Ahai Reborn",
         "octgn_id": null,
         "pack_code": "FotS",
