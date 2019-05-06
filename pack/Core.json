@@ -2754,7 +2754,7 @@
         "is_intrigue": true,
         "is_loyal": true,
         "is_military": false,
-        "is_multiple": false,
+        "is_multiple": true,
         "is_power": false,
         "is_unique": true,
         "name": "Yoren",
