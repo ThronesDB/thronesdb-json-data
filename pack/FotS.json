@@ -324,7 +324,6 @@
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
-        "illustrator": null,
         "income": 3,
         "initiative": 0,
         "is_loyal": false,
