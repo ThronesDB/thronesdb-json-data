@@ -5,7 +5,6 @@
         "cycle_code": "variants",
         "date_release": null,
         "name": "Valyrian Draft Set",
-        "position": 1,
         "size": 21
     },
     {
@@ -14,7 +13,6 @@
         "cycle_code": "core",
         "date_release": "2015-10-08",
         "name": "Core Set",
-        "position": 1,
         "size": 211
     },
     {
@@ -23,7 +21,6 @@
         "cycle_code": "westeros",
         "date_release": "2015-12-09",
         "name": "Taking the Black",
-        "position": 1,
         "size": 20
     },
     {
@@ -32,7 +29,6 @@
         "cycle_code": "westeros",
         "date_release": "2016-01-29",
         "name": "The Road to Winterfell",
-        "position": 2,
         "size": 20
     },
     {
@@ -41,7 +37,6 @@
         "cycle_code": "westeros",
         "date_release": "2016-02-25",
         "name": "The King's Peace",
-        "position": 3,
         "size": 20
     },
     {
@@ -50,7 +45,6 @@
         "cycle_code": "westeros",
         "date_release": "2016-03-24",
         "name": "No Middle Ground",
-        "position": 4,
         "size": 20
     },
     {
@@ -59,7 +53,6 @@
         "cycle_code": "westeros",
         "date_release": "2016-04-21",
         "name": "Calm over Westeros",
-        "position": 5,
         "size": 20
     },
     {
@@ -68,7 +61,6 @@
         "cycle_code": "westeros",
         "date_release": "2016-05-19",
         "name": "True Steel",
-        "position": 6,
         "size": 20
     },
     {
@@ -77,7 +69,6 @@
         "cycle_code": "wolves",
         "date_release": "2016-04-07",
         "name": "Wolves of the North",
-        "position": 1,
         "size": 52
     },
     {
@@ -86,7 +77,6 @@
         "cycle_code": "war",
         "date_release": "2016-07-21",
         "name": "Across the Seven Kingdoms",
-        "position": 1,
         "size": 20
     },
     {
@@ -95,7 +85,6 @@
         "cycle_code": "war",
         "date_release": "2016-08-18",
         "name": "Called to Arms",
-        "position": 2,
         "size": 20
     },
     {
@@ -104,7 +93,6 @@
         "cycle_code": "war",
         "date_release": "2016-10-06",
         "name": "For Family Honor",
-        "position": 3,
         "size": 20
     },
     {
@@ -113,7 +101,6 @@
         "cycle_code": "war",
         "date_release": "2016-12-01",
         "name": "There Is My Claim",
-        "position": 4,
         "size": 20
     },
     {
@@ -122,7 +109,6 @@
         "cycle_code": "war",
         "date_release": "2017-01-05",
         "name": "Ghosts of Harrenhal",
-        "position": 5,
         "size": 20
     },
     {
@@ -131,7 +117,6 @@
         "cycle_code": "war",
         "date_release": "2017-02-02",
         "name": "Tyrion's Chain",
-        "position": 6,
         "size": 20
     },
     {
@@ -140,7 +125,6 @@
         "cycle_code": "lions",
         "date_release": "2016-11-03",
         "name": "Lions of Casterly Rock",
-        "position": 1,
         "size": 52
     },
     {
@@ -149,7 +133,6 @@
         "cycle_code": "bng",
         "date_release": "2017-03-09",
         "name": "All Men Are Fools",
-        "position": 1,
         "size": 20
     },
     {
@@ -158,7 +141,6 @@
         "cycle_code": "bng",
         "date_release": "2017-05-04",
         "name": "Guarding the Realm",
-        "position": 2,
         "size": 20
     },
     {
@@ -167,7 +149,6 @@
         "cycle_code": "bng",
         "date_release": "2017-06-01",
         "name": "The Fall of Astapor",
-        "position": 3,
         "size": 20
     },
     {
@@ -176,7 +157,6 @@
         "cycle_code": "bng",
         "date_release": "2017-07-06",
         "name": "The Red Wedding",
-        "position": 4,
         "size": 20
     },
     {
@@ -185,7 +165,6 @@
         "cycle_code": "bng",
         "date_release": "2017-08-17",
         "name": "Oberyn's Revenge",
-        "position": 5,
         "size": 20
     },
     {
@@ -194,7 +173,6 @@
         "cycle_code": "bng",
         "date_release": "2017-09-21",
         "name": "The Brotherhood Without Banners",
-        "position": 6,
         "size": 20
     },
     {
@@ -203,7 +181,6 @@
         "cycle_code": "watchers",
         "date_release": "2017-04-06",
         "name": "Watchers on the Wall",
-        "position": 1,
         "size": 52
     },
     {
@@ -212,7 +189,6 @@
         "cycle_code": "foc",
         "date_release": "2017-11-24",
         "name": "The Archmaester's Key",
-        "position": 1,
         "size": 20
     },
     {
@@ -221,7 +197,6 @@
         "cycle_code": "foc",
         "date_release": "2017-12-21",
         "name": "Journey to Oldtown",
-        "position": 2,
         "size": 20
     },
     {
@@ -230,7 +205,6 @@
         "cycle_code": "foc",
         "date_release": "2018-01-18",
         "name": "Kingsmoot",
-        "position": 3,
         "size": 20
     },
     {
@@ -239,7 +213,6 @@
         "cycle_code": "foc",
         "date_release": "2018-02-15",
         "name": "Favor of the Old Gods",
-        "position": 4,
         "size": 20
     },
     {
@@ -248,7 +221,6 @@
         "cycle_code": "foc",
         "date_release": "2018-04-12",
         "name": "The Faith Militant",
-        "position": 5,
         "size": 20
     },
     {
@@ -257,7 +229,6 @@
         "cycle_code": "foc",
         "date_release": "2018-05-10",
         "name": "Someone Always Tells",
-        "position": 6,
         "size": 20
     },
     {
@@ -266,7 +237,6 @@
         "cycle_code": "thorns",
         "date_release": "2017-10-26",
         "name": "House of Thorns",
-        "position": 1,
         "size": 52
     },
     {
@@ -275,7 +245,6 @@
         "cycle_code": "sands",
         "date_release": "2018-03-29",
         "name": "Sands of Dorne",
-        "position": 1,
         "size": 52
     },
     {
@@ -284,7 +253,6 @@
         "cycle_code": "dos",
         "date_release": "2018-06-07",
         "name": "The Shadow City",
-        "position": 1,
         "size": 20
     },
     {
@@ -293,7 +261,6 @@
         "cycle_code": "dos",
         "date_release": "2018-07-05",
         "name": "The March on Winterfell",
-        "position": 2,
         "size": 20
     },
     {
@@ -302,7 +269,6 @@
         "cycle_code": "dos",
         "date_release": "2018-08-09",
         "name": "Streets of King's Landing",
-        "position": 3,
         "size": 20
     },
     {
@@ -311,7 +277,6 @@
         "cycle_code": "dos",
         "date_release": "2018-09-06",
         "name": "Music of Dragons",
-        "position": 4,
         "size": 20
     },
     {
@@ -320,7 +285,6 @@
         "cycle_code": "dos",
         "date_release": "2018-10-04",
         "name": "In Daznak's Pit",
-        "position": 5,
         "size": 20
     },
     {
@@ -329,7 +293,6 @@
         "cycle_code": "dos",
         "date_release": "2018-11-01",
         "name": "Daggers in the Dark",
-        "position": 6,
         "size": 20
     },
     {
@@ -338,7 +301,6 @@
         "cycle_code": "isles",
         "date_release": "2018-12-27",
         "name": "Kings of the Isles",
-        "position": 1,
         "size": 52
     },
     {
@@ -347,7 +309,6 @@
         "cycle_code": "landing",
         "date_release": "2019-03-28",
         "name": "At the Gates",
-        "position": 1,
         "size": 20
     },
     {
@@ -356,7 +317,6 @@
         "cycle_code": "landing",
         "date_release": "2019-04-25",
         "name": "City of Secrets",
-        "position": 2,
         "size": 20
     },
     {
@@ -365,7 +325,6 @@
         "cycle_code": "landing",
         "date_release": null,
         "name": "Pit of Snakes",
-        "position": 3,
         "size": 20
     },
     {
@@ -374,7 +333,6 @@
         "cycle_code": "landing",
         "date_release": null,
         "name": "Beneath the Red Keep",
-        "position": 4,
         "size": 20
     },
     {
@@ -383,7 +341,6 @@
         "cycle_code": "landing",
         "date_release": null,
         "name": "The Blackwater",
-        "position": 5,
         "size": 20
     },
     {
@@ -392,7 +349,6 @@
         "cycle_code": "storm",
         "date_release": null,
         "name": "Fury of the Storm",
-        "position": 1,
         "size": 52
     }
 ]

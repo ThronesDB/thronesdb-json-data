@@ -36,10 +36,6 @@
             "minLength": 1,
             "type": "string"
         },
-        "position": {
-            "minimum": 1,
-            "type": "integer"
-        },
         "size": {
             "oneOf": [
                 {
@@ -57,7 +53,6 @@
         "code",
         "cycle_code",
         "name",
-        "position",
         "size"
     ],
     "type": "object"
