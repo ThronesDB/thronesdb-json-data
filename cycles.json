@@ -2,91 +2,76 @@
     {
         "code": "variants",
         "name": "Variants",
-        "position": 0,
         "size": 1
     },
     {
         "code": "core",
         "name": "Core Set",
-        "position": 1,
         "size": 1
     },
     {
         "code": "westeros",
         "name": "Westeros Cycle",
-        "position": 2,
         "size": 6
     },
     {
         "code": "wolves",
         "name": "Wolves of the North",
-        "position": 3,
         "size": 1
     },
     {
         "code": "war",
         "name": "War of Five Kings Cycle",
-        "position": 4,
         "size": 6
     },
     {
         "code": "lions",
         "name": "Lions of Casterly Rock",
-        "position": 5,
         "size": 1
     },
     {
         "code": "bng",
         "name": "Blood and Gold",
-        "position": 6,
         "size": 6
     },
     {
         "code": "watchers",
         "name": "Watchers on the Wall",
-        "position": 7,
         "size": 1
     },
     {
         "code": "foc",
         "name": "Flight of Crows",
-        "position": 8,
         "size": 6
     },
     {
         "code": "thorns",
         "name": "House of Thorns",
-        "position": 9,
         "size": 1
     },
     {
         "code": "sands",
         "name": "Sands of Dorne",
-        "position": 10,
         "size": 1
     },
     {
         "code": "dos",
         "name": "Dance of Shadows",
-        "position": 11,
         "size": 6
     },
     {
         "code": "isles",
         "name": "Kings of the Isles",
-        "position": 12,
         "size": 1
     },
     {
         "code": "landing",
         "name": "King's Landing",
-        "position": 13,
         "size": 6
     },
     {
         "code": "storm",
         "name": "Fury of the Storm",
-        "position": 14,
         "size": 1
     }
 ]
