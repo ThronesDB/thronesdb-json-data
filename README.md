@@ -47,7 +47,6 @@ Required properties are in **bold**.
 * is_intrigue - Characters only
 * **is_loyal**
 * is_military - Characters only
-* **is_multiple** - Indicates whether multiple cards have the same name
 * is_power - Characters only
 * **is_unique**
 * **name**
