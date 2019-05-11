@@ -95,9 +95,6 @@
         "is_military": {
             "type": "boolean"
         },
-        "is_multiple": {
-            "type": "boolean"
-        },
         "is_power": {
             "type": "boolean"
         },
@@ -172,7 +169,6 @@
         "code",
         "deck_limit",
         "is_loyal",
-        "is_multiple",
         "is_unique",
         "name",
         "position",
