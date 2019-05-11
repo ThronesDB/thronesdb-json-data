@@ -1,7 +1,7 @@
 [
     {
-        "code": "draft",
-        "name": "Draft Sets",
+        "code": "variants",
+        "name": "Variants",
         "position": 0,
         "size": 1
     },
