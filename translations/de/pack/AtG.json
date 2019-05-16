@@ -1,58 +1,142 @@
 [
     {
         "code": "13001",
-        "flavor": "\"Mormont women are skinchangers. We turn into bears and find mates in the woods. Everyone knows.\"",
+        "flavor": "\"Die Mormont-Frauen sind Leibwechsler. Wir verwandeln uns in Bären und suchen uns Bettgefährten im Wald. Das weiß doch jeder.\"",
         "name": "Alysane Mormont",
-        "text": "No attachments except <i>Weapon</i>.\nWhile each character you control has the [stark] affiliation, Alysane Mormont gains stealth during [military] challenges and does not kneel when declared as an attacker in a [military] challenge.",
-        "traits": "House Mormont. Lady."
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nSolange jeder Charakter, den du kontrollierst, die [stark]-Fraktionszugehörigkeit hat, erhält Alysane Mormont während  [military]-Herausforderungen Heimlich und wird nicht gebeugt, sobald sie bei einer [military]-Herausforderung zum Angreifer deklariert wird.",
+        "traits": "Haus Mormont. Lady."
     },
     {
         "code": "13002",
         "flavor": "",
-        "name": "Old Gate",
-        "text": "Limited.\n<b>Challenges Action:</b> If each character you control has the [stark] affiliation, sacrifice Old Gate to draw 2 cards.\n+1 Income.",
-        "traits": "King's Landing."
+        "name": "Altes Tor",
+        "text": "Limitiert.\n<b>Herausforderungsaktion:</b> Falls jeder Charakter, den du kontrollierst, die [stark]-Fraktionszugehörigkeit hat, opfere Altes Tor, um 2 Karten zu ziehen.\nGoldwert +1.",
+        "traits": "Königsmund."
     },
     {
         "code": "13003",
-        "flavor": "\"When the sun has set, no candle can replace it.\"",
-        "name": "The Knight of Flowers",
-        "text": "Shadow (5). Renown.\n<b>Reaction:</b> After a card you control comes out of shadows, choose and stand a <i>Kingsguard</i> character. (Limit twice per round.)",
-        "traits": "Kingsguard. Knight."
+        "flavor": "\"Wenn die Sonne gesunken ist, kann keine Kerze sie ersetzen.\"",
+        "name": "Der Ritter der Blumen",
+        "text": "Schatten (5). Ruhmreich.\n<b>Reaktion:</b> Nachdem eine Karte, die du kontrollierst, aus den Schatten getreten ist, wähle einen <i>Königsgarde</i>-Charakter und richte ihn auf. (Nur zwei Mal pro Runde.)",
+        "traits": "Königsgarde. Ritter."
     },
     {
         "code": "13004",
         "flavor": "",
-        "name": "Gate of the Gods",
-        "text": "Limited.\n<b>Challenges Action:</b> If you control a character with the highest STR in play, sacrifice Gate of the Gods to draw 2 cards.\n+1 Income.",
-        "traits": "King's Landing. The Seven."
+        "name": "Tor der Götter",
+        "text": "Limitiert.\n<b>Herausforderungsaktion:</b> Falls du einen der Charaktere mit der höchsten Stärke im Spiel kontrollierst, opfere Tor der Götter, um 2 Karten zu ziehen.\nGoldwert +1.",
+        "traits": "Königsmund. Die Sieben."
+    },
+    {
+        "code": "13005",
+        "flavor": "",
+        "name": "Älterer Handwerker",
+        "text": "Keine Verstärkungen.\n<b>Reaktion:</b> Nachdem Älterer Handwerker ins Spiel gekommen ist, suche in den obersten 10 Karten deines Decks nach einem [thenightswatch]-Ort mit aufgedruckten Kosten von 2 oder weniger und bringe ihn ins Spiel. Mische dein Deck.",
+        "traits": "Baumeister."
+    },
+    {
+        "code": "13006",
+        "flavor": "",
+        "name": "Gasse in Flohloch",
+        "text": "Limitiert.\n<b>Aufmarschaktion:</b> Beuge und opfere Gasse in Flohloch, um einen [thenightswatch]-Charakter mit aufgedruckten Kosten von 3 oderweniger von deiner Hand ins Spiel zu bringen. Dann ziehe 1 Karte.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "13007",
+        "flavor": "",
+        "name": "Unterwanderer des R'hllor",
+        "text": "<b>Herrschaftsaktion:</b> Beuge Unterwanderer des R'hllor, um einen Gegner zu wählen. Gib dem gewählten Spieler die Kontrolle über Unterwanderer des R'hllor und erhalte 1 Macht für deine Fraktion.",
+        "traits": "R'hllor. Spion."
     },
     {
         "code": "13008",
         "flavor": "",
-        "name": "King's Gate",
-        "text": "Limited.\n<b>Challenges Action:</b> If you have 5 or more power on your faction card, sacrifice King's Gate to draw 2 cards.\n+1 Income.",
-        "traits": "King's Landing."
+        "name": "Königstor",
+        "text": "Limitiert.\n<b>Herausforderungsaktion:</b> Falls du  5 oder mehr Macht auf deiner Fraktionskarte hast, opfere Königstor, um 2 Karten zu ziehen.\nGoldwert +1.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "13009",
+        "flavor": "",
+        "name": "Ser Mandon Moor",
+        "text": "Schatten (3).\n<b>Reaktion:</b> Nachdem Ser Mandon Moor aus den Schatten getreten ist, wähle einen Gegner. Der gewählte Spieler muss einen Charakter, den er kontrolliert, wählen und töten, es sei denn, er wählt 2 Karten von seiner Hand und legt sie ab.",
+        "traits": "Königsgarde. Ritter."
+    },
+    {
+        "code": "13010",
+        "flavor": "",
+        "name": "Löwentor",
+        "text": "Limitiert.\n<b>Herausforderungsaktion:</b> Falls du 2 oder mehr Karten in den Schatten kontrollierst, opfere Löwentor, um 2 Karten zu ziehen.\nGoldwert +1.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "13011",
+        "flavor": "\"Der Alte Weg ist tot.\"",
+        "name": "Baelor Schwarzfluth",
+        "text": "Jeder Gegner kann keine Kopien von Ereignissen spielen, die sich in seinem Ablagestapel befinden.",
+        "traits": "Kapitän. Die Sieben."
+    },
+    {
+        "code": "13012",
+        "flavor": "",
+        "name": "Eisentor",
+        "text": "Limitiert.\n<b>Herausforderungsaktion:</b> Falls du der Startspieler bist, opfere Eisentor, um 2 Karten zu ziehen.\nGoldwert +1.",
+        "traits": "Königsmund."
     },
     {
         "code": "13013",
         "flavor": "",
         "name": "Viserion",
-        "text": "Ambush (5). No attachments.\n<b>Reaction:</b> After you win a challenge in which Viserion is attacking, discard 1 card from your hand to have Viserion gain intimidate until the end of the challenge.",
-        "traits": "Dragon."
+        "text": "Hinterhalt (5). Keine Verstärkungen.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Viserion angreift, lege 1 Karte von deiner Hand ab, um Viserion bis zum Ende der Herausforderung Einschüchternd erhalten zu lassen.",
+        "traits": "Drache."
+    },
+    {
+        "code": "13014",
+        "flavor": "",
+        "name": "Drachentor",
+        "text": "Limitiert.\n<b>Herausforderungsaktion:</b> Falls du 2 oder mehr Verstärkungen kontrollierst, opfere Drachentor, um 2 Karten zu ziehen.\nGoldwert +1.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "13015",
+        "flavor": "",
+        "name": "Südländische Eskorte",
+        "text": "Schatten (4).\n<b>Aktion:</b> Lege eine andere Karte aus den Schatten ab, um Südländische Eskorte aus den Schatten ins Spiel zu bringen.",
+        "traits": "Verbündeter. Garde."
+    },
+    {
+        "code": "13016",
+        "flavor": "",
+        "name": "Flusstor",
+        "text": "Limitiert.\n<b>Herausforderungsaktion:</b> Falls du in dieser Phase 2 oder mehr Herausforderungen verloren hast, opfere Flusstor, um 2 Karten zu ziehen.\nGoldwert +1.",
+        "traits": "Königsmund."
     },
     {
         "code": "13017",
         "flavor": "",
-        "name": "Littlefinger",
-        "text": "Shadow (6). Stealth.\n<b>Reaction:</b> After a character you control comes out of shadows, place up to 3 cards from your hand on the bottom of your deck in any order. Then, draw that many cards. (Limit once per round.)",
-        "traits": "Ally. Lord. Small Council."
+        "name": "Kleinfinger",
+        "text": "Schatten (6). Heimlich.\n<b>Reaktion:</b> Nachdem ein Charakter, den du kontrollierst, aus den Schatten getreten ist, lege bis zu 3 Karten in beliebiger Reihenfolge unter dein Deck. Dann ziehe genauso viele Karten. (Nur ein Mal pro Runde.)",
+        "traits": "Verbündeter. Lord. Kleiner Rat."
+    },
+    {
+        "code": "13018",
+        "flavor": "",
+        "name": "Turm der weißen Schwerter",
+        "text": "Jeder <i>Königsgarde</i>-Charakter, den du kontrollierst, bekommt +1 Stärke.\nJeder Spieler, der keinen <i>Königsgarde</i>-Charakter kontrolliert, kann nicht mehr als 1 Ereignis pro Phase spielen.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "13019",
+        "flavor": "",
+        "name": "Die Stadt der Geheimnisse",
+        "text": "<b>Sobald aufgedeckt:</b> Jeder Spieler zieht 2 Karten. Dann wählt jeder Spieler ohne eine <i>Stadt</i>-Strategiekarte in seinem Archiv 2 Karten von seiner Hand und legt sie ab.",
+        "traits": "Stadt."
     },
     {
         "code": "13020",
         "flavor": "",
-        "name": "At the Gates",
-        "text": "<b>When Revealed:</b> Search your deck for a limited location with printed cost 1 or lower, reveal it, and add it to your hand (put it into play instead if there are no <i>City</i> plot cards in your used pile). Shuffle your deck.",
-        "traits": "City. Kingdom."
+        "name": "Vor den Toren",
+        "text": "<b>Sobald aufgedeckt:</b> Suche in deinem Deck nach einem limitierten Ort mit aufgedruckten Kosten von 1 oder weniger, decke ihn auf und nimm ihn auf deine Hand. (Falls keine <i>Stadt</i>-Strategiekarten in deinem Archiv sind, bringe ihn stattdessen ins Spiel). Mische dein Deck.",
+        "traits": "Stadt. Königreich."
     }
 ]

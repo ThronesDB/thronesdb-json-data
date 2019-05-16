@@ -1,58 +1,145 @@
 [
     {
         "code": "13021",
-        "flavor": "... still called the Smalljon though he threatened to overtop his father.",
-        "name": "Smalljon Umber",
-        "text": "Renown.\nSmalljon Umber gets -1 STR for each plot card in your used pile.",
-        "traits": "House Umber. Lord."
+        "flavor": "... der immer noch Kleinjon genannt wurde, obwohl er seinen Vater längst zu überragen drohte.",
+        "name": "Kleinjon Umber",
+        "text": "Ruhmreich.\nKleinjon Umber bekommt -1 Stärke für jede Strategiekarte in deinem Archiv.",
+        "traits": "Haus Umber. Lord."
     },
     {
         "code": "13022",
         "flavor": "",
-        "name": "No Surprises",
-        "text": "<b>Action:</b> Reveal your hand (of at least 1 card). Then, until the end of the phase, each opponent cannot play events or bring cards out of shadows.",
+        "name": "Keine Überraschungen",
+        "text": "<b>Aktion:</b> Decke deine Hand auf (mit mindestens 1 Karte). Dann kann jeder Gegner bis zum Ende der Phase keine Ereignisse spielen und keine Karten aus den Schatten holen.",
         "traits": ""
+    },
+    {
+        "code": "13023",
+        "designer": "Kartenentwurf von Brett Zeiler, Weltmeister im Buhurt 2010.",
+        "flavor": "",
+        "name": "Arroganter Bewerber",
+        "text": "Solange Arroganter Bewerber an einer Herausforderung teilnimmt, bekommt er +1 Stärke für jeden teilnehmenden Charakter, den ein Gegner kontrolliert.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Arroganter Bewerber alleine angreift, bekommt er 1 Macht für jeden verteidigenden Charakter (bis zu einem Maximum von 3 Macht).",
+        "traits": "Ritter."
+    },
+    {
+        "code": "13024",
+        "flavor": "",
+        "name": "Machtdemonstration",
+        "text": "<b>Herausforderungsaktion:</b> Behandle bis zum Ende der Phase jeden Charakter mit Stärke 3 oder weniger, als ob sein augedrucktes Textfeld leer wäre (mit Ausnahme von <i>Merkmalen</i>).",
+        "traits": ""
+    },
+    {
+        "code": "13025",
+        "flavor": "Als Owen der Ochse anfing, mit Flickfratz dem Narren zu tanzen, hallte lautes Gelächter durch das Gemäuer.",
+        "name": "Owen der Ochse",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nSolange Owen der Ochse an einer Herausforderung teilnimmt, steuert jeder Charakter mit mit mehr als 1 Herausforderungssymbol keine Stärke zu der Herausforderung bei.",
+        "traits": "Kämmerer."
     },
     {
         "code": "13026",
         "flavor": "",
-        "name": "Shadow of the Wall",
-        "text": "Shadow (0).\n<b>Action:</b> Choose and stand a character with 1 or fewer challenge icons. If there is a <i>Winter</i> plot card revealed, return Shadow of the Wall to your hand instead of placing it in your discard pile.",
+        "name": "Schatten der Mauer",
+        "text": "Schatten (0).\n<b>Aktion:</b> Wähle einen Charakter mit 1 oder weniger Herausforderungssymbolen und richte ihn auf. Falls es eine aufgedeckte <i>Winter</i>-Strategiekarte gibt, schicke Schatten der Mauer auf deine Hand zurück, anstatt diese Karte auf deine Ablagestapel zu legen.",
         "traits": ""
     },
     {
         "code": "13027",
         "flavor": "",
-        "name": "Red Keep Gaoler",
-        "text": "Shadow (4).\n<b>Action:</b> Move 2 power from your faction card to a [baratheon] character to put Red Keep Gaoler into play from shadows.",
-        "traits": "Ally. Guard."
+        "name": "Gefängniswärter des Roten Bergfrieds",
+        "text": "Schatten (4).\n<b>Aktion:</b> Verschiebe 2 Macht von deiner Fraktionskarte auf einen [baratheon]-Charakter, um Gefänginiswärter des Roten Bergfrieds aus den Schatten ins Spiel zu bringen.",
+        "traits": "Verbündeter. Garde."
+    },
+    {
+        "code": "13028",
+        "flavor": "",
+        "name": "Die Schwarzen Zellen",
+        "text": "Schatten (2).\n<b>Reaktion:</b> Nachdem eine Karte, die du kontrollierst, aus den Schatten getreten ist, beuge Die Schwarzen Zellen, um eine generischen Charakter zu wählen. Der gewählte Charakter kann bis zum Ende der Phase nicht gebeugt oder aufgerichtet werden.",
+        "traits": "Königsmund."
     },
     {
         "code": "13029",
         "flavor": "",
-        "name": "The Regent's Guard",
-        "text": "Shadow (4).\n<b>Action:</b> Return a [lannister] non-<i>Ally</i> character with printed cost 4 or higher to your hand to put The Regent's Guard into play from shadows.",
-        "traits": "Ally. Guard."
+        "name": "Die Regentengarde",
+        "text": "Schatten (4).\n<b>Aktion:</b> Schicke einen [lannister]-Nicht-<i>Verbündeter</i>-Charakter mit aufgedruckten Kosten von 4 oder weniger auf deine Hand zurück, um Die Regentengarde aus den Schatten ins Spiel zu bringen.",
+        "traits": "Verbündeter. Garde."
+    },
+    {
+        "code": "13030",
+        "flavor": "",
+        "name": "Lager der Pyromantiker",
+        "text": "Nur Orte.\nBehandle den verstärkten Ort, als ob sein aufgedrucktes Textfeld leer wäre (mit Ausnahme von <i>Merkmalen</i>).\nDer verstärkte Ort erhält: \"<b>Aktion:</b> Beuge diesen Ort, um 1 Karte zu ziehen.\"",
+        "traits": "Gegenstand."
+    },
+    {
+        "code": "13031",
+        "flavor": "Immer noch fiel es ihr schwer zu glauben, dass die gebrechliche , kränklich Lady Alysanne ihren so harten und starken Gemahl Lord Balon überlebt hatte.",
+        "name": "Alannys Graufreud",
+        "text": "<b>Reaktion:</b> Nachdem ein [greyjoy]-Ort unter deiner Kontrolle ins Spiel gekommen ist, ziehe 1 Karte. (Nur ein Mal pro Phase.)",
+        "traits": "Haus Harlau. Lady. Königin."
+    },
+    {
+        "code": "13032",
+        "flavor": "",
+        "name": "Nachtflieger",
+        "text": "Schatten (X).\n<b>Reaktion:</b> Nachdem Nachtflieger aus den Schatten getreten ist, wähle einen Ort mit aufgedruckten Kosten von X oder weniger und lege ihn aus dem Spiel ab.\nInitiativewert +1.",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "13033",
+        "flavor": "",
+        "name": "Schwarzmarkthändlerin",
+        "text": "Schatten (2).\n<b>Reaktion:</b> Nachdem Schwarzmarkthändlerin aus den Schatten getreten ist, suche in den obersten 10 Karten deines Decks nach einer Verstärkung mit aufgedruckten Kosten von 3 oder weniger und verstärke damit einen gültigen Charakter, den du kontrollierst. Mische dein Deck.",
+        "traits": "Händler."
     },
     {
         "code": "13034",
         "flavor": "",
-        "name": "Shadow of the East",
-        "text": "Shadow (0).\n<b>Action:</b> Choose an attachment and discard it from play. If there is a <i>Summer</i> plot card revealed, return Shadow of the East to your hand instead of placing it in your discard pile.",
+        "name": "Schatten des Ostens",
+        "text": "Schatten (0).\n<b>Aktion:</b> Wähle eine Verstärkung und lege sie aus dem Spiel ab. Falls es eine aufgedeckte <i>Sommer</i>-Strategiekarte gibt, schicke Schatten des Ostens auf deine Hand zurück, anstatt diese Karte auf deinen Ablagestapel zu legen.",
         "traits": ""
+    },
+    {
+        "code": "13035",
+        "flavor": "\"...Nym steht den Vogler-Zwillingen zu nahe. Und wer würde den Vogler-Zwillingen etwas anvertrauen wollen? Ich konnte das Risiko nicht eingehen.\" <cite>Doran Martell</cite>",
+        "name": "Die Vogler-Zwillinge",
+        "text": "<b>Aktion:</b> Wähle einen Charakter. Der gewählte Charakter muss falls möglich bei der nächsten in dieser Phase intiierten Herausforderung zum Angreifer oder Verteidiger deklariert werden. (Nur ein Mal pro Phase.)",
+        "traits": "Gefährte."
     },
     {
         "code": "13036",
         "flavor": "",
-        "name": "Shadow of the South",
-        "text": "Shadow (1).\n<b>Action:</b> Choose a character. Until the end of the phase, that character loses a challenge icon of your choice. If there is a <i>Scheme</i> plot card revealed, return Shadow of the South to your hand instead of placing it in your discard pile.",
+        "name": "Schatten des Südens",
+        "text": "Schatten (1).\n<b>Aktion:</b> Wähle einen Charakter. Der gewählte Charakter verliert bis zum Ende der Phase ein Herausforderungssymbol deiner Wahl. Falls es eine aufgedeckte <i>Komplott</i>-Strategiekarte gibt, schicke Schatten des Südens auf deine Hand zurück, anstatt diese Karte auf deinen Ablagestapel zu legen.",
         "traits": ""
+    },
+    {
+        "code": "13037",
+        "designer": "Kartenentwurf von Matthew Ley, Weltmeister 2006.",
+        "flavor": "",
+        "name": "Geist von Hochherz",
+        "text": "Solange du keine loyalen Charaktere kontrollierst, bekommt jeder Charakter, den du kontrollierst, +1 Stärke.\n<b>Herausforderungsaktion:</b> Beuge Geist von Hochherz, um dir die Hand eines Spielers anzusehen. Wähle 1 Karte von der angesehenen Hand und lege sie ab. Dann zieht der Spieler eine Karte.",
+        "traits": "Verbündeter. Bruderschaft."
     },
     {
         "code": "13038",
         "flavor": "",
-        "name": "Shadow Politics",
-        "text": "Shadow (1).\n<b>Action:</b> Choose one:\n- Choose and discard 1 card from shadows.\n- Choose up to 5 cards in a single discard pile and remove them from the game.\n- Look at an opponent's hand.",
+        "name": "Schattenpolitik",
+        "text": "Schatten (1).\n<b>Aktion:</b> Wähle 1:\n- Wähle 1 Karte in dne Schatten und lege sie ab.\n- Wähle bis zu 5 Karten aus einem einzigen Ablagestapel und entferne sie aus dem Spiel.\n- Sieh dir die Hand eines Gegners an.",
         "traits": ""
+    },
+    {
+        "code": "13039",
+        "designer": "Kartenentwurf von Greg Atkinson, Weltmeister im Tjost 2009.",
+        "flavor": "",
+        "name": "Ritter des Hohlen Hügels",
+        "text": "Du kannst während des Aufbaus keine Karten platzieren. Deine anderen Karten gewähren dir keinen Gold-Bonus.\nGoldwert +3. Initiativewert +2. Reservewert +1.",
+        "traits": ""
+    },
+    {
+        "code": "13040",
+        "flavor": "",
+        "name": "Eine belagerte Stadt",
+        "text": "<b>Sobald aufgedeckt:</b> Wähle und beuge einen Ort. (Falls eine <i>Stadt</i>-Strategiekarte in deinem Archiv ist, wähle und beuge stattdessen bis zu 2 Orte.)",
+        "traits": "Stadt. Belagerung."
     }
 ]

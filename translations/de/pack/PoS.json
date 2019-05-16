@@ -1,0 +1,58 @@
+[
+    {
+        "code": "13041",
+        "flavor": "",
+        "name": "Eddard Stark",
+        "text": "Renown.\n<b>Dominance Action:</b> If each character you control has the [stark] affiliation, kneel Eddard Stark to choose and kill a character with a printed cost 4 or lower. (Limit once per phase.)",
+        "traits": "Lord. Small Council."
+    },
+    {
+        "code": "13042",
+        "flavor": "",
+        "name": "Malleon's Tome",
+        "text": "Shadow (1).\nAttached character gains an [intrigue] icon.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, look at the losing opponent's hand. If attached character is Eddard Stark or has the <i>Maester</i> trait, stand it. (Limit once per phase.)",
+        "traits": "Citadel. Item."
+    },
+    {
+        "code": "13043",
+        "flavor": "Maester Gormon sat below the iron mask in Walgrave's place, the same Gormon who had accused Pate of theft.",
+        "name": "Maester Gormon",
+        "text": "You may look at the top card of your deck.\nOnce per phase, if the top card of your deck is a non-[tyrell] card, you may marshal or play it as if it were in your hand.",
+        "traits": "Maester."
+    },
+    {
+        "code": "13050",
+        "flavor": "Hands of gold are always cold, but a woman's hands are warm.",
+        "name": "\"Hands of Gold\"",
+        "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR as the attacking player, choose a character controlled by the losing opponent and return it to its owner's hand. (Max 1 per challenge.)",
+        "traits": "Song."
+    },
+    {
+        "code": "13055",
+        "flavor": "",
+        "name": "Arianne Martell",
+        "text": "Shadow (5). Stealth.\n<b>Reaction:</b> After a card comes out of shadows under your control, choose a character. Until the end of the phase, that character loses a challenge icon of your choice. (Limit 3 times per round.)",
+        "traits": "Lady."
+    },
+    {
+        "code": "13057",
+        "flavor": "",
+        "name": "The Most Devout",
+        "text": "No attachments except <i>The Seven</i>.\n<b>Reaction:</b> After a character enters play under an opponent's control, if another character has entered play under that player's control this phase, The Most Devout gains 1 power. (Limit once per phase.)",
+        "traits": "The Seven."
+    },
+    {
+        "code": "13058",
+        "flavor": "",
+        "name": "Statue of Baelor",
+        "text": "<b>Action:</b> Kneel Statue of Baelor and discard 1 power from another character or location you control to stand that character or location.",
+        "traits": "King's Landing. The Seven."
+    },
+    {
+        "code": "13059",
+        "flavor": "",
+        "name": "The Faith's Decree",
+        "text": "Play only if you control a <i>The Seven</i> character or location.\n<b>Action:</b> Name a non-agenda, non-plot card. Until the end of the phase, each opponent cannot trigger card abilities of cards with that name.",
+        "traits": "The Seven."
+    }
+]
