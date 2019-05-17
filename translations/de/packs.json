@@ -12,8 +12,12 @@
         "name": "Die Sieben Königslande"
     },
     {
+        "code": "BtRK",
+        "name": "Unter dem Roten Bergfried"
+    },
+    {
         "code": "CoS",
-        "name": "City of Secrets"
+        "name": "Die Stadt der Geheimnisse"
     },
     {
         "code": "CoW",
@@ -38,6 +42,10 @@
     {
         "code": "FotOG",
         "name": "Die Gunst der Alten Götter"
+    },
+    {
+        "code": "FotS",
+        "name": "Zorn des Sturms"
     },
     {
         "code": "GoH",
@@ -82,6 +90,10 @@
     {
         "code": "OR",
         "name": "Oberyns Rache"
+    },
+    {
+        "code": "PoS",
+        "name": "Schlangengrube"
     },
     {
         "code": "SAT",
