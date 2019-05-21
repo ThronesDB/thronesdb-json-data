@@ -88,6 +88,28 @@
         "type_code": "character"
     },
     {
+        "code": "14005",
+        "cost": "5",
+        "deck_limit": 3,
+        "faction_code": "baratheon",
+        "flavor": "\"Good ser, it is gold I crave, not words on papers.\"",
+        "illustrator": "Diego Gisbert Llorens",
+        "is_intrigue": true,
+        "is_loyal": false,
+        "is_military": true,
+        "is_power": true,
+        "is_unique": true,
+        "name": "Salladhor Saan",
+        "octgn_id": null,
+        "pack_code": "FotS",
+        "position": 5,
+        "quantity": 3,
+        "strength": 3,
+        "text": "<b>Reaction:</b> After you marshal a <i>Smuggler</i> character, choose and kneel a location. Then, gain gold equal to that location's printed cost. (Limit once per round.)",
+        "traits": "Captain. Smuggler.",
+        "type_code": "character"
+    },
+    {
         "code": "14007",
         "cost": "4",
         "deck_limit": 3,
