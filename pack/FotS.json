@@ -17,7 +17,7 @@
         "position": 1,
         "quantity": 3,
         "strength": 5,
-        "text": "Renown.\n<b>Reaction:</b> After the standing phase begins (choose one):\n-other characters with printed cost 5 or higher cannot stand this phase.\n-characters with printed cost 4 or lower cannot stand this phase.\n-locations cannot stand this phase.",
+        "text": "Renown.\n<b>Reaction:</b> After the standing phase begins (choose one):\n- other characters with printed cost 5 or higher cannot stand this phase.\n- characters with printed cost 4 or lower cannot stand this phase.\n- locations cannot stand this phase.",
         "traits": "Lord. King.",
         "type_code": "character"
     },
@@ -401,7 +401,7 @@
         "pack_code": "FotS",
         "position": 19,
         "quantity": 3,
-        "text": "<b>Action:</b> Kneel Lyseni Galley to choose a  character. Until the end of the phase, that character gets +1 STR. If that character is a <i>Captain</i> or <i>Smuggler</i>, it gains stealth until the end of the phase.",
+        "text": "<b>Action:</b> Kneel Lyseni Galley to choose a character. Until the end of the phase, that character gets +1 STR. If that character is a <i>Captain</i> or <i>Smuggler</i>, it gains stealth until the end of the phase.",
         "traits": "Warship.",
         "type_code": "location"
     },
@@ -731,7 +731,7 @@
         "pack_code": "FotS",
         "position": 36,
         "quantity": 3,
-        "text": "Max 1 per character.\nWhile attached character is attacking, it gets +1 STR (+3 STR instead if it has the <i>Dothraki</i> trait).\n<em>Errata from FAQ v2.2</em>",
+        "text": "Limit 1 copy per character.\nWhile attached character is attacking, it gets +1 STR (+3 STR instead if it has the <i>Dothraki</i> trait).\n<em>Errata from FAQ v2.2</em>",
         "traits": "Warhorse.",
         "type_code": "attachment"
     },
@@ -936,7 +936,7 @@
     {
         "claim": 1,
         "code": "14047",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
         "illustrator": "Tom Garden",
@@ -950,7 +950,7 @@
         "position": 47,
         "quantity": 3,
         "reserve": 5,
-        "text": "<b>Interrupt:</b> When the effects of a when revealed ability would initiate, kneel your faction card and a unique <i>Maester</i> character to cancel those effects.\nPlot deck limit: 1",
+        "text": "<b>Interrupt:</b> When the effects of a when revealed ability would initiate, kneel your faction card and a unique <i>Maester</i> character to cancel those effects.",
         "traits": "Scheme.",
         "type_code": "plot"
     },
