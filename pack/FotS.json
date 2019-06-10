@@ -632,7 +632,7 @@
         "pack_code": "FotS",
         "position": 31,
         "quantity": 3,
-        "strength": "f80d5b2e-7095-4b71-bf74-171eaeeabf62",
+        "strength": null,
         "text": "No attachments.\nX is your reserve value.",
         "traits": "Army.",
         "type_code": "character"
