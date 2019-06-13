@@ -344,6 +344,14 @@
         "size": 20
     },
     {
+        "cgdb_id": 51,
+        "code": "LMHR",
+        "cycle_code": "landing",
+        "date_release": null,
+        "name": "Long May He Reign",
+        "size": 20
+    },
+    {
         "cgdb_id": 52,
         "code": "FotS",
         "cycle_code": "storm",
