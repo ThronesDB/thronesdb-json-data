@@ -275,7 +275,7 @@
         "pack_code": "BtRK",
         "position": 74,
         "quantity": 3,
-        "text": "[targaryen] character only. Shadow (2).\nWhile there are no <i>Dragon</i> characters in play, attached character gets intimidate and renown.",
+        "text": "[targaryen] character only. Shadow (2).\nWhile there are no <i>Dragon</i> characters in play, attached character gains intimidate and renown.",
         "traits": "Item.",
         "type_code": "attachment"
     },
@@ -350,7 +350,7 @@
         "illustrator": "Aleksander Karcz",
         "is_loyal": false,
         "is_unique": false,
-        "name": "Knights of the mind",
+        "name": "Knights of the Mind",
         "octgn_id": null,
         "pack_code": "BtRK",
         "position": 78,
@@ -393,7 +393,7 @@
         "position": 80,
         "quantity": 3,
         "reserve": 5,
-        "text": "Initiate the when revealed ability of a <i>City</i> plot card in your used pile as if you had just revealed it.",
+        "text": "<b>When Revealed:</b> Initiate the when revealed ability of a <i>City</i> plot card in your used pile as if you had just revealed it.",
         "traits": "City. Scheme.",
         "type_code": "plot"
     }
