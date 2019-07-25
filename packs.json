@@ -358,5 +358,13 @@
         "date_release": "2019-06-06",
         "name": "Fury of the Storm",
         "size": 52
+    },
+    {
+        "cgdb_id": 53,
+        "code": "DotE",
+        "cycle_code": "dragons",
+        "date_release": null,
+        "name": "Dragons of the East",
+        "size": 52
     }
 ]
