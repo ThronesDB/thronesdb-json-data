@@ -73,5 +73,10 @@
         "code": "storm",
         "name": "Fury of the Storm",
         "size": 1
+    },
+    {
+        "code": "dragons",
+        "name": "Dragons of the East",
+        "size": 1
     }
 ]
