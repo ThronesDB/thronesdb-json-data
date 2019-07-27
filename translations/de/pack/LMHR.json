@@ -1,0 +1,44 @@
+[
+    {
+        "code": "13101",
+        "flavor": "",
+        "name": "Arya Stark",
+        "text": "Shadow (4). Stealth.\n<b>Reaction:</b> After Arya Stark enters play, place a prayer token on up to 5 different characters you don't control. If Arya Stark leaves play, discard those tokens.\n<b>Reaction:</b> After a character with a prayer token is killed, stand Arya Stark and draw 1 card.",
+        "traits": "Lady."
+    },
+    {
+        "code": "13102",
+        "flavor": "",
+        "name": "Blood of the First Men",
+        "text": "Character you control only.\nAttached character gains the <i>Old Gods</i> trait.\n<b>Action:</b> During a challenge in which you control a participating [stark] character, kneel attached character to have it participate in the challenge on your side.",
+        "traits": "Legacy. Old Gods."
+    },
+    {
+        "code": "13107",
+        "flavor": "\"I swear to you, I was never so alive as when I was winning this throne, or so dead now that I've won it.\"",
+        "name": "Robert Baratheon",
+        "text": "Renown.\n<b>Reaction:</b> After Robert Baratheon gains power, gain 1 power for your faction. (Limit twice per round.)",
+        "traits": "Lord. King."
+    },
+    {
+        "code": "13108",
+        "flavor": "",
+        "name": "Long May He Reign",
+        "text": "<i>King</i> character only.\nAttached character cannot be killed.\n<b>Forced Reaction:</b> After you lose a [power] challenge as the defending player, sacrifice Long May He Reign.",
+        "traits": "Legacy."
+    },
+    {
+        "code": "13113",
+        "flavor": "",
+        "name": "Ser Jorah Mormont",
+        "text": "Shadow (4). No attachments except <i>Weapon</i>.\n<b>Interrupt:</b> When Ser Jorah Mormont is discarded from your hand, put him into shadows instead of placing him in your discard pile.",
+        "traits": "Companion. Knight."
+    },
+    {
+        "code": "13114",
+        "flavor": "",
+        "name": "Mercenary Contract",
+        "text": "Attached character gains the <i>Mercenary</i> trait.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, pay 1 gold and kneel Mercenary Contract to stand attached character.",
+        "traits": "Item."
+    }
+]

@@ -3,77 +3,364 @@
         "code": "14001",
         "flavor": "",
         "name": "Robert Baratheon",
-        "text": "Renown.\n<b>Reaction:</b> After the standing phase begins (choose one):\n- other characters with printed cost 5 or higher cannot stand this phase.\n- characters with printed cost 4 or lower cannot stand this phase.\n- locations cannot stand this phase.",
-        "traits": "Lord. King."
+        "text": "Ruhmreich.\n<b>Reaktion:</b> Nachdem die Aufrichtphase begonnen hat, wähle 1:\n- Andere Charaktere mit aufgedruckten Kosten von 5 oder höher können in dieser Phase nicht aufgerichtet werden.\n- Charaktere mit aufgedruckten Kosten von 4 oder weniger können in dieser Phase nicht aufgerichtet werden.\n- Orte können in dieser Phase nicht aufgerichtet werden.",
+        "traits": "Lord. König."
     },
     {
         "code": "14002",
-        "flavor": "\"I never asked for this crown.\"",
+        "flavor": "\"Um diese Krone habe ich niemals gebeten.\"",
         "name": "Stannis Baratheon",
-        "text": "Immune to opponents' events.\n<b>Reaction:</b> After you win a [power] challenge, draw X cards. X is the claim value on the attacking player's revealed plot card.",
-        "traits": "Lord. King. R'hllor."
+        "text": "Immun gegen gegnerische Ereignisse.\n<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung gewonnen hast, ziehe X Karten. X ist der Schadenswert der aufgedeckten Strategiekarte des angreifenden Spielers.",
+        "traits": "Lord. König. R'hllor."
     },
     {
         "code": "14003",
         "flavor": "",
         "name": "Melisandre",
-        "text": "Stealth.\n<b>Reaction:</b> After you win an [intrigue] challenge in which Melisandre is attacking, move 1 power from a character controlled by the losing opponent to Melisandre. Then, if that character has no power, kill it.",
+        "text": "Heimlich.\n<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung gewonnen hast, in der Melisandre angreift, verschiebe 1 Macht von einem Charakter, den der verlierende Gegner kontrolliert, auf Melisandre. Dann töte jenen Charakter, falls er keine Macht hat.",
         "traits": "Lady. R'hllor."
     },
     {
         "code": "14004",
-        "flavor": "\"Tyrell swords will make me king.\"",
+        "flavor": "\"Tyrells Schwerter machen mich zum König.\"",
         "name": "Renly Baratheon",
-        "text": "Renown.\n<b>Action:</b> Kneel your faction card to put a non-[baratheon] character with printed cost X or lower into play from your hand. X is Renly Baratheon's STR.",
-        "traits": "Lord. King."
+        "text": "Ruhmreich.\n<b>Aktion:</b> Beuge deine Fraktionskarte, um einen Nicht-[baratheon]-Charakter mit aufgdedruckten Kosten von X oder weniger von deiner Hand ins Spiel zu bringen. X ist Renly Baratheons Stärke.",
+        "traits": "Lord. König."
+    },
+    {
+        "code": "14005",
+        "flavor": "\"Guter Ser, ich sehne mich nach Gold, nicht nach Worten auf Papier.\"",
+        "name": "Salladhor Saan",
+        "text": "<b>Reaktion:</b> Nachdem du einen <i>Schmuggler</i>-Charakter aufmarschieren lassen hast, wähle einen Ort und beuge ihn. Dann erhältst du Gold in Höhe der aufgedruckten Kosten des Ortes. (Nur ein Mal pro Runde.)",
+        "traits": "Kapitän. Schmuggler."
+    },
+    {
+        "code": "14006",
+        "flavor": "",
+        "name": "Ser Davos Seewert",
+        "text": "Heimlich.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Ser Davos Seewert teilnimmt, lege 1 Macht von der Fraktionskarte des verlierenden Gegners ab. Dann darfst du einen <i>König</i>-Charakter, den du kontrollierst, 1 Macht erhalten lassen.",
+        "traits": "Ritter. Schmuggler. Die Sieben."
+    },
+    {
+        "code": "14007",
+        "flavor": "\"Stannis Baratheon wird niemals auf dem Eisernen Thron sitzen. Ist es Verrat, die Wahrheit auszusprechen? Eine bittere Wahrheit, aber nichtsdestotrotz die Wahrheit.\"",
+        "name": "Alester Florent",
+        "text": "<b>Reaktion:</b> Nachdem ein <i>Haus Florent</i>-Charakter ins Spiel gekommen ist, ziehe 1 Karte. (Nur ein Mal pro Runde.)\n<b>Unterbrechung:</b> Sobald Alester Florent das Spiel verlässt, wähle und beuge einen Charakter, den ein Gegner kontrolliert, falls du einen anderen <i>R'hllor</i>-Charakter kontrollierst.",
+        "traits": "Haus Florent. Lord. R'hllor."
+    },
+    {
+        "code": "14008",
+        "flavor": "\"Eine Königin sollte Herrin sein unter ihrem eigenen Dach.\"",
+        "name": "Selyse Baratheon",
+        "text": "Reduziere die Kosten jeder <i>R'hllor</i>-Verstärkung, die du aufmarschieren lässt, um 3.",
+        "traits": "Haus Florent. Lady. Königin. R'hllor."
+    },
+    {
+        "code": "14009",
+        "flavor": "Der Greifenhorst war stark, aber klein...",
+        "name": "Ritter vom Greifenhorst",
+        "text": "<b>Unterbrechung:</b> Sobald die Herausforderungsphase endet, richte Ritter vom Greifenhorst auf, falls du in dieser Phase keine [power]-Herausforderung verloren hast.",
+        "traits": "Haus Connington. Ritter."
+    },
+    {
+        "code": "14010",
+        "flavor": "\"Euer Sohn Dael wird mit der Gespenst nach Süden in See stechen, am Zornkap und dem Gebrochenen Arm vorbei die Küste von Dorne entlang bis zum Arbor segeln.\" <cite>Stannis Baratheon</cite>",
+        "name": "Dael Seewert",
+        "text": "<b>Reaktion:</b> Nachdem du Dael Seewert aufmarschieren lassen hast, wähle einen [baratheon]-Ort in deinem Ablagestapel und schicke ihn auf deine Hand zurück.",
+        "traits": "Kapitän."
+    },
+    {
+        "code": "14011",
+        "flavor": "Bei einer vierfachen Übermacht gegenüber den Schiffen des Knabenkönigs sah Ser Imry keinerlei Veranlassung zur Vorsicht oder zu Täuschermanövern.",
+        "name": "Ser Imry Florent",
+        "text": "<b>Aktion:</b> Töte Ser Imry Florent, um einen Gegner zu wählen. Du darfst eine beliebige Anzahl Orte opfern. Für jeden auf diese Weise geopferten Ort muss der gewählte Gegner einen aufrechten Charakter, den er kontrolliert, wählen und beugen.",
+        "traits": "Haus Florent. Ritter."
     },
     {
         "code": "14012",
-        "flavor": "The red priest lit their fires every day at sunset, to thank R'hllor for the day just ending, and beg him to send his sun back on the morrow to banish the gathering darkness.",
-        "name": "Red Priest",
-        "text": "<b>Reaction:</b> After Red Priest enters play, look at an opponent's hand. Then, choose 1 card in that hand and remove it from the game until Red Priest leaves play.",
+        "flavor": "Die Roten Priester zündeten ihre Feuer jeden Tag bei Sonnenuntergang an, um R'hllor für den gerade zu Ende gegangenen Tag zu danken und ihn zu bitten, am Morgen erneut die Sonne zu schicken und die Finsternis zu vertreiben.",
+        "name": "Roter Priester",
+        "text": "<b>Reaktion:</b> Nachdem Roter Priester ins Spiel gekommen ist, sieh dir die Hand eines Gegners an. Wähle dann 1 Karte von jener Hand und entferne sie aus dem Spiel, bis Roter Priester das Spiel verlässt.",
         "traits": "R'hllor."
     },
     {
+        "code": "14013",
+        "flavor": "",
+        "name": "Shyra Errol",
+        "text": "<b>Unterbrechung:</b> Sobald ein Charakter getötet wird, opfere Shyra Errol, um alle Macht von jenem Charakter auf die Fraktionskarte des Spielers zu verschieben, der jenen Charakter kontrolliert.",
+        "traits": "Lady."
+    },
+    {
         "code": "14014",
-        "flavor": "\"Any cat may stare into a fire and see red mice at play.\" <cite>Melisandre</cite>",
-        "name": "Acolyte of the Flame",
-        "text": "<b>Reaction:</b> After the draw phase begins, kneel Acolyte of the Flame to look at the top 2 cards of an opponent's deck. You may put those cards on the bottom of that player's deck.",
-        "traits": "Ally. R'hllor."
+        "flavor": "\"Jede Katze kann in ein Feuer starren und dort rote Mäuse spielen sehen.\" <cite>Melisandre</cite>",
+        "name": "Jüngerin der Flammen",
+        "text": "<b>Reaktion:</b> Nachdem die Nachziehphase begonnen hat, beuge Jüngerin der Flammen, um dir die obersten 2 Karten vom Deck eines Gegners anzusehen. Du darfst die angesehenen Karten unter das Deck jenes Spielers legen.",
+        "traits": "Verbündeter. R'hllor."
+    },
+    {
+        "code": "14015",
+        "flavor": "\"Wenn man mit genügend Frauen ins Bett geht, geben manche einem Geschenke, und Seine Majestät war in dieser Hinsicht nie schüchtern.\" <cite>Kleinfinger</cite>",
+        "name": "Roberts Bastardtochter",
+        "text": "While you control Robert Baratheon, reduce the cost to marshal Bastard of Robert by 2.\n<b>Reaktion:</b> Nachdem Roberts Bastardtochter ins Spiel gekommen ist, ziehe 1 Karte, falls du einen <i>König</i>-Charakter kontrollierst.",
+        "traits": "Verbündeter. Bastard."
+    },
+    {
+        "code": "14016",
+        "flavor": "Ein Schmuggler musste die Menschen ebenso gut kennen wie die Gezeiten, sonst würde er als Schmuggler nicht überleben.",
+        "name": "Gerissener Schmuggler",
+        "text": "<b>Aktion:</b> Wähle 1 Karte von deiner Hand und lege sie oben auf dein Deck. Dann ziehe am Ende der Phase 1 Karte. (Nur ein Mal pro Runde.)",
+        "traits": "Schmuggler."
+    },
+    {
+        "code": "14017",
+        "flavor": "",
+        "name": "Die Sturmlande",
+        "text": "Während der Herausforderungsphase darfst du eine zusätzliche [power]-Herausforderung initiieren.\n<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung gewonnen hast, beuge Die Sturmlande, um einen teilnehmenden <i>König</i>- or <i>Königin</i>-Charakter zu wählen und aufzurichten.",
+        "traits": "Westeros."
+    },
+    {
+        "code": "14018",
+        "flavor": "... hätte er eine Landung auf dem Zornkap nicht gewagt, denn die Sturmlords waren dem Hause Baratheon und König Robert treu ergeben.",
+        "name": "Zornkap",
+        "text": "Während [power]-Herausforderungen, in denen du der angreifende oder verteidigende Spieler bist, erhöhe den Schadenswert der aufgedeckten Strategiekarte des angreifenden Spielers um 1.",
+        "traits": "Westeros."
+    },
+    {
+        "code": "14019",
+        "flavor": "Eins von Salladhor Saans Kriegsschiffen schoss an der Burg vorbei, und der in fröhlichen Farben gestreifte Rumpf schnitt durch das graugrüne Wasser, während die Ruder sich hoben und senkten.",
+        "name": "Lysenische Galeere",
+        "text": "<b>Aktion:</b> Beuge Lysenische Galeere, um einen Charakter zu wählen. Bis zum Ende der Phase bekommt der gewählte Charakter +1 Stärke. Falls jener Charakter ein <i>Kapitän</i> oder <i>Schmuggler</i> ist, erhält er bis zum Ende der Phase Heimlich.",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "14020",
+        "flavor": "",
+        "name": "Der wiedergeborene Azor Ahai",
+        "text": "Nur einzigartige Charaktere, die du kontrollierst. Vergänglich.\nDer verstärkte Charakter gilt bei jeder Herausforderung, in der du einen angreifenden <i>R'hllor</i>-Charakter kontrollierst, als teilnehmend.",
+        "traits": "Erbe. R'hllor."
+    },
+    {
+        "code": "14021",
+        "flavor": "\"Er hat den Keiler erlegt. Seine Eingeweide hingen aus dem Bauch, und dennoch hat er den Keiler irgendwie erlegt.\" <cite>Renly Baratheon</cite>",
+        "name": "Jagdunfall",
+        "text": "Hinterhalt (3). Vergänglich.\nDer verstärkte Charakter kann nicht aufgerichtet werden.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "14022",
+        "flavor": "Und Riesenkräfte besaß er auch. Seine Lieblingswaffe war ein dornbesetzter, eiserner Streithammer, den Ned kaum heben konnte.",
+        "name": "Streithammer",
+        "text": "Falls die aufgedruckte Stärke des verstärkten Charakters 4 oder weniger ist, bekommt er +2 Stärke.\nFalls die aufgedruckte Stärke des verstärkten Charakters 5 oder höher ist, erhält er Einschüchternd.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "14023",
+        "flavor": "",
+        "name": "\"Ein Fass voll Bier\"",
+        "text": "<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung gewonnen hast, wähle 2 Karten, die derselbe Spieler kontrolliert. Verschiebe bis zu 2 Macht von einer der gewählten Karten auf die andere.",
+        "traits": "Lied."
+    },
+    {
+        "code": "14024",
+        "flavor": "",
+        "name": "Nachtfeuervisionen",
+        "text": "Kann nur gespielt werden, falls du einen <i>R'hllor</i>-Charakter kontrollierst.\n<b>Abgabenaktion:</b> Benenne ein <i>Merkmal</i>. Falls ein Gegner während der nächsten Strategiephase eine Strategiekarte mit dem benannten <i>Merkmal</i> aufgedeckt, ziehe 3 Karten.",
+        "traits": "R'hllor."
+    },
+    {
+        "code": "14025",
+        "flavor": "",
+        "name": "Mannschaft der Botlins",
+        "text": "<b>Reaktion:</b> Nachdem ein Gegner sein Einkommen kassiert hat, schicke 1 Gold aus der Goldreserve jenes Spielers in die Schatzkammer zurück.",
+        "traits": "Haus Botlin. Plünderer."
+    },
+    {
+        "code": "14026",
+        "flavor": "... wunderte es keinen mehr, dass man seine Heimat das Land der zehntausend Könige nannte.",
+        "name": "Jeder Kapitän ist ein König",
+        "text": "<b>Aktion:</b> Bis zum Ende der Phase erhält jeder <i>Kapitän</i>-Charakter, den du kontrollierst, das Merkmal <i>König</i> und wird nicht gebeugt, sobald er bei [power]-Herausforderungen zum Angreifer deklariert wird.",
+        "traits": ""
+    },
+    {
+        "code": "14027",
+        "flavor": "\"Gregor ist ein sehr großer Mann. Und auch ein sehr dummer. Zu dumm, um zu wissen, wann er sterben soll, scheint er.\" <cite>Cersei Lannister</cite>",
+        "name": "Ser Gregor Clegane",
+        "text": "Einschüchternd. Brandschatzen.\n<b>Erzwungene Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Ser Gregor Clegane teilnimmt, wähle einen Charakter, den du kontrollierst, und töte ihn.",
+        "traits": "Ritter. Haus Clegane."
     },
     {
         "code": "14028",
-        "flavor": "Her hull was black and gold, her figurehead a lion with an upraised paw.",
-        "name": "Lionstar",
-        "text": "<b>Action:</b> Kneel Lionstar to put a [lannister] character with printed cost 4 or lower into play from your hand. At the end of the phase, if that card is still in play, discard it from play.",
-        "traits": "Warship."
+        "flavor": "Ihr Rumpf war schwarz und golden, ihre Galionsfigur stellte einen Löwen mit erhobener Pranke dar.",
+        "name": "Löwenstern",
+        "text": "<b>Aktion:</b> Beuge Löwenstern, um einen [lannister]-Charakter mit aufgedruckten Kosten von 4 oder weniger von deiner Hand ins Spiel zu bringen. Falls jene Karte am Ende der Phase immer noch im Spiel ist, lege sie aus dem Spiel ab.",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "14029",
+        "flavor": "",
+        "name": "Diener des Fürsten",
+        "text": "<b>Aufmarschaktion:</b> Beuge Diener des Fürsten, um die Kosten des nächsten [martell]-<i>Lord</i>- oder [martell]-<i>Lady</i>-Charakters, den du in dieser Phase aufmarschieren lässt, um 2 zu reduzieren.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "14030",
+        "flavor": "",
+        "name": "Königsgrab",
+        "text": "<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung um 5 oder mehr Stärke verloren hast, beuge und opfere Königsgrab, um einen teilnehmenden Charakter zu wählen und ihn auf die Hand seines Besitzers zurückzuschicken. (Falls jener Charakter das Merkmal <i>König</i> hat, darfst du ihn stattdessen töten.)",
+        "traits": "Haus Mannkraft."
+    },
+    {
+        "code": "14031",
+        "flavor": "\"Oh, achttausend Jahre sind eine ganze Weile, sicher ... nur wenn sich die Nachtwache nicht erinnert, wer dann?\" <cite>Alter Bär Mormont</cite>",
+        "name": "Protektoren des Reiches",
+        "text": "Keine Verstärkungen.\nX ist dein Reservewert.",
+        "traits": "Armee."
+    },
+    {
+        "code": "14032",
+        "flavor": "\"Drei Mal blasen sie nie. Nicht seit Hunderten und Tausenden von Jahren ... Drei bedeuten ...\" <cite>Samwell Tarly</cite>",
+        "name": "Das Horn, das die Schläfer weckt",
+        "text": "<b>Reaktion:</b> Nachdem ein Gegner eine Herausforderung gegen dich initiiert hat, wähle einen <i>Baumeister</i>-Charakter, einen <i>Grenzer</i>-Charakter und einen <i>Kämmerer</i>-Charakter und richte sie auf.",
+        "traits": ""
+    },
+    {
+        "code": "14033",
+        "flavor": "\"Ihr seid tapferer als ich, scheint mir. Sind die Frauen auf der Bärensinsel alle solche Kriegerinnen?\" <cite>Catelyn Stark</cite>",
+        "name": "Bärin",
+        "text": "<b>Reaktion:</b> Nachdem du Bärin aufmarschieren lassen hast, darfst du einen [stark]-Charakter oder eine [stark]-Verstärkung mit aufgedruckten Kosten von 3 oder weniger von deiner Hand ins Spiel bringen.",
+        "traits": "Haus Mormont."
+    },
+    {
+        "code": "14034",
+        "flavor": "\"Eine Frau in einem Bärenfell, die in einem Arm einen Säugling trägt, der von ihrer Brust trinkt. In der anderen hält sie eine Streitaxt. Gewiss ist sie keine richtige Dame, aber ich habe sie immer gemocht.\" <cite>Derya Mormont</cite>",
+        "name": "Bearskin Cloak",
+        "text": "Der verstärkte Charakter bekommt +1 Stärke.\nFalls der verstärkte Charakter das Merkmal <i>Haus Mormont</i> hat, erhält er Heimlich.",
+        "traits": "Gegenstand."
+    },
+    {
+        "code": "14035",
+        "flavor": "... Haggo war groß wie ein Riese, schwieg stets und sah sie oft finster an ...",
+        "name": "Haggo",
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Haggo teilnimmt, lege eine Karte von deiner Hand ab, um eine <i>Dothraki</i>-Karte in deinem Ablagestapel zu wählen und sie auf deine Hand zurückzuschicken.",
+        "traits": "Blutreiter. Dothraki."
+    },
+    {
+        "code": "14036",
+        "flavor": "",
+        "name": "Ross der Dothraki",
+        "text": "Nur 1 pro Charakter.\nSolange der verstärkte Charakter angreift, bekommt er +1 Stärke. (Falls er das Merkmal <i>Dothraki</i> hat, bekommt er stattdessen +3 Stärke.)",
+        "traits": "Streitross."
+    },
+    {
+        "code": "14037",
+        "flavor": "",
+        "name": "Ritter vom Hohenturm",
+        "text": "<b>Aktion:</b> Beuge einen Nicht-[tyrell]-<i>Ritter</i>-Charakter, um Ritter vom Hohenturm von deiner Hand ins Spiel zu bringen.",
+        "traits": "Haus Hohenturm. Ritter."
+    },
+    {
+        "code": "14038",
+        "flavor": "\"In Rosengarten gibt es Felder voll goldener Rosen, so weit das Auge reicht.\" <cite>Robert Baratheon</cite>",
+        "name": "Felder der Weite",
+        "text": "<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung gewonnen hast, beuge 3 <i>Die Weite</i>-Orte, um den Schadenswert deiner aufgedeckten Strategiekarte bis zum Ende der Herausforderung um 1 zu erhöhen.",
+        "traits": "Die Weite."
+    },
+    {
+        "code": "14039",
+        "flavor": "\"Ich habe noch nie freundlich auf Schelte reagiert, wie Euch eine stattliche Zahl toter Männer bestätigen könnte.\"",
+        "name": "Lyn Corbray",
+        "text": "Heimlich.\n<b>Reaktion:</b> Nachdem ein Gegner eine [power]-Herausforderung gegen dich initiiert hat, richte Lyn Corbray auf.",
+        "traits": "Haus Arryn. Ritter."
+    },
+    {
+        "code": "14040",
+        "flavor": "Fast vierzig Männer nahmen teil, Edelfreie, unbedeutende Ritter und frisch ernannte Knappen, die sich einen Ruf erwerben wollten.",
+        "name": "Unverhoffter Sieger",
+        "text": "Solange du einen <i>Lord</i>- oder <i>Lady</i>-Charakter kontrollierst,  erhält Unverhoffter Sieger ein [power]-Symbol.",
+        "traits": "Ritter."
+    },
+    {
+        "code": "14041",
+        "flavor": "Am Nachmittag gewann ein unbekannter Jüngling aus den Dornischen Marschen, ein Knabe names Anguy, das Bogenschießen, indem er auf hundert Schritte besser als Ser Balon Swann und Jalabhar Xho traf.",
+        "name": "Anguy der Schütze",
+        "text": "Solange du keine loyalen Charaktere kontrollierst, wird Anguy der Schütze nicht gebeugt, sobald er bei einer [military]-Herausforderung zum Angreifer oder Verteidiger deklariert wird.",
+        "traits": "Bruderschaft. R'hllor."
+    },
+    {
+        "code": "14042",
+        "flavor": "\"Eine Zuflucht, wo weder Wölfe noch Löwen nach Beute jagen.\" <cite>Zit Zitronenmantel</cite>",
+        "name": "Der Hohle Hügel",
+        "text": "<b>Herrschaftsaktion:</b> Falls du keine loyalen Charaktere kontrollierst, beuge Der Hohle Hügel, um in den obersten 10 Karten deines Decks nach einem nicht-loyalen Charakter zu suchen, ihn aufzudecken und ihn auf deine Hand zu nehmen. Mische dein Deck.",
+        "traits": "Bruderschaft. Westeros."
     },
     {
         "code": "14043",
-        "flavor": "\"My lady has a thirst. Whenever she comes out to dance, she likes a drop of red.\" <cite>Lyn Corbray</cite>",
-        "name": "Lady Forlorn",
-        "text": "Attached character gets +1 STR for each neutral location you control.\nIf attached character is Lyn Corbray, he gains a [power] icon.",
-        "traits": "Valyrian Steel. Weapon."
+        "flavor": "\"Meine Lady verspürt Durst. Wenn sie zum Tanzen herauskommt, möchte sie einen Tropfen Rot.\" <cite>Lyn Corbray</cite>",
+        "name": "Lady Einsam",
+        "text": "Der verstärkte Charakter bekommt +1 Stärke für jeden neutralen Ort, den du kontrollierst.\nFalls der verstärkte Charakter Lyn Corbray ist, erhält er ein [power]-Symbol.",
+        "traits": "Valyrischer Stahl. Waffe."
     },
     {
         "code": "14044",
-        "flavor": "\"I thank you, my lords... but I spit upon your pity.\" <cite>Ser Barristan Selmy</cite>",
-        "name": "Defiance",
-        "text": "<b>Challenges Action:</b> Choose and stand a character that has not participated in a challenge this phase. (Max 1 per phase.)",
+        "flavor": "\"Ich danke Euch, edle Lords ... aber ich spucke auf Euer Mitlied.\" <cite>Ser Barristan Selmy</cite>",
+        "name": "Trotz",
+        "text": "<b>Herausforderungsaktion:</b> Wähle einen Charakter, der in dieser Phase an keiner Herausforderung teilgenommen hat, und richte ihn auf. (Maximal 1 pro Phase.)",
         "traits": ""
+    },
+    {
+        "code": "14045",
+        "flavor": "",
+        "name": "Der Prinz, der verheißen wurde",
+        "text": "Nachdem alle Agenden angekündigt worden sind, benenne einen einzigartigen Charakter.\nAndere Charaktere, die du kontrollierst, können keine Macht erhalten.\n<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung um 5 oder mehr Stärke gewonnen hast, beuge deine Fraktionskarte, um entweder den benannten Charakter aufzurichten und 1 Karte zu ziehen; oder um in deinem Deck, Ablagestapel oder Totenstapel nach dem benannten Charakter zu suchen, ihn aufzudecken, auf deine Hand zu nehmen und dein Deck zu mischen.",
+        "traits": "Prophezeiung."
     },
     {
         "code": "14046",
         "flavor": "",
-        "name": "Parley at Storm's End",
-        "text": "<b>When Revealed:</b> Name a challenge type. Until you reveal a new plot card, challenges of that type cannot be initiated.",
-        "traits": "Siege. War."
+        "name": "Unterredung bei Sturmkap",
+        "text": "<b>Sobald aufgedeckt:</b> Benenne eine Herausforderungsart. Bis du eine neue Strategiekarte aufdeckst, können Herausforderungen jener Art nicht initiiert werden.",
+        "traits": "Belagerung. Krieg."
     },
     {
         "code": "14047",
         "flavor": "",
-        "name": "Outwit",
-        "text": "<b>Interrupt:</b> When the effects of a when revealed ability would initiate, kneel your faction card and a unique <i>Maester</i> character to cancel those effects.",
-        "traits": "Scheme."
+        "name": "Überlisten",
+        "text": "<b>Unterbrechung:</b> Wenn die Effekte einer \"Sobald aufgedeckt\"-Fähigkeit initiiert werden würden, beuge deine Fraktionskarte und einen einzigartigen <i>Maester</i>-Charakter, um jene Effekte aufzuheben.",
+        "traits": "Komplott."
+    },
+    {
+        "code": "14048",
+        "flavor": "",
+        "name": "Belagerungsvorbereitungen",
+        "text": "<b>Herrschaftsaktion:</b> Ziehe Karten, bis die Anzahl deiner Handkarten deinem Reservewert entspricht. (Nur ein Mal pro Phase.)",
+        "traits": "Belagerung."
+    },
+    {
+        "code": "14049",
+        "flavor": "",
+        "name": "Rationierung",
+        "text": "Die Spieler können keine Reaktionen auf das Gewinnen oder Verlieren von Herausforderungen auslösen.",
+        "traits": "Erlass. Winter."
+    },
+    {
+        "code": "14050",
+        "flavor": "",
+        "name": "Verzweifelter Angriff",
+        "text": "Solange du der verteidigende Spieler bist, erhöhe den Schadenswert der aufgedeckten Strategiekarte des angreifenden Spielers um 1.",
+        "traits": "Krieg."
+    },
+    {
+        "code": "14051",
+        "flavor": "",
+        "name": "Das Turnier der Hand",
+        "text": "<b>Erzwungene Unterbrechung:</b> Sobald der Schaden einer [military]-Herausforderung angewandt wird, wende stattdessen den [power]-Schaden an.",
+        "traits": "Königreich. Sommer."
+    },
+    {
+        "code": "14052",
+        "flavor": "",
+        "name": "Die Neuen Götter",
+        "text": "Jeder <i>Die Sieben</i>-Charakter, den du kontrollierst, wird nicht gebeugt, sobald er zum Angreifer bei der ersten Herausforderung deklariert wird, die du während der Herausforderungsphase initiierst.",
+        "traits": "Die Sieben."
     }
 ]

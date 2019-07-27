@@ -3,56 +3,140 @@
         "code": "13041",
         "flavor": "",
         "name": "Eddard Stark",
-        "text": "Renown.\n<b>Dominance Action:</b> If each character you control has the [stark] affiliation, kneel Eddard Stark to choose and kill a character with a printed cost 4 or lower. (Limit once per phase.)",
-        "traits": "Lord. Small Council."
+        "text": "Ruhmreich.\n<b>Herrschaftsaktion:</b> Falls jeder Charakter, den du kontrollierst, die [stark]-Fraktionszugehörigkeit hat, beuge Eddard Stark, um einen Charakter mit aufgedruckten Kosten von 4 oder weniger zu wählen und zu töten. (Nur ein Mal pro Phase.)",
+        "traits": "Lord. Kleiner Rat."
     },
     {
         "code": "13042",
         "flavor": "",
-        "name": "Malleon's Tome",
-        "text": "Shadow (1).\nAttached character gains an [intrigue] icon.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, look at the losing opponent's hand. If attached character is Eddard Stark or has the <i>Maester</i> trait, stand it. (Limit once per phase.)",
-        "traits": "Citadel. Item."
+        "name": "Malleons Wälzer",
+        "text": "Schatten (1).\nDer verstärkte Charakter erhält ein [intrigue]-Symbol.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in welcher der verstärkte Charakter angreift, sieh dir die Hand des verlierenden Gegners an. Falls der verstärkte Charakter Eddard Stark ist oder das Merkmal <i>Maester</i> hat, richte ihn auf. (Nur ein Mal pro Phase.)",
+        "traits": "Citadel. Gegenstand."
     },
     {
         "code": "13043",
-        "flavor": "Maester Gormon sat below the iron mask in Walgrave's place, the same Gormon who had accused Pate of theft.",
+        "flavor": "Maester Gormon saß jetzt unter der Eisernen Maske auf Walgrabs Platz, genau jener Gormon, der Pat einst des Diebstahls bezichtigt hatte.",
         "name": "Maester Gormon",
-        "text": "You may look at the top card of your deck.\nOnce per phase, if the top card of your deck is a non-[tyrell] card, you may marshal or play it as if it were in your hand.",
+        "text": "Du darfst dir die oberste Karte deines Decks ansehen.\nEin Mal pro Phase darfst du die oberste Karte deines Decks aufmarschieren lassen oder spielen, als ob sie auf deiner Hand wäre, falls sie eine Nicht-[tyrell]-Karte ist.",
         "traits": "Maester."
     },
     {
+        "code": "13044",
+        "flavor": "",
+        "name": "Unerwartete Hinterlist",
+        "text": "Nur Charaktere mit Schatten, die du kontrollierst. Schatten (1).\nDer verstärkte Charakter bekommt +2 Stärke und erhält Einblick.\n<b>Erzwungene Unterbrechung:</b> Sobald eine Herausforderung endet, an welcher der verstärkte Charakter teilnimmt, schicke Unerwartete Hinterlist und den Charakter in die Schatten zurück.",
+        "traits": ""
+    },
+    {
+        "code": "13045",
+        "flavor": "\"Maester Mullin im Schattenturm ist mehr ein Kämpfer als ein Gelehrter...\" <cite>Jon Schnee</cite>",
+        "name": "Maester Mullin",
+        "text": "<b>Aktion:</b> Beuge Maester Mullin, um einen Charakter und eine Herausforderungsart zu wählen. Der gewählte Charakter kann bis zum Ende der Phase bei einer Herausforderung der gewählten Art nicht zum Angreifer deklariert werden.",
+        "traits": "Maester."
+    },
+    {
+        "code": "13046",
+        "flavor": "",
+        "name": "Wachdienst",
+        "text": "Nur [thenightswatch]-Charaktere.\n<b>Reaktion:</b> Nachdem der verstärkte Charakter zum Verteidiger deklariert worden ist, beuge Wachdienst, um den verstärkten Charakter aufzurichten.",
+        "traits": ""
+    },
+    {
+        "code": "13047",
+        "flavor": "\"Unsere Sache ist gerecht, daher müssten die Götter unseren Recken segnen und ihm den Sieg schenken.\"",
+        "name": "Ser Eldon Estermont",
+        "text": "<b>Aktion:</b> Wähle eine [baratheon]-Ort und richte ihn auf. (Nur ein Mal pro Runde.)",
+        "traits": "Ritter. Lord."
+    },
+    {
+        "code": "13048",
+        "flavor": "",
+        "name": "Schatten des Throns",
+        "text": "Schatten (1).\n<b>Aktion:</b> Wähle und beuge eine beliebige Anzahl Orte mt aufgedruckten Kosten von insgesamt 3 oder weniger. Falls es eine aufgedeckte <i>Königreich</i>-Strategiekarte gibt, schicke Schatten des Throns auf deine Hand zurück, anstatt diese Karte auf deinen Ablagestapel zu legen.",
+        "traits": ""
+    },
+    {
+        "code": "13049",
+        "flavor": "Chiswyck saß mit einem Horn Bier in der Hand am Feuer und erzählte eine seiner lustigen Geschichten.",
+        "name": "Chiswyck",
+        "text": "Brandschatzen.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Chiswyck teilnimmt, lege die oberste Karte deines Decks ab, um 1 Karte zu ziehen.",
+        "traits": "Verbündeter."
+    },
+    {
         "code": "13050",
-        "flavor": "Hands of gold are always cold, but a woman's hands are warm.",
-        "name": "\"Hands of Gold\"",
-        "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR as the attacking player, choose a character controlled by the losing opponent and return it to its owner's hand. (Max 1 per challenge.)",
-        "traits": "Song."
+        "flavor": "Hände aus Gold sind immer kalt, doch die Hand einer Frau, die ist warm.",
+        "name": "\"Hände aus Gold\"",
+        "text": "<b>Reaktion:</b> Nachdem du als angreifender Spieler eine [intrigue]-Herausforderung um 5 oder mehr Stärke gewonnen hast, wähle einen Charakter, der vom verlierenden Gegner kontrolliert wird, und schicke ihn auf die Hand seines Besitzers zurück. (Maximal 1 pro Herausforderung.)",
+        "traits": "Lied."
+    },
+    {
+        "code": "13051",
+        "flavor": "",
+        "name": "Bekehrter aus Königsmund",
+        "text": "Schatten (4).\n<b>Aktion:</b> Töte einen aufrechten [greyjoy]-Charakter, um Bekehrter aus Königsmund aus den Schatten ins Spiel zu bringen.",
+        "traits": "Verbündeter. Ertrunkener Gott."
+    },
+    {
+        "code": "13052",
+        "flavor": "",
+        "name": "Für den Krieg ausgerüstet",
+        "text": "Nur <i>Kriegsschiff</i>-Orte.\n<b>Aktion:</b> Beuge während einer [military]-Herausforderung den verstärkten Ort, um einem teilnehmenden [greyjoy]-Charakter bis zum Ende der Herausforderung +3 Stärke zu geben.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "13053",
+        "flavor": "Ich bin zu hoch aufgestiegen, habe zu sehr geliebt und zu viel gewagt. Ich habe nach einem Stern gegriffen, das Gleichgewicht verloren und bin gefallen.",
+        "name": "Jon Connington",
+        "text": "Schatten (5). Ruhmreich.\n<b>Reaktion:</b> Nachdem Jon Connington aus den Schatten getreten ist, wähle eine Karte in den Schatten, die du kontollierst, und decke sie auf. Falls sie eine Nicht-Ereigniskarte mit aufgedruckten Kosten von 4 oder weniger ist, bringe sie ins Spiel.",
+        "traits": "Haus Connington. Lord."
+    },
+    {
+        "code": "13054",
+        "flavor": "Keiner der Drachen, die in der Drachengrube von Königsmund gezüchtet und aufgezogen worden waren, hatte je die Größe von Vhagar oder Meraxes erreicht, und schon gar nicht die des Schwarzen Schreckens, des Ungeheuers von König Aegon.",
+        "name": "Die Drachengrube",
+        "text": "Jeder Charakter, dessen kontrollierender Spieler weniger Karten in den Schatten kontrolliert als du, bekommt -1 Stärke.",
+        "traits": "Königsmund."
     },
     {
         "code": "13055",
         "flavor": "",
         "name": "Arianne Martell",
-        "text": "Shadow (5). Stealth.\n<b>Reaction:</b> After a card comes out of shadows under your control, choose a character. Until the end of the phase, that character loses a challenge icon of your choice. (Limit 3 times per round.)",
+        "text": "Schatten (5). Heimlich.\n<b>Reaktion:</b> Nachdem eine Karte unter deiner Kontrolle aus den Schatten getreten ist, wähle einen Charakter. Der gewählte Charakter verliert bis zum Ende der Phase ein Herausforderungssymbol deiner Wahl. (Nur drei Mal pro Runde.)",
         "traits": "Lady."
+    },
+    {
+        "code": "13056",
+        "flavor": "",
+        "name": "Schlangengrube",
+        "text": "<b>Herausforderunsaktion:</b> Wähle einen Charakter ohne Herausforderungssymbole und lege einen Giftmarker darauf. Falls der Charakter den Giftmarker am Ende der Phase noch hat, entferne ihn und töte den Charakter. (Maximal 1 pro Phase.)",
+        "traits": ""
     },
     {
         "code": "13057",
         "flavor": "",
-        "name": "The Most Devout",
-        "text": "No attachments except <i>The Seven</i>.\n<b>Reaction:</b> After a character enters play under an opponent's control, if another character has entered play under that player's control this phase, The Most Devout gains 1 power. (Limit once per phase.)",
-        "traits": "The Seven."
+        "name": "Die Ergebensten",
+        "text": "Keine Verstärkungen außer <i>Die Sieben</i>.\n<b>Reaktion:</b> Nachdem ein Charakter unter der Kontrolle eines Gegners ins Spiel gekommen ist, erhalten Die Ergebensten 1 Macht, falls bereits ein anderer Charakter in dieser Phase unter der Kontrolle jenes Spielers ins Spiel gekommen ist. (Nur ein Mal pro Phase.)",
+        "traits": "Die Sieben."
     },
     {
         "code": "13058",
         "flavor": "",
-        "name": "Statue of Baelor",
-        "text": "<b>Action:</b> Kneel Statue of Baelor and discard 1 power from another character or location you control to stand that character or location.",
-        "traits": "King's Landing. The Seven."
+        "name": "Statue von Baelor",
+        "text": "<b>Aktion:</b> Beuge Statue von Baelor und lege 1 Macht von einem anderen Charakter oder Ort, den du kontrollierst, ab, um jenen Charakter oder Ort aufzurichten.",
+        "traits": "Königsmund. Die Sieben."
     },
     {
         "code": "13059",
         "flavor": "",
-        "name": "The Faith's Decree",
-        "text": "Play only if you control a <i>The Seven</i> character or location.\n<b>Action:</b> Name a non-agenda, non-plot card. Until the end of the phase, each opponent cannot trigger card abilities of cards with that name.",
-        "traits": "The Seven."
+        "name": "Dekret des Glaubens",
+        "text": "Kann nur gespielt werden, falls du einen <i>Die Sieben</i>-Charakter oder -Ort kontrollierst.\n<b>Aktion:</b> Benenne eine Nicht-Agenda-, Nicht-Strategiekarte. Bis zum Ende der Phase kann jeder Gegner Kartenfähigkeiten von Karten mit jenem Namen nicht auslösen.",
+        "traits": "Die Sieben."
+    },
+    {
+        "code": "13060",
+        "flavor": "",
+        "name": "Die Stadtmauern bemannen",
+        "text": "<b>Sobald aufgedeckt:</b> Bringe einen nicht-einzigartigen Charakter mit aufgedruckten Kosten von 3 oder weniger von deiner Hand ins Spiel. (Falls eine <i>Stadt</i>-Strategiekarte in deinem Archiv ist, bringe stattdessen einen nicht-einzigartigen Charakter mit aufgedruckten Kosten von 6 oder weniger ins Spiel.)",
+        "traits": "Stadt. Krieg."
     }
 ]

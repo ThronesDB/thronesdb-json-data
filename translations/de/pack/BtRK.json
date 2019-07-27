@@ -1,10 +1,24 @@
 [
     {
+        "code": "13061",
+        "flavor": "\"We are good people in White Harbor, lawful, loyal people.\" <cite>Leona Manderly</cite>",
+        "name": "White Harbor Watchman",
+        "text": "<b>Reaction:</b> After a character comes out of shadows, sacrifice White Harbor Watchman to kill that character.",
+        "traits": "Guard. House Manderly."
+    },
+    {
         "code": "13062",
         "flavor": "",
         "name": "Tower of the Hand",
         "text": "<b>Reaction:</b> After a card you control comes out of shadows, if there is a <i>Winter</i> plot card revealed, choose and stand a [stark] character. (Limit once per phase.)",
         "traits": "King's Landing."
+    },
+    {
+        "code": "13063",
+        "flavor": "Lady Graceford, who was large with child, asked the queen's leave to name it Tywin if it were a boy, or Lanna if it were a girl.",
+        "name": "Alyce Graceford",
+        "text": "<b>Action:</b> Kneel Alyce Graceford to choose another <i>The Seven</i> character. Until the end of the phase, that character gains renown.",
+        "traits": "Lady. The Seven."
     },
     {
         "code": "13064",
@@ -14,11 +28,53 @@
         "traits": "King's Landing."
     },
     {
+        "code": "13065",
+        "flavor": "",
+        "name": "Forest Patrol",
+        "text": "Shadow (4).\nNo attachments except <i>Weapon</i>.\n<b>Action:</b> Kneel a [thenightswatch] location to put Forest Patrol into play from shadows.",
+        "traits": "Ally. Ranger."
+    },
+    {
+        "code": "13066",
+        "flavor": "",
+        "name": "Blackbird",
+        "text": "Shadow (1).\n<b>Reaction:</b> After Blackbird comes out of shadows, choose and stand another [thenightswatch] location.\n+1 Reserve.",
+        "traits": "Warship."
+    },
+    {
+        "code": "13067",
+        "flavor": "",
+        "name": "Castle Guard",
+        "text": "Shadow (3).\n<b>Reaction:</b> After Castle Guard comes out of shadows, choose another character that came out of shadows this phase. Return that character to shadows.",
+        "traits": "Guard."
+    },
+    {
+        "code": "13068",
+        "flavor": "\"A ruler who hides behind paid executioners soon forgets what death is.\" <cite>Eddard Stark</cite>",
+        "name": "Public Execution",
+        "text": "<b>Marshaling Action:</b> Choose and kill a kneeling character.",
+        "traits": ""
+    },
+    {
+        "code": "13069",
+        "flavor": "",
+        "name": "Doubting Septa",
+        "text": "<b>Reaction:</b> After you win an [intrigue] challenge, sacrifice Doubting Septa to choose a character or location you control. That card gains 1 power.",
+        "traits": "The Seven."
+    },
+    {
         "code": "13070",
         "flavor": "",
         "name": "Tunnels of the Red Keep",
         "text": "Shadow (2).\n<b>Action:</b> Kneel Tunnels of the Red Keep to return it to shadows. Then, until the end of the phase, each character you control gets +1 STR for each card you control in shadows. (Max 1 per phase.)",
         "traits": "King's Landing."
+    },
+    {
+        "code": "13071",
+        "flavor": "\"What shall it be, homage or defiance?\"",
+        "name": "Gorold Goodbrother",
+        "text": "Pillage. Renown.\n<b>Reaction:</b> After a location enters an opponent's discard pile, stand Gorold Goodbrother. (Limit twice per phase.)",
+        "traits": "House Goodbrother. Lord."
     },
     {
         "code": "13072",
@@ -28,10 +84,59 @@
         "traits": ""
     },
     {
+        "code": "13073",
+        "flavor": "",
+        "name": "Shadowblack Assassin",
+        "text": "Shadow (2).\n<b>Reaction:</b> After Shadowblack Assassin comes out of shadows, choose and kill a character with STR 1 or lower.",
+        "traits": "Ally."
+    },
+    {
+        "code": "13074",
+        "flavor": "",
+        "name": "Dragon Skull",
+        "text": "[targaryen] character only. Shadow (2).\nWhile there are no <i>Dragon</i> characters in play, attached character gains intimidate and renown.",
+        "traits": "Item."
+    },
+    {
+        "code": "13075",
+        "flavor": "\"Unless she returns to Dorne, there's naught I can do about Sarella save pray that she shows more sense than her sisters.\" <cite>Doran Martell</cite>",
+        "name": "Sarella Sand",
+        "text": "<b>Reaction:</b> After you lose a challenge in which Sarella Sand is attacking, you may initiate an additional challenge of that type this phase. (Limit once per phase.)",
+        "traits": "Bastard. Sand Snake."
+    },
+    {
+        "code": "13076",
+        "flavor": "",
+        "name": "Meadowlark",
+        "text": "<b>Reaction:</b> After you reveal a plot card, place 1 journey token on Meadowlark.\n<b>Action:</b> Sacrifice Meadowlark to search your deck for a character with printed cost X or lower and put it into play. Shuffle your deck. X is the number of journey tokens on Meadowlark.",
+        "traits": "Warship."
+    },
+    {
+        "code": "13077",
+        "flavor": "",
+        "name": "Advisor to the Crown",
+        "text": "<b>Action:</b> Kneel Advisor to the Crown to reduce the cost of the next <i>Maester</i> character you marshal this phase by 1.",
+        "traits": "Ally. Maester."
+    },
+    {
+        "code": "13078",
+        "flavor": "\"There are some who call my order the knights of the mind.\" <cite>Maester Luwin</cite>",
+        "name": "Knights of the Mind",
+        "text": "<b>Challenge Action:</b> Until the end of the phase, each <i>Maester</i> character you control gains a [military] icon.",
+        "traits": "Citadel."
+    },
+    {
         "code": "13079",
         "flavor": "",
         "name": "Kingdom of Shadows",
         "text": "You may include non-loyal characters with the printed shadow keyword from any faction in your deck.\nIncrease the cost of each character you marshal by 1. Reduce the cost of the first character you bring out of shadows each round by 2.",
         "traits": ""
+    },
+    {
+        "code": "13080",
+        "flavor": "",
+        "name": "City of Spiders",
+        "text": "<b>When Revealed:</b> Initiate the when revealed ability of a <i>City</i> plot card in your used pile as if you had just revealed it.",
+        "traits": "City. Scheme."
     }
 ]
