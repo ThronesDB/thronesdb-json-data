@@ -12,10 +12,6 @@
         "name": "Tanz der Schatten-Zyklus"
     },
     {
-        "code": "variants",
-        "name": "Varianten"
-    },
-    {
         "code": "foc",
         "name": "Krähenschwarm-Zyklus"
     },
@@ -42,6 +38,10 @@
     {
         "code": "thorns",
         "name": "Haus der Dornen"
+    },
+    {
+        "code": "variants",
+        "name": "Varianten"
     },
     {
         "code": "war",

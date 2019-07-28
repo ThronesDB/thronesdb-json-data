@@ -76,6 +76,10 @@
         "name": "Könige der Inseln"
     },
     {
+        "code": "LMHR",
+        "name": "Lang soll er herrschen"
+    },
+    {
         "code": "LoCR",
         "name": "Löwen von Casterlystein"
     },
@@ -110,6 +114,10 @@
     {
         "code": "TAK",
         "name": "Der Schlüssel des Erzmaesters"
+    },
+    {
+        "code": "TB",
+        "name": "Der Schwarzwasser"
     },
     {
         "code": "TBWB",
