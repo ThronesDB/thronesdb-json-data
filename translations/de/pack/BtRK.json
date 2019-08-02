@@ -1,142 +1,142 @@
 [
     {
         "code": "13061",
-        "flavor": "\"We are good people in White Harbor, lawful, loyal people.\" <cite>Leona Manderly</cite>",
-        "name": "White Harbor Watchman",
-        "text": "<b>Reaction:</b> After a character comes out of shadows, sacrifice White Harbor Watchman to kill that character.",
-        "traits": "Guard. House Manderly."
+        "flavor": "\"Wir in Weißwasserhafen sind gute Menschen, gesetzestreu und loyal.\" <cite>Leona Manderly</cite>",
+        "name": "Wächter von Weißwasserhafen",
+        "text": "<b>Reaktion:</b> Nachdem ein Charakter aus den Schatten getreten ist, opfere Wächter von Weißwasserhafen, um jenen Charakter zu töten.",
+        "traits": "Garde. Haus Manderly."
     },
     {
         "code": "13062",
         "flavor": "",
-        "name": "Tower of the Hand",
-        "text": "<b>Reaction:</b> After a card you control comes out of shadows, if there is a <i>Winter</i> plot card revealed, choose and stand a [stark] character. (Limit once per phase.)",
-        "traits": "King's Landing."
+        "name": "Turm der Hand",
+        "text": "<b>Reaktion:</b> Nachdem eine Karte, die du kontrollierst, aus den Schatten getreten ist, wähle einen [stark]-Charakter und richte ihn auf, falls es eine aufgedeckte <i>Winter</i>-Strategiekarte gibt. (Nur ein Mal pro Phase.)",
+        "traits": "Königsmund."
     },
     {
         "code": "13063",
-        "flavor": "Lady Graceford, who was large with child, asked the queen's leave to name it Tywin if it were a boy, or Lanna if it were a girl.",
-        "name": "Alyce Graceford",
-        "text": "<b>Action:</b> Kneel Alyce Graceford to choose another <i>The Seven</i> character. Until the end of the phase, that character gains renown.",
-        "traits": "Lady. The Seven."
+        "flavor": "Lady Gnadenfurt, die unübersehbar ein Kind unter dem Herzen trug, bat die Königin um die Erlaubnis, ihm den Namen Tywin geben zu dürfen, falls es ein Junge wurde, oder Lenna, falls sie ein Mädchen zur Welt brachte.",
+        "name": "Alyss Gnadenfurt",
+        "text": "<b>Aktion:</b> Beuge Alyss Gnadenfurt, um einen anderen <i>Die Sieben</i>-Charakter zu wählen. Bis zum Ende der Phase erhält der gewählte Charakter Ruhmreich.",
+        "traits": "Lady. Die Sieben."
     },
     {
         "code": "13064",
         "flavor": "",
-        "name": "The Maidenvault",
-        "text": "Shadow (1).\n<b>Reaction:</b> After The Maidenvault comes out of shadows, choose a participating <i>Lady</i> character. Stand it and remove it from the challenge.\n<b>Interrupt:</b> When the challenges phase ends, kneel The Maidenvault to return it to shadows.",
-        "traits": "King's Landing."
+        "name": "Das Jungfrauengewölbe",
+        "text": "Schatten (1).\n<b>Reaktion:</b> Nachdem Das Jungfrauengewölbe aus den Schatten getreten ist, wähle einen teilnehmenden <i>Lady</i>Charakter. Richte ihn auf und entferne ihn aus der Herausforderung .\n<b>Unterbrechung:</b> Sobald die Herausforderungsphase endet, beuge das Jungfrauengewölbe, um diesen Ort in die Schatten zurückzuschicken.",
+        "traits": "Königsmund."
     },
     {
         "code": "13065",
         "flavor": "",
-        "name": "Forest Patrol",
-        "text": "Shadow (4).\nNo attachments except <i>Weapon</i>.\n<b>Action:</b> Kneel a [thenightswatch] location to put Forest Patrol into play from shadows.",
-        "traits": "Ally. Ranger."
+        "name": "Waldpatrouille",
+        "text": "Schatten (4).\nKeine Verstärkungen außer <i>Waffe</i>.\n<b>Aktion:</b> Beuge einen [thenightswatch]-Ort, um Waldpatrouille aus den Schatten ins Spiel zu bringen.",
+        "traits": "Verbündeter. Grenzer."
     },
     {
         "code": "13066",
         "flavor": "",
-        "name": "Blackbird",
-        "text": "Shadow (1).\n<b>Reaction:</b> After Blackbird comes out of shadows, choose and stand another [thenightswatch] location.\n+1 Reserve.",
-        "traits": "Warship."
+        "name": "Schwarzdrossel",
+        "text": "Schatten (1).\n<b>Reaktion:</b> Nachdem Schwarzdrossel aus den Schatten getreten ist, wähle einen anderen [thenightswatch]-Ort und richte ihn auf.\nReservewert +1.",
+        "traits": "Kriegsschiff."
     },
     {
         "code": "13067",
         "flavor": "",
-        "name": "Castle Guard",
-        "text": "Shadow (3).\n<b>Reaction:</b> After Castle Guard comes out of shadows, choose another character that came out of shadows this phase. Return that character to shadows.",
-        "traits": "Guard."
+        "name": "Burgwache",
+        "text": "Schatten (3).\n<b>Reaktion:</b> Nachdem Burgwache aus den Schatten getreten ist, wähle einen anderen Charakter, der in dieser Phase aus den Schatten getreten ist. Schicke den gewählten Charakter in die Schatten zurück.",
+        "traits": "Garde."
     },
     {
         "code": "13068",
-        "flavor": "\"A ruler who hides behind paid executioners soon forgets what death is.\" <cite>Eddard Stark</cite>",
-        "name": "Public Execution",
-        "text": "<b>Marshaling Action:</b> Choose and kill a kneeling character.",
+        "flavor": "\"Ein Herrscher, der sich hinter bezahlten Henkern versteckt, vergisst bald, was der Tod bedeutet.\" <cite>Eddard Stark</cite>",
+        "name": "Öffentliche Hinrichtung",
+        "text": "<b>Aufmarschaktion:</b> Wähle einen gebeugten Charakter und töte ihn.",
         "traits": ""
     },
     {
         "code": "13069",
         "flavor": "",
-        "name": "Doubting Septa",
-        "text": "<b>Reaction:</b> After you win an [intrigue] challenge, sacrifice Doubting Septa to choose a character or location you control. That card gains 1 power.",
-        "traits": "The Seven."
+        "name": "Zweifelnde Septa",
+        "text": "<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung gewonnen hast, opfere Zweifelnde Septa, um einen Charakter oder Ort, den du kontrollierst, zu wählen. Die gewählte Karte erhält 1 Macht.",
+        "traits": "Die Sieben."
     },
     {
         "code": "13070",
         "flavor": "",
-        "name": "Tunnels of the Red Keep",
-        "text": "Shadow (2).\n<b>Action:</b> Kneel Tunnels of the Red Keep to return it to shadows. Then, until the end of the phase, each character you control gets +1 STR for each card you control in shadows. (Max 1 per phase.)",
-        "traits": "King's Landing."
+        "name": "Tunnel des Roten Bergfrieds",
+        "text": "Schatten (2).\n<b>Aktion:</b> Beuge Tunnel des Roten Bergfrieds, um diesen Ort in die Schatten zurückzuschicken. Dann bekommt jeder Charakter, den du kontrollierst, bis zum Ende der Phase +1 Stärke für jede Karte, die du in den Schatten kontrollierst. (Maximal 1 pro Phase.)",
+        "traits": "Königsmund."
     },
     {
         "code": "13071",
-        "flavor": "\"What shall it be, homage or defiance?\"",
-        "name": "Gorold Goodbrother",
-        "text": "Pillage. Renown.\n<b>Reaction:</b> After a location enters an opponent's discard pile, stand Gorold Goodbrother. (Limit twice per phase.)",
-        "traits": "House Goodbrother. Lord."
+        "flavor": "\"Was soll es sein, Huldigung oder Widerstand?\"",
+        "name": "Gorold Guthbruder",
+        "text": "Brandschatzen. Ruhmreich.\n<b>Reaktion:</b> Nachdem ein Ort den Ablagestapel eines Gegners betreten hat, richte Gorold Guthbruder auf. (Nur zwei Mal pro Phase.)",
+        "traits": "Haus Guthbruder. Lord."
     },
     {
         "code": "13072",
         "flavor": "",
-        "name": "Shadow of the Isles",
-        "text": "Shadow (1).\n<b>Action:</b> Each player chooses a non-limited location he or she controls and discards it from play. If there is a <i>War</i> plot card revealed, return Shadow of the Isles to your hand instead of placing it in your discard pile.",
+        "name": "Schatten der Inseln",
+        "text": "Schatten (1).\n<b>Aktion:</b> Jeder Spieler wählt einen nicht-limitierten Ort, den er kontrolliert, und legt ihn aus dem Spiel ab. Falls es eine aufgedeckte <i>Krieg</i>-Strategiekarte gibt, schicke Schatten der Inseln auf deine Hand zurück, anstatt diese Karte auf deinen Ablagestapel zu legen.",
         "traits": ""
     },
     {
         "code": "13073",
         "flavor": "",
-        "name": "Shadowblack Assassin",
-        "text": "Shadow (2).\n<b>Reaction:</b> After Shadowblack Assassin comes out of shadows, choose and kill a character with STR 1 or lower.",
-        "traits": "Ally."
+        "name": "Meuchelmörder aus der Schattengasse",
+        "text": "Schatten (2).\n<b>Reaktion:</b> Nachdem Meuchelmörder aus der Schattengasse aus den Schatten getreten ist, wähle einen Charakter mit Stärke 1 oder weniger und töte ihn.",
+        "traits": "Verbündeter."
     },
     {
         "code": "13074",
         "flavor": "",
-        "name": "Dragon Skull",
-        "text": "[targaryen] character only. Shadow (2).\nWhile there are no <i>Dragon</i> characters in play, attached character gains intimidate and renown.",
-        "traits": "Item."
+        "name": "Drachenschädel",
+        "text": "Nur [targaryen]-Charaktere. Schatten (2).\nSolange kein <i>Drache</i>-Charakter im Spiel ist, erhält der verstärkte Charakter Einschüchternd und Ruhmreich.",
+        "traits": "Gegenstand."
     },
     {
         "code": "13075",
-        "flavor": "\"Unless she returns to Dorne, there's naught I can do about Sarella save pray that she shows more sense than her sisters.\" <cite>Doran Martell</cite>",
+        "flavor": "\"Solange sie nicht nach Dorne zurückkehrt, gibt es nichts, was ich unternehmen könnte, außer zu beten, dass sie vernünftiger ist als ihre Schwestern.\" <cite>Doran Martell</cite>",
         "name": "Sarella Sand",
-        "text": "<b>Reaction:</b> After you lose a challenge in which Sarella Sand is attacking, you may initiate an additional challenge of that type this phase. (Limit once per phase.)",
-        "traits": "Bastard. Sand Snake."
+        "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung verloren hast, in der Sarella Sand angreift, darfst du in dieser Phase eine zusätzliche Herausforderung jener Art initiieren. (Nur ein Mal pro Phase.)",
+        "traits": "Bastard. Sandschlange."
     },
     {
         "code": "13076",
         "flavor": "",
-        "name": "Meadowlark",
-        "text": "<b>Reaction:</b> After you reveal a plot card, place 1 journey token on Meadowlark.\n<b>Action:</b> Sacrifice Meadowlark to search your deck for a character with printed cost X or lower and put it into play. Shuffle your deck. X is the number of journey tokens on Meadowlark.",
-        "traits": "Warship."
+        "name": "Wiesenlerche",
+        "text": "<b>Reaktion:</b> Nachdem du eine Strategiekarte aufgedeckt hast, lege 1 Reisemarker auf Wiesenlerche.\n<b>Aktion:</b> Opfere Wiesenlerche, um in deinem Deck nach einem Charakter mit aufgedruckten Kosten von X oder weniger zu suchen und ihn ins Spiel zu bringen. Mische dein Deck. X ist die Anzahl der Reisemarker auf Wiesenlerche.",
+        "traits": "Kriegsschiff."
     },
     {
         "code": "13077",
         "flavor": "",
-        "name": "Advisor to the Crown",
-        "text": "<b>Action:</b> Kneel Advisor to the Crown to reduce the cost of the next <i>Maester</i> character you marshal this phase by 1.",
-        "traits": "Ally. Maester."
+        "name": "Berater der Krone",
+        "text": "<b>Aktion:</b>Beuge Berater der Krone, um die Kosten des nächsten <i>Maester</i>-Charakters, den du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
+        "traits": "Verbündeter. Maester."
     },
     {
         "code": "13078",
-        "flavor": "\"There are some who call my order the knights of the mind.\" <cite>Maester Luwin</cite>",
-        "name": "Knights of the Mind",
-        "text": "<b>Challenge Action:</b> Until the end of the phase, each <i>Maester</i> character you control gains a [military] icon.",
+        "flavor": "\"Es gibt manchen, der meinen Orden den der Ritter des Geistes nennt.\" <cite>Maester Luwin</cite>",
+        "name": "Ritter des Geistes",
+        "text": "<b>Herausforderungsaktion:</b> Bis zum Ende der Phase erhält jeder <i>Maester</i>-Charakter, den du kontrollierst, ein [military]-Symbol.",
         "traits": "Citadel."
     },
     {
         "code": "13079",
         "flavor": "",
-        "name": "Kingdom of Shadows",
-        "text": "You may include non-loyal characters with the printed shadow keyword from any faction in your deck.\nIncrease the cost of each character you marshal by 1. Reduce the cost of the first character you bring out of shadows each round by 2.",
+        "name": "Königreich der Schatten",
+        "text": "Dein Deck darf nicht-loyale Charaktere mit dem aufgedruckten Schlüsselwort Schatten von beliebigen Fraktionen erhalten.\nErhöhe die Kosten jedes Charakters, den du aufmarschieren lässt, um 1. Reduziere die Kosten des ersten Charakters, den du in jeder Runde aus den Schatten holst, um 2.",
         "traits": ""
     },
     {
         "code": "13080",
         "flavor": "",
-        "name": "City of Spiders",
-        "text": "<b>When Revealed:</b> Initiate the when revealed ability of a <i>City</i> plot card in your used pile as if you had just revealed it.",
-        "traits": "City. Scheme."
+        "name": "Die Stadt der Spinnen",
+        "text": "<b>Sobald aufgedeckt:</b> Initiiere die \"Sobald aufgedeckt\"-Fähigkeit einer <i>Stadt</i>-Strategiekarte in deinem Archiv, als ob du sie gerade aufgedeckt hättest.",
+        "traits": "Stadt. Komplott."
     }
 ]
