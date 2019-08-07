@@ -61,7 +61,7 @@
         "position": 3,
         "quantity": 3,
         "strength": 6,
-        "text": "Renown.\n<b>Reaction: </b>After Eddard Stark gains power using renown, choose another participating character you control. That character gains 1 power.",
+        "text": "Renown.\n<b>Reaction:</b> After Eddard Stark gains power using renown, choose another participating character you control. That character gains 1 power.",
         "traits": "Lord. Small Council.",
         "type_code": "character"
     },
@@ -84,7 +84,7 @@
         "position": 4,
         "quantity": 3,
         "strength": 4,
-        "text": "Renown.\nWhile The Blackfish has 4 or more power, each <i>House Tully </i>character you control does not kneel when declared as an attacker.\n<b>Reaction:</b> After you win a [military] challenge as the attacking player, draw 1 card. (Limit once per phase.)",
+        "text": "Renown.\nWhile The Blackfish has 4 or more power, each <i>House Tully</i> character you control does not kneel when declared as an attacker.\n<b>Reaction:</b> After you win a [military] challenge as the attacking player, draw 1 card. (Limit once per phase.)",
         "traits": "House Tully. Knight. Lord.",
         "type_code": "character"
     },
@@ -216,7 +216,7 @@
         "position": 10,
         "quantity": 3,
         "strength": 2,
-        "text": "<b>Interrupt:</b> When a plot card is revealed, kneel Old Nan to have that plot card gain the <i>Summer </i>or <i>Winter</i> trait until the end of the round.",
+        "text": "<b>Interrupt:</b> When a plot card is revealed, kneel Old Nan to have that plot card gain the <i>Summer</i> or <i>Winter</i> trait until the end of the round.",
         "traits": "Storyteller.",
         "type_code": "character"
     },
@@ -888,7 +888,7 @@
         "pack_code": "WotN",
         "position": 44,
         "quantity": 3,
-        "text": "<b>Interrupt:</b> When a non-<i>Army </i>character you control would be killed, kneel a <i>Maester</i> character to save it.",
+        "text": "<b>Interrupt:</b> When a non-<i>Army</i> character you control would be killed, kneel a <i>Maester</i> character to save it.",
         "traits": "Citadel.",
         "type_code": "event"
     },
