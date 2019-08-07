@@ -216,7 +216,7 @@
         "position": 91,
         "quantity": 3,
         "strength": 2,
-        "text": "Each<i> Weapon</i> card in your hand gains ambush (X). X is that card's printed cost.",
+        "text": "Each <i>Weapon</i> card in your hand gains ambush (X). X is that card's printed cost.",
         "traits": "Raider.",
         "type_code": "character"
     },
@@ -368,7 +368,7 @@
         "pack_code": "CoW",
         "position": 99,
         "quantity": 3,
-        "text": "<b>Action: </b>Choose a character or location. Until the end of the phase, treat that card's printed text box as if it were blank (except for <i>Traits</i>).",
+        "text": "<b>Action:</b> Choose a character or location. Until the end of the phase, treat that card's printed text box as if it were blank (except for <i>Traits</i>).",
         "traits": "Dream.",
         "type_code": "event"
     },

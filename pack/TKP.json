@@ -376,7 +376,7 @@
         "position": 59,
         "quantity": 3,
         "reserve": 6,
-        "text": "Each<i> Knight</i> character you control gains renown and \"immune to opponents' events.\"",
+        "text": "Each <i>Knight</i> character you control gains renown and \"immune to opponents' events.\"",
         "traits": "Summer.",
         "type_code": "plot"
     },
