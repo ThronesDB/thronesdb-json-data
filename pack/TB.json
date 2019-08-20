@@ -228,7 +228,7 @@
         "faction_code": "greyjoy",
         "flavor": "",
         "illustrator": "Tim Durning",
-        "is_loyal": true,
+        "is_loyal": false,
         "is_unique": false,
         "name": "\"The Bloody Cup\"",
         "octgn_id": null,
