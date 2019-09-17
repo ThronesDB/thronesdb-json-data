@@ -1,0 +1,58 @@
+[
+    {
+        "code": "15001",
+        "flavor": "\"Why do the gods make kings and queens, if not to protect the ones who can't protect themselves?\"",
+        "name": "Daenerys Targaryen",
+        "text": "<b>Action:</b> Search the top 10 cards of your deck for an attachment or <i>Dragon</i> card, reveal it, and add it to your hand (you may put it into play instead if its printed cost is 3 or lower). Shuffle your deck. (Limit once per round.)",
+        "traits": "Lady. Queen. Stormborn."
+    },
+    {
+        "code": "15012",
+        "flavor": "At first Groleo had wanted the dragons caged and Dany had consented to put his fears at ease, but their misery was so palpable that she soon changed her mind and insisted they be freed.",
+        "name": "Captain Groleo",
+        "text": "<b>Reaction:</b> After an attachment enters play, gain 1 gold. (Limit once per phase.)",
+        "traits": "Captain."
+    },
+    {
+        "code": "15019",
+        "flavor": "",
+        "name": "Khaleesi",
+        "text": "<i>Lady</i> character only.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, kneel Khaleesi to, either: stand attached character, or raise the claim value on your revealed plot card by 1 until the end of the challenge.",
+        "traits": "Title."
+    },
+    {
+        "code": "15020",
+        "flavor": "",
+        "name": "Dragon Egg",
+        "text": "Attached character gains insight.\n<b>Reaction:</b> After the marshaling phase begins, if attached character is Daenerys Targaryen, sacrifice Dragon Egg to search your deck for a <i>Hatchling</i> character and put it into play. Shuffle your deck.",
+        "traits": "Dragon. Item."
+    },
+    {
+        "code": "15026",
+        "flavor": "",
+        "name": "Dragonstone Convert",
+        "text": "<b>Challenges Action:</b> Name an event. Until the end of the phase, events with that title cannot be played. (Limit once per phase.)",
+        "traits": "House Florent. R'hllor."
+    },
+    {
+        "code": "15029",
+        "flavor": "Ser Meryn Trant simply did not care.",
+        "name": "Ser Meryn Trant",
+        "text": "<b>Interrupt:</b> When a card is discarded from an opponent's hand, remove it from the game instead of placing it in his or her discard pile.",
+        "traits": "Kingsguard. Knight."
+    },
+    {
+        "code": "15030",
+        "flavor": "",
+        "name": "The Red Keep",
+        "text": "<b>Interrupt:</b> When the effects of an opponent's triggered character, location, or attachment ability would initiate, kneel The Red Keep to cancel those effects.\n+1 Income.",
+        "traits": "King's Landing."
+    },
+    {
+        "code": "15041",
+        "flavor": "",
+        "name": "Tormund Giantsbane",
+        "text": "Intimidate.\n<b>Reaction:</b> After you win a challenge in which Tormund Giantsbane is participating, place a tale token on him.\n<b>Action:</b> Discard 1 tale token from Tormund Giantsbane to give a <i>Wildling</i> character +2 STR and renown until the end of the phase.",
+        "traits": "Storyteller. Wildling."
+    }
+]
