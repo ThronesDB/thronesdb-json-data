@@ -340,6 +340,7 @@
     {
         "code": "13118",
         "deck_limit": 1,
+        "designer": "Card design by 2015 Melee World Champion, Corey Faherty.",
         "faction_code": "neutral",
         "flavor": "",
         "illustrator": "Tim Durning",
@@ -350,7 +351,7 @@
         "pack_code": "LMHR",
         "position": 118,
         "quantity": 3,
-        "text": "Your minimum deck size is 75 cards. Your deck cannot include more than 1 copy of each attachment .&nbsp;\n<b>Action:</b> Kneel your faction card and pay X gold to put an attachment with printed cost X into play from your hand.\n<b>Reaction:</b> After an attachment enters play under your control, either: draw a card or gain 1 gold. (Limit 3 times per round.)",
+        "text": "Your minimum deck size is 75 cards. Your deck cannot include more than 1 copy of each attachment\n<b>Action:</b> Kneel your faction card and pay X gold to put an attachment with printed cost X into play from your hand.\n<b>Reaction:</b> After an attachment enters play under your control, either: draw a card or gain 1 gold. (Limit 3 times per round.)",
         "traits": "",
         "type_code": "agenda"
     },
@@ -378,7 +379,7 @@
     {
         "claim": 1,
         "code": "13120",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
         "illustrator": "Aleksander Karcz",
@@ -392,7 +393,7 @@
         "position": 120,
         "quantity": 3,
         "reserve": 6,
-        "text": "<b>When Revealed:</b> Discard each card in shadows.\nPlot deck limit: 1.",
+        "text": "<b>When Revealed:</b> Discard each card in shadows.",
         "traits": "Scheme.",
         "type_code": "plot"
     }
