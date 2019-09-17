@@ -1,58 +1,142 @@
 [
     {
+        "code": "13081",
+        "flavor": "",
+        "name": "Mob des gemeinen Volkes",
+        "text": "Schatten (4).\n<b>Aktion:</b> Opfere einen einzigartigen [stark]-Charakter, um Mob des gemeinen Volkes aus den Schatten ins Spiel zu bringen.",
+        "traits": "Verbündeter."
+    },
+    {
         "code": "13082",
         "flavor": "",
-        "name": "Shadow of the North",
-        "text": "Shadow (1). Play only during a challenge.\n<b>Action:</b> Raise the claim value on your revealed plot card by 1 until the end of the challenge. If there is a <i>Winter</i> plot card revealed, return Shadow of the North to your hand instead of placing it in your discard pile. (Max 1 per challenge.)",
+        "name": "Schatten des Nordens",
+        "text": "Schatten (1). Kann nur während einer Herausforderung gespielt werden.\n<b>Aktion:</b> Erhöhe bis zum Ende der Herausforderung den Schadenswert deiner aufgedeckten Strategiekarte um 1. Falls es eine aufgedeckte <i>Winter</i>-Strategiekarte gibt, schicke Schatten des Nordens auf deine Hand zurück, anstatt diese Karte auf deinen Ablagestapel zu legen. (Maximal 1 pro Herausforderung.)",
         "traits": ""
+    },
+    {
+        "code": "13083",
+        "flavor": "",
+        "name": "Hofnarr aus Rosengarten",
+        "text": "Einblick.\n<b>Erzwungene Reaktion:</b> Nachdem Hofnarr aus Rosengarten eine Karte durch Einblick gezogen hat, lege eine zufällige Karte von deiner Hand oben auf dein Deck. (Falls ein anderer <i>Narr</i>-Charakter im Spiel ist, wähle stattdessen eine Karte von deiner Hand und lege sie oben auf dein Deck.)",
+        "traits": "Verbündeter. Narr."
     },
     {
         "code": "13084",
         "flavor": "",
-        "name": "Shadow of the Rose",
-        "text": "Shadow (2).\n<b>Action:</b> Search the top 10 cards of your deck for a card with shadow, reveal it, and put it into shadows. Shuffle your deck. If there is a <i>Summer</i> plot card revealed, return Shadow of the Rose to your hand instead of placing it in your discard pile.",
+        "name": "Schatten der Rose",
+        "text": "Schatten (2).\n<b>Aktion:</b> Suche in den obersten 10 Karten deines Decks nach einer Karte mit Schatten, decke sie auf und bringe sie in die Schatten. Mische dein Deck. Falls es eine aufgedeckte <i>Sommer</i>-Strategiekarte gibt, schicke Schatten der Rose auf deine Hand zurück, anstatt diese Karte auf deine Ablagestapel zu legen.",
         "traits": ""
     },
     {
         "code": "13085",
-        "flavor": "\"Do what you want to the town, it's naught to me, but leave us be. We're no foes to you.\"",
+        "flavor": "\"Tut in der Stadt, was Ihr wollt, das schert mich nicht, aber lasst uns in Frieden. Wir sind Euch nicht feindlich gesonnen.\"",
         "name": "Yoren",
-        "text": "<b>Reaction:</b> After Yoren enters play, choose a character with printed cost 5 or lower. Take control of that character until Yoren leaves play.",
-        "traits": "Wandering Crow."
+        "text": "<b>Reaktion:</b> Nachdem Yoren ins Spiel gekommen ist, wähle einen Charakter mit aufgedruckten Kosten von 5 oder weniger. Übernimm die Kontrolle über den gewählten Charakter, bis Yoren das Spiel verlässt.",
+        "traits": "Wanderkrähe."
+    },
+    {
+        "code": "13086",
+        "flavor": "",
+        "name": "Unterwegs zur Mauer",
+        "text": "<b>Reaktion:</b> Nachdem du als angreifender Spieler eine Herausforderung gewonnen hast, decke die obersten 5 Karten vom Deck des verlierenden Gegners auf. Du darfst einen Charakter, der auf diese Weise aufgedeckt worden ist, unter deiner Kontrolle ins Spiel bringen. Lege die anderen aufgedeckten Karten in zufälliger Reihenfolge unter das Deck jenes Spielers. (Maximal 1 pro Herausforderung.)",
+        "traits": ""
+    },
+    {
+        "code": "13087",
+        "flavor": "",
+        "name": "Ser Preston Grünfeld",
+        "text": "Schatten (4).\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Ser Preston Grünfeld teilnimmt, muss der verlierende Gegner 1 Macht von seiner Fraktionskarte auf einen aufrechten Charakter verschieben, den er kontrolliert.",
+        "traits": "Königsgarde. Ritter."
     },
     {
         "code": "13088",
         "flavor": "",
-        "name": "Blackwater Rush",
-        "text": "Shadow (2).\n<b>Reaction:</b> After a card you control comes out of shadows, kneel Blackwater Rush to choose a [baratheon] character. That character gains 1 power.",
+        "name": "Der Schwarzwasser",
+        "text": "Schatten (2).\n<b>Reaktion:</b> Nachdem eine Karte, die du kontrollierst, aus den Schatten getreten ist, beuge Der Schwarzwasser, um einen [baratheon]-Charakter zu wählen. Der gewählte Charakter erhält 1 Macht.",
         "traits": "Westeros."
     },
     {
         "code": "13089",
         "flavor": "",
         "name": "Tyrion Lannister",
-        "text": "Shadow (5). Insight.\n<b>Reaction:</b> After a non-event card you control comes out of shadows, place another card you control in shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost. (Limit once per round.)",
-        "traits": "Lord. Small Council."
+        "text": "Schatten (5). Einblick.\n<b>Reaktion:</b> Nachdem eine Nicht-Ereigniskarte, die du kontrollierst, aus den Schatten getreten ist, lege eine andere Karte, die du kontrollierst, in die Schatten und lege einen Schattenmarker auf sie. Solange jene Karte in den Schatten ist, erhält sie Schatten (X), wobei X ihre aufgedruckten Kosten sind. (Nur ein Mal pro Runde.)",
+        "traits": "Lord. Kleiner Rat."
     },
     {
         "code": "13090",
         "flavor": "",
-        "name": "A Very Large Shadow",
-        "text": "Shadow (0).\n<b>Action:</b> Reduce the cost of the next card you bring out of shadows this phase by 3. If there is a <i>Scheme</i> plot card revealed, return A Very Large Shadow to your hand instead of placing it in your discard pile. (Max 1 per phase.)",
+        "name": "Die größten Schatten",
+        "text": "Schatten (0).\n<b>Aktion:</b> Reduziere die Kosten der nächsten Karte, die du in dieser Phase aus den Schatten holst, um 3. Falls es eine aufgedeckte <i>Komplott</i>-Strategiekarte gibt, schicke Die größten Schatten auf deine Hand zurück, anstatt diese Karte auf deinen Ablagestapel zu legen. (Maximal 1 pro Phase.)",
         "traits": ""
+    },
+    {
+        "code": "13091",
+        "flavor": "Maester waren durchaus nützlich, doch für diesen Kerwin hatte Victarion nichts als Verachtung übrig. Mit seinen glatten rosa Wangen, den weichen Händen und den braunen Locken sah er mädchenhafter aus als die meisten Mädchen.",
+        "name": "Maester Kerwin",
+        "text": "<b>Unterbrechung:</b> Sobald ein anderer Charakter getötet werden würde, töte Maester Kerwin, um jenen Charakter zu retten.",
+        "traits": "Maester."
+    },
+    {
+        "code": "13092",
+        "flavor": "",
+        "name": "\"Der blutige Becher\"",
+        "text": "<b>Reaktion:</b> Nachdem du eine unverteidigte Herausforderung gewonnen hast, wähle einen Charakter, den der verlierende Gegner kontrolliert, und lege ihn oben auf das Deck seines Besitzers. (Maximal 1 pro Herausforderung.)",
+        "traits": "Lied."
+    },
+    {
+        "code": "13093",
+        "flavor": "",
+        "name": "Heimliche Getreue",
+        "text": "Schatten (4).\n<b>Aktion:</b> Lege eine [targaryen]-Karte mit aufgedruckten Kosten von 4 oder höher von deiner Hand ab, um Heimliche Getreue aus den Schatten ins Spiel zu bringen.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "13094",
+        "flavor": "... und zum ersten Mal seit hundert Jahren erbebte die Nacht von der Musik der Drachen.",
+        "name": "Musik der Drachen",
+        "text": "<b>Herausforderungsaktion:</b> Suche in deinem Deck nach einem <i>Drache</i>-Charakter, decke ihn auf und nimm ihn auf deine Hand. Mische dein Deck.",
+        "traits": ""
+    },
+    {
+        "code": "13095",
+        "flavor": "",
+        "name": "Dagos Mannkraft",
+        "text": "Solange es 5 oder mehr verschiedene <i>Merkmale</i> auf Strategiekarten in deinen Archiv gibt, erhält Dagos Mannkraft Ruhmreich und Heimlich.",
+        "traits": "Haus Mannkraft. Lord."
     },
     {
         "code": "13096",
         "flavor": "",
-        "name": "The Mountain's Skull",
-        "text": "Attached character gets +2 STR and gains renown.\n<b>Reaction:</b> After an opponent's character with printed STR 6 or higher is killed, put The Mountain's Skull into play from your hand or discard pile.",
-        "traits": "Item."
+        "name": "Der Schädel des Bergs",
+        "text": "Der verstärkte Charakter bekommt +2 Stärke und erhält Ruhmreich.\n<b>Reaktion:</b> Nachdem ein gegnerischer Charakter mit aufgedruckter Stärke von 6 oder höher getötet worden ist, bringe Der Schädel des Bergs von deiner Hand oder aus deinem Ablagestapel ins Spiel.",
+        "traits": "Gegenstand."
+    },
+    {
+        "code": "13097",
+        "flavor": "",
+        "name": "Spatzen",
+        "text": "Schatten (2).\n<b>Reaktion:</b> Nachdem Spatzen aus den Schatten getreten sind, verschiebe 1 Macht von einer Fraktionskarte eines Gegners auf eine andere <i>Die Sieben</i>-Karte, die du kontrollierst.",
+        "traits": "Die Sieben."
     },
     {
         "code": "13098",
         "flavor": "",
-        "name": "White Cloak",
-        "text": "<i>Knight</i> character you control only.\nAttached character gains the <i>Kingsguard</i> trait.\n<b>Interrupt:</b> When a <i>King</i> or <i>Queen</i> character would be killed, kneel attached character to save it.",
-        "traits": "Item."
+        "name": "Weißer Umhang",
+        "text": "Nur <i>Ritter</i>-Charaktere, die du kontrollierst.\nDer verstärkte Charakter erhält das Merkmal <i>Königsgarde</i>.\n<b>Unterbrechung:</b> Sobald ein <i>König</i>- oder <i>Königin</i>-Charakter getötet werden würde, beuge den verstärkten Charakter, um ihn zu retten.",
+        "traits": "Gegenstand."
+    },
+    {
+        "code": "13099",
+        "flavor": "",
+        "name": "Das Weiße Buch",
+        "text": "Dein Deck darf nicht-loyale <i>Königsgarde</i>-Charaktere von beliebigen Fraktionen enthalten. Dein Deck muss mindestens 7 verschiedene <i>Königsgarde</i>-Charaktere enthalten.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, beuge deine Fraktionskarte, um jeden verteidigenden <i>Königsgarde</i>-Charakter, den du kontrollierst, aufzurichten. (Falls du einen <i>König</i>- oder <i>Königin</i>-Charakter kontrollierst, richte stattdessen jeden teilnehmenden <i>Königsgarde</i>-Charakter auf, den du kontrollierst.)",
+        "traits": ""
+    },
+    {
+        "code": "13100",
+        "flavor": "",
+        "name": "Aufstand in Königsmund",
+        "text": "<b>Erzwungene Unterbrechung:</b> Sobald die Herausforderungsphase endet, lege jeden Charakter aus dem Spiel ab, falls 3 oder mehr <i>Stadt</i>-Strategiekarten in deinem Archiv sind.",
+        "traits": "Stadt."
     }
 ]
