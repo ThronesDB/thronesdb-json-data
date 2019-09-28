@@ -3,140 +3,141 @@
         "code": "13101",
         "flavor": "",
         "name": "Arya Stark",
-        "text": "Shadow (4). Stealth.\n<b>Reaction:</b> After Arya Stark enters play, place a prayer token on up to 5 different characters you don't control. If Arya Stark leaves play, discard those tokens.\n<b>Reaction:</b> After a character with a prayer token is killed, stand Arya Stark and draw 1 card.",
+        "text": "Schatten (4). Heimlich.\n<b>Reaktion:</b> Nachdem Arya Stark ins Spiel gekommen ist, lege 1 Gebetsmarker auf bis zu 5 verschiedene Charaktere, die du nicht kontrollierst. Falls Arya Stark das Spiel verlässt, lege jene Marker ab.\n<b>Reaktion:</b> Nachdem ein Charakter mit einem Gebetsmarker getötet worden ist, richte Arya Stark auf und ziehe 1 Karte.",
         "traits": "Lady."
     },
     {
         "code": "13102",
         "flavor": "",
-        "name": "Blood of the First Men",
-        "text": "Character you control only.\nAttached character gains the <i>Old Gods</i> trait.\n<b>Action:</b> During a challenge in which you control a participating [stark] character, kneel attached character to have it participate in the challenge on your side.",
-        "traits": "Legacy. Old Gods."
+        "name": "Blut der Ersten Menschen",
+        "text": "Nur Charaktere, die du kontrollierst.\nDer verstärkte Charakter erhält das Merkmal <i>Alte Götter</i>.\n<b>Aktion:</b> Beuge während einer Herausforderung, in der du einen teilnehmenden [stark]-Charakter kontrollierst, den verstärkten Charakter, um ihn auf deiner Seite an der Herausforderung teilnehmen zu lassen.",
+        "traits": "Erbe. Alte Götter."
     },
     {
         "code": "13103",
         "flavor": "",
-        "name": "The Queen's Retinue",
-        "text": "Shadow (4).\n<b>Action:</b> Put The Queen's Retinue into play from shadows. Then, each opponent draws 2 cards.",
-        "traits": "Ally. Companion."
+        "name": "Das Gefolge der Königin",
+        "text": "Schatten (4).\n<b>Aktion:</b> Bringe Das Gefolge der Königin aus den Schatten ins Spiel. Dann zieht jeder Gegner 2 Karten.",
+        "traits": "Verbündeter. Gefährte."
     },
     {
         "code": "13104",
         "flavor": "",
-        "name": "Huntress",
-        "text": "While Huntress is standing, each [tyrell] character you control with printed cost 3 or lower gets +1 STR.\n<b>Action:</b> Kneel Huntress to choose a [tyrell] character with printed cost 3 or lower. It gets +3 STR until the end of the phase.",
-        "traits": "Warship."
+        "name": "Jägerin",
+        "text": "Solange Jägerin aufrecht steht, bekommt jeder [tyrell]-Charakter mit aufgedruckten Kosten von 3 oder weniger, den du kontrollierst, +1 Stärke.\n<b>Aktion:</b> Beuge Jägerin, um einen [tyrell]-Charakter mit aufgedruckten Kosten von 3 oder weniger zu wählen. Bis zum Ende der Phase bekommt der gewählte Charakter +3 Stärke.",
+        "traits": "Kriegsschiff."
     },
     {
         "code": "13105",
         "flavor": "",
-        "name": "Recruit from the Dungeons",
-        "text": "Shadow (2).\n<b>Action:</b> During a challenge in which you are the defending player, kneel Recruit from the Dungeons to have it participate in the challenge on your side. If you lose the challenge, return Recruit from the Dungeons to shadows.",
-        "traits": "Ally. Recruit."
+        "name": "Rekrut aus dem Kerker",
+        "text": "Schatten (2).\n<b>Aktion:</b> Während einer Herausforderung, in der du der verteidigende Spieler bist, beuge Rekrut aus dem Kerker, um ihn auf deiner Seite an der Herausforderung teilnehmen zu lassen. Falls du die Herausforderung verlierst, schicke Rekrut aus dem Kerker in die Schatten zurück.",
+        "traits": "Verbündeter. Rekrut."
     },
     {
         "code": "13106",
-        "flavor": "Hoarfrost Hill and Rimegate still lacked garrisons, so Jon had asked their views on which of the remaining wildling chiefs and war lords might be best suited to hold them.",
-        "name": "Rimegate",
-        "text": "<b>Interrupt:</b> When another location you control would be discarded from play, kneel Rimegate to save it.",
-        "traits": "The North."
+        "flavor": "Berg Raureif und Reiftor waren noch nicht wieder besetzt, daher hatte Jon die beiden Männer um ihre Meinung gebeten, welchen der verbliebenen Wildlingshäuptlinge und Kriegsherren er wohl dort hinschicken sollte.",
+        "name": "Reiftor",
+        "text": "<b>Unterbrechung:</b> Sobald ein anderer Ort, den du kontrollierst, aus dem Spiel abgelegt werden würde, beuge Reiftor, um ihn zu retten.",
+        "traits": "Der Norden."
     },
     {
         "code": "13107",
-        "flavor": "\"I swear to you, I was never so alive as when I was winning this throne, or so dead now that I've won it.\"",
+        "flavor": "\"Ich schwöre dir. Nie war ich so lebendig wie damals, als ich den Thron erstritten habe, und nie so tot wie jetzt, da ich darauf sitze.\"",
         "name": "Robert Baratheon",
-        "text": "Renown.\n<b>Reaction:</b> After Robert Baratheon gains power, gain 1 power for your faction. (Limit twice per round.)",
-        "traits": "Lord. King."
+        "text": "Ruhmreich.\n<b>Reaktion:</b> Nachdem Robert Baratheon Macht erhalten hat, erhältst du 1 Macht für deine Fraktion. (Nur zwei Mal pro Runde.)",
+        "traits": "Lord. König."
     },
     {
         "code": "13108",
         "flavor": "",
-        "name": "Long May He Reign",
-        "text": "<i>King</i> character only.\nAttached character cannot be killed.\n<b>Forced Reaction:</b> After you lose a [power] challenge as the defending player, sacrifice Long May He Reign.",
-        "traits": "Legacy."
+        "name": "Lang soll er herrschen",
+        "text": " Nur <i>König</i>-Charaktere.\nDer verstärkte Charakter kann nicht getötet werden.\n<b>Erzwungene Reaktion:</b> Nachdem du als der verteidigende Spieler eine [power]-Herausforderung verloren hast, opfere Lang soll er herrschen.",
+        "traits": "Erbe."
     },
     {
         "code": "13109",
-        "flavor": "Aurane Waters, the dashing young Bastard of Driftmark, would be her grand admiral.",
-        "name": "The Bastard of Driftmark",
-        "text": "<b>Reaction:</b> After you win an [intrigue] challenge in which The Bastard of Driftmark is participating, choose and stand a location.",
-        "traits": "Bastard. Small Council."
+        "flavor": "Auran Wasser, der schneidige junge Bastard von Driftmark, würde ihr Großadmiral sein.",
+        "name": "Der Bastard von Driftmark",
+        "text": "<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung gewonnen hast, an welcher Der Bastard von Driftmark teilnimmt, wähle einen Ort und richte ihn auf.",
+        "traits": "Bastard. Kleiner Rat."
     },
     {
         "code": "13110",
         "flavor": "",
-        "name": "Alchemists' Guildhall",
-        "text": "Shadow (2).\n<b>Interrupt:</b> When the effects of a triggered character ability would initiate, if that character does not have shadow, kneel and return Alchemists' Guildhall to shadows to cancel those effects. (Max 1 per phase.)",
-        "traits": "King's Landing."
+        "name": "Gildenhalle der Alchimisten",
+        "text": "Schatten (2).\n<b>Unterbrechung:</b> Sobald die Effekte einer ausgelösten Charakterfähigkeit initiiert werden würden, beuge Gildenhalle der Alchimisten und schicke sie in die Schatten zurück, um jene Effekte aufzuheben, falls jener Charakter nicht das Schlüsselwort Schatten hat. (Maximal 1 pro Phase.)",
+        "traits": "Königsmund."
     },
     {
         "code": "13111",
         "flavor": "",
-        "name": "Blackwater Raiders",
-        "text": "Shadow (3).\n<b>Reaction:</b> After Blackwater Raiders comes out of shadows, choose a location with printed cost 2 or lower in an opponent's discard pile. Put it into play under your control.",
-        "traits": "Mercenary. Raider."
+        "name": "Plünderer auf dem Schwarzwasser",
+        "text": "Schatten (3).\n<b>Reaktion:</b> Nachdem Plünderer auf dem Schwarzwasser aus den Schatten getreten sind, wähle einen Ort mit aufgedruckten Kosten von 2 oder weniger im Ablagestapel eines Gegners. Bringe ihn unter deiner Kontrolle ins Spiel.",
+        "traits": "Söldner. Plünderer."
     },
     {
         "code": "13112",
         "flavor": "",
-        "name": "Fishmonger's Square",
-        "text": "<b>Marshaling Action:</b> If there are 10 or more cards in an opponent's discard pile, kneel Fishmonger's Square to draw 1 card and gain 1 gold.",
-        "traits": "King's Landing."
+        "name": "Platz der Fischhändler",
+        "text": "<b>Aufmarschaktion:</b> Falls 10 oder mehr Karten im Ablagestapel eines Gegners sind, beuge Platz der Fischhändler, um 1 Karte zu ziehen und 1 Gold zu erhalten.",
+        "traits": "Königsmund."
     },
     {
         "code": "13113",
         "flavor": "",
         "name": "Ser Jorah Mormont",
-        "text": "Shadow (4). No attachments except <i>Weapon</i>.\n<b>Interrupt:</b> When Ser Jorah Mormont is discarded from your hand, put him into shadows instead of placing him in your discard pile.",
-        "traits": "Companion. Knight."
+        "text": "Schatten (4). Keine Verstärkungen außer <i>Waffe</i>.\n<b>Unterbrechung:</b> Sobald Ser Jorah Mormont von deiner Hand abgelegt wird, bringe ihn in die Schatten, anstatt ihn auf deinen Ablagestapel zu legen.",
+        "traits": "Gefährte. Ritter."
     },
     {
         "code": "13114",
         "flavor": "",
-        "name": "Mercenary Contract",
-        "text": "Attached character gains the <i>Mercenary</i> trait.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, pay 1 gold and kneel Mercenary Contract to stand attached character.",
-        "traits": "Item."
+        "name": "Söldnervertrag",
+        "text": "Der verstärkte Charakter erhält das Merkmal <i>Söldner</i>.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in welcher der verstärkte Charakter angreift, bezahle 1 Gold und beuge Söldnervertrag, um den verstärkten Charakter aufzurichten.",
+        "traits": "Gegenstand."
     },
     {
         "code": "13115",
         "flavor": "",
-        "name": "Friends at Court",
-        "text": "Shadow (2).\n<b>Reaction:</b> After Friends at Court comes out of shadows, look at up to 3 cards in shadows. Then, you may pay 2 gold to choose 1 of those cards and return it to its owner's hand.",
-        "traits": "Spy."
+        "name": "Freunde am Hofe",
+        "text": "Schatten (2).\n<b>Reaktion:</b> Nachdem Freunde am Hofe aus den Schatten getreten sind, sieh dir bis zu 3 Karten in den Schatten an. Dann darfst du 2 Gold bezahlen, um 1 jener Karten zu wählen und sie auf die Hand ihres Besitzers zurückzuschicken.",
+        "traits": "Spion."
     },
     {
         "code": "13116",
         "flavor": "",
-        "name": "Poisoned Dagger",
-        "text": "Character you control only. Shadow (2).\nAttached character gets +2 STR.\n<b>Reaction:</b> After you win an [intrigue] challenge in which attached character is participating, sacrifice Poisoned Dagger to have the losing opponent choose and kill a participating character he or she controls.",
-        "traits": "Weapon."
+        "name": "Vergifteter Dolch",
+        "text": "Nur Charaktere, die du kontrollierst. Schatten (2).\nDer verstärkte Charakter bekommt +2 Stärke.\n<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung gewonnen hast, an welcher der verstärkte Charakter teilnimmt, opfere Vergifteter Dolch, um den verlierenden Gegner einen teilnehmenden Charakter, den er kontrolliert, wählen und töten zu lassen.",
+        "traits": "Waffe."
     },
     {
         "code": "13117",
         "flavor": "",
-        "name": "The Iron Throne",
-        "text": "<b>Reaction:</b> After a phase begins, kneel The Iron Throne to name a card. Until the end of the phase, that card cannot be marshaled, played, or put into play.",
-        "traits": "Contested. King's Landing."
+        "name": "Der Eiserne Thron",
+        "text": "<b>Reaktion:</b> Nachdem eine Phase begonnen hat, beuge Der Eiserne Thron, um eine Karte zu benennen. Bis zum Ende der Phase kann kein Spieler die benannte Karte aufmarschieren lassen, spielen und ins Spiel bringen.",
+        "traits": "Umkämpft. Königsmund."
     },
     {
         "code": "13118",
+        "designer": "Kartenentwurf von Corey Faherty, Weltmeister im Buhurt 2015.",
         "flavor": "",
-        "name": "Valyrian Steel",
-        "text": "Your minimum deck size is 75 cards. Your deck cannot include more than 1 copy of each attachment .&nbsp;\n<b>Action:</b> Kneel your faction card and pay X gold to put an attachment with printed cost X into play from your hand.\n<b>Reaction:</b> After an attachment enters play under your control, either: draw a card or gain 1 gold. (Limit 3 times per round.)",
+        "name": "Valyrischer Stahl",
+        "text": "Dein Deck muss mindestens 75 Karten enthalten. Dein Deck kann nicht mehr als 1 Kopie jeder Verstärkung <i>(nach Kartentitel)</i> enthalten.\n<b>Aktion:</b> Beuge deine Fraktionskarte und bezahle X Gold, um eine Verstärkung mit aufgedruckten Kosten von X von deiner Hand ins Spiel zu bringen.\n<b>Reaktion:</b> Nachdem eine Verstärkung unter deiner Kontrolle ins Spiel gekommen ist, ziehe entweder eine Karte oder du erhältst 1 Gold. (Nur drei Mal pro Runde.)",
         "traits": ""
     },
     {
         "code": "13119",
         "flavor": "",
-        "name": "City of Wealth",
-        "text": "Increase the gold, initiative, and reserve values on this plot card by 1 for each <i>City</i> plot card in your used pile.",
-        "traits": "City. Kingdom."
+        "name": "Die Stadt des Wohlstands",
+        "text": "Erhöhe den Gold-, Initiative- und Reservewert auf dieser Strategiekarte um 1 jede <i>Stadt</i>-Strategiekarte in deinem Archiv.",
+        "traits": "Stadt. Königreich."
     },
     {
         "code": "13120",
         "flavor": "",
-        "name": "Expose Duplicity",
-        "text": "<b>When Revealed:</b> Discard each card in shadows.\nPlot deck limit: 1.",
-        "traits": "Scheme."
+        "name": "Falsches Spiel aufdecken",
+        "text": "<b>Sobald aufgedeckt:</b> Lege jede Karte in den Schatten ab.",
+        "traits": "Komplott."
     }
 ]
