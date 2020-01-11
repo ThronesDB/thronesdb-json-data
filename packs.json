@@ -366,5 +366,13 @@
         "date_release": "2019-11-08",
         "name": "Dragons of the East",
         "size": 52
+    },
+    {
+        "cgdb_id": 54,
+        "code": "TTWDFL",
+        "cycle_code": "variants",
+        "date_release": null,
+        "name": "The Things We Do For Love",
+        "size": 36
     }
 ]
