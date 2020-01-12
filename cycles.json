@@ -78,5 +78,10 @@
         "code": "dragons",
         "name": "Dragons of the East",
         "size": 1
+    },
+    {
+        "code": "premium",
+        "name": "Premium Packs",
+        "size": 1
     }
 ]
