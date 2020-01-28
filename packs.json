@@ -8,6 +8,22 @@
         "size": 21
     },
     {
+        "cgdb_id": null,
+        "code": "VKm",
+        "cycle_code": "variants",
+        "date_release": null,
+        "name": "Kingsmoot Variant",
+        "size": 8
+    },
+    {
+        "cgdb_id": null,
+        "code": "VHotK",
+        "cycle_code": "variants",
+        "date_release": null,
+        "name": "Hand of the King Variant",
+        "size": 1
+    },
+    {
         "cgdb_id": 1,
         "code": "Core",
         "cycle_code": "core",

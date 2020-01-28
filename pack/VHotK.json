@@ -1,0 +1,18 @@
+[
+    {
+        "code": "00030",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "flavor": "",
+        "is_loyal": false,
+        "is_unique": false,
+        "name": "The King's Voice",
+        "octgn_id": null,
+        "pack_code": "VHotK",
+        "position": 30,
+        "quantity": 3,
+        "text": "You may run an agenda in addition to this one and may include non-loyal <i>Small Council</i> characters from any faction in your deck.\nYour Hand of the King gains the <i>Small Council</i> trait. <i>Small Council</i> characters cannot be knelt by non-plot card effects, cannot have their STR reduced, cannot have their icons removed, and gain \"No <i>Condition</i> attachments.\"\n<b>Hand of the King format only.</b>",
+        "traits": "",
+        "type_code": "agenda"
+    }
+]
