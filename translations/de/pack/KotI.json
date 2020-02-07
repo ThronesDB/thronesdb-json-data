@@ -3,7 +3,7 @@
         "code": "12001",
         "flavor": "",
         "name": "Balon Graufreud",
-        "text": "Brandschatzen. Ruhmreich.\n<b>Aktion:</b> Beuge deine Fraktionskarte, um eine Karte im Ablagestapel eines Gegners zu wählen und unter deiner Kontrolle ins Spiel zu bringen. Mische die gewählte Karte am Ende der Phase ins Deck ihres Besitzers zurück.",
+        "text": "Brandschatzen. Ruhmreich.\n<b>Aktion:</b> Beuge deine Fraktionskarte, um eine Karte im Ablagestapel eines Gegners zu wählen und unter deiner Kontrolle ins Spiel zu bringen. Falls jene Karte am Ende der Phase immer noch im Spiel ist, mische sie in das Deck ihres Besitzers zurück.\n<em>Errata aus FAQ v2.0</em>",
         "traits": "Eisenmann. Lord."
     },
     {
@@ -114,7 +114,7 @@
     {
         "code": "12017",
         "flavor": "",
-        "name": "Gross Wiek",
+        "name": "Groß Wiek",
         "text": "<b>Reaktion:</b> Nachdem ein Charakter aus deinem Totenstapel ins Spiel gekommen ist, wählt jeder Gegner 1 Karte von seiner Hand und legt sie ab. (Nur ein Mal pro Phase.)",
         "traits": "Ertrunkener Gott. Eiseninseln."
     },

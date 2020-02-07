@@ -1,58 +1,366 @@
 [
     {
         "code": "15001",
-        "flavor": "\"Why do the gods make kings and queens, if not to protect the ones who can't protect themselves?\"",
+        "flavor": "\"Wozu machen die Götter Menschen zu Königen und Königinnen, wenn nicht, um diejenigen zu beschützen, die sich nicht wehren können?\"",
         "name": "Daenerys Targaryen",
-        "text": "<b>Action:</b> Search the top 10 cards of your deck for an attachment or <i>Dragon</i> card, reveal it, and add it to your hand (you may put it into play instead if its printed cost is 3 or lower). Shuffle your deck. (Limit once per round.)",
-        "traits": "Lady. Queen. Stormborn."
+        "text": "<b>Aktion:</b> Suche in den obersten 10 Karten deines Decks nach einer Verstärkung oder einer <i>Drache</i>-Karte, decke sie auf und nimm sie auf deine Hand. (Falls ihre aufgedruckten Kosten 3 oder weniger sind, darfst du sie stattdessen ins Spiel bringen.) Mische dein Deck. (Nur ein Mal pro Runde.)",
+        "traits": "Lady. Königin. Sturmtochter."
+    },
+    {
+        "code": "15002",
+        "flavor": "",
+        "name": "Drogon",
+        "text": "Keine Verstärkungen.\nJeder <i>Sturmtocher</i>-Charakter, den du kontrollierst, erhält Ruhmreich.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Drogon angreift, töte jeden Charakter mit Stärke 1 oder weniger, den der verteidigende Spieler kontrolliert.",
+        "traits": "Drache."
+    },
+    {
+        "code": "15003",
+        "flavor": "",
+        "name": "Rhaegal",
+        "text": "Keine Verstärkungen.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der Rhaegal angreift, wähle einen anderen Charakter, den du kontrollierst, und richte ihn auf. Dann richte Rhaegal auf, falls der gewählte Charakter das Merkmal <i>Drache</i> oder <i>Sturmtochter</i> hat. (Nur ein Mal pro Phase.)",
+        "traits": "Drache."
+    },
+    {
+        "code": "15004",
+        "flavor": "",
+        "name": "Viserion",
+        "text": "Keine Verstärkungen.\nJeder <i>Sturmtochter</i>-Charakter, den du kontrollierst, erhält Heimlich.\nSolange Viserion angreift, bekommt jeder teilnehmende Nicht-<i>Drache</i>-, Nicht-<i>Sturmtochter</i>-Charakter -2 Stärke.",
+        "traits": "Drache."
+    },
+    {
+        "code": "15005",
+        "flavor": "\"Komm, mein Blut. Die Hengste rufen, dieser Ort ist Asche. Es wird Zeit zu reiten.\"",
+        "name": "Khal Drogo",
+        "text": "Ruhmreich.\n<b>Unterbrechung:</b> Sobald ein <i>Armee</i>- oder <i>Dothraki</i>-Charakter auf deine Hand zurückgeschickt werden würde, lege 1 Karte von deiner Hand ab, um ihn zu retten.",
+        "traits": "Dothraki. Lord."
+    },
+    {
+        "code": "15006",
+        "flavor": "",
+        "name": "Galazza Galare",
+        "text": "<b>Reaktion:</b> Nachdem du Galazza Galare aufmarschieren lassen hast, suche in den obersten 10 Karten deines Decks entweder nach einem [targaryen]-Charakter mit aufgedruckten Kosten von 6 oder höher oder nach bis zu 3 [targaryen]-Charakteren mit aufgedruckten Kosten von 2 oder weniger. Decke jede Karte auf, nach der du gesucht hast, und nimm sie auf deine Hand. Mische dein Deck.",
+        "traits": "Grazie."
+    },
+    {
+        "code": "15007",
+        "flavor": "\"Khaleesi, wir haben gesehen, wie er dich geschlagen hat. Möchtest du die Farbe seines Blutes sehen?\"",
+        "name": "Jhogo",
+        "text": "<b>Reaktion:</b> Nachdem du eine [military]-Herausforderung gewonnen hast, in der du 2 oder mehr angreifende <i>Dothraki</i>-Charaktere kontrollierst, verschiebe 1 Macht von der Fraktionskarte des verlierenden Gegners auf deine eigene.",
+        "traits": "Blutreiter. Dothraki."
+    },
+    {
+        "code": "15008",
+        "flavor": "\"... ich sage aber, Blut muss für Blut bezahlen. Nehmt aus jeder Familie, die ich Euch genannt habe, einen Mann und lasst ihn töten. Beim nächsten Mal, wenn einer von Euren Männern getötet wird, nehmt Ihr von jedem großen Haus zwei und lasst sie umbringen. Dann wird es keinen dritten Mord geben.\"",
+        "name": "Der Schurschädel",
+        "text": "<b>Herausforderungsaktion:</b> Bezahle X Gold, um einen Charakter mit aufgedruckten Kosten von X oder weniger aus deinem Ablagestapel ins Spiel zu bringen. (Nur ein Mal pro Phase.)",
+        "traits": "Kommandant. Garde."
+    },
+    {
+        "code": "15009",
+        "flavor": "\"Khaleesi, eher sollte ein Mann Skorpione schlucken, als der Brut der Schatten zu trauen, die es nicht wagen, ihr Antlitz im Licht der Sonne zu zeigen. Das ist bekannt.\"",
+        "name": "Rakharo",
+        "text": "<b>Reaktion:</b> Nachdem du eine [military]-Herausforderung gewonnen hast, in der du 2 oder mehr angreifende <i>Dothraki</i>-Charaktere kontrollierst, lege 1 zufällige Karte von der Hand des verlierenden Gegners ab.",
+        "traits": "Blutreiter. Dothraki."
+    },
+    {
+        "code": "15010",
+        "flavor": "\"Dieser Mann hat einen üblen Ruf, der sogar bis nach Westeros gedrungen ist. Lasst Euch nicht von seinen Manieren täuschen, Euer Gnaden.\" <cite>Ser Barristan Selmy</cite>",
+        "name": "Der Bastard des Titanen",
+        "text": "<b>Aktion:</b> Beuge Der Bastard des Titanen, um einen <i>Söldner</i>-Charakter aus deinem Ablagestapel auf deine Hand zurückzuschicken.",
+        "traits": "Bastard. Kommandant. Söldner."
+    },
+    {
+        "code": "15011",
+        "flavor": "Daenerys hätte auch Kämpfe zwischen Frauen verboten, aber Barsena Schwarzhaar hatte darauf bestanden, dass sie das gleiche Recht wie ein Mann habe, ihr Leben zu riskieren.",
+        "name": "Barsena Schwarzhaar",
+        "text": "Keine Verstärkungen außer <i>Waffe</i>.\nSolange eine <i>Waffe</i>-Verstärkung an Barsena Schwarzhaar angehängt ist, bekommt sie +3 Stärke.",
+        "traits": "Arenakämpfer."
     },
     {
         "code": "15012",
-        "flavor": "At first Groleo had wanted the dragons caged and Dany had consented to put his fears at ease, but their misery was so palpable that she soon changed her mind and insisted they be freed.",
-        "name": "Captain Groleo",
-        "text": "<b>Reaction:</b> After an attachment enters play, gain 1 gold. (Limit once per phase.)",
-        "traits": "Captain."
+        "flavor": "Zuerst hatte Groleo die Drachen in einen Käfig sperren wollen, und Dany hatte zugestimmt, um seine Befürchtungen zu zerstreuen, doch das Elend der drei war so offenkundig gewesen, dass sie bald ihre Meinung geändert und darauf bestanden hatte, dass sie herausgelassen wurde.",
+        "name": "Kapitän Groleo",
+        "text": "<b>Reaktion:</b> Nachdem eine Verstärkung ins Spiel gekommen ist, erhältst du 1 Gold. (Nur ein Mal pro Phase.)",
+        "traits": "Kapitän."
+    },
+    {
+        "code": "15013",
+        "flavor": "",
+        "name": "Blaue Grazien",
+        "text": "<b>Herausforderungsaktion:</b> Entferne Blaue Grazien aus dem Spiel, um eine Karte mit aufgedruckten Kosten von 6 oder höher in deinem Ablagestapel oder Totenstapel zu wählen und sie in dein Deck zu mischen.",
+        "traits": "Verbündeter. Grazie."
+    },
+    {
+        "code": "15014",
+        "flavor": "",
+        "name": "Dothrakische Magd",
+        "text": "Solange du Daenerys Targaryen kontrollierst, darfst du verdeckte Karten, die an Dothraktische Magd angehängt sind, aufmarschieren lassen, als ob sie auf deiner Hand wären.\n<b>Aufmarschaktion:</b> Decke eine Verstärkung von deiner Hand auf. Hänge sie verdeckt an Dothrakische Magd als eine Verstärkung an.",
+        "traits": "Gefährte. Dothraki."
+    },
+    {
+        "code": "15015",
+        "flavor": "Die Reiterlords mochten prunkvolle Stoffe und schwere Duftwässer anlegen, wenn sie die Freien Städte besuchten, doch draußen unter freiem Himmel wahrten sie die alten Traditionen.",
+        "name": "Reiterlord",
+        "text": "Solange Reiterlord angreift, bekommt er +1 Stärke für jeden anderen angreifenden <i>Dothraki</i>-Charakter, den du kontrollierst.",
+        "traits": "Dothraki."
+    },
+    {
+        "code": "15016",
+        "flavor": "\"Es gibt alte Söldner und verwegene Söldner, aber keine alten verwegenen Söldner.\"",
+        "name": "Der Braune Ben Pflum",
+        "text": "<b>Erzwungene Unterbrechung:</b> Sobald die Herausforderungsphase endet, opfere Der Braune Ben Pflum, falls du kein Gold in deiner Goldreserve hast.",
+        "traits": "Söldner."
+    },
+    {
+        "code": "15017",
+        "flavor": "",
+        "name": "Schoß der Welt",
+        "text": "<b>Aktion:</b> Beuge Schoß der Welt, um die obersten 5 Karten deines Decks aufzudecken. Du darfst einen auf diese Weise aufgedeckten <i>Dothraki</i>-Charakter wählen und ins Spiel bringen. Mische dein Deck. Falls jener Charakter am Ende der Phase immer noch im Spiel ist, schicke ihn auf deine Hand zurück.",
+        "traits": "Essos."
+    },
+    {
+        "code": "15018",
+        "flavor": "\"Es gibt Obsthaine, Bauernhöfe, Minen ... Ich besitze selbst einige, allerdings statte ich ihnen selten einen Besuch ab. Warum soll ich meine Zeit hier draußen verbringen, wo sich mir in Pentos Myriaden von Freuden bieten.\" <cite>Magister Illyrio</cite>",
+        "name": "Pentos",
+        "text": "<b>Reaktion:</b> Nachdem du eine Verstärkung gezogen hast, beuge Pentos, um die gezogene Verstärkung aufzudecken und sie ins Spiel zu bringen. Ziehe dann eine Karte.",
+        "traits": "Essos. Die Freien Städte."
     },
     {
         "code": "15019",
         "flavor": "",
         "name": "Khaleesi",
-        "text": "<i>Lady</i> character only.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, kneel Khaleesi to, either: stand attached character, or raise the claim value on your revealed plot card by 1 until the end of the challenge.",
-        "traits": "Title."
+        "text": "Nur <i>Lady</i>-Charaktere.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an welcher der verstärkte Charakter teilnimmt, beuge Khaleesi, um entweder den verstärkten Charakter aufzurichten oder den Schadenswert deiner aufgedeckten Strategiekarte bis zum Ende der Herausforderung um 1 zu erhöhen.",
+        "traits": "Titel."
     },
     {
         "code": "15020",
         "flavor": "",
-        "name": "Dragon Egg",
-        "text": "Attached character gains insight.\n<b>Reaction:</b> After the marshaling phase begins, if attached character is Daenerys Targaryen, sacrifice Dragon Egg to search your deck for a <i>Hatchling</i> character and put it into play. Shuffle your deck.",
-        "traits": "Dragon. Item."
+        "name": "Drachenei",
+        "text": "Der verstärkte Charakter erhält Einblick.\n<b>Reaktion:</b> Nachdem die Aufmarschphase begonnen hat, falls der verstärkte Charakter Daenerys Targaryen ist, opfere Drachenei, um in deinem Deck nach einem <i>Küken</i>-Charakter zu suchen und ihn ins Spiel zu bringen. Mische dein Deck.",
+        "traits": "Drache. Gegenstand."
+    },
+    {
+        "code": "15021",
+        "flavor": "In der Arena trug niemand Rüstung. Die Zuschauer kamen, um Blut zu sehen: Tod, abgeschlagene Gliedmaßen und Schmerzensschreie, die Musik des scharlachroten Sandes.",
+        "name": "Klinge des Arenakämpfers",
+        "text": "Der verstärkte Charakter erhält während [military]-Herausforderungen Ruhmreich.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "15022",
+        "flavor": "",
+        "name": "Überwältigende Überzahl",
+        "text": "Kann nur während einer Herausforderung gespielt werden, in der du 2 oder mehr <i>Dothraki</i>-Charaktere kontrollierst.\n<b>Aktion:</b> Bringe bis zu 2 <i>Dothraki</i>-Charaktere von deiner Hand und/oder deinem Ablagestapel gebeugt und als Angreifer teilnehmend ins Spiel. Falls jene Charaktere am Ende der Herausforderung immer noch im Spiel sind, schicke sie auf deine Hand zurück. (Maximal 1 pro Herausforderung.)",
+        "traits": ""
+    },
+    {
+        "code": "15023",
+        "flavor": "\"Denn Drachen sind Fleisch gewordenes Feuer, und Feuer ist Macht.\" <cite>Quaithe vom Schatten</cite>",
+        "name": "Fleisch gewordenes Feuer",
+        "text": "<b>Aufmarschaktion:</b> Opfere einen <i>Küken</i>-Charakter, um auf deiner Hand und in deinem Deck nach einem <i>Drachen</i>-Charakter zu suchen, der denselben Kartentitel hat, und ihn ins Spiel zu bringen. Mische dein Deck.",
+        "traits": ""
+    },
+    {
+        "code": "15024",
+        "flavor": "",
+        "name": "Einäschern",
+        "text": "<b>Aktion:</b> Wähle einen teilnehmenden Charakter und lege 1 oder mehr Karten von deiner Hand ab. Bis zum Ende der Herausforderung bekommt der gewählte Charakter für jede auf diese Weise abgelegte Karte -2 Stärke.",
+        "traits": ""
+    },
+    {
+        "code": "15025",
+        "flavor": "",
+        "name": "Delena Florent",
+        "text": "Während der Herausforderungsphase können Nicht-<i>Bastard</i>-Charaktere nicht aufgerichtet werden.\n<b>Reaktion:</b> Nachdem Delena Florent ins Spiel gekommen ist, suche in deinem Deck nach einem <i>Bastard</i>-Charakter, decke ihn auf und nimm ihn auf deine Hand. Mische dein Deck.",
+        "traits": "Haus Florent. Lady."
     },
     {
         "code": "15026",
         "flavor": "",
-        "name": "Dragonstone Convert",
-        "text": "<b>Challenges Action:</b> Name an event. Until the end of the phase, events with that title cannot be played. (Limit once per phase.)",
-        "traits": "House Florent. R'hllor."
+        "name": "Bekehrte aus Drachenstein",
+        "text": "<b>Herausforderungsaktion:</b> Benenne ein Ereignis. Ereignisse mit dem benannten Kartentitel können bis zum Ende der Phase nicht gespielt werden. (Nur ein Mal pro Phase.)",
+        "traits": "Haus Florent. R'hllor."
+    },
+    {
+        "code": "15027",
+        "flavor": "\"Rodrik hat keine Töchter, nur Bücher. Hotho wird sein Erbe sein, und ich werde König.\" <cite>Victarion Graufreud</cite>",
+        "name": "Buckel-Hotho",
+        "text": "<b>Herausforderungsaktion:</b> Jeder Spieler zieht 1 Karte. Jeder Spieler überprüft seine Reserve. (Nur ein Mal pro Runde.)",
+        "traits": "Haus Harlau."
+    },
+    {
+        "code": "15028",
+        "flavor": "",
+        "name": "Galeere von Zehntürmen",
+        "text": "Solange Galeere von Zehntürmen aufrecht steht, reduziere den Reservewert auf allen aufgedeckten gegnerischen Strategiekarten um 1.\n<b>Aktion:</b> Beuge einen Ort mit aufgedruckten Kosten von 2 oder höher, um Galeere von Zehntürmen zu beugen. Jeder Spieler darf diese Fähigkeit zu initiieren.",
+        "traits": "Haus Harlau. Kriegsschiff."
     },
     {
         "code": "15029",
-        "flavor": "Ser Meryn Trant simply did not care.",
+        "flavor": "Ser Meryn Trant war es schlicht gleichgültig.",
         "name": "Ser Meryn Trant",
-        "text": "<b>Interrupt:</b> When a card is discarded from an opponent's hand, remove it from the game instead of placing it in his or her discard pile.",
-        "traits": "Kingsguard. Knight."
+        "text": "<b>Unterbrechung:</b> Sobald eine Karte von der Hand eines Gegners abgelegt wird, entferne sie aus dem Spiel, anstatt sie auf seinen Ablagestapel zu legen.",
+        "traits": "Königsgarde. Ritter."
     },
     {
         "code": "15030",
         "flavor": "",
-        "name": "The Red Keep",
-        "text": "<b>Interrupt:</b> When the effects of an opponent's triggered character, location, or attachment ability would initiate, kneel The Red Keep to cancel those effects.\n+1 Income.",
-        "traits": "King's Landing."
+        "name": "Der Rote Bergfried",
+        "text": "<b>Unterbrechung:</b> Sobald die Effekte einer gegnerischen ausgelösten Fähigkeit eines Charakters, eines Ortes oder einer Verstärkung initiiert werden würden, beuge Der Rote Bergfried, um jene Effekte aufzuheben.\nGoldwert +1.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "15031",
+        "flavor": "\"Ich würde mich geehrt fühlen, Euch zu bedienen.\"",
+        "name": "Sprengel-Sylva",
+        "text": "<b>Erzwungene Reaktion:</b> Nachdem du eine Herausforderung verloren hast, in der Sprenkel-Sylva angreift, muss jeder Spieler falls möglich einen teilnehmenden Charakter wählen, den er kontrolliert, und ihn auf die Hand seines Besitzers zurückschicken.",
+        "traits": "Haus Santagar. Lady."
+    },
+    {
+        "code": "15032",
+        "flavor": "",
+        "name": "Wahl des Speeres",
+        "text": "<b>Reaktion:</b> Nachdem ein [martell]-Charakter, den du kontrollierst, bei einer [military]-Herausforderung zum Angreifer deklariert worden ist, erhöhe den Schadenswert deiner aufgedeckten Strategiekarte bis zum Ende der Herausforderung um 1. Falls du die Herausforderung verlierst, wähle einen Charakter, den du kontrollierst, und töte ihn. (Maximal 1 pro Herausforderung.)",
+        "traits": ""
+    },
+    {
+        "code": "15033",
+        "flavor": "\"Es ist sicherlich dumm von mir, Lord Kommandant, aber ... dieser Brief macht mir Angst.\"",
+        "name": "Klydas",
+        "text": "<b>Aktion:</b> Verschiebe 1 Gold aus der Goldreserve eines Gegners in deine eigene. (Nur ein Mal pro Phase.)",
+        "traits": "Kämmerer."
+    },
+    {
+        "code": "15034",
+        "flavor": "",
+        "name": "Rabenkäfig",
+        "text": "Nur <i>Kämmerer</i>-Charaktere.\n<b>Aktion:</b> Beuge Rabenkäfig, um eine Karte mit aufgedruckten Kosten von 1 oder weniger von deiner Hand ins Spiel zu bringen.",
+        "traits": "Gegenstand. Rabe."
+    },
+    {
+        "code": "15035",
+        "flavor": "\"Er war unser König! Er war tapfer und gut, und die Freys haben ihn ermordet. Wenn Lord Stannis ihn rächen will, sollten wir uns Lord Stannis anschließen.\"",
+        "name": "Wylla Manderly",
+        "text": "<b>Reaktion:</b> Nachdem ein Charakter, den du kontrollierst, geopfert oder getötet worden ist, wähle eine andere Karte in deinem Ablagestapel und lege sie unter dein Deck. (Nur ein Mal pro Phase.)",
+        "traits": "Haus Manderly. Lady."
+    },
+    {
+        "code": "15036",
+        "flavor": "Armbrustbolzen trafen das Holz, eins, zwei, drei, während er den Tisch über seinen König warf.",
+        "name": "Kampf bis zum bitteren Ende",
+        "text": "<b>Unterbrechung:</b> Sobald ein Charakter, den du kontrollierst, getötet werden würde, rette ihn, richte ihn auf und lege seine Stärke bis zum Ende der Phase auf 1 fest. Falls jener Charakter am Ende der Phase immer noch im Spiel ist, töte ihn (kann nicht gerettet werden).",
+        "traits": ""
+    },
+    {
+        "code": "15037",
+        "flavor": "\"Mathis Esch ist vernünftig, besonnen und beliebt.\" <cite>Ser Kevan Lennister</cite>",
+        "name": "Mathis Esch",
+        "text": "<b>Aktion:</b> Wähle einen Gegner und einen Charakter, einen Ort oder eine Verstärkung, den/die du kontrollierst. Der gewählte Spieler übernimmt die Kontrolle über jene Karte. Dann erhältst du 2 Gold. (Nur ein Mal pro Runde.)",
+        "traits": "Lord. Kleiner Rat."
+    },
+    {
+        "code": "15038",
+        "flavor": "",
+        "name": "Die Gunst für den Auserwählten",
+        "text": "Nur <i>Lady</i>-Charaktere.\n<b>Aktion:</b> Beuge den verstärkten Charakter, um einen teilnehmenden Nicht-<i>Lady</i>-Charakter zu wählen und ihm bis zum Ende der Herausforderung +X Stärke zu geben. X ist um 2 höher als die Stärke des verstärkten Charakters.",
+        "traits": "Gegenstand."
+    },
+    {
+        "code": "15039",
+        "flavor": "\"Wir haben keinen Henker auf Hohenehr, Mylord von Lennister. Öffnet die Tür zum Mond.\"",
+        "name": "Lysa Arryn",
+        "text": "<b>Unterbrechung:</b> Sobald Lysa Arryn getötet wird, wähle einen anderen Charakter, einen Ort oder eine Verstärkung und entferne die gewählte Karte aus dem Spiel.",
+        "traits": "Haus Arryn. Haus Tully. Lady."
+    },
+    {
+        "code": "15040",
+        "flavor": "",
+        "name": "Tormund Riesentod",
+        "text": "Einschüchternd.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Tormund Riesentod teilnimmt, lege einen Geschichtenmarker auf ihn.\n<b>Aktion:</b> Lege 1 Geschichtenmarker von Tormund Riesentod ab, um einem <i>Wildling</i>-Charakter bis zum Ende der Phase +2 Stärke and Ruhmreich zu geben.",
+        "traits": "Geschichtenerzähler. Wildling."
     },
     {
         "code": "15041",
         "flavor": "",
-        "name": "Tormund Giantsbane",
-        "text": "Intimidate.\n<b>Reaction:</b> After you win a challenge in which Tormund Giantsbane is participating, place a tale token on him.\n<b>Action:</b> Discard 1 tale token from Tormund Giantsbane to give a <i>Wildling</i> character +2 STR and renown until the end of the phase.",
-        "traits": "Storyteller. Wildling."
+        "name": "Erzmaester Marwyn",
+        "text": "Ein Mal pro Phase darfst du eine verdeckte Karte unter deiner Agenda aufmarschieren lassen oder spielen, als ob sie auf deiner Hand wäre.\n<b>Reaktion:</b> Nachdem Erzmaester Marwyn ins Spiel gekommen ist, lege die obersten 2 Karten deines Decks verdeckt unter deine Agenda.",
+        "traits": "Maester."
+    },
+    {
+        "code": "15042",
+        "flavor": "Der Titan von Braavos ... war ein Riese, groß wie ein Berg, und wann immer Braavos bedroht wurde, erwachte er mit Feuer in den Augen und watete mit knirschenden, ächzenden Gliedern aus Fels hinaus ins Meer, um den Feind zu zerschmettern.",
+        "name": "Braavos",
+        "text": "<b>Aufmarschaktion:</b> Beuge Braavos, um X Gold zu erhalten. X ist die Anzahl verschiedener Fraktionen unter den Charakteren, die du kontrollierst.",
+        "traits": "Essos. Die Freien Städte."
+    },
+    {
+        "code": "15043",
+        "flavor": "",
+        "name": "Schwert des Wassertänzers",
+        "text": "Nur Charaktere mit aufgedruckter Stärke von 3 oder weniger. Hinterhalt (1).\nDer verstärkte Charakter bekommt +2 Stärke.\n<b>Erzwungene Unterbrechung:</b> Sobald die Herausforderungsphase endet, schicke Schwert des Wassertänzers auf deine Hand zurück.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "15044",
+        "flavor": "",
+        "name": "Verheeren",
+        "text": "<b>Herrschaftsaktion:</b> Wähle einen nicht-limitierten Ort oder eine nicht-limitierte Verstärkung und lege die gewählte Karte aus dem Spiel ab. Der Besitzer jener Karte darf dann in seinem Deck nach einem Ort oder einer Verstärkung mit niedrigeren aufgedruckten Kosten suchen, sie ins Spiel bringen und sein Deck mischen.",
+        "traits": ""
+    },
+    {
+        "code": "15045",
+        "flavor": "Die Augen des Kerkermeisters waren groß wie gekochte Eier, als er das Band aufriss und Gold glänzen sah.",
+        "name": "Bestechungsgeld",
+        "text": "<b>Aktion:</b> Wähle einen Charakter mit aufgedruckten Kosten von X oder weniger und beuge ihn. Falls der gewählte Charakter das Merkmal <i>Verbündeter</i> oder <i>Söldner</i> hat, darfst du stattdessen die Kontrolle über ihn übernehmen.",
+        "traits": ""
+    },
+    {
+        "code": "15046",
+        "flavor": "",
+        "name": "Wut des Khalasars",
+        "text": "<b>Reaktion:</b> Nachdem die Herausforderungsphase begonnen hat, bringe einen <i>Dothraki</i>-Charakter von deiner Hand ins Spiel. Falls jene Karte am Ende der Phase immer noch im Spiel ist, schicke sie auf deine Hand zurück.",
+        "traits": "Krieg."
+    },
+    {
+        "code": "15047",
+        "flavor": "",
+        "name": "Die verlorene Botschaft",
+        "text": "<b>Aktion:</b> Jeder Spieler mischt seine Hand in sein Deck. Dann nimmt jeder Spieler die obersten X Karten seines Decks auf seine Hand. X ist die Anzahl der Karten, die er auf diese Weise in sein Deck gemischt hat. (Nur ein Mal pro Runde.)",
+        "traits": "Komplott."
+    },
+    {
+        "code": "15048",
+        "flavor": "",
+        "name": "Die Weißen Schwerter",
+        "text": "<b>Sobald aufgedeckt:</b> Du darfst einen <i>Königsgarde</i>-Charakter von deiner Hand oder aus deinem Ablagestapel ins Spiel bringen.",
+        "traits": "Königsgarde."
+    },
+    {
+        "code": "15049",
+        "flavor": "",
+        "name": "Herausforderung des Siegers",
+        "text": "<b>Reaktion:</b> Nachdem ein Gegner eine Herausforderung gegen dich initiiert hat, beuge einen Charakter mit der höchsten Stärke unter den Charakteren, die du konrollierst, um die Herausforderung ohne Sieger oder Verlierer zu beenden. (Nur ein Mal pro Phase.)",
+        "traits": "Krieg."
+    },
+    {
+        "code": "15050",
+        "flavor": "",
+        "name": "Am Palast des Grams",
+        "text": "Lege die Stärke jedes Charakters auf 3 fest. <i>(Andere Modifikatoren erhöhen oder senken die Stärke jener Charaktere nicht.)</i>",
+        "traits": "Omen."
+    },
+    {
+        "code": "15051",
+        "flavor": "",
+        "name": "Darlehen bei der Eisernen Bank",
+        "text": "Solange Darlehen bei der Eisernen Bank in deinem Archiv ist, reduziere den Goldwert deiner aufgedeckten Strategiekarte um 1.",
+        "traits": "Königreich."
+    },
+    {
+        "code": "15052",
+        "flavor": "",
+        "name": "Der Prinz, der zu spät kam",
+        "text": "<b>Aufrichtaktion:</b> Suche in deinem Deck nach einem Charakter und bringe ihn ins Spiel. Mische dein Deck. (Nur ein Mal pro Runde.)",
+        "traits": "Erbe. Adlig."
     }
 ]

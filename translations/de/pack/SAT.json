@@ -81,7 +81,7 @@
         "code": "08112",
         "flavor": "",
         "name": "Keule aus Treibholz",
-        "text": "Nur <i>Ertrunkener Gott</i>-Charaktere.\nDer verstärkte Charakter bekommt +1 Stärke für jeden Charakter in deinem Totenstapel.\n<b>Unterbrechung:</b> Sobald der verstärkte Charakter getötet wird, verschiebe Keule aus Treibholz auf einen anderen gültigen Charakter. Dieser Charakter erhält 1 Macht.",
+        "text": "Nur <i>Ertrunkener Gott</i>-Charaktere.\nDer verstärkte Charakter bekommt +1 Stärke für jeden Charakter in deinem Totenstapel.\n<b>Unterbrechung:</b> Sobald der verstärkte Charakter getötet wird, verschiebe Keule aus Treibholz auf einen anderen gültigen Charakter. Dieser Charakter erhält 1 Macht. (Nur ein Mal pro Phase.)\n<em>Errata aus FAQ v1.6d</em>",
         "traits": "Ertrunkener Gott. Waffe."
     },
     {
@@ -95,7 +95,7 @@
         "code": "08114",
         "flavor": "",
         "name": "Um vorwärts zu gelangen, geht rückwärts",
-        "text": "<b>Herrschaftsaktion:</b> Jeder Spieler darf seine Hand (mit mindestens 1 Karte) in sein Deck mischen, um 5 Karten zu ziehen.",
+        "text": "<b>Herrschaftsaktion:</b> Jeder Spieler darf seine Hand (mit mindestens 1 Karte) in sein Deck mischen. Jeder Spieler, der dies tut, zieht 5 Karten.\n<em>Errata aus FAQ v1.6d</em>",
         "traits": "Prophezeiung."
     },
     {

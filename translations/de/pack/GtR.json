@@ -107,7 +107,7 @@
     {
         "code": "06036",
         "flavor": "",
-        "name": "Glühendheisse Wüste",
+        "name": "Glühendheiße Wüste",
         "text": "<b>Reaktion:</b> Nachdem ein Charakter mit weniger als 2 Herausforderungssymbolen zum Angreifer oder Verteidiger deklariert worden ist, beuge und opfere Glühendheiße Wüste, um diesen Charakter aus der Herausforderung zu entfernen.",
         "traits": "Dorne."
     },
@@ -121,7 +121,7 @@
     {
         "code": "06038",
         "flavor": "",
-        "name": "Grosse Halle",
+        "name": "Große Halle",
         "text": "Limitiert.\n<b>Aufmarschaktion:</b> Beuge Große Halle, um die Kosten des nächsten einzigartigen Charakters, den du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren. (Falls die aufgedruckten Kosten des Charakters 6 oder höher sind, reduzierst du sie stattdessen um 2.)",
         "traits": "Westeros."
     },

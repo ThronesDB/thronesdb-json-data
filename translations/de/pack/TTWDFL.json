@@ -1,0 +1,256 @@
+[
+    {
+        "code": "16001",
+        "flavor": "\"Ein grauer Mann ... weder weiß noch schwarz, doch von beidem ein bisschen. Seid ihr das, Ser Davos?\" <cite>Melisandre</cite>",
+        "name": "Ser Davos Seewert",
+        "text": "Ser Davos Seewert kann nicht getötet werden.",
+        "traits": "Ritter."
+    },
+    {
+        "code": "16002",
+        "flavor": "",
+        "name": "Melisandres Gunst",
+        "text": "Vergänglich.\nÜbernimm die Kontrolle über den verstärkten Charakter.\n<b>Erzwungene Unterbrechung:</b> Sobald die Herrschaftphase endet, opfere Melisandres Gunst. (Kann nicht aufgehoben werden.)",
+        "traits": "R'hllor."
+    },
+    {
+        "code": "16003",
+        "flavor": "",
+        "name": "Marodeure im Winter",
+        "text": "Solange es mehr aufgedeckte <i>Sommer</i>-Strategiekarten als aufgedeckte <i>Winter</i>-Strategiekarten gibt, können Marodeure im Winter nicht zum Angreifer oder Verteidiger deklariert werden.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, an der Marodeure im Winter teilnehmen, wähle eine nicht-einzigartige Karte und lege sie aus dem Spiel ab, falls es mehr aufgedeckte <i>Winter</i>-Strategiekarten als aufgedeckte <i>Sommer</i>-Strategiekarten gibt.",
+        "traits": "Armee. Eisenmann."
+    },
+    {
+        "code": "16004",
+        "flavor": "",
+        "name": "Erobert",
+        "text": "Nur nicht-einzigartige Orte.\nÜbernimm die Kontrolle über den verstärkten Ort.",
+        "traits": "Zustand."
+    },
+    {
+        "code": "16005",
+        "flavor": "\"Der Rote Bergfried war stets nur den Geistern und Spinnen bekannt.\" <cite>Varys</cite>",
+        "name": "Flüsterer der Spinne",
+        "text": "<b>Erzwungene Reaktion:</b> Nachdem Flüsterer der Spinne ins Spiel gekommen ist, wähle einen <i>Verbündeter</i>-Charakter und lege ihn aus dem Spiel ab.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "16006",
+        "flavor": "\"Manchmal verblüfft man ihn am besten damit, dass man etwas Sinnloses tut oder gar etwas, das gegen einen selbst gerichtet zu sein scheint. Vergesst das nicht, Sansa, wenn Ihr anfangt, dass Spiel zu spielen.\" <cite>Kleinfinger</cite>",
+        "name": "Rädchen im Rädchen",
+        "text": "<b>Aktion:</b> Beuge einen einzigartigen [lannister]-Charakter, um eine neue Strategiekarte zu wählen und aufzudecken. (Maximal 1 pro Runde.)",
+        "traits": ""
+    },
+    {
+        "code": "16007",
+        "flavor": "",
+        "name": "Getreuer des Fürsten",
+        "text": "Kostbar 1. Heimlich. Immun gegen Ereignisse.\n<b>Unterbrechung:</b> Sobald die Effekte einer ausgelösten Charakterfähigkeit intiiert werden würden, bezahle 2 Gold, um diese Effekte aufzuheben.",
+        "traits": "Verbündeter."
+    },
+    {
+        "code": "16008",
+        "flavor": "",
+        "name": "Du hast ihre Kinder getötet",
+        "text": "<b>Reaktion:</b> Nachdem du als verteidigender Spieler eine Herausforderung verloren hast, wähle einen angreifenden Charakter und lege ihn aus dem Spiel ab (kann nicht gerettet werden). Dann suche auf der Hand und im Deck des Spielers, der den abgelegten Charakter kontrolliert, nach einer beliebigen Anzahl Kopien jener Karte und lege sie ab. Mische das Deck jenes Spielers.",
+        "traits": ""
+    },
+    {
+        "code": "16009",
+        "flavor": "",
+        "name": "Samwell Tarly",
+        "text": "Keine Verstärkungen außer <i>Rabe</i>.\n<b>Aktion:</b> Beuge Samwell Tarly, um dir die obersten 4 Karten deines Decks anzusehen. Tausche falls möglich 1 jener Karten mit einer Karte auf deiner Hand aus. Dann lege die verblienen Karten in beliebiger Reihenfolge auf dein Deck.",
+        "traits": "Kämmerer."
+    },
+    {
+        "code": "16010",
+        "flavor": "",
+        "name": "Alter Bär Mormont",
+        "text": "<b>Aktion:</b> Beuge Alter Bär Mormont, um einen anderen [thenightswatch]- oder <i>Lord</i>-Charakter zu wählen und aufzurichten.\n<b>Reaktion:</b> Nachdem ein Charakter, den du kontrollierst, getötet worden ist, richte Alter Bär Mormont auf.",
+        "traits": "Kommandant. Lord."
+    },
+    {
+        "code": "16011",
+        "flavor": "",
+        "name": "Catelyn Stark",
+        "text": "<b>Aktion:</b> Bringe Catelyn Stark während einer [intrigue]- oder [power]-Herausforderung, in der du der verteidigende Spieler bist, von deiner Hand gebeugt und als Verteidiger teilnehmend ins Spiel. Falls Catelyn Stark am Ende der Phase immer noch im Spiel ist, schicke sie auf deine Hand zurück.",
+        "traits": "Haus Tully. Lady."
+    },
+    {
+        "code": "16012",
+        "flavor": "",
+        "name": "Schneeburg",
+        "text": "<b>Aktion:</b> Beuge Schneeburg, um einen [stark]-Charakter zu wählen. Der gewählte Charakter bekommt bis zum Ende der Phase +1 Stärke für jeden [stark]-Charakter, den du kontrolliert.",
+        "traits": "Haus Arryn."
+    },
+    {
+        "code": "16013",
+        "designer": "Kartenentwurf von John Bruno, Weltmeister im Tjost 2012.",
+        "flavor": "",
+        "name": "Irrer König Aerys",
+        "text": "Kostbar 1. Ruhmreich.\nIrrer König Aerys kann nicht getötet werden, es sei denn, ein Gegner kontrolliert einen <i>Lord</i>- oder <i>Lady</i>-Charakter oder Ser Jaime Lennister.\n<b>Herrschaftsaktion:</b> Beuge Irrer König Aerys, um einen <i>Lord</i>- oder <i>Lady</i>-Charakter zu wählen und zu töten. (Nur ein Mal pro Runde.)",
+        "traits": "König. Lord."
+    },
+    {
+        "code": "16014",
+        "flavor": "",
+        "name": "Ein Festmahl für die Küken",
+        "text": "<b>Aktion:</b> Wähle 3 Charaktere ohne Verstärkungen. Bis zum Ende des Phase bekommt 1 von jenen Charakteren -1 Stärke, 1 von jenen Charakteren bekommt -2 Stärke und 1 von jenen Charakteren bekommt -3 Stärke.",
+        "traits": ""
+    },
+    {
+        "code": "16015",
+        "flavor": "",
+        "name": "Die Königin der Dornen",
+        "text": "Solange Die Königin der Dornen aufrecht steht, können Gegner gegen dich keine [intrigue]-Herausforderungen initiieren.",
+        "traits": "Lady."
+    },
+    {
+        "code": "16016",
+        "flavor": "",
+        "name": "Olennas Studierstube",
+        "text": "Jeder Spieler darf eine zusätzliche [intrigue]-Herausforderung in jeder Runde intiieren.\nNicht-einzigartige Charaktere können nicht zum Angreifer oder Verteidiger in [intrigue]-Herausforderungen deklariert werden.",
+        "traits": "Rosengarten."
+    },
+    {
+        "code": "16017",
+        "flavor": "",
+        "name": "Kleinfinger",
+        "text": "Heimlich.\nKleinfinger wird nicht gebeugt, sobald er zum Angreifer deklariert wird.\n<b>Unterbrechung:</b> Sobald die Effekte eines Ereignisses initiiert werden würden, beuge Kleinfinger, um jene Effekte aufzuheben.",
+        "traits": "Verbündeter. Lord."
+    },
+    {
+        "code": "16018",
+        "flavor": "\"Niemand kann mir wehtun, solange ich hierbleibe.\" <cite>Robert Arryn</cite>",
+        "name": "Flüchtling aus dem Tal",
+        "text": "<b>Erzwungene Reaktion:</b> Nachdem die Herrschaft bestimmt worden ist, lege Flüchtling aus dem Tal aus dem Spiel ab, falls du die Herrschaft nicht gewonnen hast, es sei denn, du bezahlst 2 Gold.",
+        "traits": "Verbündeter. Haus Arryn."
+    },
+    {
+        "code": "16019",
+        "flavor": "Lord Tywin zog es fast immer vor, die Reserve zu befehligen. Meist suchte er sich einen erhöhten Punkt, beobachtete die Schlacht und ließ seine Truppen wissen, wann und wo sie am dringendsten gebraucht wurden.",
+        "name": "Erhöhte Position",
+        "text": "<b>Herausforderungsaktion:</b> Beuge Erhöhte Position, um einen <i>Armee</i>-Charakter zu wählen und aufzurichten.",
+        "traits": "Westeros."
+    },
+    {
+        "code": "16020",
+        "flavor": "Jetzt überzog die Stadt das Ufer soweit Catelyns Auge reichte. Wohnhäuser und Lauben und Kornkammern, steinerne Lagerhäuser und hölzerne Wirtshäuser und Händlerbuden, Tavernen und Friedhöfe und Bordelle, alle übereinandergestapelt.",
+        "name": "Königsmund",
+        "text": "<b>Reaktion:</b> Nachdem du einen Ort aufmarschieren lassen hast, ziehe 1 Karte. (Nur drei Mal pro Runde.)",
+        "traits": "Umkämpft. Königsmund."
+    },
+    {
+        "code": "16021",
+        "flavor": "",
+        "name": "Harrenhal",
+        "text": "Kostbar 2.\nFalls Harrenhal 3 oder mehr Geistermarker auf sich hat, opfere diesen Ort.\n<b>Unterbrechung:</b> Sobald die Effekte einer ausgelösten Fähigkeit einer Nicht-Strategie-, Nicht-Agendakarte initiiert werden würden, töte einen Charakter, den du besitzt und kontrollierst, um jene Effekte aufzuheben. Lege einen Geistermarker auf Harrenhal. (Nur ein Mal pro Phase.)",
+        "traits": "Umkämpft. Westeros."
+    },
+    {
+        "code": "16022",
+        "flavor": "",
+        "name": "Himmelszelle",
+        "text": "Vergänglich.\n<b>Erzwungene Unterbrechung:</b> Sobald der Spieler, der den verstärkten Charakter kontrolliert, 1 oder mehr Karten ziehen würde, beuge den verstärkten Charakter. Dann zieht jener Spieler stattdessen 1 Karte weniger.\nDer verstärkte Charakter erhält: \"<b>Aktion:</b> Töte diesen Charakter (kann nicht gerettet werden).\"",
+        "traits": "Haus Arryn."
+    },
+    {
+        "code": "16023",
+        "flavor": "... aber selbst aus der Ferne konnte sie die Köpfe sehen, die oben auf den hohen, roten Mauern moderten.",
+        "name": "Köpfe auf Spießen",
+        "text": "Kostbar 2.\n<b>Herrschaftsaktion:</b> Jeder Gegner legt für jeden Charakter in seinem Totenstapel die obersten 2 Karten von seinem Deck ab. (Maximal 1 pro Runde.)",
+        "traits": ""
+    },
+    {
+        "code": "16024",
+        "flavor": "",
+        "name": "Knappes Entkommen",
+        "text": "<b>Aktion:</b> Bringe alle Charaktere, die in dieser Phase abgelegt oder getötet worden sind, aus den Ablage- oder Totenstapeln ihrer Besitzer ins Spiel. Ein Gegner darf seine Hand (mit mindestens 1 Karte) ablegen, um diesen Effekt aufzuheben. (Maximal 1 pro Phase.)",
+        "traits": ""
+    },
+    {
+        "code": "16025",
+        "flavor": "",
+        "name": "Verführerisches Versprechen",
+        "text": "<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung um 5 oder mehr Stärke gewonnen hast, wähle einen nicht-einzigartigen Charakter, den der verlierende Gegner kontrolliert. Übernimm die Kontrolle über den gewählten Charakter. (Maximal 1 pro Herausforderung.)",
+        "traits": ""
+    },
+    {
+        "code": "16026",
+        "flavor": "Der alte König hätte so etwas nicht zugelassen.",
+        "name": "Westeros blutet",
+        "text": "<b>Herrschaftsaktion:</b> Lege jeden Charakter aus dem Spiel ab.",
+        "traits": ""
+    },
+    {
+        "code": "16027",
+        "flavor": "",
+        "name": "Fern und für sich",
+        "text": "Reduziere die Kosten des ersten Charakters mit aufgedruckten Kosten von 6 oder höher, den du in jeder Runde aufmarschieren lässt, um 2.\nJeder Charakter mit aufgedruckten Kosten von 6 oder höher, den du kontrollierst, erhält Kostbar 1.",
+        "traits": "Haus Arryn."
+    },
+    {
+        "code": "16028",
+        "designer": "Kartenentwurf von Corey Faherty, Weltmeister im Buhurt 2011.",
+        "flavor": "",
+        "name": "Dunkle Schwingen, dunkle Worte",
+        "text": "Dein Deck muss mindestens 75 Karten enthalten. Dein Deck kann nicht mehr als 1 Kopie jedes Ereignisses <i>(nach Kartentitel)</i> enthalten.\n<b>Reaktion:</b> Nachdem du ein Ereignis gespielt hast, ziehe 1 Karte. (Nur drei Mal pro Runde.)",
+        "traits": ""
+    },
+    {
+        "code": "16029",
+        "flavor": "",
+        "name": "Ritter des Königreichs",
+        "text": "Solange du mehr <i>Ritter</i>-Charaktere als jeder andere Spieler kontrollierst, erhöhe die Anzahl der Karten, die du in der Nachziehphase ziehst, um 1.\nSolange du weniger <i>Ritter</i>-Charaktere als jeder andere Spieler kontrollierst, reduziere die Anzahl der Karten, die du in der Nachziehphase ziehst, um 1.",
+        "traits": ""
+    },
+    {
+        "code": "16030",
+        "flavor": "",
+        "name": "Die Große Reise",
+        "text": "Dein Deck muss mindestens 100 Karten enthalten.\n<b>Reaktion:</b> Nachdem du Karten in der Nachziehphase gezogen hast, beuge deine Fraktionskarte, um 1 Karte zu ziehen.",
+        "traits": ""
+    },
+    {
+        "code": "16031",
+        "flavor": "",
+        "name": "Benjens verborgenes Lager",
+        "text": "<b>Sobald aufgedeckt:</b> Falls keine <i>Königreich</i>-Strategiekarte in deinem Archiv ist, suche in deinem Deck nach einer Karte und nimm sie auf deine Hand. Mische dein Deck.",
+        "traits": "Königreich. Winter."
+    },
+    {
+        "code": "16032",
+        "flavor": "",
+        "name": "Aufstände",
+        "text": "<b>Erzwungene Reaktion:</b> Nachdem die Aufrichtphase begonnen hat, lege jeden gebeugten Charakter aus dem Spiel ab (kann nicht gerettet werden).",
+        "traits": "Königreich."
+    },
+    {
+        "code": "16033",
+        "flavor": "",
+        "name": "Königlicher Befehl",
+        "text": "<b>Sobald aufgedeckt:</b> Jeder Spieler mit den meisten Karten auf der Hand wählt Karten von seiner Hand und legt sie ab, bis er 4 Karten auf der Hand hat.",
+        "traits": "Erlass."
+    },
+    {
+        "code": "16034",
+        "flavor": "",
+        "name": "Suchen und festnehmen",
+        "text": "<b>Sobald aufgedeckt:</b> Wähle eine Karte ohne Verstärkungen, die der Startspieler kontrolliert. Schicke sie auf der Hand ihres Besitzers zurück (kann nicht gerettet werden).",
+        "traits": "Edict."
+    },
+    {
+        "code": "16035",
+        "flavor": "",
+        "name": "Die Kunst der Verführung",
+        "text": "<b>Sobald aufgedeckt:</b> Wähle einen Gegner. Der gewählte Gegner kann während der nächsten Strategiephase keine neue Strategiekarte aufdecken.",
+        "traits": "Adlig."
+    },
+    {
+        "code": "16036",
+        "flavor": "",
+        "name": "Der aufkommende Sturm",
+        "text": "<b>Sobald aufgedeckt:</b> Jeder Gegner darf seine aufgedeckte Strategiekarte in seinen Strategiestapel zurückschicken und eine neue Strategiekarte aufdecken.",
+        "traits": "Omen. Sommer."
+    }
+]
