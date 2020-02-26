@@ -86,7 +86,7 @@
     {
         "code": "01013",
         "flavor": "",
-        "name": "Aufgespiesste Köpfe",
+        "name": "Aufgespießte Köpfe",
         "text": "<b>Sobald aufgedeckt:</b> Wähle einen Gegner. Lege 1 zufällige Karte von der Hand des gewählten Spielers ab. Falls die abgelegte Karte ein Charakter ist, erhältst du 2 Macht für deine Fraktion und der abgelegte Charakter wird auf den Totenstapel seines Besitzers gelegt.",
         "traits": "Erlass. Krieg."
     },
@@ -275,7 +275,7 @@
     {
         "code": "01040",
         "flavor": "",
-        "name": "Die Rosenstrasse",
+        "name": "Die Rosenstraße",
         "text": "Limitiert. <i>(Pro Runde darf jeder Spieler nur 1 limitierte arte spielen oder aufmarschieren lassen.)</i>\nGoldwert +1",
         "traits": "Westeros."
     },
@@ -352,8 +352,8 @@
     {
         "code": "01051",
         "flavor": "\"Der Graue Tod schläft nur, um eines Tages wiederzuerwachen. Das Kind ist nicht rein!\" <cite>Val</cite>",
-        "name": "Shireen Baratheon",
-        "text": "<b>Unterbrechung:</b> Sobald Shireen Baratheon getötet wird, wähle einen Charakter und beuge ihn.",
+        "name": "Sharin Baratheon",
+        "text": "<b>Unterbrechung:</b> Sobald Sharin Baratheon getötet wird, wähle einen Charakter und beuge ihn.\n<em>Errata aus FAQ v1.3d</em>",
         "traits": "Lady."
     },
     {
@@ -541,7 +541,7 @@
     {
         "code": "01078",
         "flavor": "",
-        "name": "Grosser Krake",
+        "name": "Großer Krake",
         "text": "Solange du Balon Graufreud kontrollierst, erhält er Heimlich.\n<b>Reaktion:</b> Nachdem du eine unverteidigte Herausforderung gewonnen hast, ziehe entweder 1 Karte oder erhalte 1 Macht für deine Fraktion. (Nur zwei Mal pro Runde.)",
         "traits": "Kriegsschiff."
     },
@@ -590,7 +590,7 @@
     {
         "code": "01085",
         "flavor": "\"Was ich getan habe, geschah nur zum Wohle des Hauses Lennister.\"",
-        "name": "Grossmaester Pycelle",
+        "name": "Großmaester Pycelle",
         "text": "Einblick. <i>(Nachdem du eine Herausforderung gewonnen hast, an der dieser Charakter teilnimmt, darfst du 1 arte ziehen.)</i>",
         "traits": "Maester. Kleiner Rat."
     },

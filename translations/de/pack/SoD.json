@@ -226,14 +226,14 @@
     {
         "code": "10033",
         "flavor": "\"Grauwind hat ihm zwei Finger abgebissen, und er hat darüber gelacht.\" <cite>Robb Stark</cite>",
-        "name": "Grossjon Umber",
+        "name": "Großjon Umber",
         "text": "Einschüchternd.\n<b>Reaktion:</b> Nachdem du eine [military]-Herausforderung gewonnen hast, in der Großjon Umber angreift, richte ihn auf, falls weniger als 3 Strategiekarten in deinem Archiv sind.",
         "traits": "Haus Umber. Lord."
     },
     {
         "code": "10034",
         "flavor": "",
-        "name": "Heisshunger auf Fleisch",
+        "name": "Heißhunger auf Fleisch",
         "text": "<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in der du einen angreifenden <i>Schattenwolf</i>-Charakter oder einen angreifenden Charakter mit einer <i>Schattenwolf</i>-Verstärkung kontrollierst, wähle einen verteidigenden Charakter und töte ihn.",
         "traits": ""
     },
@@ -318,7 +318,7 @@
     {
         "code": "10046",
         "flavor": "",
-        "name": "Auf Fürst Dorans Geheiss",
+        "name": "Auf Fürst Dorans Geheiß",
         "text": "<b>Sobald aufgedeckt:</b> Wähle eine neue Strategiekarte und decke sie auf. (Kann nicht aufgehoben werden.)",
         "traits": "Erlass."
     },
@@ -354,7 +354,7 @@
     {
         "code": "10051",
         "flavor": "",
-        "name": "Der Grosse Buhurt",
+        "name": "Der Große Buhurt",
         "text": "Jeder Charakter, der alleine angreift oder verteidigt, steuert keine Stärke zur Herausforderung bei.",
         "traits": "Sommer."
     },

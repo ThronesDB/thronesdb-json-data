@@ -193,7 +193,7 @@
         "code": "05028",
         "flavor": "",
         "name": "Alt Wiek",
-        "text": "<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung initiiert hast, beuge Alt Wiek, um den obersten <i>Ertrunkener Gott</i>-Charakter aus deinem Totenstapel gebeugt ins Spiel zu bringen; er nimmt als Angreifer an der Herausforderung teil. Falls du die Herausforderung um 5 oder mehr Stärke gewinnst, schicke den Charakter auf deine Hand zurück. Andernfalls lege ihn unter dein Deck.",
+        "text": "<b>Reaktion:</b> Nachdem du eine [power]-Herausforderung initiiert hast, beuge Alt Wiek, um den obersten <i>Ertrunkener Gott</i>-Charakter aus deinem Totenstapel gebeugt ins Spiel zu bringen; er nimmt als Angreifer an der Herausforderung teil. Falls du dann die Herausforderung um 5 oder mehr Stärke gewinnst, schicke jenen Charakter auf deine Hand zurück. Andernfalls lege ihn unter dein Deck.\n<em>Errata aus FAQ v2.0</em>",
         "traits": "Eiseninseln."
     },
     {
@@ -290,7 +290,7 @@
     {
         "code": "05042",
         "flavor": "",
-        "name": "Meerstrasse",
+        "name": "Meerstraße",
         "text": "Limitiert. <i>(Pro Runde darf jeder Spieler nur 1 limitierte Karte spielen oder aufmarschieren lassen.)</i>\n<b>Aufmarschaktion:</b> Beuge Meerstraße, um die Kosten der nächsten neutralen oder nicht-fraktionszugehörigen Karte, die du in dieser Phase aufmarschieren lässt, um 1 zu reduzieren.",
         "traits": "Westeros."
     },

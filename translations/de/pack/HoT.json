@@ -122,7 +122,7 @@
     {
         "code": "09018",
         "flavor": "",
-        "name": "Rothweynstrasse",
+        "name": "Rothweynstraße",
         "text": "Limitiert. <i>(Pro Runde darf jeder Spieler nur 1 limitierte Karte spielen oder aufmarschieren lassen.)</i>\nGoldwert +2",
         "traits": "Haus Rothweyn."
     },
@@ -347,7 +347,7 @@
     {
         "code": "09050",
         "flavor": "",
-        "name": "Jetzt heisst es Krieg",
+        "name": "Jetzt heißt es Krieg",
         "text": "<b>Erzwungene Unterbrechung:</b> Sobald der Schaden einer [intrigue]- oder [power]-Herausforderung angewandt wird, darf der angreifende Spieler wählen, stattdessen [military]-Schaden anzuwenden.",
         "traits": "Krieg."
     },

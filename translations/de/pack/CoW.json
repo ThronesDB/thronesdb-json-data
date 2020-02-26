@@ -2,7 +2,7 @@
     {
         "code": "02081",
         "flavor": "",
-        "name": "Grossjons Vorhut",
+        "name": "Großjons Vorhut",
         "text": "Keine Verstärkungen.\nSolange weniger als 3 Strategiekarten in deinem Archiv sind, bekommt Großjons Vorhut +2 Stärke und erhält Ruhmreich.",
         "traits": "Armee. Haus Umber."
     },
@@ -16,7 +16,7 @@
     {
         "code": "02083",
         "flavor": "",
-        "name": "Patrouille auf der Rosenstrasse",
+        "name": "Patrouille auf der Rosenstraße",
         "text": "Keine Verstärkungen.\nSolange du einen der Charaktere mit der höchsten Stärke im Spiel kontrollierst, erhält Patrouille auf der Rosenstraße Heimlich.",
         "traits": "Armee."
     },
@@ -114,7 +114,7 @@
     {
         "code": "02097",
         "flavor": "",
-        "name": "Strasse des Stahls",
+        "name": "Straße des Stahls",
         "text": "<b>Reaktion:</b> Nachdem du eine [military]-Herausforderung gewonnen hast, beuge deine Fraktionskarte, um in den obersten 10 Karten deines Decks nach einer <i>Waffe</i>- oder <i>Gegenstand</i>-Verstärkung zu suchen, sie aufzudecken und auf deine Hand zu nehmen. Mische dein Deck.",
         "traits": "Königsmund."
     },
