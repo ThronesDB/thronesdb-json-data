@@ -44,14 +44,14 @@
     {
         "code": "04007",
         "flavor": "Hier war das Ende der Welt. Und wir schreiten darüber hinaus.",
-        "name": "Weisser Baum",
+        "name": "Weißer Baum",
         "text": "<b>Reaktion:</b> Nachdem ein Gegner sein Einkommen kassiert hat, beuge Weißer Baum, um 1 Gold aus der Goldreserve dieses Spielers in deine Gold reserve zu verschieben.",
         "traits": "Umkämpft. Der Norden."
     },
     {
         "code": "04008",
         "flavor": "",
-        "name": "Weisser Rabe",
+        "name": "Weißer Rabe",
         "text": "<b>Erzwungene Reaktion:</b> Nachdem du eine [power]-Herausforderung verloren hast, opfere Weißer Rabe.\n<b>Reaktion:</b> Nachdem du die Herrschaft gewonnen hast, erhältst du 1 Macht für deine Fraktion, falls es eine aufgedeckte <i>Sommer</i>- oder <i>Winter</i>-Strategiekarte gibt.",
         "traits": "Rabe."
     },

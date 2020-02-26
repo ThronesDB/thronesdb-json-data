@@ -345,7 +345,7 @@
     {
         "code": "07050",
         "flavor": "",
-        "name": "Die weissen Schatten",
+        "name": "Die weißen Schatten",
         "text": "<b>Reaktion:</b> Nachdem ein Charakter, der von einem Gegner kontrolliert wird, getötet worden ist, bringe ihn unter deiner Kontrolle ins Spiel. Solange der Charakter im Spiel ist, behandle sein aufgedrucktes Textfeld, als ob es leer wäre. Falls die Karte am Ende der Phase immer noch im Spiel ist, lege sie auf den Totenstapel ihres Besitzers (kann nicht gerettet werden).",
         "traits": "Omen."
     },
